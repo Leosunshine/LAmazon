@@ -87,7 +87,7 @@ class AmazonAPI
 		return AmazonAPI::submitFeed($feed,$amazon_config);
 	}
 
-	public function updatePrice($products){
+	public static function updatePrice($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
 
@@ -119,7 +119,7 @@ class AmazonAPI
 						"StandardPrice"=>array(
 							$price,
 							"__properties"=>array(
-								"currency"=>"GBP"
+								"currency"=>"EUR"
 							)
 						)
 					)
@@ -301,7 +301,10 @@ class AmazonAPI
 			$main_image = $product['main_image_id'];
 			$main_image = ImageUrls::findFirst($main_image)->toArray();
 			$main_image_url = $main_image['url'];
-			$main_image_url = "http://152.136.12.173/a.jpg";
+			$main_image_url = "http://152.136.12.173".substr($main_image_url, 1);
+			echo $main_image_url;
+			continue;
+
 			$SKU = $product['SKU'];
 			$message[] = array(
 				"Message"=>array(
@@ -341,7 +344,5 @@ class AmazonAPI
 			$feed = XMLTools::Json2Xml($feed_json);
 			return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_IMAGE_DATA_");
 		}
-		
-
 	}
 }

@@ -33,11 +33,12 @@
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(30);
+				sleep(50);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($product_submission_id);
 				}catch(Exception $e){
+					$logRecoder->append($e->getMessage());
 					$sleepCount++;
 					continue;
 				}
@@ -68,7 +69,7 @@
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(30);
+				sleep(50);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($inventory_submission_id);
@@ -79,6 +80,7 @@
 				
 				$result_xml = simplexml_load_string($result);
 				$result = XMLTools::xmlToArray($result_xml);
+				print_r($result);
 				if(isset($result["AmazonEnvelope"]["Message"]["ProcessingReport"]["ProcessingSummary"]["MessagesSuccessful"])){
 					if($result["AmazonEnvelope"]["Message"]["ProcessingReport"]["ProcessingSummary"]["MessagesSuccessful"]*1 > 0){
 						$submitSuccess = true;
@@ -102,7 +104,7 @@
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(30);
+				sleep(50);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($price_submission_id);
@@ -128,9 +130,16 @@
 			if(!$submitSuccess) return;
 		}
 
-		public function test2Action(){
+		public function synPriceAction(){
 			$this->view->disable();
-			echo AmazonAPI::composeEAN();
+			$products = Products::find()->toArray();
+			echo AmazonAPI::updatePrice($products);
+		}
+
+		public function synImagesAction(){
+			$this->view->disable();
+			$products = Products::find()->toArray();
+			AmazonAPI::uploadImage($products);
 		}
 		public function getInternationalShippingComponentAction(){
 			$this->view->disable();
