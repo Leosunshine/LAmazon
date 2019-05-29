@@ -28,7 +28,7 @@
 			$product_submission_id = AmazonAPI::createProduct($products);
 
 			$logRecoder->add("update Product with submission id as $product_submission_id ......");
-
+			return;
 			$sleepCount = 0;
 			$max_try_count = 3;
 			$submitSuccess = false;
@@ -51,7 +51,7 @@
 						$logRecoder->append("Done successfully");
 						break;
 					}else{
-						$file_content->append("Done failed");
+						$logRecoder->append("Done failed");
 						$submitSuccess = false;
 						break;
 					}

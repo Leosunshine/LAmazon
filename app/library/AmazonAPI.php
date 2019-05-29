@@ -7,6 +7,7 @@ class AmazonAPI
 		foreach ($products as $index => $product) {
 			$SKU = $product['SKU'];
 			$EAN = $product['ASIN'];
+			echo $EAN;
 			$perpackage_count = $product['perpackage_count']?($product['perpackage_count'] * 1):1;
 			$title = $product['title']?$product['title']:"No Title";
 			$brand = $product['brand']?$product['brand']:"Unknown Brand";
@@ -232,7 +233,7 @@ class AmazonAPI
 	}
 
 	public static function composeSKU(){
-		
+
 		$SKU = Tools::getGUID();
 		$SKU = substr($SKU, 28, 8);
 		$SKU = "LAMAZON-".$SKU;
