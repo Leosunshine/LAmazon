@@ -84,7 +84,6 @@ class AmazonAPI
 		);
 
 		$feed = XMLTools::Json2Xml($feed_json);
-		echo $feed;
 		return AmazonAPI::submitFeed($feed,$amazon_config);
 	}
 
@@ -120,7 +119,7 @@ class AmazonAPI
 						"StandardPrice"=>array(
 							$price,
 							"__properties"=>array(
-								"currency"=>"EUR"
+								"currency"=>"GBP"
 							)
 						)
 					)
@@ -276,9 +275,6 @@ class AmazonAPI
 		$marketplaceIdArray = array("Id" => array('A1PA6795UKMFR9'));
 		$feedHandle = @fopen('php://temp', 'rw+');
 		fwrite($feedHandle, $feed);
-		rewind($feedHandle);
-
-		echo stream_get_contents($feedHandle);
 		rewind($feedHandle);
 		$parameters = array (
 			'Merchant' => $amazon_config['MERCHANT_ID'],
