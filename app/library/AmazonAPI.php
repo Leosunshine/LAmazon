@@ -273,8 +273,10 @@ class AmazonAPI
 			$amazon_config['APPLICATION_VERSION']);
 
 		$marketplaceIdArray = array("Id" => array('A1PA6795UKMFR9'));
-		$feedHandle = @fopen('php://temp', 'rw+');
-		fwrite($feedHandle, $feed);
+		//$feedHandle = @fopen('php://temp', 'rw+');
+		//fwrite($feedHandle, $feed);
+		file_put_contents("./temp/temp.dat", $feed);
+		$feedHandle = fopen("./temp/temp.dat", 'r+');
 		rewind($feedHandle);
 		$parameters = array (
 			'Merchant' => $amazon_config['MERCHANT_ID'],
@@ -285,7 +287,6 @@ class AmazonAPI
 			'ContentMd5' => base64_encode(md5(stream_get_contents($feedHandle), true)),
 			'MWSAuthToken' => $amazon_config['token']
 		);
-
 		rewind($feedHandle);
 		$request = new MarketplaceWebService_Model_SubmitFeedRequest($parameters);
 		$response = $service->submitFeed($request);

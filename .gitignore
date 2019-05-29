@@ -2,3 +2,5 @@ app/cache/*
 public/img/*
 public/imgCache/*
 public/upload_log.txt
+public/temp/*
+public/ignore/*
