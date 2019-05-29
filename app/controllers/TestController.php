@@ -24,7 +24,7 @@
 			set_time_limit(0);
 
 			$logRecoder = new logRecoder("upload_log.txt");
-			$products = products::find()->toArray();
+			$products = Products::find()->toArray();
 			$product_submission_id = AmazonAPI::createProduct($products);
 
 			$logRecoder->add("update Product with submission id as $product_submission_id ......");
