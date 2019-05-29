@@ -46,7 +46,7 @@ class DataproviderController extends ControllerBase
 		foreach ($result as $index => $value) {
 			$images = $result[$index]['images'];
 			$images = explode("|", $images);
-			if(count($images) > 1){
+			if(count($images) > 0 && $images[0]){
 				$image = ImageUrls::findFirst($images[0] * 1)->toArray();
 				$cover = $this->modifyUrl($image["url"]);
 				$result[$index]["cover"] = $cover;
