@@ -1,3 +1,4 @@
 app/cache/*
 public/img/*
 public/imgCache/*
+public/upload_log.txt
