@@ -277,6 +277,9 @@ class AmazonAPI
 		$feedHandle = @fopen('php://temp', 'rw+');
 		fwrite($feedHandle, $feed);
 		rewind($feedHandle);
+
+		echo stream_get_contents($feedHandle);
+		rewind($feedHandle);
 		$parameters = array (
 			'Merchant' => $amazon_config['MERCHANT_ID'],
 			'MarketplaceIdList' => $marketplaceIdArray,
