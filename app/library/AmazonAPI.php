@@ -232,7 +232,7 @@ class AmazonAPI
 	}
 
 	public static function composeSKU(){
-		$SKU = com_create_guid();
+		$SKU = Tools::get_GUID();
 		$SKU = substr($SKU, 28, 8);
 		$SKU = "LAMAZON-".$SKU;
 		return $SKU;
