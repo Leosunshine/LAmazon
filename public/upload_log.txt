@@ -1,0 +1,10 @@
+
+2019-05-26T12:12:39+0800   update Product with submission id as 50160018042 .........Ready......Start querying...trying 0...Start querying...trying 1Done successfully
+2019-05-26T12:23:07+0800   update Product with submission id as 50161018042 .........Ready...trying 0Done successfully
+2019-05-26T12:24:00+0800   update Product's inventory with submission id as 50162018042 .........Ready...trying 0Done successfully
+2019-05-26T16:43:01+0800   update Product with submission id as 50163018042 .........Ready...trying 0Done successfully
+2019-05-26T16:43:57+0800   update Product's inventory with submission id as 50164018042 .........Ready...trying 0Done successfully
+2019-05-26T16:44:51+0800   update Product's price with submission id as 50165018042 .........Ready...trying 0Done successfully
+2019-05-27T18:27:49+0800   update Product with submission id as 50166018043 .........Ready...trying 0Done successfully
+2019-05-27T18:28:43+0800   update Product's inventory with submission id as 50168018043 .........Ready...trying 0Done successfully
+2019-05-27T18:29:36+0800   update Product's price with submission id as 50169018043 .........Ready...trying 0

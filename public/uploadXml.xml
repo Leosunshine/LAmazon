@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope>
+<Header>
+	<DocumentVersion>1.01</DocumentVersion>
+	<MerchantIdentifier>AB0EMHVN49K0J</MerchantIdentifier>
+</Header>
+<MessageType>Product</MessageType>
+<PurgeAndReplace>false</PurgeAndReplace>
+
+<Message>
+	<MessageID>1</MessageID>
+	<OperationType>Update</OperationType>
+	<Product>
+		<LaunchDate>2019-05-01T00:00:01</LaunchDate>
+		<DescriptionData>
+			<Title>A new Blank Test Product By LAmazon</Title>
+			<Brand>LAmazon</Brand>
+			<Description>This is a description word by Lamazon</Description>
+			<BulletPoint>Created by Lamazon</BulletPoint>
+			<Manufacturer>LAmazon</Manufacturer>
+		</DescriptionData>
+	</Product>
+	<ProductData>
+		
+	</ProductData>
+</Message>
+</AmazonEnvelope>

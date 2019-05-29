@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope>
+	<Header>
+		<DocumentVersion>1.01</DocumentVersion>
+		<MerchantIdentifier>AB0EMHVN49K0J</MerchantIdentifier>
+	</Header>
+	<MessageType>Product</MessageType>
+	<PurgeAndReplace>false</PurgeAndReplace>
+	<Message>
+		<MessageID>1</MessageID>
+		<OperationType>Update</OperationType>
+		<Product>
+			<SKU>LAMAZON-P-G</SKU>
+			<StandardProductID>
+				<Type>EAN</Type>
+				<Value>9656848160966</Value>
+			</StandardProductID>
+			<Condition>
+				<ConditionType>New</ConditionType>
+			</Condition>
+			<DescriptionData>
+				<Title>LAmazon</Title>
+				<Brand>LAmazon</Brand>
+				<Manufacturer>LAmazon</Manufacturer>
+			</DescriptionData>
+			<ProductData>
+				<Home>
+					<ProductType>
+						<Chair>
+							<Material>cotton</Material>
+						</Chair>
+					</ProductType>
+				</Home>
+			</ProductData>
+		</Product>
+
+	</Message>
+</AmazonEnvelope>
