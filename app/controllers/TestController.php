@@ -8,33 +8,32 @@
 		public function testAction(){
 			$this->view->disable();
 
-			// ob_end_clean();
-			// header("Content-Type: text/plain");
-			// header("Connection: close");
-			// header("HTTP/1.1 200 OK");
-			// ob_start();
-			// echo "running";
-			// $size = ob_get_length();
-			// header("Content-Length:$size");
-			// ob_end_flush();
-			// flush();
+			ob_end_clean();
+			header("Content-Type: text/plain");
+			header("Connection: close");
+			header("HTTP/1.1 200 OK");
+			ob_start();
+			echo "running";
+			$size = ob_get_length();
+			header("Content-Length:$size");
+			ob_end_flush();
+			flush();
 
-			//sleep(1);
-			//ignore_user_abort(true);
-			//set_time_limit(0);
+			sleep(1);
+			ignore_user_abort(true);
+			set_time_limit(0);
 
 			$logRecoder = new logRecoder("./temp/upload_log.txt");
 			$products = Products::find()->toArray();
 			$product_submission_id = AmazonAPI::createProduct($products);
 
 			$logRecoder->add("update Product with submission id as $product_submission_id ......");
-			return;
 			$sleepCount = 0;
 			$max_try_count = 3;
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(50);
+				sleep(30);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($product_submission_id);
@@ -69,7 +68,7 @@
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(50);
+				sleep(30);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($inventory_submission_id);
@@ -103,7 +102,7 @@
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(50);
+				sleep(30);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($price_submission_id);
@@ -111,7 +110,6 @@
 					$sleepCount++;
 					continue;
 				}
-				
 				$result_xml = simplexml_load_string($result);
 				$result = XMLTools::xmlToArray($result_xml);
 				if(isset($result["AmazonEnvelope"]["Message"]["ProcessingReport"]["ProcessingSummary"]["MessagesSuccessful"])){
@@ -127,7 +125,6 @@
 				}
 				$sleepCount++;
 			}
-			
 			if(!$submitSuccess) return;
 		}
 

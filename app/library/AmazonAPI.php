@@ -84,7 +84,6 @@ class AmazonAPI
 			)
 		);
 		$feed = XMLTools::Json2Xml($feed_json);
-		print_r($feed_json);
 		return AmazonAPI::submitFeed($feed,$amazon_config);
 	}
 
