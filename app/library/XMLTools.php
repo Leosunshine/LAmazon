@@ -1,13 +1,18 @@
 <?php
 class XMLTools
 {
-	public static function Json2Xml($arr){
+	public static function Json2Xml($arr,$isFormated = false){
 		$xml = '<?xml version="1.0" encoding="utf-8"?>';
-		$xml .= XMLTools::BuildXml($arr);
+		if($isFormated){
+			$xml .= XMLTools::BuildXml($arr,1);
+		}else{
+			$xml .= XMLTools::BuildXml($arr);
+		}
+		
 		return $xml;
 	}
 
-	public static function BuildXml($source){
+	public static function BuildXml($source,$order = 0){
 		$string = "";
 		if(!(is_array($source)||is_object($source))){
 			return $source;
@@ -15,9 +20,13 @@ class XMLTools
 		foreach ($source as $key => $value) {
 			if($key === "__properties") continue;
 			if (strlen(filter_var($key, FILTER_VALIDATE_INT))) {
-				$string .= XMLTools::BuildXml($value);
+				if($order == 0){
+					$string .= XMLTools::BuildXml($value);
+				}else{
+					$string .= XMLTools::BuildXml($value,$order);
+				}
 			}else{
-				$string .="<".$key;
+				$string .= "\n".str_repeat("	", $order)."<".$key;
 				if(isset($value['__properties'])){
 					foreach ($value['__properties'] as $field => $property) {
 						if(!is_string($property)) continue;
@@ -25,11 +34,21 @@ class XMLTools
 					}
 				}
 				$string.=">";
-				$string .= XMLTools::BuildXml($value);
-				$string .="</".$key.">";
+				if($order == 0){
+					$string .= XMLTools::BuildXml($value);
+					$string .= "</".$key.">";
+				}else{
+					if(!(is_array($value) || is_object($value))){
+						$string .= $value."</".$key.">\n";
+					}else{
+						$string .= XMLTools::BuildXml($value,$order + 1);
+						$string .= str_repeat("	", $order)."</".$key.">\n";
+					}
+				}
 			}
-		}	
-		return $string;
+		}
+
+		return str_replace("\n\n", "\n", $string);
 	}
 
 	public static function xmlToArray($xml, $options = array()) {

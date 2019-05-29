@@ -334,13 +334,14 @@ class ProductController extends ControllerBase
 		$images = $product['images'];
 		$image_map = array();
 		$images_field = "";
+		$main_image_id = 0;
 
 		foreach ($images as $guid => $filename) {
 			$image_url = ImageUrls::findFirst(array(
 				"guid = :guid:",
 				"bind"=>array("guid"=>$guid)
 			));
-
+			if($main_image_id == 0) $main_image_id = $image_url->id;
 			if(!$image_url){
 				//新增图片
 				$image_url = ImageUrls::findFirst(array(
@@ -367,6 +368,7 @@ class ProductController extends ControllerBase
 			$image_map[$guid] = $image_url->id;
 		}
 		$product_instance->images = trim($images_field,"|");
+		$product_instance->main_image_id = $main_image_id;
 		//处理变体
 		$variations = Variation::find(array(
 			"product_id = :product_id:",

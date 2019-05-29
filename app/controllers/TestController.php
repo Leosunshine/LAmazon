@@ -140,6 +140,7 @@
 			$this->view->disable();
 			$products = Products::find()->toArray();
 			AmazonAPI::uploadImage($products);
+
 		}
 		public function getInternationalShippingComponentAction(){
 			$this->view->disable();

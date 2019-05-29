@@ -302,10 +302,8 @@ class AmazonAPI
 			$main_image = ImageUrls::findFirst($main_image)->toArray();
 			$main_image_url = $main_image['url'];
 			$main_image_url = "http://152.136.12.173".substr($main_image_url, 1);
-			echo $main_image_url;
-			continue;
-
 			$SKU = $product['SKU'];
+			
 			$message[] = array(
 				"Message"=>array(
 					"MessageID"=>$messageIndex++,
@@ -318,17 +316,25 @@ class AmazonAPI
 				)
 			);
 
-			$message[] = array(
-				"Message"=>array(
-					"MessageID"=>$messageIndex++,
-					"OperationType"=>"Update",
-					"ProductImage"=>array(
-						"SKU"=>$SKU,
-						"ImageType"=>"PT3",
-						"ImageLocation"=>$main_image_url
+
+			$images = $product['images'];
+			$images = explode("|", $images);
+			foreach ($images as $key => $image) {
+				$image_array = ImageUrls::findFirst($image)->toArray();
+				$image_url = $image_array['url'];
+				$image_url = "http://152.136.12.173".substr($image_url, 1);
+				$message[] = array(
+					"Message"=>array(
+						"MessageID"=>$messageIndex++,
+						"OperationType"=>"Update",
+						"ProductImage"=>array(
+							"SKU"=>$SKU,
+							"ImageType"=>"PT".($key+1),
+							"ImageLocation"=>$image_url
+						)
 					)
-				)
-			);
+				);
+			}
 
 			$feed_json = array(
 				"AmazonEnvelope"=>array(
@@ -341,8 +347,10 @@ class AmazonAPI
 				)
 			);
 
-			$feed = XMLTools::Json2Xml($feed_json);
-			return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_IMAGE_DATA_");
+			$feed = XMLTools::Json2Xml($feed_json,true);
+			echo $feed;
+			file_put_contents("./temp/test.xml", $feed);
+			//return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_IMAGE_DATA_");
 		}
 	}
 }
