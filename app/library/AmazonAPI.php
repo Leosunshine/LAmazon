@@ -4,10 +4,10 @@ class AmazonAPI
 	public static function createProduct($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
+		$messageIndex = 1;
 		foreach ($products as $index => $product) {
 			$SKU = $product['SKU'];
 			$EAN = $product['ASIN'];
-			echo $EAN;
 			$perpackage_count = $product['perpackage_count']?($product['perpackage_count'] * 1):1;
 			$title = $product['title']?$product['title']:"No Title";
 			$brand = $product['brand']?$product['brand']:"Unknown Brand";
@@ -18,7 +18,6 @@ class AmazonAPI
 				$bulletPoint[] = array("BulletPoint"=>trim($keyword));
 			}
 			$manufacturer = $product['manufacturer']?$product['manufacturer']:"Unknown manufacturer";
-
 			$category = $product['amazon_category_id'];
 			$category = Amazoncategory::findFirst($category)->toArray();
 			$productData = array(
@@ -46,27 +45,29 @@ class AmazonAPI
 
 
 			$message[] = array(
-				"MessageID"=>($index + 1),
-				"OperationType"=>"Update",
-				"Product"=>array(
-					"SKU"=>$SKU,
-					"StandardProductID"=>array(
-						"Type"=>"EAN",
-						"Value"=>$EAN
-					),
-					"Condition"=>array(
-						"ConditionType"=>"New"
-					),
-					"ItemPackageQuantity"=>1,
-					"NumberOfItems"=>$perpackage_count,
-					"DescriptionData"=>array(
-						"Title"=>$title,
-						"Brand"=>$brand,
-						"Description"=>$description,
-						$bulletPoint,
-						"Manufacturer"=>$manufacturer
-					),
-					"ProductData"=>$productData
+				"Message"=>array(
+					"MessageID"=>$messageIndex++,
+					"OperationType"=>"Update",
+					"Product"=>array(
+						"SKU"=>$SKU,
+						"StandardProductID"=>array(
+							"Type"=>"EAN",
+							"Value"=>$EAN
+						),
+						"Condition"=>array(
+							"ConditionType"=>"New"
+						),
+						"ItemPackageQuantity"=>1,
+						"NumberOfItems"=>$perpackage_count,
+						"DescriptionData"=>array(
+							"Title"=>$title,
+							"Brand"=>$brand,
+							"Description"=>$description,
+							$bulletPoint,
+							"Manufacturer"=>$manufacturer
+						),
+						"ProductData"=>$productData
+					)
 				)
 			);
 		}
@@ -79,11 +80,11 @@ class AmazonAPI
 				),
 				"MessageType"=>"Product",
 				"PurgeAndReplace"=>"false",
-				"Message"=>$message
+				$message
 			)
 		);
-
 		$feed = XMLTools::Json2Xml($feed_json);
+		print_r($feed_json);
 		return AmazonAPI::submitFeed($feed,$amazon_config);
 	}
 

@@ -8,20 +8,20 @@
 		public function testAction(){
 			$this->view->disable();
 
-			ob_end_clean();
-			header("Content-Type: text/plain");
-			header("Connection: close");
-			header("HTTP/1.1 200 OK");
-			ob_start();
-			echo "runing";
-			$size = ob_get_length();
-			header("Content-Length:$size");
-			ob_end_flush();
-			flush();
+			// ob_end_clean();
+			// header("Content-Type: text/plain");
+			// header("Connection: close");
+			// header("HTTP/1.1 200 OK");
+			// ob_start();
+			// echo "running";
+			// $size = ob_get_length();
+			// header("Content-Length:$size");
+			// ob_end_flush();
+			// flush();
 
-			sleep(1);
-			ignore_user_abort(true);
-			set_time_limit(0);
+			//sleep(1);
+			//ignore_user_abort(true);
+			//set_time_limit(0);
 
 			$logRecoder = new logRecoder("upload_log.txt");
 			$products = Products::find()->toArray();
