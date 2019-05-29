@@ -31,7 +31,6 @@ function loadDir($dir, $isRecursively){
 			}else{
 				if(substr($file, -4) === ".php"){
 					include_once $dir.$sep.$file;
-					echo "hello";
 				}
 			}
 		}
