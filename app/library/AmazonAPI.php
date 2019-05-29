@@ -142,7 +142,7 @@ class AmazonAPI
 		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_PRICING_DATA_");
 	}
 	
-	public function updateInventory($products){
+	public static function updateInventory($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
 		$messageIndex = 1;
@@ -178,7 +178,7 @@ class AmazonAPI
 		$feed = XMLTools::Json2Xml($feed_json);
 		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_INVENTORY_AVAILABILITY_DATA_");
 	}
-	public function deleteAProduct($SKU){
+	public static function deleteAProduct($SKU){
 		$feed = "<?xml version='1.0' encoding='utf-8'?>
 			<AmazonEnvelope>
 			  <Header>

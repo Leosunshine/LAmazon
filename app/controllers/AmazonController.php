@@ -9,8 +9,7 @@ class AmazonController extends ControllerBase
 	public function deleteInterfaceAction(){
 		$this->view->disable();
 		$SKU = $this->request->getPost("SKU");
-		$amazon = new AmazonAPI();
-		echo $amazon->deleteAProduct($SKU);
+		echo AmazonAPI::deleteAProduct($SKU);
 	}
 
 	public function queryAction(){
