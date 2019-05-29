@@ -241,12 +241,11 @@ class AmazonAPI
 	}
 
 	public static function composeEAN(){
-		$ean13 = "6093128";				//借用毛里求斯的EAN
-		$ean13 = str_pad($ean13,6,"0",STR_PAD_LEFT);
-		$ean132 = rand(1,99999);
-		$ean132 = str_pad($ean132,6,"0", STR_PAD_LEFT);
+		$ean13 = rand(1,9999);											//随机厂商
+		$ean13 = "609".str_pad($ean13, 4,"0",STR_PAD_LEFT);				//借用毛里求斯的EAN
+		$ean132 = rand(1,99999);										//随机产品编号
+		$ean132 = str_pad($ean132,5,"0", STR_PAD_LEFT);
 		$ean13 = $ean13.$ean132;
-
 		$code = str_pad($ean13, 12, "0", STR_PAD_LEFT);
 		$sum = 0;
 		for($i=(strlen($code)-1);$i>=0;$i--){

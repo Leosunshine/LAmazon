@@ -129,25 +129,11 @@
 			}
 			
 			if(!$submitSuccess) return;
-
-			
-
-
-			
-
-			
-			 // //echo (new AmazonAPI())->updatePrice($products);
-			
-			// //echo (new AmazonAPI())->updateInventory($products);
-			  
-			// echo (new AmazonAPI())->uploadImage($products);
-			//$this->test();
-			//$this->test("sss");
 		}
 
 		public function test2Action(){
 			$this->view->disable();
-			echo $this->getGUID();
+			echo AmazonAPI::composeEAN();
 		}
 		public function getInternationalShippingComponentAction(){
 			$this->view->disable();
@@ -161,10 +147,6 @@
 			echo $file;
 		}
 
-
-		function test($a = 1){
-			echo $a;
-		}
 
 		function getGUID(){
 		    if (function_exists('com_create_guid')){
