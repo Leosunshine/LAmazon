@@ -348,9 +348,7 @@ class AmazonAPI
 			);
 
 			$feed = XMLTools::Json2Xml($feed_json,true);
-			echo $feed;
-			file_put_contents("./temp/test.xml", $feed);
-			//return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_IMAGE_DATA_");
+			return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_IMAGE_DATA_");
 		}
 	}
 }
