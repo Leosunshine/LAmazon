@@ -2,6 +2,9 @@
 
 class DataproviderController extends ControllerBase
 {
+	public function initialize(){
+		parent::initialize();
+	}
 	public function getHscodeAction(){
 		$this->view->disable();
 		$condition = $this->request->getPost("condition","string");

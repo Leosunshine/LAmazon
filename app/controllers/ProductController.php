@@ -15,15 +15,15 @@ class ProductController extends ControllerBase
 		#此处给出验证用户的代码
 		parent::initialize();
 		$this->view->setTemplateAfter("base1");
-		$seller = $this->session->get("sellerInfo");
-		include_once("../app/library/LAmazonConfig.php");
-		if(!$seller){
-			$seller = array(
-				"sellerId" => $amazon_config["MERCHANT_ID"],
-				"token"	   => $amazon_config["token"]
-			);
-			$this->session->set("sellerInfo",$seller);
-		}
+		// $seller = $this->session->get("sellerInfo");
+		// include_once("../app/library/LAmazonConfig.php");
+		// if(!$seller){
+		// 	$seller = array(
+		// 		"sellerId" => $amazon_config["MERCHANT_ID"],
+		// 		"token"	   => $amazon_config["token"]
+		// 	);
+		// 	$this->session->set("sellerInfo",$seller);
+		// }
 	}
 	public function indexAction(){
 		//初始化适用对象列表

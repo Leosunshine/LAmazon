@@ -2,6 +2,10 @@
 
 class AmazonController extends ControllerBase
 {
+	public function initialize(){
+		parent::initialize();
+	}
+	
 	public function deleteAction(){
 		$this->view->setTemplateAfter("base1");
 	}

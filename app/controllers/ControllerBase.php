@@ -6,6 +6,8 @@ class ControllerBase extends Controller
 {
 	public function initialize(){
 		//$this->view->setTemplateAfter("base1");
+        $user = $this->session->get("userInfo");
+        if(!$user) $this->response->redirect("./login");
 	}
 
 	public function dataReturn($ans){
