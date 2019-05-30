@@ -199,6 +199,37 @@ class AmazonAPI
 		return AmazonAPI::submitFeed($feed,LAmazonConfig::$amazon_config);
 	}
 
+	public static function deleteProducts($products){
+		$message = array();
+		$messageIndex = 1;
+		foreach ($products as $index => $product) {
+			$SKU = $product['SKU'];
+			$message[] = array(
+				"Message"=>array(
+					"MessageID"=>$messageIndex++,
+					"OperationType"=>"Delete",
+					"Product"=>array(
+						"SKU"=>$SKU
+					)
+				)
+			);
+		}
+
+		$feed_json = array(
+			"AmazonEnvelope"=>array(
+				"Header"=>array(
+					"DocumentVersion"=>1.01,
+					"MerchantIdentifier"=>LAmazonConfig::$amazon_config['MERCHANT_ID']
+				),
+				"MessageType"=>"Product",
+				"PurgeAndReplace"=>"false",
+				$message
+			)
+		);
+
+		echo XMLTools::Json2Xml($feed_json);
+	}
+
 	public static function getSubmissionResult($submission_id){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$serviceUrl = $amazon_config['ServiceUrlSubmitDE'];
@@ -271,10 +302,8 @@ class AmazonAPI
 			$amazon_config['APPLICATION_VERSION']);
 
 		$marketplaceIdArray = array("Id" => array('A1PA6795UKMFR9'));
-		//$feedHandle = @fopen('php://temp', 'rw+');
-		//fwrite($feedHandle, $feed);
-		file_put_contents("./temp/temp.dat", $feed);
-		$feedHandle = fopen("./temp/temp.dat", 'r+');
+		$feedHandle = @fopen('php://temp', 'rw+');
+		fwrite($feedHandle, $feed);
 		rewind($feedHandle);
 		$parameters = array (
 			'Merchant' => $amazon_config['MERCHANT_ID'],

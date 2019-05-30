@@ -80,7 +80,6 @@
 				
 				$result_xml = simplexml_load_string($result);
 				$result = XMLTools::xmlToArray($result_xml);
-				print_r($result);
 				if(isset($result["AmazonEnvelope"]["Message"]["ProcessingReport"]["ProcessingSummary"]["MessagesSuccessful"])){
 					if($result["AmazonEnvelope"]["Message"]["ProcessingReport"]["ProcessingSummary"]["MessagesSuccessful"]*1 > 0){
 						$submitSuccess = true;
@@ -130,6 +129,10 @@
 			if(!$submitSuccess) return;
 		}
 
+		public function deleteProductsAction(){
+			$products = Products::find()->toArray();
+			AmazonAPI::deleteProducts($products);
+		}
 		public function synPriceAction(){
 			$this->view->disable();
 			$products = Products::find()->toArray();
