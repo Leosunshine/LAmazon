@@ -118,7 +118,9 @@
 </script>
 <div id="navigation" style="width:100%;height:10%;background-color:yellow;">
 	<div style="width:10%;height:100%;float:left;"></div>
-	<div style="width:10%;height:100%;font-size: 25px;float:left;cursor:pointer;" onclick="window.location.href='#'"><div style="height:20%;"></div>产品管理<span class="fa fa-pencil"></span></div>
+	<div style="width:10%;height:100%;font-size: 25px;float:left;cursor:pointer;" onclick="window.location.href='/product'"><div style="height:20%;"></div>产品管理<span class="fa fa-pencil"></span></div>
+	<div style="width:10%;height:100%;font-size: 25px;float:left;cursor:pointer;" onclick="window.location.href='#'"><div style="height:20%;"></div>amazon<br/>上传</span></div>
+	<div style="width:10%;height:100%;font-size: 25px;float:left;cursor:pointer;" onclick="window.location.href='/login/logout'"><div style="height:20%;"></div>退出登录</span></div>
 </div>
 <div id="downcontent" style="width:100%;height:90%;">
 	<div id="entry" style="width:18%;height:100%;float:left;">

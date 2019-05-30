@@ -37,5 +37,6 @@ class LoginController extends ControllerBase
     public function logoutAction(){
     	$this->view->disable();
     	$this->session->remove("userInfo");
+    	$this->response->redirect("/login");
     }
 }
