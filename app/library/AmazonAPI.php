@@ -229,7 +229,7 @@ class AmazonAPI
 		);
 
 		$feed = XMLTools::Json2Xml($feed_json);
-		return AmazonAPI::submitFeed($feed);
+		return AmazonAPI::submitFeed($feed,LAmazonConfig::$amazon_config);
 	}
 
 	public static function getSubmissionResult($submission_id){
