@@ -204,6 +204,7 @@ class AmazonAPI
 		$messageIndex = 1;
 		foreach ($products as $index => $product) {
 			$SKU = $product['SKU'];
+			if($SKU === "LAMAZON-757D36DE") continue;
 			$message[] = array(
 				"Message"=>array(
 					"MessageID"=>$messageIndex++,
@@ -227,7 +228,8 @@ class AmazonAPI
 			)
 		);
 
-		echo XMLTools::Json2Xml($feed_json);
+		$feed = XMLTools::Json2Xml($feed_json);
+		return AmazonAPI::submitFeed($feed);
 	}
 
 	public static function getSubmissionResult($submission_id){
