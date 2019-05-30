@@ -509,7 +509,7 @@ class ProductController extends ControllerBase
 		$product_instance = Products::findFirst($product_id);
 
 		//清除变体条目,将变体条目的商品id置为0
-		$variations = variation::find(array(
+		$variations = Variation::find(array(
 			"product_id = :product_id:",
 			"bind"=>array("product_id"=>$product_id)
 		));
