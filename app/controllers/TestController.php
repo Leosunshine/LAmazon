@@ -131,7 +131,7 @@
 
 		public function deleteProductsAction(){
 			$products = Products::find()->toArray();
-			AmazonAPI::deleteProducts($products);
+			echo AmazonAPI::deleteProducts($products);
 		}
 		public function synPriceAction(){
 			$this->view->disable();

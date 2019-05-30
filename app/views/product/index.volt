@@ -398,6 +398,7 @@
 
 			<div style="width:100%;height:8%;">
 				内部SKU: <input class="product_field product_panel_text_selector" type="text" name="SKU">
+				产品EAN码: <input class="product_field product_panel_text_selector" type="text" name="ASIN"><br/>
 				库存数量: <input class="product_field product_panel_text_selector" type="text" name="product_count">
 				每包: <input class="product_field product_panel_text_selector" type="text" name="perpackage_count">
 			</div>
