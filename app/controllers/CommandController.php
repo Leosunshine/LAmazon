@@ -9,7 +9,6 @@ class CommandController extends ControllerBase
 	}
 	public function indexAction(){
 		$products = Products::find("img is not null");
-		echo count($products);
 		foreach ($products as $index => $product) {
 			if($product->img){
 				$url = $product->img;
