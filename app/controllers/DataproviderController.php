@@ -117,6 +117,7 @@ class DataproviderController extends ControllerBase
 		$this->view->disable();
 		$categories = Amazoncategory::find()->toArray();
 		$ret = array();
+		$dictionary = array();
 		foreach ($categories as $key => $category) {
 			if($category['level'] == 1){
 				if($category['is_end_point'] == 1){
@@ -139,7 +140,11 @@ class DataproviderController extends ControllerBase
 				}
 			}
 		}
-		$this->dataReturn(array("success"=>$ret));
+
+		foreach ($categories as $key => $category) {
+			$dictionary[$category['name_en']] = $category['name_cn'];
+		}
+		$this->dataReturn(array("success"=>$ret,'dictionary'=>$dictionary));
 	}
 	public function getsuppliersAction(){
 		$this->view->disable();

@@ -132,6 +132,9 @@
 			if(!$submitSuccess) return;
 		}
 
+		public function test2Action(){
+			$this->view->disable();
+		}
 		public function deleteProductsAction(){
 			$products = Products::find()->toArray();
 			echo AmazonAPI::deleteProducts($products);

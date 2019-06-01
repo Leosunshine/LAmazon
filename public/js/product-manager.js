@@ -19,6 +19,7 @@
 
 	ProductManager.prototype.categories = new Object();
 	ProductManager.prototype.categoriesMap = new Object();
+	ProductManager.prototype.categoriesDic = new Object();
 
 	ProductManager.prototype.products = new Object();
 
@@ -49,6 +50,7 @@
 			if(data.success){
 				var host = jqxhr.host;
 				host.setCategories(data.success);
+				host.categoriesDic = data.dictionary;
 				host.afterCategoryRefresh(host.categories);
 			}
 		}).host = this;

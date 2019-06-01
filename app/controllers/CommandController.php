@@ -198,4 +198,26 @@ class CommandController extends ControllerBase
 		//print_r($content);
 	}
 
+	public function translateCategoryAction(){
+
+		$manager = new TxManager();
+		$transaction = $manager->get();
+
+		$categories = Amazoncategory::find();
+		$count = 0;
+		foreach ($categories as $index => $category) {
+			$count++;
+			if($count < 5) continue;
+			$category->setTransaction($transaction);
+			$name_en = $category->name_en;
+			$result = GoogleAPI::translate($name_en,"en","zh")['trans_result'];
+			$name_cn = $result[0]["dst"];
+
+			$category->name_cn = $name_cn;
+			$category->save();
+		}
+
+		$transaction->commit();
+
+	}
 }

@@ -768,7 +768,7 @@
 			$("#category_options_1").html("");
 			if(sub_level && typeof(sub_level) === "object"){
 				for(var key in sub_level){
-					$("#category_options_1").append($("<option value='"+key+"'>"+key+"</option>"));
+					$("#category_options_1").append($("<option value='"+key+"'>"+key+"-"+productManager.categoriesDic[key]+"</option>"));
 				}
 			}
 
@@ -779,7 +779,7 @@
 		$("#category_options_0").html("");
 		$("#category_options_1").html("");
 		for(var key in categories){
-			$("#category_options_0").append($("<option value='"+key+"'>"+key+"</option>"));
+			$("#category_options_0").append($("<option value='"+key+"'>"+key+"-"+productManager.categoriesDic[key]+"</option>"));
 		}
 		$("#category_options_0").change();
 	}
