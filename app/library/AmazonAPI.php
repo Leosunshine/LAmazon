@@ -12,6 +12,8 @@ class AmazonAPI
 			$title = $product['title']?$product['title']:"No Title";
 			$brand = $product['brand']?$product['brand']:"Unknown Brand";
 			$description = $product['description']?$product['description']:"No description";
+			$description = "<p>".str_replace("\n", "</p><p>", $description)."</p>";
+
 			$keywords = explode(",",$product['keywords']);
 			$bulletPoint = array();
 			foreach($keywords as $index => $keyword){
@@ -63,7 +65,7 @@ class AmazonAPI
 						"DescriptionData"=>array(
 							"Title"=>$title,
 							"Brand"=>$brand,
-							"Description"=>$description,
+							"Description"=>"<![CDATA[$description]]>",
 							$bulletPoint,
 							"Manufacturer"=>$manufacturer
 						),
@@ -85,6 +87,7 @@ class AmazonAPI
 			)
 		);
 		$feed = XMLTools::Json2Xml($feed_json);
+		file_put_contents("./temp/temp.dat", $feed);
 		return AmazonAPI::submitFeed($feed,$amazon_config);
 	}
 
@@ -177,6 +180,7 @@ class AmazonAPI
 		);
 
 		$feed = XMLTools::Json2Xml($feed_json);
+		file_put_contents("./temp/temp.dat", $feed);
 		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_INVENTORY_AVAILABILITY_DATA_");
 	}
 	public static function deleteAProduct($SKU){

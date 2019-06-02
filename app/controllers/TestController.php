@@ -26,6 +26,7 @@
 
 			sleep(1);
 			ignore_user_abort(true);
+			session_write_close();
 			set_time_limit(0);
 
 			$logRecoder = new logRecoder("./temp/upload_log.txt");
@@ -33,6 +34,7 @@
 			$product_submission_id = AmazonAPI::createProduct($products);
 
 			$logRecoder->add("update Product with submission id as $product_submission_id ......");
+			
 			$sleepCount = 0;
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
@@ -63,7 +65,7 @@
 
 				$sleepCount++;
 			}
-
+			return;
 			if(!$submitSuccess)	return;
 
 			$inventory_submission_id = AmazonAPI::updateInventory($products);
