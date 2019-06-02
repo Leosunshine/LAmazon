@@ -11,7 +11,8 @@
 		public function testAction(){
 			$this->view->disable();
 		
-
+			$query_interval = 30;
+			$max_try_count = 5;
 			ob_end_clean();
 			header("Content-Type: text/plain");
 			header("Connection: close");
@@ -33,11 +34,10 @@
 
 			$logRecoder->add("update Product with submission id as $product_submission_id ......");
 			$sleepCount = 0;
-			$max_try_count = 3;
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(50);
+				sleep($query_interval);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($product_submission_id);
@@ -69,11 +69,10 @@
 			$inventory_submission_id = AmazonAPI::updateInventory($products);
 			$logRecoder->add("update Product's inventory with submission id as $inventory_submission_id ......");
 			$sleepCount = 0;
-			$max_try_count = 3;
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(50);
+				sleep($query_interval);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($inventory_submission_id);
@@ -103,11 +102,10 @@
 			$price_submission_id = AmazonAPI::updatePrice($products);
 			$logRecoder->add("update Product's price with submission id as $price_submission_id ......");
 			$sleepCount = 0;
-			$max_try_count = 3;
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
 			while($sleepCount < $max_try_count && !$submitSuccess){
-				sleep(50);
+				sleep($query_interval);
 				$logRecoder->append("trying $sleepCount");
 				try{
 					$result =  AmazonAPI::getSubmissionResult($price_submission_id);
@@ -131,6 +129,36 @@
 				$sleepCount++;
 			}
 			if(!$submitSuccess) return;
+
+			$image_submission_id = AmazonAPI::uploadImage($products);
+			$$logRecoder->add("upload Product's image with submission id as $image_submission_id ......");
+			$sleepCount = 0;
+			$submitSuccess = false;
+			$logRecoder->append("...Ready...");
+			while($sleepCount < $max_try_count && !$submitSuccess){
+				sleep($query_interval);
+				$logRecoder->append("trying $sleepCount");
+				try{
+					$result =  AmazonAPI::getSubmissionResult($image_submission_id);
+				}catch(Exception $e){
+					$sleepCount++;
+					continue;
+				}
+				$result_xml = simplexml_load_string($result);
+				$result = XMLTools::xmlToArray($result_xml);
+				if(isset($result["AmazonEnvelope"]["Message"]["ProcessingReport"]["ProcessingSummary"]["MessagesSuccessful"])){
+					if($result["AmazonEnvelope"]["Message"]["ProcessingReport"]["ProcessingSummary"]["MessagesSuccessful"]*1 > 0){
+						$submitSuccess = true;
+						$logRecoder->append("Done successfully");
+						break;
+					}else{
+						$file_content->append("Done failed");
+						$submitSuccess = false;
+						break;
+					}
+				}
+				$sleepCount++;
+			}
 		}
 
 		public function test2Action(){
