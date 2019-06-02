@@ -36,7 +36,6 @@
 			$max_try_count = 3;
 			$submitSuccess = false;
 			$logRecoder->append("...Ready...");
-			return;
 			while($sleepCount < $max_try_count && !$submitSuccess){
 				sleep(50);
 				$logRecoder->append("trying $sleepCount");
