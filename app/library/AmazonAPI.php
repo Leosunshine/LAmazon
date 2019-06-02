@@ -352,6 +352,7 @@ class AmazonAPI
 			$images = $product['images'];
 			$images = explode("|", $images);
 			foreach ($images as $key => $image) {
+				if($key >= 8) break;
 				$image_array = ImageUrls::findFirst($image)->toArray();
 				$image_url = $image_array['url'];
 				$image_url = "http://152.136.12.173".substr($image_url, 1);
