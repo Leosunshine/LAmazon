@@ -15,6 +15,7 @@ class AmazonAPI
 			$keywords = explode(",",$product['keywords']);
 			$bulletPoint = array();
 			foreach($keywords as $index => $keyword){
+				if($index >= 5) continue;
 				$bulletPoint[] = array("BulletPoint"=>trim($keyword));
 			}
 			$manufacturer = $product['manufacturer']?$product['manufacturer']:"Unknown manufacturer";
