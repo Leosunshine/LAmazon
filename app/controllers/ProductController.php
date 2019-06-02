@@ -259,35 +259,17 @@ class ProductController extends ControllerBase
 	public function updateProductAction(){
 		$this->view->disable();
 		$product = json_decode($this->request->getPost("product"),true);
+		$log = new LogRecoder("./temp/operation.txt");
 		$product_id = $this->request->getPost("id");
 		if($product_id === "0"){
 			$product_id = $this->createProduct($product);
+			$log->add("A product is created: $product_id");
 			$this->dataReturn(array("success"=>$product_id));
 		}else{
 			$this->updateProduct($product,$product_id);
+			$log->add("A product is modified: $product_id");
 			$this->dataReturn(array("success"=>$product_id));
-		}
-
-
-		// $isNew = $this->request->getPost("isNew");
-		// $manager = new TxManager();
-		// $transaction = $manager->get();
-		// $product_instance = new Products();
-		// $product_instance->setTransaction($transaction);
-
-		// $arr = get_object_vars($product_instance);
-		// if($isNew === "true"){
-		// 	foreach ($product as $key => $value) {
-		// 		$product_instance->$key = $value;
-		// 	}
-		// 	try {
-		// 		$product_instance->create();
-		// 		$this->dataReturn(array("success"=>"success"));
-		// 	} catch (TxFailed $e) {
-		// 		$this->dataReturn(array("error"=>"error"));
-		// 	}
-		// 	$transaction->commit();
-		// }		
+		}	
 	}
 
 	public function truncateDatabaseAction(){
