@@ -131,4 +131,11 @@ class XMLTools
 	        $xml->getName() => $propertiesArray
 	    );
 	}
+
+	public static function readXsd($xsd, $baseXsd = array()){
+		$content = file_get_contents($xsd);
+		$content = simplexml_load_string($content);
+		$ret = XMLTools::xmlToArray($content);
+		print_r($ret);
+	}
 }

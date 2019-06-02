@@ -10,6 +10,7 @@
 
 		public function testAction(){
 			$this->view->disable();
+			return;
 
 			ob_end_clean();
 			header("Content-Type: text/plain");
@@ -134,6 +135,7 @@
 
 		public function test2Action(){
 			$this->view->disable();
+			XMLTools::readXsd("./Arts.xsd");
 		}
 		public function deleteProductsAction(){
 			$products = Products::find()->toArray();
