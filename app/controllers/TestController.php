@@ -57,7 +57,7 @@
 						$logRecoder->append("Done successfully");
 						break;
 					}else{
-						$logRecoder->append("Done failed");
+						$logRecoder->append("Done failed"); 
 						$submitSuccess = false;
 						break;
 					}
