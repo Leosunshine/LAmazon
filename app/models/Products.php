@@ -169,6 +169,12 @@ class Products extends \Phalcon\Mvc\Model
      *
      * @var string
      */
+    public $category_local;
+
+    /**
+     *
+     * @var string
+     */
     public $customs_hscode;
 
     /**

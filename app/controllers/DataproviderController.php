@@ -227,4 +227,9 @@ class DataproviderController extends ControllerBase
 		$ret['records'] = $count;
 		$this->dataReturn($ret);
 	}
+
+	public function listLocalCategoryAction(){
+		$result = $this->modelsManager->createBuilder()
+			->
+	}
 }

@@ -14,7 +14,7 @@ class ProductController extends ControllerBase
 	public function initialize(){
 		#此处给出验证用户的代码
 		parent::initialize();
-		$this->view->setTemplateAfter("base1");
+		$this->view->setTemplateAfter("baseproduct");
 		// $seller = $this->session->get("sellerInfo");
 		// include_once("../app/library/LAmazonConfig.php");
 		// if(!$seller){
@@ -601,5 +601,9 @@ class ProductController extends ControllerBase
 				$transaction->commit();
 			}
 		}
+	}
+
+	public function localcategoryeditAction(){
+
 	}
 }

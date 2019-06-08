@@ -85,10 +85,9 @@
 		overflow: hidden;
 	}
 </style>
-<script type="text/javascript" src="/js/jquery-ui.js"></script>
+
 <script type="text/javascript" src="/js/uuid.js"></script>
-<link rel="stylesheet" type="text/css" href="/jqGrid/css/jquery-ui.min.css">
-<link rel="stylesheet" type="text/css" href="/font-awesome/css/font-awesome.css">
+
 
 <script type="text/javascript" src="/js/jquery-imageuploader.js"></script>
 <script type="text/javascript" src="/js/product-manager.js"></script>
@@ -116,12 +115,7 @@
 		});
 	});
 </script>
-<div id="navigation" style="width:100%;height:10%;background-color:yellow;">
-	<div style="width:10%;height:100%;float:left;"></div>
-	<div style="width:10%;height:100%;font-size: 25px;float:left;cursor:pointer;" onclick="window.location.href='/product'"><div style="height:20%;"></div>产品管理<span class="fa fa-pencil"></span></div>
-	<div style="width:10%;height:100%;font-size: 25px;float:left;cursor:pointer;" onclick="window.location.href='#'"><div style="height:20%;"></div>amazon<br/>上传</span></div>
-	<div style="width:10%;height:100%;font-size: 25px;float:left;cursor:pointer;" onclick="window.location.href='/login/logout'"><div style="height:20%;"></div>退出登录</span></div>
-</div>
+
 <div id="downcontent" style="width:100%;height:90%;">
 	<div id="entry" style="width:18%;height:100%;float:left;">
 		<div style="width:100%;height:5%;"></div>
@@ -170,13 +164,9 @@
 		<div style="width:100%;height:80%;overflow-y: auto;">
 			<div style="width:100%;height:80%;">
 				<div style="width:50%;height:100%;line-height: 20px;float:left;">
-					选择分类:<br/>
-					<select id="category_options_0">
-						
-					</select>
-					<select id="category_options_1">
-						
-					</select>
+					<input type="text" style="width:60%;" readonly="true" name="category_local">
+					<button class="btn btn-primary">选择分类</button>
+					<br/>
 					<br/>
 					<span style="font-weight: bold;">审核状态:</span>	
 								<input class="product_field product_panel_radio_selector" type="radio" name="review_status" value="1">通过
@@ -483,14 +473,7 @@
 				}
 			});
 
-			$("#category_options_0").val("");
-			$("#category_options_1").val("");
-			var categories = window.productManager.getCategoriesById(product['amazon_category_id']);
-			for(var level in categories){
-				$("#category_options_"+level).val(categories[level]);
-				$("#category_options_"+level).change();
-			}
-
+			
 			window.imageUploader.clear();
 			var images = product['images'];
 			if(images){
@@ -566,7 +549,8 @@
 </div>
 
 <div id="hscode_panel" targetInputId="" style="position: absolute;left:0;top:0;background-color:rgba(0,0,0,0.3);width: 100%;height:100%;display:none;">
-	<div class="well" style="width:60%;height:90%;margin:0 auto;margin-top:2%;">
+	<div style="height:5%;"></div>
+	<div class="well" style="width:60%;height:90%;margin:0 auto;">
 		<span style="font-size:30px;">海关编码选择</span><br/>
 		<input class="form-control" id="hscode_content" type="text">
 		<script type="text/javascript">
@@ -639,6 +623,20 @@
 			$("#hscode_panel").fadeOut();
 		}
 	</script>
+</div>
+
+<div id="local_category_panel" targetInputId="" style="position: absolute;left: 0; top:0; background-color: rgba(0,0,0,0.3);width:100%;height:100%;">
+	<div style="height:5%;"></div>
+	<div class="well" style="width:90%;height:80%;margin:0 auto;">
+		<span style="font-size:25px;">分类选择</span><br/>
+		<div style="width:95%;height:90%;">
+			
+		</div>
+		<div style="width:100%;height:10%;text-align: center;">
+			<button class="btn btn-primary">确定</button>
+			<button class="btn btn-danger" onclick="$('#local_category_panel').fadeOut();">取消</button>
+		</div>
+	</div>
 </div>
 
 <div id="variation_edit_panel" style="position:absolute;left:0;top:0;background-color:rgba(0,0,0,0.3);width:100%;height:100%;display:none;">
@@ -757,30 +755,10 @@
 				});
 			},
 			afterCategoryRefresh: function(categories){
-				resetCategoriesOptions(categories);
+				//resetCategoriesOptions(categories);
 			}
 		}).refreshProductList(10,0,undefined,undefined,undefined)
 		.refreshCategories();
 
-		$("#category_options_0").change(function(){
-			var level1 = $(this).val();
-			var sub_level = window.productManager.getCategoriesContent([level1]);
-			$("#category_options_1").html("");
-			if(sub_level && typeof(sub_level) === "object"){
-				for(var key in sub_level){
-					$("#category_options_1").append($("<option value='"+key+"'>"+key+"-"+productManager.categoriesDic[key]+"</option>"));
-				}
-			}
-
-		});
 	});
-
-	function resetCategoriesOptions(categories){
-		$("#category_options_0").html("");
-		$("#category_options_1").html("");
-		for(var key in categories){
-			$("#category_options_0").append($("<option value='"+key+"'>"+key+"-"+productManager.categoriesDic[key]+"</option>"));
-		}
-		$("#category_options_0").change();
-	}
 </script>
