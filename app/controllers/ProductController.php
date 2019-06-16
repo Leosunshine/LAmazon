@@ -644,4 +644,68 @@ class ProductController extends ControllerBase
 		$now = Localcategory::find()->toArray();
 		$this->dataReturn(array("success"=>"saved", "now"=>$now));
 	}
+
+	public function modifylocalcategoryAction(){
+		$this->view->disable();
+		$targetId = $this->request->getPost("targetId");
+		$name = $this->request->getPost("child_name");
+		$amazon_id = $this->request->getPost("amazon_id");
+
+		if(!$targetId || !$name || !$amazon_id){
+			$this->dataReturn(array("error"=>"wrong parameters"));
+			return;
+		}
+
+		$targetId *= 1; $amazon_id *= 1;
+		$target = Localcategory::findFirst($targetId);
+		if(!$target){
+			$this->dataReturn(array("error"=>"target not found"));
+			return;
+		}
+
+		$target->name = $name;
+		$target->amazon_category_id = $amazon_id;
+		$target->save();
+
+		$now = localCategory::find()->toArray();
+		$this->dataReturn(array("success"=>"saved","now"=>$now));
+	}
+
+	public function truncateLocalCategoryAction(){
+		$this->view->disable();
+		$this->db->query("truncate table localcategory");
+		$this->db->query("INSERT INTO localcategory(id, name, remark, level, is_end_point, parent_id, amazon_category_id)VALUES(1, 'root', '根', 0, 0, 0, 0);");
+		$now = Localcategory::find()->toArray();
+		$this->dataReturn(array("success"=>"success","now"=>$now));
+	}
+
+	public function renamelocalcategoryAction(){
+		$this->view->disable();
+		$targetId = $this->request->getPost("targetId");
+		$newName = $this->request->getPost("newName");
+
+		if(!$targetId || !$newName){
+			$this->dataReturn(array("error"=>"参数错误"));
+			return;
+		}
+
+		$category = Localcategory::findFirst($targetId);
+		$category->name = $newName;
+		$category->save();
+		$this->dataReturn(array("success"=>"success"));
+	}
+
+	public function deletelocalcategoryAction(){
+		$this->view->disable();
+		$ids = $this->request->getPost("ids");
+		if(!$ids) $this->dataReturn(array("error"=>"参数错误"));
+		
+		$ids = str_replace("|", " or id = ", $ids);
+		$ids = "id = ".$ids;
+
+		$categories = Localcategory::find($ids);
+		$categories->delete();
+
+		$this->dataReturn(array("success"=>"success"));
+	}
 }
