@@ -606,4 +606,42 @@ class ProductController extends ControllerBase
 	public function localcategoryeditAction(){
 
 	}
+
+	public function creatlocalcategoryAction(){
+		$this->view->disable();
+		$parent_id = $this->request->getPost("parent_id");
+		$child_name = $this->request->getPost("child_name");
+		$amazon_id = $this->request->getPost("amazon_id");
+
+		if(!$parent_id || !$child_name || !$amazon_id){
+			$this->dataReturn(array("error"=>"wrong parameters"));
+			return;
+		}
+		//保证数据类型
+		$parent_id *= 1;
+		$amazon_id *= 1;
+
+		//查询其父
+		$parent = Localcategory::findFirst($parent_id);
+		if(!$parent){
+			$this->dataReturn(array("error"=>"the father node is not found!"));
+			return;
+		}
+
+		$localCategory = new Localcategory();
+		$localCategory->name = $child_name;
+		$localCategory->level = $parent->level + 1; //为其父的下一级
+		$localCategory->is_end_point = 1;
+		$localCategory->parent_id = $parent_id;
+		$localCategory->amazon_category_id = $amazon_id;
+		$localCategory->create();
+
+		if($parent->is_end_point === 1){
+			$parent->is_end_point = 0;
+			$parent->save();
+		}
+
+		$now = Localcategory::find()->toArray();
+		$this->dataReturn(array("success"=>"saved", "now"=>$now));
+	}
 }

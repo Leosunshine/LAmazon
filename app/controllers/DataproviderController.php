@@ -229,7 +229,7 @@ class DataproviderController extends ControllerBase
 	}
 
 	public function listLocalCategoryAction(){
-		$result = $this->modelsManager->createBuilder()
-			->
+		$result = Localcategory::find()->toArray();
+		$this->dataReturn($result);
 	}
 }
