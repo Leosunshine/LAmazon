@@ -41,8 +41,6 @@
 						if(typeof(amazon_category_id) === 'object'){
 							amazon_category_id = amazon_category_id[amazon_category_second];
 						}
-					}else{
-						return;
 					}
 
 					var child_name = $("#category_name").val();
@@ -83,6 +81,26 @@
 <script type="text/javascript">
 	
 	$(function(){
+		//首要任务: 加载亚马逊分类信息
+		$.post("/dataprovider/listcategory",{id:Math.random()},function(data, status, jqxhr){
+			if(data.success){
+				window.categories = data.success;
+				window.categoriesDic = data.dictionary;
+				window.categoriesMap = new Object();
+				for(var key in window.categories){
+					if(typeof(window.categories[key]) === "object"){
+						for(var index in window.categories[key]){
+							window.categoriesMap[window.categories[key][index]] = [key,index];
+						}
+					}else{
+						window.categoriesMap[window.categories[key]] = [key];
+					}
+				}
+				resetAmazoncategory(window.categories);
+			}
+		});
+
+
 		window.zTreeSetting = {
 			view:{
 				dblClickExpand: false,
@@ -125,11 +143,20 @@
 			callback:{
 				beforeRename: function(treeId, treeNode, newName, isCancel){
 					if(isCancel) return true;
+					if(0 === treeNode.level){
+						console.log("根节点不允许编辑");
+						$.fn.zTree.getZTreeObj(treeId).cancelEditName();
+						return false;
+					}
 					var targetId = treeNode.id;
 					$.post("/product/renamelocalcategory",{targetId:targetId,newName:newName});
 					return true;
 				},
 				beforeRemove: function(treeId,treeNode){
+					if(0 === treeNode.level){
+						alert("根节点不允许删除操作,若想清空分类表，请点击 清空分类表 按钮进行");
+						return false;
+					}
 					var targetId = treeNode.id;
 					var ids = window.getChildenIds(treeNode); //递归获得待删除条目数量
 					var isDelete = confirm("是否删除分类"+treeNode.name+"及其所有子分类？\n本操作将对"+ids.length+"种分类进行删除，请谨慎选择");
@@ -139,25 +166,31 @@
 					return true;
 				},
 				onDblClick: function(e,treeId,treeNode){
+					if(0 === treeNode.level){
+						alert("根节点不允许编辑");
+						return false;
+					}
 					var aObj = $("#"+treeNode.tId+"_a");
 					aObj.mouseout();
 					$("#edit_panel").prop("mode","modify");
 					$("#edit_panel").prop("treeNode",treeNode);
 					$("#edit_info").html("修改分类  <span style='color:red'>" + treeNode.name+"</span> 基本信息");
 					$("#category_name").val(treeNode.name);
+					var amazon_id = treeNode.amazon_category_id;
+					var amazon_category = window.categoriesMap[amazon_id+""];
+					if(amazon_category){
+						$("#category_options_0").val(amazon_category.length > 0? amazon_category[0]: "");
+						$("#category_options_1").val(amazon_category.length <= 1?"":amazon_category[1]);
+					}else{
+						$("#category_options_0").val("");
+						$("#category_options_1").val("");
+					}
 					$("#edit_panel").fadeIn("fast");
 				}
-
 			}
 		};
 
-		$.post("/dataprovider/listcategory",{id:Math.random()},function(data, status, jqxhr){
-			if(data.success){
-				window.categories = data.success;
-				window.categoriesDic = data.dictionary;
-				resetAmazoncategory(window.categories);
-			}
-		});
+		
 
 		$.post("/dataprovider/listlocalcategory",{id:Math.random()},function(data){
 			var nodes = data;
