@@ -117,6 +117,16 @@
 						$("#edit_panel").prop("mode","create");
 						$("#edit_panel").fadeIn('fast');
 						$("#edit_panel").prop("treeNode",treeNode);
+
+						var parent_amazon_id = treeNode.amazon_category_id;
+						var amazon_category = window.categoriesMap[parent_amazon_id+""];
+						if(amazon_category){
+							$("#category_options_0").val(amazon_category.length > 0? amazon_category[0]: "");
+							$("#category_options_1").val(amazon_category.length <= 1?"":amazon_category[1]);
+						}else{
+							$("#category_options_0").val("");
+							$("#category_options_1").val("");
+						}
 						$("#category_name").val("");
 						$("#edit_info").html("向分类  <span style='color:red;'>"+treeNode.name+"</span>  添加子分类");
 					});
