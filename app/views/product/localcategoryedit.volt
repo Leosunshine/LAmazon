@@ -2,7 +2,7 @@
 <script type="text/javascript" src="/js/jquery.ztree.all.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/ztree/metroStyle/metroStyle.css">
 <div style="width:100%;height:90%;overflow-y: auto;">
-	<button id="truncateTable">清空分类表</button><span style="color:red;">提示：双击分类修改亚马逊分类</span>
+	<button class="btn btn-danger" id="truncateTable">清空分类表</button><span style="color:red;">提示：双击分类修改亚马逊分类</span>
 	<script type="text/javascript">
 		$(function(){$("#truncateTable").bind("click",function(){$.get("/product/truncatelocalcategory",{},function(data){
 			if(data.success){
@@ -107,7 +107,7 @@
 				addHoverDom:function(treeId, treeNode){
 					var aObj = $("#"+treeNode.tId+"_a");
 					if ($("#diyButton_"+treeNode.id).length>0) return;
-					var btn =$("<button id='diyButton_"+treeNode.id+"'>添加子分类</button>");
+					var btn =$("<span class='button add' title='添加子分类' id='diyButton_"+treeNode.id+"'></span>");
 					btn.prop("treeNode",treeNode);
 					btn.prop("treeId",treeId);
 					btn.bind("click",function(){
@@ -122,9 +122,11 @@
 						var amazon_category = window.categoriesMap[parent_amazon_id+""];
 						if(amazon_category){
 							$("#category_options_0").val(amazon_category.length > 0? amazon_category[0]: "");
+							$("#category_options_0").change();
 							$("#category_options_1").val(amazon_category.length <= 1?"":amazon_category[1]);
 						}else{
 							$("#category_options_0").val("");
+							$("#category_options_0").change();
 							$("#category_options_1").val("");
 						}
 						$("#category_name").val("");
@@ -135,12 +137,15 @@
 				},
 				removeHoverDom: function(treeId, treeNode){	
 					$("#diyButton_"+treeNode.id).unbind().remove();
-				}
+				},
+
 			},
 			edit:{
 				enable:true,
 				showRemoveBtn:true,
-				showRenameBtn:true
+				showRenameBtn:true,
+				removeTitle:"删除本分类",
+				renameTitle:"重命名"
 			},
 			data:{
 				simpleData:{
@@ -190,9 +195,11 @@
 					var amazon_category = window.categoriesMap[amazon_id+""];
 					if(amazon_category){
 						$("#category_options_0").val(amazon_category.length > 0? amazon_category[0]: "");
+						$("#category_options_0").change();
 						$("#category_options_1").val(amazon_category.length <= 1?"":amazon_category[1]);
 					}else{
 						$("#category_options_0").val("");
+						$("#category_options_0").change();
 						$("#category_options_1").val("");
 					}
 					$("#edit_panel").fadeIn("fast");
@@ -210,9 +217,10 @@
 		});
 
 		function resetAmazoncategory(categories){
-			$("#category_options_0").html("");
+			$("#category_options_0").html("<option style='display:none' value=''></option>");
 			$("#category_options_0").unbind();
 			$("#category_options_0").prop("categories",categories);
+
 			for(var first in categories){
 				$("#category_options_0").append($("<option value='"+first+"'>"+window.categoriesDic[first]+"</option>"));
 			}
@@ -220,6 +228,7 @@
 				var categories = $(this).prop("categories");
 				var entry = $(this).val();
 				$("#category_options_1").html("");
+				$("#category_options_1").val("");
 				if(categories[entry] && typeof(categories[entry]) === 'object'){
 					for(var second in categories[entry]){
 						$("#category_options_1").append($("<option value='"+second+"'>"+window.categoriesDic[second]+"</option>"));
