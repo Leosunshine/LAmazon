@@ -161,7 +161,6 @@
 					var ids = window.getChildenIds(treeNode); //递归获得待删除条目数量
 					var isDelete = confirm("是否删除分类"+treeNode.name+"及其所有子分类？\n本操作将对"+ids.length+"种分类进行删除，请谨慎选择");
 					ids = ids.join("|");
-					alert(isDelete);
 					if(!isDelete) return false;
 					$.post("/product/deletelocalcategory",{ids:ids,id:Math.random()});
 					return true;
