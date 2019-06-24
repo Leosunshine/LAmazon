@@ -612,6 +612,9 @@ class ProductController extends ControllerBase
 		$parent_id = $this->request->getPost("parent_id");
 		$child_name = $this->request->getPost("child_name");
 		$amazon_id = $this->request->getPost("amazon_id");
+		$amazon_node_path = $this->request->getPost("amazon_node_path");
+		$amazon_nodeId = $this->request->getPost("amazon_nodeId");
+
 
 		if(!$parent_id || !$child_name || !$amazon_id){
 			$this->dataReturn(array("error"=>"wrong parameters"));
@@ -634,6 +637,9 @@ class ProductController extends ControllerBase
 		$localCategory->is_end_point = 1;
 		$localCategory->parent_id = $parent_id;
 		$localCategory->amazon_category_id = $amazon_id;
+		$localCategory->amazon_node_path = $amazon_node_path;
+		$localCategory->amazon_nodeId = $amazon_nodeId;
+
 		$localCategory->create();
 
 		if($parent->is_end_point === 1){
@@ -650,6 +656,8 @@ class ProductController extends ControllerBase
 		$targetId = $this->request->getPost("targetId");
 		$name = $this->request->getPost("child_name");
 		$amazon_id = $this->request->getPost("amazon_id");
+		$amazon_node_path = $this->request->getPost("amazon_node_path");
+		$amazon_nodeId = $this->request->getPost("amazon_nodeId");
 
 		if(!$targetId || !$name || !$amazon_id){
 			$this->dataReturn(array("error"=>"wrong parameters"));
@@ -665,6 +673,8 @@ class ProductController extends ControllerBase
 
 		$target->name = $name;
 		$target->amazon_category_id = $amazon_id;
+		$target->amazon_node_path = $amazon_node_path;
+		$target->amazon_nodeId = $amazon_nodeId;
 		$target->save();
 
 		$now = localCategory::find()->toArray();

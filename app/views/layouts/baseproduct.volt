@@ -16,6 +16,8 @@
         <script type="text/javascript" src="/js/jquery-ui.js"></script>
         <link rel="stylesheet" type="text/css" href="/jqGrid/css/jquery-ui.min.css">
         <link rel="stylesheet" type="text/css" href="/font-awesome/css/font-awesome.css">
+        <script type="text/javascript" src="/js/jquery.ztree.all.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/ztree/metroStyle/metroStyle.css">
         <style type="text/css">
             html,body{
                 width:100%;

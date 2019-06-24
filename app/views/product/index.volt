@@ -119,7 +119,10 @@
 <div id="downcontent" style="width:100%;height:90%;">
 	<div id="entry" style="width:18%;height:100%;float:left;">
 		<div style="width:100%;height:5%;"></div>
-		<div id="group_panel" style="width:90%;height:50%;margin:auto;background-color: rgba(202,133,106,1);">分类树形图区</div>
+		<div id="group_panel" style="width:90%;height:50%;margin:auto;background-color: rgba(202,133,106,1); overflow-y:auto;">
+			<div class="ztree" id="category_ztree_entry"></div>
+		</div>
+
 		<hr>
 		<div id="supplier_entry" style="width:90%;height:10%;background-color: silver; margin:auto; text-align: center;">供应商</div>
 		<hr>
@@ -625,12 +628,79 @@
 	</script>
 </div>
 
-<div id="local_category_panel" targetInputId="" style="position: absolute;left: 0; top:0; background-color: rgba(0,0,0,0.3);width:100%;height:100%;">
+<div id="local_category_panel" targetInputId="" style="position: absolute;left: 0; top:0; background-color: rgba(0,0,0,0.3);width:100%;height:100%;display:none;">
 	<div style="height:5%;"></div>
 	<div class="well" style="width:90%;height:80%;margin:0 auto;">
 		<span style="font-size:25px;">分类选择</span><br/>
 		<div style="width:95%;height:90%;">
-			
+			<input type="text" id="local_category_label"><br/>
+			<div class="ztree" id="category_select_ztree"></div>
+			<script type="text/javascript">
+				$(function(){
+					var setting_entry = {
+						edit:{
+							enable:false
+						},
+						data:{
+							simpleData:{
+								enable:true,
+								idKey:"id",
+								pIdKey:"parent_id",
+								rootPId:"1"
+							}
+						}
+					}
+
+					var setting = {
+						edit:{
+							enable:false
+						},
+						data:{
+							simpleData:{
+								enable:true,
+								idKey:"id",
+								pIdKey:"parent_id",
+								rootPId:"1"
+							}
+						},
+						callback:{
+							onClick:function(e,treeId,treeNode,clickFlag){
+								if(treeNode.isParent){
+									//暂定为父类不可以被选中
+									var treeObj = $.fn.zTree.getZTreeObj(treeId);
+									treeObj.cancelSelectedNode(treeNode);
+									return;
+								}
+
+								var category_label = treeNode.name;
+								var node = treeNode;
+								while(true){
+									node = node.getParentNode();
+									if(!node) break;
+									if(node.name == "root") break;
+									category_label = node.name + "/" + category_label;
+								}
+
+								$("#local_category_label").val(category_label);
+
+
+
+							}
+						}
+					};
+
+					$.post("/dataprovider/listlocalcategory",{id:Math.random()},function(data){
+						window.localCategories = data;
+
+						var nodes = data;
+						var tree = $.fn.zTree.init($("#category_select_ztree"),setting,nodes);
+						$.fn.zTree.init($("#category_ztree_entry"),setting_entry,nodes).expandAll(true);
+
+						tree.expandAll(true);
+						window.tree = tree;
+					});
+				});
+			</script>
 		</div>
 		<div style="width:100%;height:10%;text-align: center;">
 			<button class="btn btn-primary">确定</button>

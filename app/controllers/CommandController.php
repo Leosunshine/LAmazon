@@ -219,4 +219,119 @@ class CommandController extends ControllerBase
 		$transaction->commit();
 
 	}
+
+	public function loadAmazonNodePathAction(){
+		$this->view->disable();
+		return;
+		echo "<meta charset='utf-8'/><pre/>";
+		$manager = new TxManager();
+		$transaction = $manager->get();
+
+		$content = file_get_contents("./files/csvs/watches1.txt");
+		$first_level_category = "Uhren";
+		$contents = explode("\n", $content);
+		// $root = new AmazonNodePathsDe();
+		// $root->setTransaction($transaction);
+
+		// $root->nodeId = 0;
+		// $root->name = "root";
+		// $root->name_remark = "根";
+		// $root->level = 0;
+		// $root->parent_id = 0;
+		// $root->parent_name = "";
+		// $root->path = "";
+		// $root->is_end_point = "0";
+		// $root->create();
+		
+		$name_id_map = array("root"=>1);
+		$nodes = array();
+
+		foreach ($contents as $key => $value) {
+
+			$nodePathInstance = new AmazonNodePathsDe();
+			$nodePathInstance->setTransaction($transaction);
+
+			$values = explode("\t", $value);
+			$nodeId = $values[0];
+
+			if(count($values) <2){
+				print_r($values);
+				break;
+			}
+			$path = $values[1];
+
+			$names = explode("/", $path);
+			$name = $names[count($names) - 1];
+			$name = trim($name);
+			$name = trim($name,"\"");
+			$path = trim($path);
+			$path = trim($path,"\"");
+			$parent_name = count($names) > 1?substr($path, 0, -strlen($name) - 1): "root";
+			$nodePathInstance->path = $path;
+			$nodePathInstance->name = $name;
+			$nodePathInstance->parent_name = $parent_name;
+			$nodePathInstance->level = count($names);
+			$nodePathInstance->nodeId = $nodeId;
+			$nodePathInstance->is_end_point = 1;
+			$nodePathInstance->first_level_category = $first_level_category;
+			try{
+			 	$nodePathInstance->save();
+			 	$name_id_map[$path] = $nodePathInstance->id;
+			 	$nodes[] = $nodePathInstance;
+			}catch(TxFailed $e){
+				print($e);
+			}
+		}
+		
+
+		foreach ($nodes as $key => $node) {
+			if(!isset($name_id_map[$node->parent_name])){
+				$path = $node->path;
+				$name_array = explode("/",$path);
+				$node->name = $name_array[count($name_array) - 2]."/".$name_array[count($name_array) - 1];
+				$node->level = $node->level - 1;
+				$node->parent_name = substr($path, 0, -strlen($node->name) - 1);
+				$node->parent_id = $name_id_map[$node->parent_name];
+			}else{
+				$node->parent_id = $name_id_map[$node->parent_name];
+			}
+			
+			$node->save();
+		}
+		try{
+		 	$transaction->commit();
+		}catch(TxFailed $e){
+			$transaction->rollback();
+			print_r($e);
+		}
+		echo "success";
+	}
+
+	public function writesecondAction(){
+		$this->view->disable();
+		$manager = new TxManager();
+		$transaction = $manager->get();
+		$nodes = AmazonNodePathsDe::find();
+		foreach ($nodes as $key => $node) {
+			if($node->level == 0) continue;
+			if($node->second_level_category) continue;
+			$node->setTransaction($transaction);
+
+			if($node->level == 1){
+				$node->second_level_category = $node->first_level_category."root";
+			}else{
+				$path = $node->path;
+				$categories = explode("/",$path);
+				$node->second_level_category = $categories[1];
+			}
+			$node->save();
+		}
+
+		try{
+			$transaction->commit();
+		}catch(TxFailed $e){
+			$transaction->rollback();
+			print_r($e);
+		}
+	}
 }

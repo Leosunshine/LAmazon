@@ -1,6 +1,6 @@
 <?php
 
-class Localcategory extends \Phalcon\Mvc\Model
+class AmazonNodePathsDe extends \Phalcon\Mvc\Model
 {
 
     /**
@@ -13,13 +13,25 @@ class Localcategory extends \Phalcon\Mvc\Model
      *
      * @var string
      */
+    public $nodeId;
+
+    /**
+     *
+     * @var string
+     */
     public $name;
 
     /**
      *
      * @var string
      */
-    public $remark;
+    public $name_remark;
+
+    /**
+     *
+     * @var string
+     */
+    public $path;
 
     /**
      *
@@ -41,21 +53,15 @@ class Localcategory extends \Phalcon\Mvc\Model
 
     /**
      *
-     * @var integer
+     * @var string
      */
-    public $amazon_category_id;
+    public $parent_name;
 
     /**
      *
      * @var string
      */
-    public $amazon_node_path;
-
-    /**
-     *
-     * @var string
-     */
-    public $amazon_nodeId;
+    public $first_level_category;
 
     /**
      * Returns table name mapped in the model.
@@ -64,14 +70,14 @@ class Localcategory extends \Phalcon\Mvc\Model
      */
     public function getSource()
     {
-        return 'localcategory';
+        return 'amazon_node_paths_de';
     }
 
     /**
      * Allows to query a set of records that match the specified conditions
      *
      * @param mixed $parameters
-     * @return Localcategory[]
+     * @return AmazonNodePathsDe[]
      */
     public static function find($parameters = null)
     {
@@ -82,7 +88,7 @@ class Localcategory extends \Phalcon\Mvc\Model
      * Allows to query the first record that match the specified conditions
      *
      * @param mixed $parameters
-     * @return Localcategory
+     * @return AmazonNodePathsDe
      */
     public static function findFirst($parameters = null)
     {

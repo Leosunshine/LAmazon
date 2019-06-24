@@ -229,7 +229,45 @@ class DataproviderController extends ControllerBase
 	}
 
 	public function listLocalCategoryAction(){
-		$result = Localcategory::find()->toArray();
+		$result = Localcategory::find('level < 3')->toArray();
 		$this->dataReturn($result);
+	}
+
+	public function listAmazonNodesAction(){
+		$this->view->disable();
+		$max_level = $this->request->getPost("max_level");
+		$first_level_category = $this->request->getPost('first');
+		$second_level_category = $this->request->getPost('second');
+
+		$binds = array();
+		if("__any" === $first_level_category){
+			$first_condition = "";	
+		}else{
+			$first_condition = " and first_level_category = :first:";
+			$binds['first'] = $first_level_category;
+		}
+
+		if("__any" === $second_level_category){
+			$second_condition = "";
+		}else{
+			$second_condition = " and (second_level_category = :second: or second_level_category = :second_root:)";
+			$binds['second'] = $second_level_category;
+			$binds['second_root'] = $first_level_category."root";
+		}
+
+		if($max_level){
+			$max_condition = "level <= :max_level:";
+			$binds['max_level'] = $max_level;
+		}else{
+			$max_condition = "1 = 1";
+		}
+		$condition = "$max_condition $first_condition $second_condition";
+		$nodes = AmazonNodePathsDe::find(array(
+			$condition,
+			"bind"=>$binds
+		))->toArray();
+
+		$this->dataReturn($nodes);
+
 	}
 }
