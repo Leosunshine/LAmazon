@@ -167,8 +167,15 @@
 		<div style="width:100%;height:80%;overflow-y: auto;">
 			<div style="width:100%;height:80%;">
 				<div style="width:50%;height:100%;line-height: 20px;float:left;">
-					<input type="text" style="width:60%;" readonly="true" name="category_local">
-					<button class="btn btn-primary">选择分类</button>
+					<input id="category_local_input" type="text" style="width:60%;" readonly="true" name="category_local" onclick="$('#category_local_button').click();">
+					<button id="category_local_button" class="btn btn-primary">选择分类</button>
+					<script type="text/javascript">
+						$(function(){
+							$("#category_local_button").click(function(){
+								$("#local_category_panel").show();
+							});
+						});
+					</script>
 					<br/>
 					<br/>
 					<span style="font-weight: bold;">审核状态:</span>	
@@ -628,7 +635,7 @@
 	</script>
 </div>
 
-<div id="local_category_panel" targetInputId="" style="position: absolute;left: 0; top:0; background-color: rgba(0,0,0,0.3);width:100%;height:100%;display:none;">
+<div id="local_category_panel" targetInputId="" style="position: absolute;left: 0; top:0; background-color: rgba(0,0,0,0.3);width:100%;height:100%;">
 	<div style="height:5%;"></div>
 	<div class="well" style="width:90%;height:80%;margin:0 auto;">
 		<span style="font-size:25px;">分类选择</span><br/>
@@ -703,7 +710,7 @@
 			</script>
 		</div>
 		<div style="width:100%;height:10%;text-align: center;">
-			<button class="btn btn-primary">确定</button>
+			<button class="btn btn-primary" onclick = "$('#category_local_input').val($('#local_category_label').val());$('#local_category_panel').fadeOut();">确定</button>
 			<button class="btn btn-danger" onclick="$('#local_category_panel').fadeOut();">取消</button>
 		</div>
 	</div>

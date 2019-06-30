@@ -136,6 +136,6 @@ class XMLTools
 		$content = file_get_contents($xsd);
 		$content = simplexml_load_string($content);
 		$ret = XMLTools::xmlToArray($content);
-		print_r($ret);
+		return $ret;
 	}
 }
