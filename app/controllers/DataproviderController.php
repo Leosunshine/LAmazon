@@ -243,29 +243,49 @@ class DataproviderController extends ControllerBase
 		if("__any" === $first_level_category){
 			$first_condition = "";	
 		}else{
-			$first_condition = " and first_level_category = :first:";
+			//$first_condition = " and first_level_category = :first:";
+			$first_condition = " and first_level_category = '$first_level_category'";
 			$binds['first'] = $first_level_category;
 		}
 
 		if("__any" === $second_level_category){
 			$second_condition = "";
 		}else{
-			$second_condition = " and (second_level_category = :second: or second_level_category = :second_root:)";
+			//$second_condition = " and (second_level_category = :second: or second_level_category = :second_root:)";
+			$second_condition = " and (second_level_category = '$second_level_category' or second_level_category = '$first_level_category"."root')";
 			$binds['second'] = $second_level_category;
 			$binds['second_root'] = $first_level_category."root";
 		}
 
 		if($max_level){
-			$max_condition = "level <= :max_level:";
+			//$max_condition = "level <= :max_level:";
+			$max_condition = "level <= $max_level";
 			$binds['max_level'] = $max_level;
 		}else{
 			$max_condition = "1 = 1";
 		}
 		$condition = "$max_condition $first_condition $second_condition";
-		$nodes = AmazonNodePathsDe::find(array(
-			$condition,
-			"bind"=>$binds
-		))->toArray();
+
+		$nodes = $this->modelsManager->createBuilder()
+				->columns(
+					array(
+						'AmazonNodePathsDe.id as id',
+						'AmazonNodePathsDe.nodeId as nodeId',
+						'AmazonNodePathsDe.name_remark as name',
+						'AmazonNodePathsDe.name as name_de',
+						'AmazonNodePathsDe.parent_name as parent_name',
+						'AmazonNodePathsDe.path_remark as path',
+						'AmazonNodePathsDe.path as path_de',
+						'AmazonNodePathsDe.parent_id as parent_id',
+						'AmazonNodePathsDe.first_level_category as first_level_category',
+						'AmazonNodePathsDe.second_level_category as second_level_category'
+					)
+				)
+				->from("AmazonNodePathsDe")
+				->where($condition)
+				->getQuery()
+				->execute()
+				->toArray();
 
 		$this->dataReturn($nodes);
 

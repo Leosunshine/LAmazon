@@ -165,7 +165,7 @@
 
 		public function test2Action(){
 			$this->view->disable();
-			$arts = XMLTools::readXsd("./temp/xsds/Collectibles.xsd");
+			$arts = XMLTools::readXsd("./temp/xsds/EUCompliance.xsd");
 			echo "<pre/>";
 
 			$elements_origin = $arts["schema"]["xsd:element"];
@@ -289,7 +289,12 @@
 			echo $file;
 		}
 
-
+		public function testTransAction(){
+			$this->view->disable();
+			$word = "Bekleidung";
+			$result = GoogleAPI::translate($word,"de","zh")["trans_result"];
+			print_r($result);
+		}
 		function getGUID(){
 		    if (function_exists('com_create_guid')){
 		        return com_create_guid();

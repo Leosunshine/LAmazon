@@ -254,7 +254,7 @@
 					$("#category_path_selected").prop("nodeId",treeNode.nodeId);
 					return;
 				}
-				var name = treeNode.name;
+				var name = treeNode.name_de;
 				var parent = treeNode.parent_name;
 
 				$.post("/dataprovider/listAmazonNodes",{id:Math.random(),first:parent,second:name},function(data){

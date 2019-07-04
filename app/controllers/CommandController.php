@@ -6,6 +6,7 @@ class CommandController extends ControllerBase
 	public function initialize(){
 		parent::initialize();
 		$this->view->disable();
+		set_time_limit(0);
 	}
 	public function indexAction(){
 		$products = Products::find("img is not null");
@@ -198,7 +199,6 @@ class CommandController extends ControllerBase
 	}
 
 	public function translateCategoryAction(){
-
 		$manager = new TxManager();
 		$transaction = $manager->get();
 
@@ -217,9 +217,68 @@ class CommandController extends ControllerBase
 		}
 
 		$transaction->commit();
-
 	}
 
+	public function translateNodepathAction(){
+		$nodes = AmazonNodePathsDe::find("id > 3000")->toArray();
+		$names = array();
+
+		foreach ($nodes as $key => $value) {
+			$names[] = $value['name'];
+		}
+		$out = implode("\n", $names);
+		file_put_contents("./word.txt", $out);
+	}
+
+	public function loadTranslationAction(){
+		return;
+		echo "<pre/>";
+		$nodes = AmazonNodePathsDe::find("id > 3000");
+		$words = file_get_contents("./word.txt");
+		$trans = file_get_contents("./translate.txt");
+		// $manager = new TxManager();
+		// $transaction = $manager->get();
+
+		$wordsLines = explode("\n", $words);
+		$transLines = explode("\n",$trans);
+		$coun = 0;
+		foreach ($transLines as $index => $translate) {
+			if($coun < 1000){
+				$coun++;
+				continue;
+			}
+			$word = $wordsLines[$index];
+			$tran = $translate;
+			if($word === $nodes[$index]->name){
+				//$nodes[$index]->setTransaction($transaction);
+				$nodes[$index]->name_remark = $tran;
+				$nodes[$index]->save();
+			}
+			$coun++;
+		}
+		// $transaction->commit();
+		echo "success";
+	}
+
+	public function writeAction(){
+		$nodes = AmazonNodePathsDe::find("id < 200");
+		echo count($nodes);
+	}
+
+	public function writePathRemarkAction(){
+		$nodes = AmazonNodePathsDe::find("level = 8");
+		
+		foreach ($nodes as $index => $node) {
+			if($node->level === "8"){
+				$parent_id = $node->parent_id;	
+				$parent = AmazonNodePathsDe::findFirst($parent_id)->toArray();
+				if($parent['path_remark']){
+					$node->path_remark = $parent['path_remark']."/".$node->name_remark;
+					$node->save();
+				}
+			}
+		}
+	}
 	public function loadAmazonNodePathAction(){
 		$this->view->disable();
 		return;

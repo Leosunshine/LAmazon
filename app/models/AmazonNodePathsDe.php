@@ -35,6 +35,12 @@ class AmazonNodePathsDe extends \Phalcon\Mvc\Model
 
     /**
      *
+     * @var string
+     */
+    public $path_remark;
+
+    /**
+     *
      * @var integer
      */
     public $level;
@@ -62,6 +68,12 @@ class AmazonNodePathsDe extends \Phalcon\Mvc\Model
      * @var string
      */
     public $first_level_category;
+
+    /**
+     *
+     * @var string
+     */
+    public $second_level_category;
 
     /**
      * Returns table name mapped in the model.
