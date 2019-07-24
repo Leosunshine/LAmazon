@@ -23,29 +23,7 @@ class AmazonAPI
 			$manufacturer = $product['manufacturer']?$product['manufacturer']:"Unknown manufacturer";
 			$category = $product['amazon_category_id'];
 			$category = Amazoncategory::findFirst($category)->toArray();
-			$productData = array(
-				"Home"=>array(
-					"ProductType"=>array(
-						"Chair"=>array(
-							"IdentityPackageType"=>"bulk"
-						)
-					)
-				)
-			);
-
-			//默认使用Home/Chair分类
-			// if($category['level'] == 1){
-			// 	continue;    //Clothing ClothingAccessory 还有 Tools 三种情况还未做处理
-			// }else if($category['level'] == 2){
-			// 	$productData[$category['parent_name']] = array(
-			// 		"ProductType"=>array(
-			// 			$category['name_en']=>""
-			// 		)
-			// 	);
-			// }else{
-			// 	continue;
-			// }
-
+			$productData =AmazonXSDFactory::construct($product);
 
 			$message[] = array(
 				"Message"=>array(
@@ -67,7 +45,8 @@ class AmazonAPI
 							"Brand"=>$brand,
 							"Description"=>"<![CDATA[$description]]>",
 							$bulletPoint,
-							"Manufacturer"=>$manufacturer
+							"Manufacturer"=>$manufacturer,
+							"RecommendedBrowseNode"=>$product['amazon_nodeId']
 						),
 						"ProductData"=>$productData
 					)
@@ -182,6 +161,48 @@ class AmazonAPI
 		$feed = XMLTools::Json2Xml($feed_json);
 		file_put_contents("./temp/temp.dat", $feed);
 		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_INVENTORY_AVAILABILITY_DATA_");
+	}
+
+	public static function updateShipping($products){
+		$amazon_config = LAMAZONConfig::$amazon_config;
+		$message = array();
+		$messageIndex = 1;
+
+		foreach ($products as $index => $product) {
+			$SKU = $product['SKU'];
+			$message[] = array(
+				"Message"=>array(
+					"MessageID" => ($index + 1),
+					"OperationType"=>"Update",
+					"Override"=>array(
+						"SKU"=>$SKU,
+						"ShippingOverride"=>array(
+							"ShipOption"=>"Exp",
+							"Type"=>"Additive",
+							"ShipAmount"=>array(
+								$product["fixed_shipping"],
+								"__properties"=>array(
+									"currency"=>"GBP"
+								)
+							)
+						)
+					)
+				)
+			);
+		}
+
+		$feed_json = array(
+			"AmazonEnvelope" => array(
+				"DocumentVersion" => 1.01,
+				"MerchantIdentifier" => $amazon_config['MERCHANT_ID']
+			),
+			"MessageType"=>"Override",
+			$message
+		);
+
+		$feed = XMLTools::Json2Xml($feed_json);
+		file_put_contents("./temp/temp.dat", $feed);
+		return 0;
 	}
 	public static function deleteAProduct($SKU){
 		$feed = "<?xml version='1.0' encoding='utf-8'?>

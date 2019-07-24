@@ -175,6 +175,18 @@ class Products extends \Phalcon\Mvc\Model
      *
      * @var string
      */
+    public $amazon_node_path;
+
+    /**
+     *
+     * @var string
+     */
+    public $amazon_nodeId;
+
+    /**
+     *
+     * @var string
+     */
     public $customs_hscode;
 
     /**
@@ -248,12 +260,6 @@ class Products extends \Phalcon\Mvc\Model
      * @var integer
      */
     public $matel_type_id;
-
-    /**
-     *
-     * @var integer
-     */
-    public $material_type_id;
 
     /**
      *
@@ -392,6 +398,12 @@ class Products extends \Phalcon\Mvc\Model
      * @var integer
      */
     public $international_shipping_id;
+
+    /**
+     *
+     * @var string
+     */
+    public $variation_theme;
 
     /**
      *

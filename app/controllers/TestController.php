@@ -165,7 +165,17 @@
 
 		public function test2Action(){
 			$this->view->disable();
-			$arts = XMLTools::readXsd("./temp/xsds/EUCompliance.xsd");
+			$product = Products::find()->toArray();
+			echo AmazonAPI::createProduct($product);
+		}
+
+		public function testScriptAction(){
+			$this->view->disable();
+			Tools::removeDir("./img/8/");
+		}
+
+		public function handleCat($fileName){
+			$arts = XMLTools::readXsd("./temp/xsds/categories/$fileName.xsd");
 			echo "<pre/>";
 
 			$elements_origin = $arts["schema"]["xsd:element"];
@@ -180,23 +190,102 @@
 			
 			$arts = array();
 			$arts[$level_first] = array();
-			foreach ($productType as $key => $value) {
-				if("ProductType" !== $value["name"]) continue;
-				$types = $value["children"];
-				foreach ($types as $index => $type) {
-					if(array_key_exists("ref", $type)){
-						$arts[$level_first][] = $type["ref"];
-					}else if(array_key_exists("name", $type)){
-						$arts[$level_first][] = $type["name"];
-					}						
-				}
+			$arts[$level_first]['ProductType'] = array();
+			$arts[$level_first]['VariationData'] = array();
+			$arts[$level_first]['__necessary'] = array();
+			$arts[$level_first]['__unnecessary'] = array();
 
-				break;
+			foreach ($productType as $key => $value) {
+				if(array_key_exists("name", $value)){
+					if("ProductType" === $value["name"]){
+						if(!array_key_exists("children", $value)){
+							echo "$fileName<br/>";
+							continue;
+						}
+						$types = $value["children"];
+						foreach ($types as $index => $type) {
+							if(array_key_exists("ref", $type)){
+								//子分类新建数组
+								$second = array();
+								$second['__necessary'] = array();
+								$second['__unnecessary'] = array();
+								$second["VariationData"] = array();
+
+								$ref = $this->getElementByName($ret,$type["ref"])["children"];
+								foreach ($ref as $key => $r) {
+									if(array_key_exists("name", $r)){
+										if($r['name'] === "VariationData"){
+											$second["VariationData"] = $this->handleVariationData($r);
+										}else if(isset($r['minOccurs']) && ($r['minOccurs'] > 0)){
+											$second['__necessary'][$r['name']] = $r;
+										}else{
+											$second['__unnecessary'][$r['name']] = $r;
+										}
+									}
+								}
+								$arts[$level_first]['ProductType'][$type["ref"]] = $second;
+							}else if(array_key_exists("name", $type)){
+								$second = array();
+								$second['__necessary'] = array();
+								$second['__unnecessary'] = array();
+								$second["VariationData"] = array();
+								if(!array_key_exists("children", $type)){
+									if(isset($type['minOccurs']) && ($type['minOccurs'] > 0)){
+										$second['__necessary'][$type['name']] = $type;
+									}else{
+										$second['__unnecessary'][$type['name']] = $type;
+									}
+								}else{
+									$ref = $type['children'];
+									foreach ($ref as $key => $r) {
+										if(array_key_exists("name", $r)){
+											if($r['name'] === "VariationData"){
+												$second["VariationData"] = $this->handleVariationData($r);
+											}else if(isset($r['minOccurs']) && ($r['minOccurs'] > 0)){
+												$second['__necessary'][$r['name']] = $r;
+											}else{
+												$second['__unnecessary'][$r['name']] = $r;
+											}
+										}
+									}
+								}
+								$arts[$level_first]['ProductType'][$type["name"]] = $second;
+							}						
+						}
+					}else if("VariationData" == $value['name']){
+						//说明在大类中指定变体主题
+						$arts[$level_first]['VariationData'] = $this->handleVariationData($value);
+					}else{
+						if(isset($value['minOccurs']) && ($value['minOccurs'] > 0)){
+							$arts[$level_first]['__necessary'][$value['name']] = $value;
+						}else{
+							$arts[$level_first]['__unnecessary'][$value['name']] = $value;
+						}
+					}
+				}else if(array_key_exists("ref", $value)){
+					if(isset($value['minOccurs']) && ($value['minOccurs'] > 0)){
+						$arts[$level_first]['__necessary'][$value['ref']] = $value;
+					}else{
+						$arts[$level_first]['__unnecessary'][$value['ref']] = $value;
+					}
+				}
+				
 			}
 
-			print_r($arts);
+			file_put_contents("./temp/reference/$fileName.json", json_encode($arts,JSON_PRETTY_PRINT));
 		}
+		function handleVariationData($variation){
+			$ret = array();
+			$variations = $variation['children'];
+			foreach ($variations as $index => $variation) {
+				switch ($variation['name']) {
+					case "Parentage": $ret['Parentage'] = array('parent','child');break;
+					case "VariationTheme": $ret['VariationTheme'] = $variation['enumeration'];break;
+				}
+			}
 
+			return $ret;
+		}
 		function handleElement($element){
 			if(!is_array($element) && !is_object($element)) return $element;
 			$ret = array();
@@ -259,6 +348,16 @@
 			}
 
 			return $ret;
+		}
+
+		function getElementByName($elements,$name){
+			foreach ($elements as $index => $element) {
+				if($name === $element["name"]){
+					return $element;
+				}
+			}
+
+			return false;
 		}
 
 		public function deleteProductsAction(){

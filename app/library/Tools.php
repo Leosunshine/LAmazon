@@ -19,4 +19,16 @@ class Tools
 	       return $uuid;
 	   }
 	}
+
+	public static function removeDir($dir){
+		$dir = trim($dir,"/");
+		$files = scandir($dir);
+		foreach ($files as $key => $file) {
+			if("." === $file || ".." === $file) continue;
+			if(file_exists($dir."/".$file)){
+				unlink($dir."/".$file);
+			}
+		}
+		rmdir($dir);
+	}
 }

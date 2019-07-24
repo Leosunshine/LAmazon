@@ -323,7 +323,6 @@ class ProductController extends ControllerBase
 				"guid = :guid:",
 				"bind"=>array("guid"=>$guid)
 			));
-			if($main_image_id == 0) $main_image_id = $image_url->id;
 			if(!$image_url){
 				//新增图片
 				$image_url = ImageUrls::findFirst(array(
@@ -341,6 +340,7 @@ class ProductController extends ControllerBase
 
 				try {
 					$image_url->save();
+					if($main_image_id == 0) $main_image_id = $image_url->id;
 				} catch (Exception $e) {
 					$transaction->rollback();
 				}
@@ -518,8 +518,8 @@ class ProductController extends ControllerBase
 				try {	$image_instance->save();	} catch (Exception $e) {	$transaction->rollback();	}
 			}
 		}
-
-		rmdir("./img/".$product_id);
+		
+		Tools::removeDir("./img/".$product_id);
 
 		$product_instance->delete();
 
@@ -640,6 +640,8 @@ class ProductController extends ControllerBase
 		$localCategory->amazon_node_path = $amazon_node_path;
 		$localCategory->amazon_nodeId = $amazon_nodeId;
 
+		$amazonCategory = Amazoncategory::findFirst($amazon_id)->toArray();
+		$localCategory->variation_theme = $amazonCategory['variation_theme'];
 		$localCategory->create();
 
 		if($parent->is_end_point === 1){
@@ -675,6 +677,10 @@ class ProductController extends ControllerBase
 		$target->amazon_category_id = $amazon_id;
 		$target->amazon_node_path = $amazon_node_path;
 		$target->amazon_nodeId = $amazon_nodeId;
+
+		$amazonCategory = Amazoncategory::findFirst($amazon_id)->toArray();
+		$target->variation_theme = $amazonCategory['variation_theme'];
+
 		$target->save();
 
 		$now = localCategory::find()->toArray();

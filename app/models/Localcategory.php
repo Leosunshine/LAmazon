@@ -49,6 +49,12 @@ class Localcategory extends \Phalcon\Mvc\Model
      *
      * @var string
      */
+    public $variation_theme;
+
+    /**
+     *
+     * @var string
+     */
     public $amazon_node_path;
 
     /**

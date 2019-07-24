@@ -108,8 +108,12 @@ class DataproviderController extends ControllerBase
 			}
 		}
 
+		$themes = Amazoncategory::findFirst($product_instance['amazon_category_id'])->toArray();
+		$themes = $themes["variation_theme"];
 		$product_instance['images'] = $images_return;
 		$product_instance['variation_node'] = $variations_return;
+		$product_instance['themes'] = $themes;
+
 		$this->dataReturn(array("success"=>$product_instance));
 	}
 

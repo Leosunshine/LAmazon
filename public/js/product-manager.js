@@ -170,7 +170,6 @@
 			if(data.success){
 				var host = jqxhr.host;
 				host.refreshProductList(host.limit, host.offset, host.orderBy, host.asc, host.condition);
-				alert(data.success);
 			}
 		}).host = this;
 	}
@@ -201,7 +200,14 @@
 			rand: Math.random()
 		};
 		$.post(this.updateUrl,request,function(data,status,jqxhr){
-				
+			if(data.success){
+				alert("商品信息提交成功,商品编号为: " + data.success);
+			}else{
+				alert("数据储存出错");
+			}
+			$("#addProductPanel").fadeOut('fast');
+			var host = jqxhr.host;
+			host.refreshProductList(10,0,undefined,undefined,undefined);
 		}).host = this;
 	}
 

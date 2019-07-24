@@ -46,6 +46,12 @@ class Amazoncategory extends \Phalcon\Mvc\Model
     public $parent;
 
     /**
+     *
+     * @var string
+     */
+    public $variation_theme;
+
+    /**
      * Returns table name mapped in the model.
      *
      * @return string

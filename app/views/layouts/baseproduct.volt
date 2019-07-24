@@ -32,7 +32,7 @@
         <div style="width:10%;height:100%;float:left;"></div>
         <div style="width:10%;height:100%;font-size: 20px;float:left;cursor:pointer;" onclick="window.location.href='/product'"><div style="height:20%;"></div>产品管理<span class="fa fa-pencil"></span></div>
         <div style="width:10%;height:100%; font-size: 20px;float:left;cursor: pointer;" onclick="window.location.href='/product/localcategoryedit'"><div style="height:20%;"></div>分类管理</div>
-        <div style="width:10%;height:100%;font-size: 20px;float:left;cursor:pointer;" onclick="window.location.href='#'"><div style="height:20%;"></div>amazon<br/>上传</span></div>
+        <div style="width:10%;height:100%;font-size: 20px;float:left;cursor:pointer;" onclick="window.location.href='/amazon/amazonupload'"><div style="height:20%;"></div>amazon<br/>上传</span></div>
         <div style="width:10%;height:100%;font-size: 20px;float:left;cursor:pointer;" onclick="window.location.href='/login/logout'"><div style="height:20%;"></div>退出登录</span></div>
     </div>
         <!--div class="container"-->

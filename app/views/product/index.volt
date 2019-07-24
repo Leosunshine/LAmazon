@@ -167,7 +167,11 @@
 		<div style="width:100%;height:80%;overflow-y: auto;">
 			<div style="width:100%;height:80%;">
 				<div style="width:50%;height:100%;line-height: 20px;float:left;">
-					<input id="category_local_input" type="text" style="width:60%;" readonly="true" name="category_local" onclick="$('#category_local_button').click();">
+					<input id="category_local_input" class="product_panel_text_selector" type="text" style="width:60%;" readonly="true" name="category_local" onclick="$('#category_local_button').click();">
+					<input id="amazon_category_id_input" class="product_panel_text_selector" type="text" style="display:none;" readonly="true" name="amazon_category_id"/>
+					<input id="node_path_input" class="product_panel_text_selector" type="text" name="amazon_node_path" style="display:none;" readonly="true">
+					<input id="nodeId_input" class="product_panel_text_selector" type="text" name="amazon_nodeId" style="display:none;" readonly="true">
+
 					<button id="category_local_button" class="btn btn-primary">选择分类</button>
 					<script type="text/javascript">
 						$(function(){
@@ -256,6 +260,8 @@
 
 			<div style="width:100%;height:50%;">
 				编辑变体:<button onclick="addAVariation({});">新增</button>
+				变体主题:
+				<select id="variation_theme_options" class="product_panel_select_selector" name="variation_theme"></select>
 				<table cellspacing="0" cellpadding="0" style="width:90%;text-align: center;">
 					<tr style="height:100%;width:100%;">
 						<td style="width:10%;height:100%;">变体</td>
@@ -415,7 +421,7 @@
 		</div>
 		<div style="width:100%;height:10%;text-align:center;padding-top:10px;">
 			<!--button class="btn-primary">缓存表单</button-->
-			<button class="btn-primary" onclick="productManager.updateProduct(getProductInstance(),$('#addProductPanel').prop('product_id'));$('#addProductPanel').fadeOut('fast');">提交</button>
+			<button class="btn-primary" onclick="productManager.updateProduct(getProductInstance(),$('#addProductPanel').prop('product_id'));">提交</button>
 			<button class="btn-danger" onclick="$('#addProductPanel').fadeOut();">取消</button>
 		</div>
 	</div>
@@ -440,28 +446,35 @@
 			});
 		}
 		function initProductForm(product){
+			//处理基本字段: text
 			$(".product_panel_text_selector").each(function(){
 				var content = product[$(this).attr("name")]|| "";
 				$(this).val(content);
 			});
+
+			//处理基本字段: 可选
 			$(".product_panel_select_selector").each(function(){
 				var content = product[$(this).attr("name")] || "";
 				$(this).val(content);
 			});
+
+			//处理基本字段: 长文本
 			$(".product_panel_textarea_selector").each(function(){
 				var content = product[$(this).attr("name")] || "";
 				$(this).val(content);
 			});
+
+			//处理基本字段: 单选
 			$(".product_panel_radio_selector").each(function(){
 				var content = product[$(this).attr("name")] || "";
 				if($(this).val() === content){
 					$(this).prop("checked",true);
 				}else{
 					$(this).prop("checked",false);
-				} 
+				}
 			});
 
-			
+			//处理基本字段: 多选
 			$(".product_panel_checkbox_selector").each(function(){
 				var content = product[$(this).attr("name")];
 				if(!content){
@@ -483,7 +496,7 @@
 				}
 			});
 
-			
+			//初始化照片上传组件与初始照片
 			window.imageUploader.clear();
 			var images = product['images'];
 			if(images){
@@ -491,6 +504,8 @@
 					imageUploader.addAImgCard(images[i].guid,images[i].url,images[i].file_name);
 				}
 			}
+
+			//初始化变体组件
 			$("#variation_table").html("");
 			if(product['variation_node']){
 				var variations = product['variation_node'];
@@ -502,6 +517,19 @@
 					}
 					addAVariation(variations[i]);
 				}
+			}
+
+			//初始化变体主题
+			if(product['themes']){
+				$("#variation_theme_options").html("");
+				var themes = product["themes"];
+				themes = themes.split("|");
+				
+				for(var i in themes){
+					$("#variation_theme_options").append($("<option value='"+themes[i]+"'>"+themes[i]+"</option>"));
+				}
+			}else{
+				$("#variation_theme_options").html("<option>请先选择分类</option>");
 			}
 		}
 
@@ -547,12 +575,6 @@
 			});
 
 			product.variations = variations;
-			var first_level_category = $("#category_options_0").val();
-			var second_level_category = $("#category_options_1").val();
-			var categories = [first_level_category];
-			if(second_level_category) categories.push(second_level_category);
-			var amazon_category_id = window.productManager.getCategoriesContent(categories);
-			product.amazon_category_id = amazon_category_id;
 			return product;
 		}
 	</script>
@@ -635,7 +657,7 @@
 	</script>
 </div>
 
-<div id="local_category_panel" targetInputId="" style="position: absolute;left: 0; top:0; background-color: rgba(0,0,0,0.3);width:100%;height:100%;">
+<div id="local_category_panel" targetInputId="" style="position: absolute;left: 0; top:0; background-color: rgba(0,0,0,0.3);width:100%;height:100%;display: none;">
 	<div style="height:5%;"></div>
 	<div class="well" style="width:90%;height:80%;margin:0 auto;">
 		<span style="font-size:25px;">分类选择</span><br/>
@@ -687,11 +709,11 @@
 									if(node.name == "root") break;
 									category_label = node.name + "/" + category_label;
 								}
-
 								$("#local_category_label").val(category_label);
-
-
-
+								$("#local_category_label").prop("amazon_category_id",treeNode.amazon_category_id);
+								$("#local_category_label").prop("node_path",treeNode.amazon_node_path);
+								$("#local_category_label").prop("nodeId",treeNode.amazon_nodeId);
+								$("#local_category_label").prop("variation_theme",treeNode.variation_theme);
 							}
 						}
 					};
@@ -710,7 +732,26 @@
 			</script>
 		</div>
 		<div style="width:100%;height:10%;text-align: center;">
-			<button class="btn btn-primary" onclick = "$('#category_local_input').val($('#local_category_label').val());$('#local_category_panel').fadeOut();">确定</button>
+			<button id="category_select_confirm" class="btn btn-primary">确定</button>
+			<script type="text/javascript">
+				$(function(){
+					$("#category_select_confirm").bind("click",function(){
+						$("#category_local_input").val($("#local_category_label").val());
+						$("#node_path_input").val($("#local_category_label").prop("node_path"));
+						$("#nodeId_input").val($("#local_category_label").prop("nodeId"));
+						$("#amazon_category_id_input").val($("#local_category_label").prop("amazon_category_id"));
+
+						$("#variation_theme_options").html("");
+						var themes = $("#local_category_label").prop("variation_theme");
+						themes = themes.split("|");
+						for(var i in themes){
+							$("#variation_theme_options").append($("<option value = '"+themes[i]+"'>"+themes[i]+"</option>"));
+						}
+
+						$("#local_category_panel").fadeOut("slow");
+					});
+				});
+			</script>
 			<button class="btn btn-danger" onclick="$('#local_category_panel').fadeOut();">取消</button>
 		</div>
 	</div>
