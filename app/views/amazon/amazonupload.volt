@@ -7,7 +7,7 @@
 <button id="updatePrice" class="btn btn-primary">上传所有产品价格信息</button><span id="updatePriceInfo"></span><br/><br/>
 <button id="updateInventory" class="btn btn-primary">上传所有产品库存信息</button><span id="updateInventoryInfo"></span><br/><br/>
 <button id="updateImages" class="btn btn-primary">上传所有产品图片信息</button><span id="updateImagesInfo"></span><br/><br/>
-<button id="updateShipping" class="btn btn-primary">上传所有产品物流信息</button><span id="updateShippingInfo"></span><br/><br/>
+<button style="display: none;" id="updateShipping" class="btn btn-primary">上传所有产品物流信息</button><span id="updateShippingInfo" style="display: none;"></span><br/><br/>
 
 SubmissionId : <input type="text" id="SubmissionId" >
 <button id="query">查询</button>
@@ -52,12 +52,13 @@ SubmissionId : <input type="text" id="SubmissionId" >
 		});
 
 		$("#updateShipping").bind("click",function(){
-			$.post("./amazon/updateShipping",{id:Math.random()},function(data){
-				if(data.success){
-					$("#updateShippingInfo").html(data.success);
-					$("#SubmissionId").val(data.success);
-				}
-			});
+			return;
+			// $.post("/amazon/updateShipping",{id:Math.random()},function(data){
+			// 	if(data.success){
+			// 		$("#updateShippingInfo").html(data.success);
+			// 		$("#SubmissionId").val(data.success);
+			// 	}
+			// });
 		});
 	});
 </script>

@@ -193,16 +193,18 @@ class AmazonAPI
 
 		$feed_json = array(
 			"AmazonEnvelope" => array(
-				"DocumentVersion" => 1.01,
-				"MerchantIdentifier" => $amazon_config['MERCHANT_ID']
-			),
-			"MessageType"=>"Override",
-			$message
+				"Header"=>array(
+					"DocumentVersion" => 1.01,
+					"MerchantIdentifier" => $amazon_config['MERCHANT_ID']
+				),
+				"MessageType"=>"Override",
+				$message
+			)			
 		);
 
 		$feed = XMLTools::Json2Xml($feed_json);
 		file_put_contents("./temp/temp.dat", $feed);
-		return 0;
+		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_OVERRIDES_DATA_");
 	}
 	public static function deleteAProduct($SKU){
 		$feed = "<?xml version='1.0' encoding='utf-8'?>

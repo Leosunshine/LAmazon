@@ -220,14 +220,14 @@ class CommandController extends ControllerBase
 	}
 
 	public function translateNodepathAction(){
-		$nodes = AmazonNodePathsDe::find("id > 3000")->toArray();
+		$nodes = AmazonNodePathsFr::find()->toArray();
 		$names = array();
 
 		foreach ($nodes as $key => $value) {
 			$names[] = $value['name'];
 		}
 		$out = implode("\n", $names);
-		file_put_contents("./word.txt", $out);
+		file_put_contents("./word_fr.txt", $out);
 	}
 
 	public function loadTranslationAction(){
@@ -281,15 +281,14 @@ class CommandController extends ControllerBase
 	}
 	public function loadAmazonNodePathAction(){
 		$this->view->disable();
-		return;
 		echo "<meta charset='utf-8'/><pre/>";
 		$manager = new TxManager();
 		$transaction = $manager->get();
 
-		$content = file_get_contents("./files/csvs/watches1.txt");
-		$first_level_category = "Uhren";
+		$content = file_get_contents("./files/csvs/tools.txt");
+		$first_level_category = "Bricolage";
 		$contents = explode("\n", $content);
-		// $root = new AmazonNodePathsDe();
+		// $root = new AmazonNodePathsFr();
 		// $root->setTransaction($transaction);
 
 		// $root->nodeId = 0;
@@ -307,7 +306,7 @@ class CommandController extends ControllerBase
 
 		foreach ($contents as $key => $value) {
 
-			$nodePathInstance = new AmazonNodePathsDe();
+			$nodePathInstance = new AmazonNodePathsFr();
 			$nodePathInstance->setTransaction($transaction);
 
 			$values = explode("\t", $value);
@@ -318,7 +317,7 @@ class CommandController extends ControllerBase
 				break;
 			}
 			$path = $values[1];
-
+			if(strlen($path) >= 280) echo $path."<br/>";
 			$names = explode("/", $path);
 			$name = $names[count($names) - 1];
 			$name = trim($name);
@@ -370,7 +369,7 @@ class CommandController extends ControllerBase
 		$this->view->disable();
 		$manager = new TxManager();
 		$transaction = $manager->get();
-		$nodes = AmazonNodePathsDe::find();
+		$nodes = AmazonNodePathsFr::find();
 		foreach ($nodes as $key => $node) {
 			if($node->level == 0) continue;
 			if($node->second_level_category) continue;

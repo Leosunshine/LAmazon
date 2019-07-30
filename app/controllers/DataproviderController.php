@@ -86,7 +86,8 @@ class DataproviderController extends ControllerBase
 				$image_instance = ImageUrls::findFirst($image_id)->toArray();
 				if(!$image_instance) continue;
 				$image_instance['url'] = $this->modifyUrl($image_instance["url"]);
-				$images_return[$image_instance['id']] = $image_instance;
+				//$images_return[$image_instance['id']] = $image_instance;
+				$images_return[$index] = $image_instance;
 			}
 		}
 

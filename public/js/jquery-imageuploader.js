@@ -91,7 +91,7 @@
 		outerdiv.append(this.innerdiv);
 		this.container.append(outerdiv);
 	}
-
+	ImageUploader.prototype.draggingElementId = undefined;
 	ImageUploader.prototype.cardSet = new Object();
 	ImageUploader.prototype.images = new Object();
 	ImageUploader.prototype.filenames = new Object();
@@ -129,8 +129,35 @@
 		return keys(this.cardSet);
 	}
 
+
 	ImageUploader.prototype.addAImgCard = function(fileid,src,filename){
-		var cardDiv = $("<div style='float:left;margin:5px;text-align:center;background-color:rgba(202,113,106,0.3);'></div>");
+		var newIndex = this.innerdiv.children().length;
+		var cardDiv = $("<div id='"+fileid+"-carddiv' pic-index='"+newIndex+"' style='float:left;margin:5px;text-align:center;' draggable='true'></div>");
+		cardDiv.prop("host",this);
+		cardDiv[0].ondragstart = function(){
+			var host = $(this).prop("host");
+			host.draggingElementId = this.id;
+		}
+
+		cardDiv[0].ondragover = function(){
+			var host = $(this).prop("host");
+			var dragingIndex = $("#"+host.draggingElementId).attr("pic-index");
+			var targetIndex = $(this).attr("pic-index");
+			if(this.id === host.draggingElementId) return;
+			var div = $("#"+host.draggingElementId).remove();
+
+			if(targetIndex > dragingIndex){
+				div.insertAfter($(this));
+			}else{
+				div.insertBefore($(this));
+			}
+
+			var index = 0;
+			host.innerdiv.children().each(function(){
+				$(this).attr("pic-index",index++);
+			});
+			host.refreshFilenameList();
+		}
 		var table = $("<table cellSpacing=0 cellPadding = 0 style='width:100%;height:100%;margin:0;padding:0;'></table>"); 
 		var tr = $("<tr style='width:100%;height:100%;margin:0;padding:0;'></tr>"); 
 		var td = $("<td vAlign='middle' style='width:100%;height:100%;margin:0;padding:0;'></td>");
@@ -164,6 +191,11 @@
 			});
 		cardDiv.append(delete_div);
 		this.innerdiv.append(cardDiv);
+
+		cardDiv.prop("fileid",fileid);
+		cardDiv.prop("img",img);
+		cardDiv.prop("filename",filename);
+
 		this.cardSet[fileid] = cardDiv;
 		this.images[fileid] = img;
 		this.filenames[fileid] = filename;
@@ -175,18 +207,6 @@
 		var file = options.file;
 		var host = options.host;
 
-		//构造完全居中的包含层
-		var cardDiv = $("<div style='float:left;margin:5px;text-align:center;background-color:rgba(202,113,106,0.3);'></div>");
-		var table = $("<table cellSpacing=0 cellPadding = 0 style='width:100%;height:100%;margin:0;padding:0;'></table>"); 
-		var tr = $("<tr style='width:100%;height:100%;margin:0;padding:0;'></tr>"); 
-		var td = $("<td vAlign='middle' style='width:100%;height:100%;margin:0;padding:0;'></td>");
-		tr.append(td);table.append(tr);
-		cardDiv.append(table);
-
-		//生成预览图片
-		var img = $("<img style='max-width:"+width+";max-height:"+height+";margin:0;padding:0;'/>");
-		img.prop("host",host);
-
 		var fileid = host.fileidComposer();
 		var compose_count = 0;
 		while(host.cardSet[fileid] && compose_count < 10000){
@@ -194,6 +214,45 @@
 			compose_count++;
 		}
 
+		var newIndex = host.innerdiv.children().length;
+		//构造完全居中的包含层
+		var cardDiv = $("<div id='"+fileid+"-carddiv' pic-index='"+newIndex+"' style='float:left;margin:5px;text-align:center;'></div>");
+		var table = $("<table cellSpacing=0 cellPadding = 0 style='width:100%;height:100%;margin:0;padding:0;'></table>"); 
+		var tr = $("<tr style='width:100%;height:100%;margin:0;padding:0;'></tr>"); 
+		var td = $("<td vAlign='middle' style='width:100%;height:100%;margin:0;padding:0;'></td>");
+		tr.append(td);table.append(tr);
+		cardDiv.append(table);
+
+		cardDiv.prop("host",host);
+		cardDiv[0].ondragstart = function(){
+			var host = $(this).prop("host");
+			host.draggingElementId = this.id;
+		}
+
+		cardDiv[0].ondragover = function(){
+			var host = $(this).prop("host");
+			var dragingIndex = $("#"+host.draggingElementId).attr("pic-index");
+			var targetIndex = $(this).attr("pic-index");
+			if(this.id === host.draggingElementId) return;
+			var div = $("#"+host.draggingElementId).remove();
+
+			if(targetIndex > dragingIndex){
+				div.insertAfter($(this));
+			}else{
+				div.insertBefore($(this));
+			}
+
+			var index = 0;
+			host.innerdiv.children().each(function(){
+				$(this).attr("pic-index",index++);
+			});
+			host.refreshFilenameList();
+		}
+		//生成预览图片
+		var img = $("<img style='max-width:"+width+";max-height:"+height+";margin:0;padding:0;'/>");
+		img.prop("host",host);
+
+		
 		if(compose_count >= 10000){
 			return;
 		}
@@ -263,7 +322,8 @@
 			delete_div.click(function(){
 				$(this).prop("hostUploader").clearACard($(this).prop("fileid"), $(this).prop("hostUploader").onclearACard);
 			});
-			this.hostCard.attr("fileid",fileid);
+			this.hostCard.prop("fileid",fileid);
+			this.hostCard.prop("filename",this.filename);
 			this.upload._custome_progressbar.replaceWith(img);
 			this.hostCard.append(delete_div);
 			this.hostUploader.cardSet[fileid] = this.hostCard;
@@ -273,6 +333,17 @@
 		xhr.open("POST",url,true);
 		xhr.send(fd);
 		return cardDiv;
+	}
+
+	ImageUploader.prototype.refreshFilenameList = function(){
+		this.filenames = new Object();
+		var cards = this.innerdiv.children();
+		for(var i = 0; i < cards.length; i++){
+			if(i < 2) continue;
+			var fileId = $(cards[i]).prop("fileid");
+			var filename = $(cards[i]).prop("filename");
+			this.filenames[fileId] = filename;
+		}
 	}
 
 	window.ImageUploader = ImageUploader;
