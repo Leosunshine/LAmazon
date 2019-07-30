@@ -28,6 +28,8 @@
 		this.onImgClick = options.onImgClick || function(){};
 		this.maxCount = options.maxCount || -1;
 
+		this.onOrderChanged = options.onOrderChanged || function(){};
+
 		var width_int = this.width.substr(0,this.width.length-2);
 		var height_int = this.height.substr(0,this.height.length-2);
 
@@ -157,6 +159,7 @@
 				$(this).attr("pic-index",index++);
 			});
 			host.refreshFilenameList();
+			host.onOrderChanged();
 		}
 		var table = $("<table cellSpacing=0 cellPadding = 0 style='width:100%;height:100%;margin:0;padding:0;'></table>"); 
 		var tr = $("<tr style='width:100%;height:100%;margin:0;padding:0;'></tr>"); 
@@ -247,6 +250,7 @@
 				$(this).attr("pic-index",index++);
 			});
 			host.refreshFilenameList();
+			host.onOrderChanged();
 		}
 		//生成预览图片
 		var img = $("<img style='max-width:"+width+";max-height:"+height+";margin:0;padding:0;'/>");
@@ -324,6 +328,7 @@
 			});
 			this.hostCard.prop("fileid",fileid);
 			this.hostCard.prop("filename",this.filename);
+			this.hostCard.prop("img",img);
 			this.upload._custome_progressbar.replaceWith(img);
 			this.hostCard.append(delete_div);
 			this.hostUploader.cardSet[fileid] = this.hostCard;
@@ -337,12 +342,18 @@
 
 	ImageUploader.prototype.refreshFilenameList = function(){
 		this.filenames = new Object();
+		this.cardSet = new Object();
+		this.images = new Object();
+
 		var cards = this.innerdiv.children();
 		for(var i = 0; i < cards.length; i++){
 			if(i < 2) continue;
 			var fileId = $(cards[i]).prop("fileid");
 			var filename = $(cards[i]).prop("filename");
+			var img = $(cards[i]).prop("img");
 			this.filenames[fileId] = filename;
+			this.cardSet[fileId] = $(cards[i]);
+			this.images[fileId] = img;
 		}
 	}
 

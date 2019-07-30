@@ -241,6 +241,9 @@
 								onclearACard: function(){
 									updateVariationImages();
 								},
+								onOrderChanged: function(){
+									
+								},
 								fileidComposer: function(){
 									return UUIDjs.create().hex;
 								}
