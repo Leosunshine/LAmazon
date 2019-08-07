@@ -16,6 +16,7 @@
 		this.fileidComposer = options.fileidComposer || function(){
 			return Math.round(Math.random() * 900000) + ""; //生成100000-999999之间的一个整数，作为图片的唯一标识符
 		};
+		this.maxImages = options.maxImages || 8;
 		this.isLocal = options.isLocal || false;
 		this.getFileUrl = options.getFileUrl || function(response){
 			return response;
@@ -209,7 +210,6 @@
 		var url = options.url;
 		var file = options.file;
 		var host = options.host;
-
 		var fileid = host.fileidComposer();
 		var compose_count = 0;
 		while(host.cardSet[fileid] && compose_count < 10000){

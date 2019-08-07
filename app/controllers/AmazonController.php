@@ -60,4 +60,10 @@ class AmazonController extends ControllerBase
 		$submissionId = AmazonAPI::updateShipping($products);
 		$this->dataReturn(array("success"=>$submissionId));
 	}
+
+	public function updateImagesAction(){
+		$this->view->disable();
+		$products = Products::find()->toArray();
+		$submissionId = AmazonAPI::uploadImage($products);
+	}
 }

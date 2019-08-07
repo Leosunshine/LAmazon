@@ -51,8 +51,16 @@ SubmissionId : <input type="text" id="SubmissionId" >
 			});
 		});
 
+
+		$("#updateImages").bind("click",function(){
+			$.post("/amazon/updateImages",{id:Math.random()},function(data){
+				
+			});
+		});
+
 		$("#updateShipping").bind("click",function(){
 			return;
+			//取消上传物流信息功能
 			// $.post("/amazon/updateShipping",{id:Math.random()},function(data){
 			// 	if(data.success){
 			// 		$("#updateShippingInfo").html(data.success);

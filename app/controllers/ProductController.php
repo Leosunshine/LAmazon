@@ -337,19 +337,13 @@ class ProductController extends ControllerBase
 				$image_url->file_name = $filename;
 				$image_url->url = $url;
 				$image_url->state = 1;
-
-				try {
-					$image_url->save();
-					if($main_image_id == 0) $main_image_id = $image_url->id;
-				} catch (Exception $e) {
-					$transaction->rollback();
-				}
 			}
 
 			$images_field.="$image_url->id|";
 			$image_map[$guid] = $image_url->id;
 		}
 		$product_instance->images = trim($images_field,"|");
+		$main_image_id = explode("|",trim($images_field, "|"))[0] * 1;
 		$product_instance->main_image_id = $main_image_id;
 		//处理变体
 		$variations = Variation::find(array(
