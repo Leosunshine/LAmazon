@@ -65,5 +65,6 @@ class AmazonController extends ControllerBase
 		$this->view->disable();
 		$products = Products::find()->toArray();
 		$submissionId = AmazonAPI::uploadImage($products);
+		$this->dataReturn(array("success"=>$submissionId));
 	}
 }

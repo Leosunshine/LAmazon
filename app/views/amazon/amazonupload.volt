@@ -54,7 +54,10 @@ SubmissionId : <input type="text" id="SubmissionId" >
 
 		$("#updateImages").bind("click",function(){
 			$.post("/amazon/updateImages",{id:Math.random()},function(data){
-				
+				if(data.success){
+					$("#updateImagesInfo").html(data.success);
+					$("#SubmissionId").val(data.success);
+				}
 			});
 		});
 
