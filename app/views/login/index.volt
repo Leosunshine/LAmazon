@@ -1,20 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>LAmazon</title>
+	<title>LAmazon 登录</title>
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" src="/js/sha1-min.js"></script>
+	<style type="text/css">
+		html,body{
+			width:100%;height:100%;
+			margin: 0; padding: 0;
+		}
+	</style>
 </head>
-<body>
+<body style="background: url(./resources/background.bmp);">
 <br/><br/>
-<script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/sha1-min.js"></script>
-用户行为验证: <input id="username" type="text">
-密码: <input type="password" id = "pwd">
+<div style="height:20%;"></div>
+<div style="color:white;width:40%;height:35%;background-color:rgba(202,133,106,0.95);margin: 0 auto;text-align: center;font-size: 20px;border-radius: 5px;">
+	<div style="height:30%;"></div>
+	用户: <input  style="font-size: 20px;" id="username" type="text"><br/><br/>
+	密码: <input style="font-size: 20px;" type="password" id = "pwd"><br/><br/>
+	<button style="font-size: 20px;" id="submit">进入</button>
+</div>
 
+<div style="display:none;">
+卖家编号:<input hidden="true" id="sellerid" type="text" name="sellerID"><br/><br/>
+Amazon通行领牌:<input hidden="true" id="token" type="password" name="token"><br/><br/>
+</div>
 
-卖家编号:<input id="sellerid" type="text" name="sellerID"><br/><br/>
-Amazon通行领牌:<input id="token" type="password" name="token"><br/><br/>
-
-<button id="submit">进入</button>
 
 
 <script type="text/javascript">
