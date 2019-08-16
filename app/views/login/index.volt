@@ -54,6 +54,11 @@ Amazon通行领牌:<input hidden="true" id="token" type="password" name="token">
 				}
 			});
 		});
+
+		$("body").keyup(function(e){
+			if(e.keyCode != 13) return;
+			$("#submit").click();
+		});
 	});
 </script>
 </body>
