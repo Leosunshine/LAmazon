@@ -47,7 +47,7 @@ Amazon通行领牌:<input hidden="true" id="token" type="password" name="token">
 			pwd = hex_sha1(pwd);
 			$.post("/login/verifyUser",{username:$("#username").val(),password:pwd,id:Math.random()},function(data){
 				if(data.success){
-					alert("登录成功");
+					//alert("登录成功");
 					window.location.href = "/product/index";
 				}else{
 					alert("用户名或密码错误");
