@@ -11,7 +11,7 @@
 		}
 	</style>
 </head>
-<body style="background: url(./resources/background.JPG);">
+<body>
 <br/><br/>
 <div style="height:20%;"></div>
 <div style="color:white;width:40%;height:35%;background-color:rgba(202,133,106,0.95);margin: 0 auto;text-align: center;font-size: 20px;border-radius: 5px;">
