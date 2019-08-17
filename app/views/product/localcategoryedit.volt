@@ -17,10 +17,11 @@
 	<div class="well" style="width:80%;height:40%;margin:0 auto;">
 		<span id="edit_info"></span><br/>
 		新分类名称: <input id="category_name" type="text" name="remark"><br/>
-		对应的xsd分类：<br/>
+		<!--对应的xsd分类：<br/-->
 		
-		<select id="category_options_0"></select>
-		<select id="category_options_1"></select><br/>
+		<select style="display:none;" id="category_options_0"></select>
+
+		<select style="display:none;" id="category_options_1"></select><br/>
 
 		对应的亚马逊分类节点树:<br/>
 		<input style="width:60%;" type="text" readonly="true" id="amazon_node_path" onclick="$('#modify_amazon_node').click();">
@@ -41,8 +42,11 @@
 			$(function(){
 				$("#edit_confirm").click(function(){
 					var node = $("#edit_panel").prop("treeNode");
-					var amazon_category_first = $("#category_options_0").val();
-					var amazon_category_second = $("#category_options_1").val();
+					//var amazon_category_first = $("#category_options_0").val();
+					//var amazon_category_second = $("#category_options_1").val();
+
+					var amazon_category_first = "Home";
+					var amazon_category_second = "Home";
 
 					var amazon_category_id = window.categories[amazon_category_first];
 					if(!amazon_category_id){
