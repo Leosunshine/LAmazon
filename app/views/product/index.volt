@@ -502,9 +502,11 @@
 			//初始化照片上传组件与初始照片
 			window.imageUploader.clear();
 			var images = product['images'];
+			var imageMap = {};
 			if(images){
 				for(var i in images){
 					imageUploader.addAImgCard(images[i].guid,images[i].url,images[i].file_name);
+					imageMap[images[i].id] = images[i];
 				}
 			}
 
@@ -516,7 +518,7 @@
 					var variation_image = variations[i]['images'];
 					for(var j in variation_image){
 						var image_id = variation_image[j];
-						variation_image[j] = images[image_id];
+						variation_image[j] = imageMap[image_id];
 					}
 					addAVariation(variations[i]);
 				}
