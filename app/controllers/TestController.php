@@ -165,8 +165,65 @@
 
 		public function test2Action(){
 			$this->view->disable();
-			$product = Products::find()->toArray();
-			echo AmazonAPI::createProduct($product);
+			$amazon_config = LAmazonConfig::$amazon_config;
+			echo "<pre/>";
+			$product = Products::findFirst()->toArray();
+			$variations = $product['variation_node'];
+			$EAN = $product["ASIN"];
+
+			$va = array();
+			$variations = explode("|", $variations);
+			foreach ($variations as $index => $value) {
+				$variation_instance = Variation::findFirst($value)->toArray();
+				if(!$variation_instance) continue;
+				$va[] = $variation_instance; 
+			}
+
+			$feed_json = array(
+				"AmazonEnvelope"=>array(
+					"Header"=>array(
+						"DocumentVersion"=>1.01,
+						"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']
+					),
+					"MessageType"=>"Product",
+					"PurgeAndReplace"=>"false",
+					"Message"=>array(
+						"MessageID"=>1,
+						"OperationType"=>"Update",
+						"Product"=>array(
+							"SKU"=>$va[0]["SKU"],
+							"StandardProductID"=>array(
+								"Type"=>"EAN",
+								"Value"=>"9658945852140"
+							),
+							"DescriptionData"=>array(
+								"Brand"=>$brand,
+								"Description"=>"<![CDATA[$description]]>",
+								$bulletPoint,
+								"Manufacturer"=>$manufacturer,
+								"RecommendedBrowseNode"=>$product['amazon_nodeId']
+							),
+							"ProductData"=>array(
+								"Home"=>array(
+									"ProductType"=>array(
+										"Home"=>array(
+
+										)
+									),
+									"Parentage"=>"child",
+									"VariationData"=>array(
+										"Size"=>"12"
+									)
+								)
+							)
+						)
+					)
+				)
+			);
+
+			$feed = XMLTools::Json2Xml($feed_json);
+			file_put_contents("./temp/temp.dat", $feed);
+			echo AmazonAPI::submitFeed($feed,$amazon_config);
 		}
 
 		public function testScriptAction(){

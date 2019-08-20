@@ -345,6 +345,7 @@ class ProductController extends ControllerBase
 		$product_instance->images = trim($images_field,"|");
 		$main_image_id = explode("|",trim($images_field, "|"))[0] * 1;
 		$product_instance->main_image_id = $main_image_id;
+
 		//处理变体
 		$variations = Variation::find(array(
 			"product_id = :product_id:",
@@ -527,7 +528,8 @@ class ProductController extends ControllerBase
 
 		if(!$variation_instance) $variation_instance = new Variation();
 		$variation_instance->name = $variation['name'];
-		$variation_instance->SKU = $variation['SKU'];
+		$variation_instance->SKU = $variation['SKU']?$variation['SKU']:AmazonAPI::composeSKU();
+		$variation_instance->EAN = $variation['EAN']?$variation['EAN']:AmazonAPI::composeEAN();
 		$variation_instance->inventory_count = ($variation['inventory_count'] * 1);
 		$variation_instance->price_bonus = $variation['price_bonus'];
 		$variation_instance->images = "";

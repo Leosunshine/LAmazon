@@ -282,6 +282,7 @@
 							var tr = $("<tr style='width:100%;height:50px;'></tr>");
 							var name = variation.name || "";
 							var SKU = variation.SKU || "";
+							var EAN = variation.EAN || "";
 							var inventory = variation.inventory_count || 0;
 							var price_bonus = variation.bonus || "";
 							var td_name = $("<td style='width:10%;height:50px;'></td>");
@@ -293,6 +294,11 @@
 							var input_SKU = input_name.clone();td_SKU.append(input_SKU);
 							input_SKU.attr("name","SKU");
 							input_SKU.val(SKU);
+
+							var td_EAN = $("<td style='width:20%;height:50px;display:none;'></td>");
+							var input_EAN = input_name.clone();td_EAN.append(input_EAN);
+							input_EAN.attr("name","EAN");
+							input_EAN.val(EAN);
 
 							var td_inventory = $("<td style='width:10%;height:50px;'></td>");
 							var input_inventory = input_name.clone();td_inventory.append(input_inventory);
@@ -324,7 +330,7 @@
 							});
 							td_opreation.append(delete_button);
 
-							tr.append(td_name);tr.append(td_SKU);tr.append(td_inventory);
+							tr.append(td_name);tr.append(td_SKU);tr.append(td_EAN);tr.append(td_inventory);
 							tr.append(td_price_bonus);tr.append(td_image);tr.append(td_opreation);
 
 							$("#variation_table").append(tr);
@@ -573,9 +579,10 @@
 				var tds = $(this).children("td");
 				variation.name = $($(tds[0]).children("input")).val();
 				variation.SKU = $($(tds[1]).children("input")).val();
-				variation.inventory_count = $($(tds[2]).children("input")).val();
-				variation.price_bonus = $($(tds[3]).children("input")).val();
-				variation.images = $(tds[4]).prop("fileids");
+				variation.EAN = $($(tds[2]).children("input")).val();
+				variation.inventory_count = $($(tds[3]).children("input")).val();
+				variation.price_bonus = $($(tds[4]).children("input")).val();
+				variation.images = $(tds[5]).prop("fileids");
 				variations.push(variation);
 			});
 
