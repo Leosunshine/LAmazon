@@ -59,7 +59,7 @@
 	}
 	#productContainer{
 		width:97%;
-		height:87%;
+		height:85%;
 		overflow-y: auto;
 		margin: 0 auto;
 	}
@@ -147,7 +147,9 @@
 	<div id="content" style="width:82%;height:100%;float:left;">
 		<div id="search_condition">
 			<div style="width:70%;height:100%;float:left;background-color:red;">
-				<button class="btn-primary" onclick="productManager.refreshProductList(10,0,undefined,undefined,undefined);">加载商品</button>
+				<div style="height:10px;"></div>
+				&nbsp<input type="text" name="select_condition" title="SKU或标题" />
+				<button class="btn-primary" onclick="productManager.refreshProductList(10,0,undefined,undefined,undefined);">搜索商品</button>
 			</div>
 			<div style="width:30%;height:100%;float:left;background-color:rgba(202,133,106,1);">
 				<button class="btn-primary" onclick = "showProductForm(undefined,true);">添加商品</button>
@@ -155,7 +157,21 @@
 			</div>
 		</div>
 		<div id="productContainer"></div>
-		<div id="content_footer" style="background-color:cyan;width:100%;height:3%;"></div>
+		<div id="content_footer" style="background-color:cyan;width:100%;height:5%;">
+			第 <input id="page_now" type="text" style="width:20px;height:20px;margin:0;padding:0;font-size: 12px;text-align: center;" value="1" /> 页, 共<span id="page_total">1</span>页
+			<button>首页</button>
+			<button>上一页</button>
+			<button>下一页</button>
+			<button>尾页</button>
+
+			每页显示<select id="count_per_page" style="margin:0;padding:0;">
+				<option>10</option>
+				<option>20</option>
+				<option>30</option>
+			</select>
+
+			共计<span id="record_total">0</span>个商品
+		</div>
 	</div>
 </div>
 
@@ -689,6 +705,11 @@
 								pIdKey:"parent_id",
 								rootPId:"1"
 							}
+						},
+						callback:{
+							onClick:function(e,treeId,treeNode,clickFlag){
+								alert("选中了");
+							}
 						}
 					}
 
@@ -884,9 +905,12 @@
 					showProductForm(data.success,false);
 				});
 			},
-			afterCategoryRefresh: function(categories){
-				//resetCategoriesOptions(categories);
+			afterListRefresh:function(total, pageTotal,pageIndex){
+				$("#page_total").html(pageTotal);
+				$("#record_total").html(total);
+				$("#page_now").val(pageIndex);
 			}
+
 		}).refreshProductList(10,0,undefined,undefined,undefined)
 		.refreshCategories();
 

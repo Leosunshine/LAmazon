@@ -2,8 +2,9 @@
 <br/>
 <button id="updateProduct" class="btn btn-primary">上传所有产品信息</button><br/><br/>
 <span id="uploadProductInfo">此处显示上传SubmissionId</span><br/><br/>
-
 <hr>
+
+<button id="updateRelationship">绑定父商品与变体</button><span id="updateRelationshipInfo"></span><br/><br/>
 <button id="updatePrice" class="btn btn-primary">上传所有产品价格信息</button><span id="updatePriceInfo"></span><br/><br/>
 <button id="updateInventory" class="btn btn-primary">上传所有产品库存信息</button><span id="updateInventoryInfo"></span><br/><br/>
 <button id="updateImages" class="btn btn-primary">上传所有产品图片信息</button><span id="updateImagesInfo"></span><br/><br/>
@@ -61,6 +62,14 @@ SubmissionId : <input type="text" id="SubmissionId" >
 			});
 		});
 
+		$("#updateRelationship").bind("click",function(){
+			$.post("/amazon/updateRelationship",{id:Math.random()},function(data){
+				if(data.success){
+					$("#updateRelationshipInfo").html(data.success);
+					$("#SubmissionId").val(data.success);
+				}
+			});
+		});
 		$("#updateShipping").bind("click",function(){
 			return;
 			//取消上传物流信息功能

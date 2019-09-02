@@ -171,6 +171,22 @@
 			$variations = $product['variation_node'];
 			$EAN = $product["ASIN"];
 
+			$perpackage_count = $product['perpackage_count']?($product['perpackage_count'] * 1):1;
+			$title = $product['title']?$product['title']:"No Title";
+			$brand = $product['brand']?$product['brand']:"Unknown Brand";
+			$description = $product['description']?$product['description']:"No description";
+			$description = "<p>".str_replace("\n", "</p><p>", $description)."</p>";
+
+			$keywords = explode(",",$product['keywords']);
+			$bulletPoint = array();
+			foreach($keywords as $index => $keyword){
+				if($index >= 5) continue;
+				$bulletPoint[] = array("BulletPoint"=>trim($keyword));
+			}
+			$manufacturer = $product['manufacturer']?$product['manufacturer']:"Unknown manufacturer";
+			$category = $product['amazon_category_id'];
+			$category = Amazoncategory::findFirst($category)->toArray();
+
 			$va = array();
 			$variations = explode("|", $variations);
 			foreach ($variations as $index => $value) {
@@ -194,9 +210,10 @@
 							"SKU"=>$va[0]["SKU"],
 							"StandardProductID"=>array(
 								"Type"=>"EAN",
-								"Value"=>"9658945852140"
+								"Value"=>"9658945852096"
 							),
 							"DescriptionData"=>array(
+								"Title"=>$title,
 								"Brand"=>$brand,
 								"Description"=>"<![CDATA[$description]]>",
 								$bulletPoint,
@@ -207,7 +224,7 @@
 								"Home"=>array(
 									"ProductType"=>array(
 										"Home"=>array(
-
+											"Material"=>$product['material_type']?$product['material_type']:"unknown"
 										)
 									),
 									"Parentage"=>"child",
@@ -226,6 +243,9 @@
 			echo AmazonAPI::submitFeed($feed,$amazon_config);
 		}
 
+		public function synRelationshipAction(){
+			$this->view->disable();
+		}
 		public function testScriptAction(){
 			$this->view->disable();
 			Tools::removeDir("./img/8/");

@@ -52,6 +52,54 @@ class AmazonAPI
 					)
 				)
 			);
+
+			$variations = $product['variation_node'];
+			if(!$variations) continue;
+			$variations = explode("|", $variations);
+			$variation_theme = $product['variation_theme'];
+
+			foreach ($variations as $index => $value) {
+				$variation_instance = Variation::findFirst($value)->toArray();
+				if(!$variation_instance) continue;
+				$va_SKU = $variation_instance["SKU"];
+				$va_name = $variation_instance["name"];
+				$va_ASIN = $variation_instance["EAN"];
+
+				$message[] = array(
+					"Message"=>array(
+						"MessageID"=>$messageIndex++,
+						"OperationType"=>"Update",
+						"Product"=>array(
+							"SKU"=>$va_SKU,
+							"StandardProductID"=>array(
+								"Type"=>"EAN",
+								"Value"=>$va_ASIN
+							),
+							"DescriptionData"=>array(
+								"Title"=>$title." ".$va_name,
+								"Brand"=>$brand,
+								"Description"=>"<![CDATA[$description]]>",
+								$bulletPoint,
+								"Manufacturer"=>$manufacturer,
+								"RecommendedBrowseNode"=>$product['amazon_nodeId']
+							),
+							"ProductData"=>array(
+								"Home"=>array(
+									"ProductType"=>array(
+										"Home"=>array(
+											"Material"=>$product['material_type']?$product['material_type']:"unknown"
+										)
+									),
+									"Parentage"=>"child",
+									"VariationData"=>array(
+										$variation_theme=>$va_name
+									)
+								)
+							)
+						)
+					)
+				);	
+			}
 		}
 
 		$feed_json = array(
@@ -73,6 +121,7 @@ class AmazonAPI
 	public static function updatePrice($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
+		$messageIndex = 1;
 
 		foreach ($products as $index => $product) {
 			$SKU = $product['SKU'];
@@ -94,21 +143,47 @@ class AmazonAPI
 				default:
 					$currency = "DEFAULT";break;
 			}
-			$message[] = array(
-				"Message"=>array(
-					"MessageID"=>($index + 1),
-					"Price"=>array(
-						"SKU"=>$SKU,
-						"StandardPrice"=>array(
-							$price,
-							"__properties"=>array(
-								"currency"=>"EUR"
+
+			$variations = $product["variation_node"];
+			if($variations){
+				$variations = explode("|", $variations);
+				foreach ($variations as $key => $value) {
+					$variation_instance = Variation::findFirst($value)->toArray();
+					$va_SKU = $variation_instance["SKU"];
+					$va_price_bonus = $variation_instance["price_bonus"];
+					$va_price = $price * 1.0 + $va_price_bonus * 1.0;
+					$message[] = array(
+						"Message"=>array(
+							"MessageID"=>$messageIndex++,
+							"Price"=>array(
+								"SKU"=>$va_SKU,
+								"StandardPrice"=>array(
+									$va_price,
+									"__properties"=>array(
+										"currency"=>"EUR"
+									)
+								)
+							)
+						)
+					);
+				}
+			}else{
+				$message[] = array(
+					"Message"=>array(
+						"MessageID"=>$messageIndex++,
+						"Price"=>array(
+							"SKU"=>$SKU,
+							"StandardPrice"=>array(
+								$price,
+								"__properties"=>array(
+									"currency"=>"EUR"
+								)
 							)
 						)
 					)
-				)
-			);
-
+				);
+			}
+			
 		}
 		$feed_json = array(
 			"AmazonEnvelope"=>array(
@@ -125,25 +200,97 @@ class AmazonAPI
 		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_PRICING_DATA_");
 	}
 	
+	public static function updateRelationship($products){
+		$amazon_config = LAmazonConfig::$amazon_config;
+		$message = array();
+		$messageIndex = 1;
+		foreach ($products as $index => $product) {
+			$SKU = $product['SKU'];
+			$variations = $product["variation_node"];
+			$variations = explode("|", $variations);
+			$relation = array();
+			foreach ($variations as $key => $variation) {
+				$variation_instance = Variation::findFirst($variation)->toArray();
+
+				$relation[] = array(
+					"Relation"=>array(
+						"SKU"=>$variation_instance["SKU"],
+						"Type"=>"Variation"
+					)
+				);
+			}
+
+			$message[] = array(
+				"Message"=>array(
+					"MessageID"=>$messageIndex++,
+					"OperationType"=>"Update",
+					"Relationship"=>array(
+						"ParentSKU"=>$SKU,
+						$relation
+					)
+
+				)
+			);
+		}
+
+		$feed_json = array(
+			"AmazonEnvelope"=>array(
+				"Header"=>array(
+					"DocumentVersion"=>1.01,
+					"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']
+				),
+				"MessageType"=>"Relationship",
+				"PurgeAndReplace"=>"false",
+				$message
+			)
+		);
+
+		$feed = XMLTools::Json2Xml($feed_json);
+		file_put_contents("./temp/temp.dat", $feed);
+		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_RELATIONSHIP_DATA_");
+
+	}
 	public static function updateInventory($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
 		$messageIndex = 1;
 		foreach ($products as $index => $product) {
 			$SKU = $product['SKU'];
-			$quantity = $product['product_count'];
-			$message[] = 
-				array(
-					"Message"=>array(
-						"MessageID"=>($index + 1),
-						"OperationType"=>"Update",
-						"Inventory"=>array(
-							"SKU"=>$SKU,
-							"Quantity"=>$quantity,
-							"FulfillmentLatency"=>7
+			$variations = $product["variation_node"];
+			if($variations){
+				$variations = explode("|", $variations);
+				foreach ($variations as $key => $value) {
+					$variation_instance = Variation::findFirst($value)->toArray();
+					$va_SKU = $variation_instance["SKU"];
+					$va_count = $variation_instance["inventory_count"];
+					$message[] =array(
+						"Message"=>array(
+							"MessageID"=> $messageIndex++,
+							"OperationType"=>"Update",
+							"Inventory"=>array(
+								"SKU"=>$va_SKU,
+								"Quantity"=>$va_count,
+								"FulfillmentLatency"=>7
+							)
 						)
-					)
-				);
+					);
+				}
+			}else{
+				$quantity = $product['product_count'];
+				$message[] = 
+					array(
+						"Message"=>array(
+							"MessageID"=> $messageIndex++,
+							"OperationType"=>"Update",
+							"Inventory"=>array(
+								"SKU"=>$SKU,
+								"Quantity"=>$quantity,
+								"FulfillmentLatency"=>7
+							)
+						)
+					);
+			}
+
 		}
 
 		$feed_json = array(
@@ -301,8 +448,9 @@ class AmazonAPI
 	}
 
 	public static function composeEAN(){
+		$pre = "982";
 		$ean13 = rand(1,9999);											//随机厂商
-		$ean13 = "609".str_pad($ean13, 4,"0",STR_PAD_LEFT);				//借用毛里求斯的EAN
+		$ean13 = $pre.str_pad($ean13, 4,"0",STR_PAD_LEFT);				//借用毛里求斯的EAN
 		$ean132 = rand(1,99999);										//随机产品编号
 		$ean132 = str_pad($ean132,5,"0", STR_PAD_LEFT);
 		$ean13 = $ean13.$ean132;

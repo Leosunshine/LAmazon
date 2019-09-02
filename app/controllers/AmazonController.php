@@ -40,6 +40,13 @@ class AmazonController extends ControllerBase
 		$this->dataReturn(array("success"=>$product_submission_id));
 	}
 
+	public function updateRelationshipAction(){
+		$this->view->disable();
+		$products = Products::find()->toArray();
+		$product_submission_id = AmazonAPI::updateRelationship($products);
+		$this->dataReturn(array("success"=>$product_submission_id));
+	}
+
 	public function updatePricesAction(){
 		$this->view->disable();
 		$products = Products::find()->toArray();

@@ -30,6 +30,9 @@ class DataproviderController extends ControllerBase
 		$offset = $this->request->getPost("offset") + 0;
 		$orderBy = $this->request->getPost("orderBy");
 		$asc = $this->request->getPost("asc");
+		
+
+		$total = Products::count();
 
 		$result = $this->modelsManager->createBuilder()
 				->columns(array(
@@ -70,7 +73,7 @@ class DataproviderController extends ControllerBase
 					break;
 			}
 		}
-		$this->dataReturn(array("success"=>$result));
+		$this->dataReturn(array("success"=>$result,"total"=>$total));
 	}
 
 	public function getProductByIdAction(){

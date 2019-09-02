@@ -13,6 +13,7 @@
 		this.afterCategoryRefresh = options.afterCategoryRefresh || function(){};
 		this.onDelete = options.onDelete || function(){};
 		this.onEdit = options.onEdit || function(){};
+		this.afterListRefresh = options.afterListRefresh || function(total, pageTotal, pageIndex){};
 
 		this.limit = 10; this.offset = 0; this.orderBy = undefined; this.asc = undefined; this.condition = undefined;
 	};
@@ -38,6 +39,11 @@
 					var div = host.createProductCard(data.success[i],$);
 					host.container.append(div);
 				}
+				
+				var pageTotal = Math.ceil(data.total/host.limit);
+				pageTotal = pageTotal <= 0? 1:pageTotal;
+				var pageIndex = Math.floor(host.offset/host.limit) + 1;
+				host.afterListRefresh(data.total, pageTotal, pageIndex);
 			}
 		}).host = this;
 		return this;
