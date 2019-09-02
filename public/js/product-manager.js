@@ -68,7 +68,7 @@
 		var price = product.price || "0.00";
 		var currency = product.currency || "$";
 		var fixed_shipping = product.fixed_shipping || "0.00";
-		var cover = product.cover || "/imgCache/B01AQLVTNO.jpg"
+		var cover = product.cover || "/resources/logo.png";
 
 		var productCardContainer_div = $(document.createElement("div"));
 		productCardContainer_div.prop("product_id",product.id);
@@ -85,6 +85,8 @@
 
 			var imgContent = $(document.createElement("img"));
 			imgContent.prop("src",cover);
+			imgContent.css("width","100%");
+			imgContent.css("height","100%");
 			var imgCover = $(document.createElement("div"));
 			var editButton = $("<button style='display:none;'>编辑</button>");
 			editButton.prop("product_id",product.id);

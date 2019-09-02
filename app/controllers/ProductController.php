@@ -337,6 +337,11 @@ class ProductController extends ControllerBase
 				$image_url->file_name = $filename;
 				$image_url->url = $url;
 				$image_url->state = 1;
+				try{
+					$image_url->save();
+				}catch(TxFailed $e){
+					$transaction->rollback();
+				}
 			}
 
 			$images_field.="$image_url->id|";
