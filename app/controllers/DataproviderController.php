@@ -30,9 +30,15 @@ class DataproviderController extends ControllerBase
 		$offset = $this->request->getPost("offset") + 0;
 		$orderBy = $this->request->getPost("orderBy");
 		$asc = $this->request->getPost("asc");
+		$condition = $this->request->getPost("condition");
+
+
 		
 
-		$total = Products::count();
+		$total = Products::count(array(
+			"SKU like :con: or title like :con:",
+			"bind"=>array("con"=>"%$condition%")
+		));
 
 		$result = $this->modelsManager->createBuilder()
 				->columns(array(
@@ -44,6 +50,7 @@ class DataproviderController extends ControllerBase
 					'Products.images as images'
 				))
 				->from("Products")
+				->where("SKU like :con: or title like :con:",["con"=>"%$condition%"])
 				->limit($limit,$offset)
 				->orderBy($orderBy." ".$asc)
 				->getQuery()

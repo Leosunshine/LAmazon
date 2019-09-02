@@ -148,8 +148,8 @@
 		<div id="search_condition">
 			<div style="width:70%;height:100%;float:left;background-color:red;">
 				<div style="height:10px;"></div>
-				&nbsp<input type="text" name="select_condition" title="SKU或标题" />
-				<button class="btn-primary" onclick="productManager.refreshProductList(10,0,undefined,undefined,undefined);">搜索商品</button>
+				&nbsp<input type="text" id="select_condition" name="select_condition" title="SKU或标题" />
+				<button class="btn-primary" onclick="productManager.refreshProductList(10,0,undefined,undefined,$('#select_condition').val());">搜索商品</button>
 			</div>
 			<div style="width:30%;height:100%;float:left;background-color:rgba(202,133,106,1);">
 				<button class="btn-primary" onclick = "showProductForm(undefined,true);">添加商品</button>
@@ -911,7 +911,7 @@
 				$("#page_now").val(pageIndex);
 			}
 
-		}).refreshProductList(10,0,undefined,undefined,undefined)
+		}).refreshProductList(10,0,undefined,undefined,"LAMAZON")
 		.refreshCategories();
 
 	});

@@ -32,7 +32,7 @@
 
 		this.limit = limit; this.offset = offset; this.orderBy = orderBy; this.asc = asc; this.condition = condition;
 
-		$.post(this.listUrl,{limit:limit,offset:offset,orderBy:orderBy, asc:asc},function(data,status,jqxhr){
+		$.post(this.listUrl,{limit:limit,offset:offset,orderBy:orderBy, asc:asc, condition: condition},function(data,status,jqxhr){
 			if(data.success){
 				var host = jqxhr.host;
 				for(var i in data.success){
