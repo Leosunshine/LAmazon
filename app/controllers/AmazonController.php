@@ -8,6 +8,8 @@ class AmazonController extends ControllerBase
 	
 	public function amazonuploadAction(){
 		$this->view->setTemplateAfter("baseproduct");
+		$seller = $this->session->get("userInfo");
+		$this->view->setVar("username",$seller['username']);
 	}
 	public function deleteAction(){
 		$this->view->setTemplateAfter("base1");

@@ -15,7 +15,9 @@ class ProductController extends ControllerBase
 		#此处给出验证用户的代码
 		parent::initialize();
 		$this->view->setTemplateAfter("baseproduct");
-		// $seller = $this->session->get("sellerInfo");
+
+		$seller = $this->session->get("userInfo");
+		$this->view->setVar("username",$seller['username']);
 		// include_once("../app/library/LAmazonConfig.php");
 		// if(!$seller){
 		// 	$seller = array(

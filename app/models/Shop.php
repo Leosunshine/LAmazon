@@ -1,6 +1,6 @@
 <?php
 
-class Users extends \Phalcon\Mvc\Model
+class Shop extends \Phalcon\Mvc\Model
 {
 
     /**
@@ -13,19 +13,25 @@ class Users extends \Phalcon\Mvc\Model
      *
      * @var string
      */
-    public $username;
+    public $name;
 
     /**
      *
      * @var string
      */
-    public $password;
+    public $amazon_merchant_id;
 
     /**
      *
      * @var string
      */
-    public $shops;
+    public $amazon_token;
+
+    /**
+     *
+     * @var integer
+     */
+    public $user;
 
     /**
      * Returns table name mapped in the model.
@@ -34,14 +40,14 @@ class Users extends \Phalcon\Mvc\Model
      */
     public function getSource()
     {
-        return 'users';
+        return 'shop';
     }
 
     /**
      * Allows to query a set of records that match the specified conditions
      *
      * @param mixed $parameters
-     * @return Users[]
+     * @return Shop[]
      */
     public static function find($parameters = null)
     {
@@ -52,7 +58,7 @@ class Users extends \Phalcon\Mvc\Model
      * Allows to query the first record that match the specified conditions
      *
      * @param mixed $parameters
-     * @return Users
+     * @return Shop
      */
     public static function findFirst($parameters = null)
     {

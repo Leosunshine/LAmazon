@@ -305,4 +305,14 @@ class DataproviderController extends ControllerBase
 		$this->dataReturn($nodes);
 
 	}
+
+	public function getshopinfoAction(){
+		$this->view->disable();
+		$seller = $this->session->get("userInfo");
+		$shops = $seller['shops'];
+		$shop = explode("|", $shops)[0] * 1;
+		$shop = Shop::findFirst($shop)->toArray();
+
+		$this->dataReturn(array("success"=>$shop));
+	}
 }

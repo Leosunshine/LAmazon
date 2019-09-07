@@ -29,7 +29,14 @@
     </head>
     <body>
     <div id="navigation" style="width:100%;height:10%;background-color:yellow;">
-        <div style="width:10%;height:100%;float:left;"></div>
+        <div style="width:15%;height:100%;float:left;">
+            <div style="height:100%;width:40%;border-radius: 50%;text-align: center;float: left;">
+                <img src="/resources/usericon.jpg" title="个人中心" style="max-height:100%;max-width:100%;border-radius: 50%;cursor: pointer;" onclick="window.open('/user/homepage','_blank');">
+            </div>
+            <div style="float:left;height:100%;width: 50%;text-align: center;">
+                <label>{{username}}</label><br/>
+            </div>
+        </div>
         <div style="width:10%;height:100%;font-size: 20px;float:left;cursor:pointer;" onclick="window.location.href='/product'"><div style="height:20%;"></div>产品管理<span class="fa fa-pencil"></span></div>
         <div style="width:10%;height:100%; font-size: 20px;float:left;cursor: pointer;" onclick="window.location.href='/product/localcategoryedit'"><div style="height:20%;"></div>分类管理</div>
         <div style="width:10%;height:100%;font-size: 20px;float:left;cursor:pointer;" onclick="window.location.href='/amazon/amazonupload'"><div style="height:20%;"></div>amazon<br/>上传</span></div>
