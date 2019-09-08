@@ -27,8 +27,9 @@
 <body>
 <div style="width:100%;height:10%;background-color: cyan;overflow: hidden;">
 	<div style="width:100%;height:30%;float:left;"></div>
-	<div style="width:20%;height:100%;float:left;font-size:30px;text-align: center;">个人中心</div>
-	<div style="width:20%;height:100%;float:right;font-size:30px;text-align: right;">一些选项</div>
+	<div style="width:2%;height:70%;text-align: center; font-size: 30px;float:left;cursor: pointer;" title="回到产品管理" onclick="window.location.href = '/product';"><</div>
+	<div style="width:15%;height:70%;float:left;font-size:30px;text-align: center;">个人中心</div>
+	<div style="width:20%;height:70%;float:right;font-size:30px;text-align: right;">一些选项</div>
 </div>
 
 <script type="text/javascript">

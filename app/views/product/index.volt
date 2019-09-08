@@ -116,62 +116,80 @@
 	});
 </script>
 
+<style type="text/css">
+	.entry_left{
+		width:90%;height:5%;cursor:pointer; margin:auto; text-align: center;
+	}
+	.entry_left:hover{
+		background-color: rgba(202,133,106,0.8);
+	}
+</style>
 <div id="downcontent" style="width:100%;height:90%;">
-	<div id="entry" style="width:18%;height:100%;float:left;">
+	<div id="entry" style="width:18%;height:100%;float:left;background-color: rgba(100,202,50,0.5);">
 		<div style="width:100%;height:5%;"></div>
-		<div id="group_panel" style="width:90%;height:50%;margin:auto;background-color: rgba(202,133,106,1); overflow-y:auto;">
+		<div id="group_panel" style="width:90%;height:50%;margin:auto;background-color: rgba(202,133,106,1); overflow-y:auto; display: none;">
 			<div class="ztree" id="category_ztree_entry"></div>
 		</div>
-
+		<div class="entry_left" id="product_manager">产品管理</div>
 		<hr>
-		<div id="supplier_entry" style="width:90%;height:10%;background-color: silver; margin:auto; text-align: center;">供应商</div>
+		<div class="entry_left" id="supplier_entry">供应商(占位)</div>
 		<hr>
-		<div id="international_shipping_entry" style="width:90%;height:10%;background-color: silver; margin:auto; text-align: center;">国家运费</div>
+		<div class="entry_left" id="international_shipping_entry" >国家运费(占位)</div>
 
 		<script type="text/javascript">
 			$(function(){
 				$("#supplier_entry").click(function(){
 					$.post("/test/getSupplierComponent",undefined,function(data){
-						$("#content").html(data);
+						$("#product_manager_container").fadeOut();
+						$("#content").prepend(data);
 					});
+				});
+				
+				$("#product_manager").click(function(){
+					$("#content").html($("#product_manager_container"));
+					$("#product_manager_container").fadeIn();
 				});
 
 				$("#international_shipping_entry").click(function(){
-					$.post("/test/getInternationalShippingComponent",undefined,function(data){
-						$("#content").html(data);
-					})
+
+				// 	$.post("/test/getInternationalShippingComponent",undefined,function(data){
+				// 		$("#content").html(data);
+				// 	});
 				});
 			});
 		</script>
 	</div>
 	<div id="content" style="width:82%;height:100%;float:left;">
-		<div id="search_condition">
-			<div style="width:70%;height:100%;float:left;background-color:red;">
-				<div style="height:10px;"></div>
-				&nbsp<input type="text" id="select_condition" name="select_condition" title="SKU或标题" />
-				<button class="btn-primary" onclick="productManager.refreshProductList(10,0,undefined,undefined,$('#select_condition').val());">搜索商品</button>
+		<div style="width:100%;height:100%;" id="product_manager_container">
+			<div id="search_condition">
+				<div style="width:70%;height:100%;float:left;background-color:red;">
+					<div style="height:10px;"></div>
+					&nbsp<input type="text" id="select_condition" name="select_condition" title="SKU或标题" />
+					<button class="btn-primary" onclick="productManager.refreshProductList(10,0,undefined,undefined,$('#select_condition').val());">搜索商品</button>
+				</div>
+				<div style="width:30%;height:100%;float:left;background-color:rgba(202,133,106,1);">
+					<button class="btn-primary" onclick = "showProductForm(undefined,true);">添加商品</button>
+					<button class="btn-danger" onclick="truncateDatabase();">清空数据库</button>
+				</div>
 			</div>
-			<div style="width:30%;height:100%;float:left;background-color:rgba(202,133,106,1);">
-				<button class="btn-primary" onclick = "showProductForm(undefined,true);">添加商品</button>
-				<button class="btn-danger" onclick="truncateDatabase();">清空数据库</button>
-			</div>
-		</div>
-		<div id="productContainer"></div>
-		<div id="content_footer" style="background-color:cyan;width:100%;height:5%;">
-			第 <input id="page_now" type="text" style="width:20px;height:20px;margin:0;padding:0;font-size: 12px;text-align: center;" value="1" /> 页, 共<span id="page_total">1</span>页
-			<button>首页</button>
-			<button>上一页</button>
-			<button>下一页</button>
-			<button>尾页</button>
+			<div id="productContainer"></div>
+			<div id="content_footer" style="background-color:cyan;width:100%;height:5%;">
+				第 <input id="page_now" type="text" style="width:20px;height:20px;margin:0;padding:0;font-size: 12px;text-align: center;" value="1" /> 页, 共<span id="page_total">1</span>页
+				<button>首页</button>
+				<button>上一页</button>
+				<button>下一页</button>
+				<button>尾页</button>
 
-			每页显示<select id="count_per_page" style="margin:0;padding:0;">
-				<option>10</option>
-				<option>20</option>
-				<option>30</option>
-			</select>
+				每页显示<select id="count_per_page" style="margin:0;padding:0;">
+					<option>10</option>
+					<option>20</option>
+					<option>30</option>
+				</select>
 
-			共计<span id="record_total">0</span>个商品
+				共计<span id="record_total">0</span>个商品
+			</div>	
 		</div>
+		
 	</div>
 </div>
 

@@ -31,7 +31,7 @@
     <div id="navigation" style="width:100%;height:10%;background-color:yellow;">
         <div style="width:15%;height:100%;float:left;">
             <div style="height:100%;width:40%;border-radius: 50%;text-align: center;float: left;">
-                <img src="/resources/usericon.jpg" title="个人中心" style="max-height:100%;max-width:100%;border-radius: 50%;cursor: pointer;" onclick="window.open('/user/homepage','_blank');">
+                <img src="/resources/usericon.jpg" title="个人中心" style="max-height:100%;max-width:100%;border-radius: 50%;cursor: pointer;" onclick="window.location.href = '/user/homepage';">
             </div>
             <div style="float:left;height:100%;width: 50%;text-align: center;">
                 <label>{{username}}</label><br/>
