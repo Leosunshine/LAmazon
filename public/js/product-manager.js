@@ -18,6 +18,7 @@
 		this.limit = 10; this.offset = 0; this.orderBy = undefined; this.asc = undefined; this.condition = undefined;
 	};
 
+
 	ProductManager.prototype.categories = new Object();
 	ProductManager.prototype.categoriesMap = new Object();
 	ProductManager.prototype.categoriesDic = new Object();
@@ -30,9 +31,12 @@
 		orderBy = orderBy || "id";
 		asc   = asc || "asc";
 
-		this.limit = limit; this.offset = offset; this.orderBy = orderBy; this.asc = asc; this.condition = condition;
-
-		$.post(this.listUrl,{limit:limit,offset:offset,orderBy:orderBy, asc:asc, condition: condition},function(data,status,jqxhr){
+		this.limit = limit; this.offset = offset; this.orderBy = orderBy; this.asc = asc;
+		if(condition){
+			this.condition = condition;
+		} 
+		
+		$.post(this.listUrl,{limit:limit,offset:offset,orderBy:orderBy, asc:asc, condition: this.condition},function(data,status,jqxhr){
 			if(data.success){
 				var host = jqxhr.host;
 				for(var i in data.success){

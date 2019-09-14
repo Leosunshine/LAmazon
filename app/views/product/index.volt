@@ -165,7 +165,7 @@
 				<div style="width:70%;height:100%;float:left;background-color:red;">
 					<div style="height:10px;"></div>
 					&nbsp<input type="text" id="select_condition" name="select_condition" title="SKU或标题" />
-					<button class="btn-primary" onclick="productManager.refreshProductList(10,0,undefined,undefined,$('#select_condition').val());">搜索商品</button>
+					<button class="btn-primary" onclick="productManager.condition = $('#select_condition').val(); goToPage(1);">搜索商品</button>
 				</div>
 				<div style="width:30%;height:100%;float:left;background-color:rgba(202,133,106,1);">
 					<button class="btn-primary" onclick = "showProductForm(undefined,true);">添加商品</button>
@@ -173,14 +173,60 @@
 				</div>
 			</div>
 			<div id="productContainer"></div>
+			<script type="text/javascript">
+				$(function(){
+					$("#goToFirstPage").bind("click",function(){goToPage(1)});
+					$("#goToFormerPage").bind("click",function(){
+						var nowpage = $("#page_now").val() * 1;
+						goToPage(nowpage - 1);
+					});
+
+					$("#goToNextPage").bind("click",function(){
+						var nowpage = $("#page_now").val() * 1;
+						goToPage(nowpage + 1);
+					});
+
+					$("#goToLastPage").bind("click",function(){
+						var totalpage = $("#page_total").html() * 1;
+						goToPage(totalpage);
+					});
+
+					$("#page_now").bind("blur",function(){
+						var newpage = $("#page_now").val() * 1;
+						goToPage(newpage);
+					});
+
+					$("#count_per_page").bind("change",function(){
+						goToPage(1);
+					});
+				});
+				
+				function goToPage(page){
+					if(page < 1){
+						goToPage(1);
+						return;
+					}
+
+					var pageTotal = $("#page_total").html() * 1;
+					if(page > pageTotal){
+						goToPage(pageTotal);
+						return;
+					}
+
+					$("#page_now").val(page);
+					var count_per_page = $("#count_per_page").val() * 1;
+					productManager.refreshProductList(count_per_page, (page - 1) * count_per_page, undefined, undefined,undefined);
+				}
+			</script>
 			<div id="content_footer" style="background-color:cyan;width:100%;height:5%;">
 				第 <input id="page_now" type="text" style="width:20px;height:20px;margin:0;padding:0;font-size: 12px;text-align: center;" value="1" /> 页, 共<span id="page_total">1</span>页
-				<button>首页</button>
-				<button>上一页</button>
-				<button>下一页</button>
-				<button>尾页</button>
+				<button id="goToFirstPage">首页</button>
+				<button id="goToFormerPage">上一页</button>
+				<button id="goToNextPage">下一页</button>
+				<button id="goToLastPage">尾页</button>
 
-				每页显示<select id="count_per_page" style="margin:0;padding:0;">
+				每页显示<select id="count_per_page" value="10" style="margin:0;padding:0;">
+					<!--option>1</option-->
 					<option>10</option>
 					<option>20</option>
 					<option>30</option>
@@ -931,6 +977,5 @@
 
 		}).refreshProductList(10,0,undefined,undefined,"LAMAZON")
 		.refreshCategories();
-
 	});
 </script>
