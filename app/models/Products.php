@@ -95,9 +95,15 @@ class Products extends \Phalcon\Mvc\Model
 
     /**
      *
-     * @var integer
+     * @var string
      */
     public $amazon_status;
+
+    /**
+     *
+     * @var integer
+     */
+    public $status;
 
     /**
      *

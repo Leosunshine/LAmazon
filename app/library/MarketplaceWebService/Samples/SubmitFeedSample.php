@@ -108,7 +108,7 @@ $feed = <<<EOD
 <MessageID>1</MessageID>
 <OperationType>Update</OperationType>
 <Inventory>
-<SKU>LAMAZON-8F7B714F</SKU>
+<SKU>LAMAZON-C1D34391</SKU>
 <Quantity>0</Quantity>
 <FulfillmentLatency>7</FulfillmentLatency></Inventory></Message></AmazonEnvelope>
 EOD;

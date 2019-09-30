@@ -36,7 +36,7 @@ class DataproviderController extends ControllerBase
 		
 
 		$total = Products::count(array(
-			"SKU like :con: or title like :con: or keywords like :con:",
+			"status < 6 and (SKU like :con: or title like :con: or keywords like :con:)",
 			"bind"=>array("con"=>"%$condition%")
 		));
 
@@ -50,7 +50,7 @@ class DataproviderController extends ControllerBase
 					'Products.images as images'
 				))
 				->from("Products")
-				->where("SKU like :con: or title like :con: or keywords like :con:",["con"=>"%$condition%"])
+				->where("status < 6 and (SKU like :con: or title like :con: or keywords like :con:)",["con"=>"%$condition%"])
 				->limit($limit,$offset)
 				->orderBy($orderBy." ".$asc)
 				->getQuery()

@@ -23,6 +23,18 @@ class Variation extends \Phalcon\Mvc\Model
 
     /**
      *
+     * @var string
+     */
+    public $EAN;
+
+    /**
+     *
+     * @var string
+     */
+    public $amazon_status;
+
+    /**
+     *
      * @var integer
      */
     public $inventory_count;

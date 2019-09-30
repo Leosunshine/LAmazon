@@ -15,7 +15,6 @@ class ProductController extends ControllerBase
 		#此处给出验证用户的代码
 		parent::initialize();
 		$this->view->setTemplateAfter("baseproduct");
-
 		$seller = $this->session->get("userInfo");
 		$this->view->setVar("username",$seller['username']);
 		// include_once("../app/library/LAmazonConfig.php");
@@ -264,14 +263,14 @@ class ProductController extends ControllerBase
 		$log = new LogRecoder("./temp/operation.txt");
 		$product_id = $this->request->getPost("id");
 		if($product_id === "0"){
-			$product_id = $this->createProduct($product);
+			$product_id = $this->updateProduct($product,"0");
 			$log->add("A product is created: $product_id");
 			$this->dataReturn(array("success"=>$product_id));
 		}else{
 			$this->updateProduct($product,$product_id);
 			$log->add("A product is modified: $product_id");
 			$this->dataReturn(array("success"=>$product_id));
-		}	
+		}
 	}
 
 	public function truncateDatabaseAction(){
@@ -288,18 +287,42 @@ class ProductController extends ControllerBase
 		$product_instance = Products::findFirst(($product_id*1));
 		if(!$product_instance) {
 			$product_instance = new Products();
+			$product_instance->status = 1;
+		}else{
+			$amazon_status = $product_instance->amazon_status;
+			if("2" === substr($amazon_status, 0,1) || "5" === substr($amazon_status, 0, 1)){ //如果尚未初始化,则进行状态切换
+				$product_instance->amazon_status = Tools::replaceCharAt($product_instance->amazon_status, 0, "3");
+				$product_instance->status = 3;
+			}			
 		}
+		$isProductUpdated = false;
 		$product_instance->setTransaction($transaction);
 
 		foreach ($product as $key => $value) {
 			switch ($key) {
 				case 'variations':break;
 				case 'images':break;
+				case 'price':
+				case 'currency':
+				case 'product_count':
+					if($product_instance->$key != $value){
+						$product_instance->$key = $value;
+					}
+					break;
 				default:
-					$product_instance->$key = $value;
+					if($product_instance->$key != $value){
+						$product_instance->$key = $value;
+						$isProductUpdated = true;
+					}
 					break;
 			}
 		}
+
+		$SKU = $product["SKU"];
+		$EAN = $product["ASIN"];
+
+		$product_instance->SKU = $SKU?$SKU:AmazonAPI::composeSKU();
+		$product_instance->ASIN = $EAN?$EAN:AmazonAPI::composeEAN();
 
 		try{
 			$product_instance->save();
@@ -353,116 +376,31 @@ class ProductController extends ControllerBase
 		$main_image_id = explode("|",trim($images_field, "|"))[0] * 1;
 		$product_instance->main_image_id = $main_image_id;
 
-		//处理变体
+		//处理变体. 变体要用SKU控制, 一旦修改SKU，等效于重新添加变体
+
+		//取出原有变体集合
 		$variations = Variation::find(array(
 			"product_id = :product_id:",
 			"bind"=>array("product_id"=>$product_id)
 		));
-		foreach($variations as $key => $variation){
-			$variation->product_id = 0;
-			$variation->setTransaction($transaction);
-			try{
-				$variation->save();	
-			}catch(TxFailed $e){
-				$transaction->rollback();
-			}
-		}
 
-		$variations = $product['variations'];
-		$variation_field = "";
-
-		foreach ($variations as $index => $variation) {
-			$variation_instance = $this->createVariation($variation,$image_map);
-			$variation_instance->setTransaction($transaction);
-			$variation_instance->product_id = $product_instance->id;
-			try {
-				$variation_instance->save();
-				$variation_field .= "$variation_instance->id|";
-			} catch (Exception $e) {
-				$transaction->rollback();
-			}
-		}
-		$product_instance->variation_node = trim($variation_field,"|");
-		try {
-			$product_instance->save();
-		} catch (Exception $e) {
-			$transaction->rollback();
-		}
-		$transaction->commit();		
-	}
-	public function createProduct($product){
-		$manager = new TxManager();
-		$transaction = $manager->get();
-		$product_instance = new Products();
-		$product_instance->setTransaction($transaction);
-		$arr = get_object_vars($product_instance);
-		foreach ($product as $key => $value) {
-			switch ($key) {
-				case 'variations':break;
-				case 'images':break;
-				default:
-					$product_instance->$key = $value;
-					break;
-			}			
-		}
-
-		if(!$product_instance->SKU) $product_instance->SKU = AmazonAPI::composeSKU();
-		if(!$product_instance->ASIN) $product_instance->ASIN = AmazonAPI::composeEAN();
-
-		try {
-			$product_instance->create();
-			$product_instance = Products::findFirst($product_instance->id);
-		} catch (TxFailed $e) {
-			print_r($e);
-			$transaction->rollback();
-		}
+		//建立原有SKU与变体的映射,并将状态置为无效
+		$variation_map = array();
 		
-		//确保图片文件夹存在
-		$image_fold = "./img/".$product_instance->id;
-		if(!is_dir($image_fold)){
-			mkdir($image_fold);
+		foreach($variations as $key => $variation){
+			$variation_map[$variation->SKU] = $variation;
+			$variation->setTransaction($transaction);
 		}
 
-
-		//存储结束后,开始处理图像数据
-		$images = $product['images'];
-		$image_map = array();
-
-		$images_field = "";
-		foreach($images as $guid => $filename){
-			//转移图像
-			$url = $image_fold."/".$guid."_".$filename;
-			rename("./img/".$guid."_".$filename, $url);
-			
-			$image_url = ImageUrls::findFirst(array(
-				"state = :state:",
-				"bind"=>array("state"=>0)
-			));
-			if(!$image_url) $image_url = new ImageUrls();
-
-			$image_url->setTransaction($transaction);
-
-			$image_url->guid = $guid;
-			$image_url->file_name = $filename;
-			$image_url->url = $url;
-			$image_url->state = 1;
-			try {
-				$image_url->save();
-				$images_field.="$image_url->id|";
-				$image_map[$guid] = $image_url->id;
-			} catch (Exception $e) {
-				$transaction->rollback();
-			}
-		}
-
-		$product_instance->images = trim($images_field,"|");
-
-		//处理变体
 		$variations = $product['variations'];
 		$variation_field = "";
 
 		foreach ($variations as $index => $variation) {
-			$variation_instance = $this->createVariation($variation,$image_map);
+			$variation_instance = $this->createVariation($variation,$image_map,$variation_map);
+			$key = array_search($variation_instance, $variation_map);
+			if($key){
+				unset($variation_map[$key]);
+			}
 			$variation_instance->setTransaction($transaction);
 			$variation_instance->product_id = $product_instance->id;
 			try {
@@ -472,19 +410,63 @@ class ProductController extends ControllerBase
 				$transaction->rollback();
 			}
 		}
-		$product_instance->variation_node = trim($variation_field,"|");
 
+		foreach ($variation_map as $key => $value) {
+			try{
+				if(substr($value->amazon_status, 0,1) === "1"){
+					$value->product_id = 0;
+				}else{
+					//待删除变体置位为6
+					$value->amazon_status = Tools::replaceCharAt($value->amazon_status,0,"6");
+				}
+				
+				$value->save();
+			} catch(Exception $e){
+				$transaction->rollback();
+			}
+		}
+		$product_instance->variation_node = trim($variation_field,"|");
 		try {
 			$product_instance->save();
 		} catch (Exception $e) {
 			$transaction->rollback();
 		}
 		$transaction->commit();
-
 		return $product_instance->id;
 	}
 
 	public function deleteProductAction(){
+		$this->view->disable();
+		$manager = new TxManager();
+		$transaction = $manager->get();
+		$product_id = $this->request->getPost("id");
+		$product_instance = Products::findFirst($product_id);
+		$product_instance->setTransaction($transaction);
+
+		$amazon_status = $product_instance->amazon_status;
+		$amazon_status = substr($amazon_status, 0, 1);
+		if("1" === $amazon_status){
+			//不删除任何记录,便于追溯
+			$product_instance->status = 7;			
+		}else{
+			$product_instance->status = 6;
+			$product_instance->amazon_status = Tools::replaceCharAt($product_instance->amazon_status,0,"6");
+			$variations = Variation::find(array(
+				"product_id = :p_id:",
+				"bind"=>array("p_id"=>$product_id)
+			));
+
+			foreach ($variations as $key => $variation) {
+				$variation->setTransaction($transaction);
+				$variation->amazon_status = Tools::replaceCharAt($variation->amazon_status, 0, "6");
+				$variation->save();
+			}
+		}
+		
+		$product_instance->save();
+		$transaction->commit();
+	}
+	public function deleteProductOpeartionAction(){
 		$this->view->disable();
 
 		$manager = new TxManager();
@@ -528,17 +510,32 @@ class ProductController extends ControllerBase
 		$transaction->commit();		
 		$this->dataReturn(array("success"=>$images[count($images) - 1]));
 	}
-	private function createVariation($variation,$image_map){
-		$variation_instance = Variation::findFirst(array(
-			"product_id = 0"
-		));
+	private function createVariation($variation,$image_map,$variation_map){
+		$SKU = $variation['SKU'];
+		$amazon_pro_status = "0";
 
-		if(!$variation_instance) $variation_instance = new Variation();
+		if($SKU && $variation_map[$SKU]){
+			//已存在变体,正在修改
+			$variation_instance = $variation_map[$SKU];
+			$amazon_status = $variation_instance->amazon_status;
+			if("2" === substr($amazon_status, 0, 1) || "5" === substr($amazon_status, 0, 1)){
+				$variation_instance->amazon_status = Tools::replaceCharAt($variation_instance->amazon_status, 0, "3");
+			}
+		}else{
+			//变体不存在,需要新建
+			$variation_instance = Variation::findFirst(array(
+				"product_id = 0"
+			));
+			if(!$variation_instance) $variation_instance = new Variation();
+			$variation_instance->amazon_status = "10111";
+		}
+		
 		$variation_instance->name = $variation['name'];
 		$variation_instance->SKU = $variation['SKU']?$variation['SKU']:AmazonAPI::composeSKU();
 		$variation_instance->EAN = $variation['EAN']?$variation['EAN']:AmazonAPI::composeEAN();
 		$variation_instance->inventory_count = ($variation['inventory_count'] * 1);
 		$variation_instance->price_bonus = $variation['price_bonus'];
+		
 		$variation_instance->images = "";
 		$images = $variation['images'];
 		foreach ($images as $index => $image) {

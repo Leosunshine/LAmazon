@@ -260,6 +260,21 @@ class CommandController extends ControllerBase
 		echo "success";
 	}
 
+	public function resetProductsAction(){
+		$products = Products::find();
+		foreach ($products as $index => $product) {
+			$product->status = 1;
+			$product->amazon_status = Tools::replaceCharAt($product->amazon_status, 0 , "1");
+			$product->save();
+		}
+
+		$variations = Variation::find();
+		foreach ($variations as $index => $va) {
+			$va->amazon_status = Tools::replaceCharAt($va->amazon_status, 0, "1");
+			$va->save();
+		}
+	}
+
 	public function writeAction(){
 		$nodes = AmazonNodePathsDe::find("id < 200");
 		echo count($nodes);

@@ -165,82 +165,8 @@
 
 		public function test2Action(){
 			$this->view->disable();
-			$amazon_config = LAmazonConfig::$amazon_config;
 			echo "<pre/>";
-			$product = Products::findFirst()->toArray();
-			$variations = $product['variation_node'];
-			$EAN = $product["ASIN"];
-
-			$perpackage_count = $product['perpackage_count']?($product['perpackage_count'] * 1):1;
-			$title = $product['title']?$product['title']:"No Title";
-			$brand = $product['brand']?$product['brand']:"Unknown Brand";
-			$description = $product['description']?$product['description']:"No description";
-			$description = "<p>".str_replace("\n", "</p><p>", $description)."</p>";
-
-			$keywords = explode(",",$product['keywords']);
-			$bulletPoint = array();
-			foreach($keywords as $index => $keyword){
-				if($index >= 5) continue;
-				$bulletPoint[] = array("BulletPoint"=>trim($keyword));
-			}
-			$manufacturer = $product['manufacturer']?$product['manufacturer']:"Unknown manufacturer";
-			$category = $product['amazon_category_id'];
-			$category = Amazoncategory::findFirst($category)->toArray();
-
-			$va = array();
-			$variations = explode("|", $variations);
-			foreach ($variations as $index => $value) {
-				$variation_instance = Variation::findFirst($value)->toArray();
-				if(!$variation_instance) continue;
-				$va[] = $variation_instance; 
-			}
-
-			$feed_json = array(
-				"AmazonEnvelope"=>array(
-					"Header"=>array(
-						"DocumentVersion"=>1.01,
-						"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']
-					),
-					"MessageType"=>"Product",
-					"PurgeAndReplace"=>"false",
-					"Message"=>array(
-						"MessageID"=>1,
-						"OperationType"=>"Update",
-						"Product"=>array(
-							"SKU"=>$va[0]["SKU"],
-							"StandardProductID"=>array(
-								"Type"=>"EAN",
-								"Value"=>"9658945852096"
-							),
-							"DescriptionData"=>array(
-								"Title"=>$title,
-								"Brand"=>$brand,
-								"Description"=>"<![CDATA[$description]]>",
-								$bulletPoint,
-								"Manufacturer"=>$manufacturer,
-								"RecommendedBrowseNode"=>$product['amazon_nodeId']
-							),
-							"ProductData"=>array(
-								"Home"=>array(
-									"ProductType"=>array(
-										"Home"=>array(
-											"Material"=>$product['material_type']?$product['material_type']:"unknown"
-										)
-									),
-									"Parentage"=>"child",
-									"VariationData"=>array(
-										"Size"=>"12"
-									)
-								)
-							)
-						)
-					)
-				)
-			);
-
-			$feed = XMLTools::Json2Xml($feed_json);
-			file_put_contents("./temp/temp.dat", $feed);
-			echo AmazonAPI::submitFeed($feed,$amazon_config);
+			AmazonController::getResult();
 		}
 
 		public function synRelationshipAction(){
