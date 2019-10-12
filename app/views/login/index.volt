@@ -9,12 +9,19 @@
 			width:100%;height:100%;
 			margin: 0; padding: 0;
 		}
+
+		body{
+			background:linear-gradient(white,cyan);
+		}
 	</style>
 </head>
 <body>
 <br/><br/>
-<div style="height:20%;"></div>
-<div style="color:white;width:40%;height:35%;background-color:rgba(202,133,106,0.95);margin: 0 auto;text-align: center;font-size: 20px;border-radius: 5px;">
+<div style="height:5%;"></div>
+<div style="height:35%;text-align: center;">
+	1231
+</div>
+<div style="color:white;width:40%;height:35%;background-color:rgba(202,133,106,0.85);margin: 0 auto;text-align: center;font-size: 20px;border-radius: 5px;">
 	<div style="height:30%;"></div>
 	用户: <input  style="font-size: 20px;" id="username" type="text"><br/><br/>
 	密码: <input style="font-size: 20px;" type="password" id = "pwd"><br/><br/>

@@ -124,7 +124,7 @@ class Tools
 		$result = array("add"=>0, "update"=>0, "delete"=>0);
 
 		foreach ($products as $index => $product) {
-			$amazon_status = $product["amazon_status"];
+			$amazon_status = $product->amazon_status;
 			$product_status = Tools::isUpdatePrepared_Product($amazon_status);
 			switch ($product_status) {
 				case  1: $result["update"]++;break;
@@ -134,7 +134,7 @@ class Tools
 
 			$variations = Variation::find(array(
 				"product_id = :p_id:",
-				"bind"=>array("p_id"=>$product["id"])
+				"bind"=>array("p_id"=>$product->id)
 			))->toArray();
 
 			if(!$variations) continue;
@@ -150,6 +150,42 @@ class Tools
 		}
 		return $result;
 	} 
+
+	public static function countOfPreparedOther($products){
+		$relation = 0;
+		$price = 0;
+		$inventory = 0;
+		foreach ($products as $index => $product) {
+			if(AmazonStatus::isNeedUpdate($product,"Relation")){
+				$relation++;
+			}
+
+			//只处理产生变体关系的子,与进行升级与删除操作的逻辑不同
+			$variations = $product->variation_node;
+			$variations = explode("|", $variations);
+			if(count($variations)){
+				foreach ($variations as $key => $va_id) {
+					$variation_instance = Variation::findFirst($va_id);
+					if(AmazonStatus::isNeedUpdate($variation_instance,"Price")){
+						$price++;
+					}
+
+					if(AmazonStatus::isNeedUpdate($variation_instance,"Inventory")){
+						$inventory++;
+					}
+				}
+			}else{
+				if(AmazonStatus::isNeedUpdate($product,"Price")){
+					$price++;
+				}
+
+				if(AmazonStatus::isNeedUpdate($product,"Inventory")){
+					$inventory++;
+				}
+			}
+		}
+		return array("relation"=>$relation, "price" => $price, "inventory" => $inventory);
+	}
 
 	public static function replaceCharAt($string, $pos, $char){
 		$chars = str_split($string);

@@ -41,7 +41,8 @@ loadDirs($config->libraryDirs,false);
 $loader->registerDirs(
     array(
         $config->application->controllersDir,
-        $config->application->modelsDir
+        $config->application->modelsDir,
+        $config->application->classDir
     )
 )->register();
  

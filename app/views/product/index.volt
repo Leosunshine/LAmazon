@@ -242,7 +242,7 @@
 
 <div id="addProductPanel" isNew=true style="position:absolute;left:0;top:0;background-color:rgba(0,0,0,0.3);width:100%;height:100%;display:none;">
 	<div class="well" style="width:80%;height:80%;background-color:white;margin:0 auto;margin-top:5%;">
-		<div style="width:100%;height:5%;font-size: 20px;">新增商品</div>
+		<div id="addProductInfo" style="width:100%;height:5%;font-size: 20px;">新增商品</div>
 		<hr/>
 		<div style="width:100%;height:80%;overflow-y: auto;">
 			<div style="width:100%;height:80%;">
@@ -262,44 +262,39 @@
 					</script>
 					<br/>
 					<br/>
-					<span style="font-weight: bold;">审核状态:</span>	
+					<hr/>
+					<div style="display: none;">
+					<span style="font-weight: bold; display: none;">审核状态:</span>	
 								<input class="product_field product_panel_radio_selector" type="radio" name="review_status" value="1">通过
 								<input class="product_field product_panel_radio_selector" type="radio" name="review_status" value="2">待审核
 								<input class="product_field product_panel_radio_selector" type="radio" name="review_status" value="3">过滤
 								<input class="product_field product_panel_radio_selector" type="radio" name="review_status" value="4">侵权
 								<input class="product_field product_panel_radio_selector" type="radio" name="review_status" value="5">屏蔽<br/>
 
-					<span style="font-weight: bold;">上架下架:</span>   
+					<span style="font-weight: bold; display: none;">上架下架:</span>   
 								<input class="product_field product_panel_radio_selector" type="radio" name="appear_status" value="1">上架
 								<input class="product_field product_panel_radio_selector" type="radio" name="appear_status" value="2">下架
 								<input class="product_field product_panel_radio_selector" type="radio" name="appear_status" value="3">失效<br/>
 
-					<span style="font-weight: bold;">安全等级:</span> 
+					<span style="font-weight: bold; display: none;">安全等级:</span> 
 								<input class="product_field product_panel_radio_selector" type="radio" name="security_status" value="1">未分级
 								<input class="product_field product_panel_radio_selector" type="radio" name="security_status" value="2">没图案设计
 								<input class="product_field product_panel_radio_selector" type="radio" name="security_status" value="3">有图案设计
 								<input class="product_field product_panel_radio_selector" type="radio" name="security_status" value="4">国内品牌
 								<input class="product_field product_panel_radio_selector" type="radio" name="security_status" value="5">高风险<br/>
 
-					<span style="font-weight: bold;">产品级别:</span> 
+					<span style="font-weight: bold; display: none;">产品级别:</span> 
 								<input class="product_field product_panel_radio_selector" type="radio" name="product_level" value="1">重点
 								<input class="product_field product_panel_radio_selector" type="radio" name="product_level" value="2">原创
 								<input class="product_field product_panel_radio_selector" type="radio" name="product_level" value="3">海外
 								<input class="product_field product_panel_radio_selector" type="radio" name="product_level" value="4">抓取
 								<input class="product_field product_panel_radio_selector" type="radio" name="product_level" value="5">导入<br/><br/>
-
+					</div>
 					<span style="font-weight: bold;">产品开发:</span> 
-								<select class="product_field product_panel_select_selector" name="developer"><option value="0"></option>{{users_options}}</select>
+								<select class="product_field product_panel_select_selector" name="developer"><option value="0"></option>{{users_options}}</select><br/>
 					<span style="font-weight: bold;">美工修图:</span>  
 								<select class="product_field product_panel_select_selector" name="artist"><option value="0"></option>{{users_options}}</select><br/>
-
-					产品品牌:   <input class="product_field product_panel_text_selector" type="text" name="brand"/>
-					厂商名称:   <input class="product_field product_panel_text_selector" type="text" name="manufacturer"/>
-					厂商编号:   <input class="product_field product_panel_text_selector" type="text" name="manufacturer_id"/>
-					原产地区:   <input class="product_field product_panel_text_selector" type="text" name="origin_place"/>
-					商品目录:   <input class="product_field product_panel_text_selector" type="text" name="catalog_number"/>
 				</div>
-
 				<div id="imageUploader" style="width:45%;height:100%;float:left;">
 					<script type="text/javascript">
 						$(function(){
@@ -332,6 +327,15 @@
 					</script>
 				</div>
 				
+			</div>
+			<hr/>
+
+			<div style="width:100%;height:35%;">
+				产品品牌:   <input class="product_field amazon_field product_panel_text_selector" type="text" name="brand"/>
+				厂商名称:   <input class="product_field amazon_field product_panel_text_selector" type="text" name="manufacturer"/><br/>
+				厂商编号:   <input class="product_field amazon_field product_panel_text_selector" type="text" name="manufacturer_id"/>
+				原产地区:   <input class="product_field amazon_field product_panel_text_selector" type="text" name="origin_place"/>
+				<div style="display: none;">商品目录:   <input class="product_field product_panel_text_selector" type="text" name="catalog_number"/></div>
 			</div>
 			<hr/>
 
@@ -416,7 +420,6 @@
 							$("#variation_table").append(tr);
 						}
 					</script>
-					
 				</div>
 			</div>
 			<hr/>
@@ -489,7 +492,6 @@
 				包装材料: <input class="product_field product_panel_text_selector" type="text" name="package_material_type"/><br/>
 				珠宝类型: <select class="product_field product_panel_select_selector" name="jewel_type_id"><option value=""></option>{{jewel_type_options}}</select>
 				戒指尺寸: <select class="product_field product_panel_select_selector" name="ringsize"><option value=""></option>{{ringsize_options}}</select>
-
 			</div>
 			<hr/>
 
@@ -517,11 +519,19 @@
 	<script type="text/javascript">
 		
 		function showProductForm(product,isCreate){
+			$("#addProductInfo").html(isCreate?"新增商品":"编辑商品");
 			product = product?product:{};
 			initProductForm(product);
 			$("#addProductPanel").prop("isCreate",isCreate);
 			var product_id = isCreate?"0":product.id;
 			$("#addProductPanel").prop("product_id",product_id);
+			if(product.status && product.status !== "1"){
+				$(".amazon_field").prop("readonly","readonly");
+				$(".amazon_field").prop("title","亚马逊相关属性在上传完成后与EAN/ASIN绑定，不允许更改");
+			}else{
+				$(".amazon_field").prop('readonly',"");
+				$(".amazon_field").prop("title","");
+			}
 			$("#addProductPanel").fadeIn();
 		}
 
@@ -535,6 +545,19 @@
 			});
 		}
 		function initProductForm(product){
+			//初始化变体主题
+			if(product['themes']){
+				$("#variation_theme_options").html("");
+				var themes = product["themes"];
+				themes = themes.split("|");
+				
+				for(var i in themes){
+					$("#variation_theme_options").append($("<option value='"+themes[i]+"'>"+themes[i]+"</option>"));
+				}
+			}else{
+				$("#variation_theme_options").html("<option>请先选择分类</option>");
+			}
+
 			//处理基本字段: text
 			$(".product_panel_text_selector").each(function(){
 				var content = product[$(this).attr("name")]|| "";
@@ -610,18 +633,7 @@
 				}
 			}
 
-			//初始化变体主题
-			if(product['themes']){
-				$("#variation_theme_options").html("");
-				var themes = product["themes"];
-				themes = themes.split("|");
-				
-				for(var i in themes){
-					$("#variation_theme_options").append($("<option value='"+themes[i]+"'>"+themes[i]+"</option>"));
-				}
-			}else{
-				$("#variation_theme_options").html("<option>请先选择分类</option>");
-			}
+			
 		}
 
 		function getProductInstance(){
@@ -966,6 +978,7 @@
 			categoryUrl:"/dataprovider/listcategory",
 			onEdit: function(product_id){
 				$.post("/dataprovider/getProductById",{id:product_id},function(data){
+
 					showProductForm(data.success,false);
 				});
 			},

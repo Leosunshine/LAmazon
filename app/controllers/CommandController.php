@@ -220,41 +220,34 @@ class CommandController extends ControllerBase
 	}
 
 	public function translateNodepathAction(){
-		$nodes = AmazonNodePathsFr::find()->toArray();
+		$nodes = AmazonNodePathsIt::find()->toArray();
 		$names = array();
 
 		foreach ($nodes as $key => $value) {
 			$names[] = $value['name'];
 		}
 		$out = implode("\n", $names);
-		file_put_contents("./word_fr.txt", $out);
+		file_put_contents("./word_it.txt", $out);
 	}
 
 	public function loadTranslationAction(){
-		return;
 		echo "<pre/>";
-		$nodes = AmazonNodePathsDe::find("id > 3000");
-		$words = file_get_contents("./word.txt");
-		$trans = file_get_contents("./translate.txt");
-		// $manager = new TxManager();
-		// $transaction = $manager->get();
+		$nodes = AmazonNodePathsFr::find("");
+		$words = file_get_contents("./word_fr.txt");
+		$trans = file_get_contents("./files/translate_fr.txt");
 
 		$wordsLines = explode("\n", $words);
 		$transLines = explode("\n",$trans);
 		$coun = 0;
 		foreach ($transLines as $index => $translate) {
-			if($coun < 1000){
-				$coun++;
-				continue;
-			}
 			$word = $wordsLines[$index];
 			$tran = $translate;
 			if($word === $nodes[$index]->name){
-				//$nodes[$index]->setTransaction($transaction);
 				$nodes[$index]->name_remark = $tran;
 				$nodes[$index]->save();
+			}else{
+				echo "error";
 			}
-			$coun++;
 		}
 		// $transaction->commit();
 		echo "success";
@@ -300,10 +293,10 @@ class CommandController extends ControllerBase
 		$manager = new TxManager();
 		$transaction = $manager->get();
 
-		$content = file_get_contents("./files/csvs/tools.txt");
-		$first_level_category = "Bricolage";
+		$content = file_get_contents("./files/csvs/watches.txt");
+		$first_level_category = "Orologi";
 		$contents = explode("\n", $content);
-		// $root = new AmazonNodePathsFr();
+		// $root = new AmazonNodePathsIt();
 		// $root->setTransaction($transaction);
 
 		// $root->nodeId = 0;
@@ -321,7 +314,7 @@ class CommandController extends ControllerBase
 
 		foreach ($contents as $key => $value) {
 
-			$nodePathInstance = new AmazonNodePathsFr();
+			$nodePathInstance = new AmazonNodePathsIt();
 			$nodePathInstance->setTransaction($transaction);
 
 			$values = explode("\t", $value);

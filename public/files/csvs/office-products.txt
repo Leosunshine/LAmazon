@@ -1,0 +1,867 @@
+﻿3606311031	Cancelleria e prodotti per ufficio
+4290080031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania
+4290088031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione
+731698031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Album foto
+13712109031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Bandierine da tavolo
+4290142031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Cartelle portadocumenti da viaggio
+732981031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Cestini per la carta
+4290143031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Cestini portaoggetti
+3494694031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Contenitori
+4290144031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Custodie per blocchi appunti
+4290145031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Fermacarte
+4290146031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Fermalibri
+4290147031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Ganci e contenitori pensili
+15559319031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo
+1904630031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo/Bobine per cavo
+1904639031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo/Canaline fili elettrici
+15559321031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo/Cinghie per cavi
+15559323031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo/Clip fermacavi da parete
+15559320031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo/Guaine per cavi
+15559322031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo/Protezioni per cavi a pavimento
+1904635031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Gestione del cavo/Stringicavi
+4290148031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Leggii
+4290149031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Lenti di ingrandimento
+4290151031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Organizzatori per cassetti
+4290152031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Poggiapolsi
+4290153031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Porta biglietti da visita
+4290154031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Porta memo
+4290155031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Porta raccoglitori
+4290156031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portabrochure
+4290157031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portalistini
+4290158031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portaoggetti e portablocchi da scrivania
+4290313031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portaoggetti e portablocchi da scrivania/Astucci
+4290314031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portaoggetti e portablocchi da scrivania/Contenitori graffette
+4290315031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portaoggetti e portablocchi da scrivania/Portablocchi da scrivania
+4290316031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portaoggetti e portablocchi da scrivania/Portaoggetti da scrivania
+4290317031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Portaoggetti e portablocchi da scrivania/Portapenne
+4290159031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Raccoglitori per biglietti da visita
+4290160031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Sottomano
+4290161031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Tamponi e spugnette
+460048031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Tappetini per il Mouse
+4290162031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Accessori da scrivania e archiviazione/Vaschette portacorrispondenza
+4290089031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio
+4290164031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle
+4290322031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle/Cartelle a soffietto espandibili
+4290324031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle/Cartelle portadocumenti
+4290323031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle/Cartelle portadocumenti da appendere
+4290325031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle/Cartelle portaprogetti e cartelle a tasca
+4290326031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle/Portariviste
+4290163031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle sospese e accessori
+4290318031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle sospese e accessori/Cartelle e buste portadocumenti
+4290319031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle sospese e accessori/Indici per cartelle sospese
+4290320031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle sospese e accessori/Inserti per cartelle sospese
+4290321031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Cartelle sospese e accessori/Supporti per cartelle sospese
+4290165031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Classificatori
+2808668031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Classificatori/Cassetti
+4290327031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Classificatori/Scatole
+4290328031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Classificatori/Vaschette
+4290166031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Portablocchi e portamoduli
+4290167031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Raccoglitori a leva per documenti
+4290168031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Archivio ufficio/Raccoglitori e divisori per rubriche e biglietti da visita
+4290090031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Badge e Portabadge
+4290169031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Badge e Portabadge/Badge di identificazione
+4290170031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Badge e Portabadge/Inserti per badge
+4290171031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Badge e Portabadge/Portabadge
+4290091031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote"
+3119700031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Casseforti"
+3120070031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Casseforti/Armadi portafucili"
+3120071031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Casseforti/Casseforti a armadio"
+3120072031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Casseforti/Casseforti a muro"
+3120073031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Casseforti/Casseforti di diversione"
+4290172031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Cilindri portamonete"
+4290173031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Contabanconote"
+4290174031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Contamonete"
+4290175031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Piccole casseforti per contanti e assegni"
+4290176031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Casseforti, portamonete e contabanconote/Sacchetti per contanti"
+4290092031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Cucitrici e perforatrici
+4290177031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Cucitrici e perforatrici/Cucitrici elettriche e a batteria
+4290178031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Cucitrici e perforatrici/Cucitrici manuali
+4290179031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Cucitrici e perforatrici/Graffette
+4290180031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Cucitrici e perforatrici/Levapunti
+4290181031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Cucitrici e perforatrici/Perforatrici
+4290093031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri"
+4290182031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Dispenser di etichette adesive"
+4290183031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Divisori per schedario"
+4290185031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive"
+4290329031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Cera per sigilli"
+4290330031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette adesive"
+4290331031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette colorate"
+4290332031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette multifunzione"
+4290333031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette per indirizzi"
+4290334031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette per prezzatrici"
+4290335031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette per raccoglitori"
+4290336031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette per stampanti"
+4290337031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette per supporti multimediali"
+4290338031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Etichette rimovibili"
+4290339031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Nastri per etichette"
+4290340031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Portaetichette"
+4290341031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Etichette ed etichette adesive/Sigilli"
+4290186031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Kit per insegne e poster"
+4290187031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Segnalibri"
+4290184031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Segnapagina adesivi"
+4290188031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Targhette e cartellini"
+4290189031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Targhette per schedario e inserti per targhette"
+4290190031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri"
+9426908031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Cuscinetti per timbri"
+4290342031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Rastrelliere per timbri"
+9426909031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Ricariche d'inchiostro per timbri"
+9426907031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Scatole per timbri"
+9426905031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Tamponi asciuga inchiostro"
+4290343031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Tamponi e ricambi per timbri"
+9426910031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Tappetini per timbratura"
+4290344031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Timbri"
+9426903031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Timbri aziendali"
+9426904031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Timbri per protezione dati"
+9426906031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Etichette, divisori per schedario e timbri/Timbri e materiali per timbri/Timbri personali"
+4290094031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche
+4290193031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Bacheche
+4290191031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Bacheche messaggi e insegne
+4290192031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Bacheche multifunzione
+16243689031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Cancellini per lavagna
+4290199031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Lavagne
+4290194031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Lavagne a fogli mobili
+4290195031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Lavagne bianche
+4290196031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Lavagne in PVC espanso
+4290197031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Lavagne luminose
+4290198031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Lavagne magnetiche
+4290200031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Lucidi per lavagne luminose
+4290201031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Magneti
+3120341031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Nastro adesivo magnetico
+4290202031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Pannelli planner
+3474643031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Puntatori per presentazioni
+4290203031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Lavagne e bacheche/Supporti per presentazioni
+4290095031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri
+4290204031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Contratti di affitto
+4290205031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Fogli libro mastro
+4290206031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Libri e blocchetti a colonne
+4290207031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Libri e registri contabili
+4290208031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Moduli per risorse umane
+4290209031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Moduli ricevute e fatture fiscali
+4290210031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Premi e certificati
+4290211031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Registri
+4290212031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Ricevute di denaro e affitto
+4290213031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Modulistica e conservazione registri/Richieste e ordini di acquisto
+4290096031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette"
+4290214031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle"
+4354955031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Adesivi spray"
+4354956031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Cere adesive"
+4354957031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Colle"
+4290345031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Colle viniliche"
+4354954031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Fogli adesivi"
+4354958031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Paste"
+4362885031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Stick di colla e colla a penna"
+3119818031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Adesivi e colle/Super colla"
+4290215031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Dispenser per nastro adesivo"
+4290216031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Elastici"
+4290218031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Fermacampioni"
+4290217031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Graffette, molle fermacarte e anelli"
+4290219031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi"
+4354959031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi/Nastri per arti e mestieri"
+4290346031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi/Nastri trasparenti"
+3120341031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi/Nastro adesivo magnetico"
+3120343031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi/Nastro da imballo"
+3120345031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi/Nastro di montaggio"
+3120348031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi/Nastro per mascheratura"
+3120350031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Nastri adesivi/Nastro telato grigio"
+4290220031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Puntine e ganci"
+4290221031	"Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Nastri, colle, elastici e graffette/Spago"
+4290097031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Pouches per plastificatrici
+4290098031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Pulizia ufficio
+4290222031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Pulizia ufficio/Aspirapolvere per computer
+4290223031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Pulizia ufficio/Aspiratori ad aria compressa
+4290224031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Pulizia ufficio/Salviette e tamponi detergenti
+4290099031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori
+4290225031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Buste a perforazione universale
+9426902031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Copertine per rilegatura
+4290226031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Divisori per raccoglitori
+4290227031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Graffette raccoglifogli
+4290228031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Proteggifogli
+4290229031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori
+4290347031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Portalistini
+4290167031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Raccoglitori a leva
+4290348031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Raccoglitori a pressione
+4290349031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Raccoglitori a spirale
+4290350031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Raccoglitori ad anelli
+4290351031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Raccoglitori con copertina morbida
+4290352031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Raccoglitori con molla
+4290353031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Raccoglitori/Raccoglitori per corrispondenza
+4290230031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Raccoglitori e accessori per raccoglitori/Rinforzi per fogli e fori
+4290100031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Rilegatrici e accessori
+4290231031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Rilegatrici e accessori/Copertine per rilegatrici
+4290232031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Rilegatrici e accessori/Pettini per rilegatrici
+4290233031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Rilegatrici e accessori/Rilegatrici
+4290234031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Rilegatrici e accessori/Spirali e molle per rilegatrici
+4290101031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Strumenti di misura
+4290235031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Strumenti di misura/Compassi per tracciare
+4290237031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Strumenti di misura/Goniometri e squadre
+3120203031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Strumenti di misura/Metri a nastro
+4290238031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Strumenti di misura/Righelli
+4290102031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Taglierine per carta e tappetini per taglio
+4290239031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Taglierine per carta e tappetini per taglio/Forbici
+4290240031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Taglierine per carta e tappetini per taglio/Taglierine e lame per carta
+4290354031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Taglierine per carta e tappetini per taglio/Taglierine e lame per carta/Lame per taglierine
+4290355031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Taglierine per carta e tappetini per taglio/Taglierine e lame per carta/Taglierine a lama rotante
+4290356031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Taglierine per carta e tappetini per taglio/Taglierine e lame per carta/Taglierine a leva
+4290241031	Cancelleria e prodotti per ufficio/Archivio ufficio e accessori per scrivania/Taglierine per carta e tappetini per taglio/Tappetini per taglio
+4290081031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione
+9426899031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Armadietti metallici
+4290103031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento
+2808683031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Accessori arredamento
+2808684031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Accessori arredamento/Cuscini per sedie e supporti lombari
+2808689031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Accessori arredamento/Divisori
+2808687031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Accessori arredamento/Poggiapiedi
+2808685031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Accessori arredamento/Rotelle
+2808688031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Accessori arredamento/Serrature per mobili
+2808686031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Accessori arredamento/Tappetini per sedie
+2808672031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Carrelli
+732981031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Cestini per la carta
+2808691031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Leggii e podi
+2808665031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze
+2808669031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadi archivio
+14292942031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadi archivio/Armadi archivio laterali
+14292941031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadi archivio/Armadi archivio piatti
+14292939031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadi archivio/Armadi archivio schedari
+14292943031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadi archivio/Armadi archivio traslabili
+14292944031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadi archivio/Armadi archivio verticali
+14292940031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadi archivio/Bauli e casse archivio
+2808670031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Armadietti portachiavi
+2808668031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Cassetti
+2808667031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Credenze
+2808671031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Credenze di sostegno
+2808666031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Mobiletti e credenze/Librerie
+2808692031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Piattaforme e supporti
+2808693031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Piattaforme e supporti/Piattaforme e cassetti tastiera
+2808694031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Piattaforme e supporti/Supporti per notebook
+4290203031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Piattaforme e supporti/Supporti per presentazioni
+2808695031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Piattaforme e supporti/Supporti per stampante
+3153571031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Scalette
+2808678031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Scrivanie e postazioni di lavoro
+2808682031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Scrivanie e postazioni di lavoro/Credenze con scrivania
+2808679031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Scrivanie e postazioni di lavoro/Mobili per computer
+2808680031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Scrivanie e postazioni di lavoro/Postazioni di lavoro per computer
+2808681031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Scrivanie e postazioni di lavoro/Scrivanie
+9474531031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Sedie e Divani
+2808674031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Sedie e Divani/Sedie da scrivania
+9474532031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Sedie e Divani/Sedie per sale riunioni
+2808677031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Sedie e Divani/Sgabelli
+2808690031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Set arredo studio
+2808696031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Tavoli
+3017221031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Tavoli/Scrittoi
+2808699031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Tavoli/Set tavolo e sedie
+2808700031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Tavoli/Tavoli con rotelle
+2808698031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Tavoli/Tavoli da disegno
+2808697031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredamento/Tavoli/Tavoli sala riunioni
+9426894031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredo per sale d'attesa
+9426895031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredo per sale d'attesa/Banconi
+9426896031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredo per sale d'attesa/Portaombrelli
+9426897031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Arredo per sale d'attesa/Tavoli
+4290104031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Illuminazione
+1904588031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Illuminazione/Lampade da lavoro
+1904590031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Illuminazione/Lampade da terra
+1904595031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Illuminazione/Plafoniere da ufficio
+9426898031	Cancelleria e prodotti per ufficio/Arredamento e illuminazione/Portascarpe
+4290082031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni
+4290105031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Aprilettere
+3474642031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Bilance pesapacchi e pesalettere
+4290106031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Buste
+4290243031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Buste/Buste commerciali
+4290244031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Buste/Buste grandi
+4290245031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Buste/Buste per biglietti di auguri e di invito
+4290107031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Materiali per imballaggio
+4290278031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Materiali per imballaggio/Carta da regalo
+4290246031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Materiali per imballaggio/Imbottiture di plastica a bolle
+4290247031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Materiali per imballaggio/Pellicole estensibili
+4290248031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Materiali per imballaggio/Scatole e sacchetti da regalo
+9426892031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Materiali per imballaggio/Scatole e sacchetti da regalo/Sacchetti da regalo
+9426893031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Materiali per imballaggio/Scatole e sacchetti da regalo/Scatole da regalo
+4290108031	"Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Scatole, buste e tubi per spedizione"
+4290249031	"Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Scatole, buste e tubi per spedizione/Buste per spedizione"
+9426890031	"Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Scatole, buste e tubi per spedizione/Buste per spedizione/Buste imbottite"
+9426889031	"Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Scatole, buste e tubi per spedizione/Buste per spedizione/Buste piatte"
+9426891031	"Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Scatole, buste e tubi per spedizione/Buste per spedizione/Buste trasparenti"
+4290250031	"Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Scatole, buste e tubi per spedizione/Scatole per spedizioni"
+4290251031	"Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Scatole, buste e tubi per spedizione/Tubi per spedizione"
+4290109031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Sistemi di smistamento posta
+4290162031	Cancelleria e prodotti per ufficio/Buste e materiali per spedizioni/Vaschette portacorrispondenza
+4290083031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer"
+4290110031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Blocchi planner e copertine"
+4290111031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Calendari da muro"
+4290112031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Calendari e articoli da scrivania"
+4290252031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Calendari e articoli da scrivania/Basi per calendari da tavolo"
+4290253031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Calendari e articoli da scrivania/Calendari da tavolo"
+4290254031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Calendari e articoli da scrivania/Ricambi per calendari da tavolo"
+4290113031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Diari per appuntamenti e agende"
+4290114031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Organizer personali"
+4290115031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Pannelli planner"
+4290116031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Planner da muro"
+4290117031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Ricambi per agende"
+4290118031	"Cancelleria e prodotti per ufficio/Calendari, agende, rubriche e organizer/Rubriche"
+4290084031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni"
+4290119031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Biglietti e cartoncini"
+4290357031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Biglietti e cartoncini/Biglietti da visita"
+4290358031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Biglietti e cartoncini/Biglietti di auguri"
+4290245031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Biglietti e cartoncini/Buste per biglietti di auguri"
+4290255031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Biglietti e cartoncini/Cartoline"
+4355264031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Biglietti e cartoncini/Cartoncini"
+4290256031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Biglietti e cartoncini/Schede rubrica"
+4290120031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari"
+4290258031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchetti memo adesivi"
+4290260031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi appunti e taccuini"
+4290261031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi appunti per laboratorio"
+4290262031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi appunti stenografia"
+4290263031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi di carta legale"
+4290264031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi di carta lettera"
+4290265031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi di fogli di ricambio"
+4290266031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi per grafici e dati"
+4290267031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi per messaggi"
+4290259031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Blocchi spiralati"
+4290268031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Diari"
+632912031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Libri di esercizi e attività"
+4290269031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Libri per manoscritti"
+4290270031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Quaderni da scrittura"
+4290271031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Blocchi appunti, taccuini e diari/Quaderni pentagrammati"
+4290121031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta"
+4355268031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Blocchi e libri da disegno"
+4290273031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta Kraft"
+4290274031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta carbone"
+4290275031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta chimica"
+4290276031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta colorata"
+4355266031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta crespa"
+4354965031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta da giornale"
+4290272031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta da lettere"
+4354967031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta da lucidi"
+4290278031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta da regalo"
+4355267031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta decorativa"
+4290280031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta in rotoli"
+4355269031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta metallica"
+4354966031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta pastello"
+4290281031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per acquarelli"
+4354963031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per aerografia"
+4354964031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per disegno a carboncino"
+9426900031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per fotocopiatrici e stampanti"
+4290279031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per fotocopiatrici e stampanti/Carta fotografica"
+4290277031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per fotocopiatrici e stampanti/Carta per fotocopiatrice e multiuso"
+4290284031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per fotocopiatrici e stampanti/Carta per stampanti a getto d'inchiostro"
+4290285031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per fotocopiatrici e stampanti/Carta per stampanti laser"
+4290291031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per fotocopiatrici e stampanti/Moduli in continuo"
+4355271031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per incisione"
+4290282031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per lavagna a fogli mobili"
+4290283031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per origami"
+4355273031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta per stencil"
+4290286031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta pergamena"
+4290287031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta trasferibile"
+4355263031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Carta velina"
+4290288031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Cartoncino colorato"
+4290289031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Fogli da disegno sfusi"
+4290290031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Lavagne a fogli mobili e fogli per cavalletto"
+4355272031	"Cancelleria e prodotti per ufficio/Carta, blocchi e quaderni/Carta/Rotoli di carta"
+3474614031	Cancelleria e prodotti per ufficio/Elettronica per ufficio
+3474615031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori
+3474626031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per distruggidocumenti
+3474617031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per dizionari e traduttori elettronici
+3474618031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per etichettatrici
+3474625031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per fotocopiatrici
+3474627031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per macchine da scrivere
+1486787031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per proiettori
+473306031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per proiettori/Lampade per proiettori
+1486788031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per proiettori/Lenti per proiettori
+1486789031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per proiettori/Portaproiettori
+473346031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per proiettori/Schermi di proiezione
+473307031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per proiettori/Supporti per proiettori
+3474616031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per registratori di cassa
+4262431031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per registratori vocali
+1486929031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per registratori vocali/Custodie
+1486931031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per registratori vocali/Microfoni esterni
+1486932031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per registratori vocali/Supporti
+460070031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser
+6095089031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Cartucce a inchiostro solido
+460073031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Cartucce d'inchiostro
+460071031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Cassetti per stampante
+6095087031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Kit di fusione
+6095088031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Kit di manutenzione
+6095090031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Kit di trasferimento
+6095086031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Kit tamburo
+460074031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Moduli per stampanti
+8490863031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Ricariche e kit di ricarica cartucce
+5517816031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Testine di stampa
+460075031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Toner
+6095085031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Unità developer
+460072031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Unità duplex
+6095091031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Vaschette di recupero toner
+460076031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Accessori per stampanti a inchiostro e laser/Vassoi per stampante
+16060549031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Borse organizer per cavi
+4290280031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Carta in rotoli
+4290097031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Accessori/Pouches per plasficatrici
+3474642031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Bilance pesapacchi e pesalettere
+3474629031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Calcolatrici
+3474631031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Calcolatrici/Finanziarie
+3474632031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Calcolatrici/Grafiche
+3474634031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Calcolatrici/Scientifiche
+3474630031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Calcolatrici/Semplici
+3474633031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Calcolatrici/Stampanti
+460073031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Cartucce d'inchiostro
+3474644031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Distruggidocumenti
+3474636031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Dizionari e traduttori elettronici
+3474639031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Etichettatrici
+3474637031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Fax
+3474641031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Fotocopiatrici
+3474645031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Macchine da scrivere
+3474638031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Piegatrici
+3474640031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Plastificatrici
+14763026031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Prodotti per la vendita (POS)
+14763027031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Prodotti per la vendita (POS)/Lettori carte di credito
+14763029031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Prodotti per la vendita (POS)/Lettori carte di credito/Lettori carte di credito fissi
+14763028031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Prodotti per la vendita (POS)/Lettori carte di credito/Lettori mobili di carte di credito
+3474628031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Prodotti per la vendita (POS)/Lettori di codice a barre
+6572840031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Prodotti per la vendita (POS)/Stampanti di ricevute
+473347031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Proiettori
+3474643031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Puntatori per presentazioni
+3474635031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori di cassa
+1486928031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori vocali e accessori
+1486932031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori vocali e accessori/Basi di appoggio
+1486929031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori vocali e accessori/Custodie
+1486931031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori vocali e accessori/Microfoni esterni
+3474651031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori vocali e accessori/Registratori vocali a microcassette
+3474652031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori vocali e accessori/Registratori vocali con MiniDisc
+3474650031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Registratori vocali e accessori/Registratori vocali digitali
+4290100031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Rilegatrici e accessori
+4290231031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Rilegatrici e accessori/Copertine per rilegatrici
+4290232031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Rilegatrici e accessori/Pettini per rilegatrici
+4290233031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Rilegatrici e accessori/Rilegatrici
+4290234031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Rilegatrici e accessori/Spirali e molle per rilegatrici
+460184031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Scanner
+460185031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Scanner/Film scanner
+598773031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Scanner/Scanner per biglietti da visita
+598772031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Scanner/Scanner per documenti
+460186031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Scanner/Scanner piani
+460177031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti
+460183031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Plotter
+460178031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Stampanti All-In-One
+598755031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Stampanti All-In-One/Inkjet
+598756031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Stampanti All-In-One/Laser
+460179031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Stampanti a getto d'inchiostro
+460181031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Stampanti a matrice
+473552031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Stampanti fotografiche
+460180031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Stampanti/Stampanti laser
+460075031	Cancelleria e prodotti per ufficio/Elettronica per ufficio/Toner
+4290085031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi
+4354953031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi
+4354960031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Adesivi di stoffa
+4354955031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Adesivi spray
+4354956031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Cere adesive
+4354957031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Colle
+4354954031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Fogli adesivi
+4354959031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Nastri per arti e mestieri
+4354958031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Paste
+4354961031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Sistemi adesivi di montaggio
+3119815031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Stick colla a caldo
+4362885031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Adesivi/Stick di colla e colla a penna
+4290122031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori
+4355284031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Cartapesta
+4355167031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Cavalletti
+4355163031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Cavalletti orizzontali
+4355274031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta
+4355275031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Accessori
+4355277031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Fogli da stampo
+4355278031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Foglie secche
+4355281031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Kit per fabbricazione carta
+4355283031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Polpa
+4355280031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Pressa per carta
+4355276031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Prodotti vegetali
+4355282031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Protezione per fabbricazione carta
+4355279031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Fabbricazione della carta/Stampi a mano
+4355168031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Portadisegni e stampe
+4355285031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Stampini
+4355286031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Stencil
+4355270031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Superfici multimediali
+4355164031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Tavolette da disegno
+4355165031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Tavoli da disegno
+4355166031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Telai per asciugatura
+4355259031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Utensili per lavorazione carta
+4355262031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Utensili per lavorazione carta/Marcatori
+4355261031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Utensili per lavorazione carta/Piegatrici
+4355260031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Arredi e accessori/Utensili per lavorazione carta/Pinze crimpatrici
+4290123031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta
+4290121031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta
+4355268031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Blocchi e libri da disegno
+4290273031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta Kraft
+4290274031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta carbone
+4290275031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta chimica
+4290276031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta colorata
+4355266031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta crespa
+4354965031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta da giornale
+4290272031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta da lettere
+4354967031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta da lucidi
+4290278031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta da regalo
+4355267031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta decorativa
+4290280031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta in rotoli
+4355269031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta metallica
+4354966031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta pastello
+4290281031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per acquarelli
+4354963031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per aerografia
+4354964031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per disegno a carboncino
+9426900031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per fotocopiatrici e stampanti
+4290279031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per fotocopiatrici e stampanti/Carta fotografica
+4290277031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per fotocopiatrici e stampanti/Carta per fotocopiatrice e multiuso
+4290284031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per fotocopiatrici e stampanti/Carta per stampanti a getto d'inchiostro
+4290285031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per fotocopiatrici e stampanti/Carta per stampanti laser
+4290291031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per fotocopiatrici e stampanti/Moduli in continuo
+4355271031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per incisione
+4290282031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per lavagna a fogli mobili
+4290283031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per origami
+4355273031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta per stencil
+4290286031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta pergamena
+4290287031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta trasferibile
+4355263031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Carta velina
+4290288031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Cartoncino colorato
+4290289031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Fogli da disegno sfusi
+4290290031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Lavagne a fogli mobili e fogli per cavalletto
+4355272031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Carta/Rotoli di carta
+4355284031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Cartapesta
+4355274031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta
+4355275031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Accessori
+4355277031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Fogli da stampo
+4355278031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Foglie secche
+4355281031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Kit per fabbricazione carta
+4355283031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Polpa
+4355280031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Pressa per carta
+4355276031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Prodotti vegetali
+4355282031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Protezione per fabbricazione carta
+4355279031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Fabbricazione della carta/Stampi a mano
+4355285031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Stampini
+4355286031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Stencil
+4355270031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Superfici multimediali
+4355259031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Utensili per lavorazione carta
+4355262031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Utensili per lavorazione carta/Marcatori
+4355261031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Utensili per lavorazione carta/Piegatrici
+4355260031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Carta e lavorazione della carta/Utensili per lavorazione carta/Pinze crimpatrici
+4355154031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici
+4355160031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Angoli dritti
+4355158031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Attrezzi per incorniciare
+3119841031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Ganci appendi quadri
+4355159031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Materiali per montaggio
+4355161031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Modelli
+4355155031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Passepartout cornici
+4355156031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Righelli per cornici
+4355157031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Cornici/Sezioni e componenti cornici
+4355124031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno
+4355127031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Accessori per disegno e scrittura
+4355268031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Blocchi e libri da disegno
+4354962031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche
+4354965031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Carta da giornale
+4354967031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Carta da lucidi
+4354966031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Carta pastello
+4290281031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Carta per acquarelli
+4354963031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Carta per aerografia
+4354964031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Carta per disegno a carboncino
+4290289031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Fogli da disegno sfusi
+4290290031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Carta per applicazioni artistiche/Lavagne a fogli mobili e fogli per cavalletto
+4355163031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Cavalletti orizzontali
+4355136031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Cere
+4290127031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Correttori e gomme
+4290292031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Correttori e gomme/Correttori a nastro
+4290293031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Correttori e gomme/Correttori a penna
+4290294031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Correttori e gomme/Correttori liquidi
+4290295031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Correttori e gomme/Gomme
+4355133031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Fissativi
+4355135031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Manichini
+4355134031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Scatole luminose
+4355126031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Set per disegno artistico
+4355125031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Strumenti per sfumatura
+4355128031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno
+4355129031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Carboncino
+4290128031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Gessi
+4355130031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Inchiostri
+4290131031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Matite
+4290300031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Matite/Matite colorate
+4290301031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Matite/Matite di legno
+4290302031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Matite/Mine per portamine
+4290303031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Matite/Portamine
+4355132031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Pastelli
+4290132031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Pastelli a cera
+4355131031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Pennarelli
+4290133031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche
+4290304031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Inchiostri in flacone
+4290305031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Penne a punta porosa
+4290306031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Penne a scatto
+4290307031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Penne a sfera
+4290308031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Penne calligrafiche
+4290309031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Penne roller a inchiostro gel
+4290310031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Penne roller a inchiostro liquido
+4290311031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Penne stilografiche
+4290312031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Ricariche penne
+5457228031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Set di penne
+5457231031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Set di penne/Penne a sfera e matite
+5457232031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Set di penne/Penne a sfera e penne roller
+5457230031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Set di penne/Penne a sfera e penne stilografiche
+5457229031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Set di penne/Penne a sfera, penne stilografiche e matite"
+5457233031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Set di penne/Penne stilografiche e matite
+5457234031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Supporti per il disegno/Penne e ricariche/Set di penne/Penne stilografiche e penne roller
+4355164031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tavolette da disegno
+4355165031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tavoli da disegno
+4354974031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tele
+4354976031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tele/Cartoni telati
+4354977031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tele/Pannelli in tela
+4354975031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tele/Striscioni in TNT (tessuto non tessuto)
+4354980031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tele/Tele arrotolate
+4354979031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tele/Tele intelaiate
+4354978031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Tele/Utensili e accessori per tele
+4355137031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Disegno/Temperini
+4355016031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Glitter
+4290124031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto"
+4354992031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Armadi per conservazione opere d'arte"
+4354988031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Borse a mano"
+4354986031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Borse per trasporto tele"
+4354983031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Borse portamateriali"
+4354987031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Borsoni da viaggio"
+4354989031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Cartelle"
+4354994031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Cassettiere portadisegni orizzontali"
+4355000031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Cassettiere portadisegni verticali"
+4354998031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Conservazione materiali per scrapbooking"
+4354991031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Contenitori di materiali per l'arte"
+4354995031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Contenitori portapennelli"
+4355168031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Portadisegni e stampe"
+4354996031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Raccoglitori pennelli"
+4354985031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Tubi portadisegni"
+4354984031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Valigette da pittore"
+4355002031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Valigette porta accessori per artisti"
+4354982031	"Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Imballaggio, Conservazione e Trasporto/Zaini per artisti"
+4354968031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pannelli e tavole
+4354971031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pannelli e tavole/Pannelli di truciolato
+4354969031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pannelli e tavole/Pannelli in argilla
+4354970031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pannelli e tavole/Pannelli in gesso
+4354973031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pannelli e tavole/Tavole in legno
+4354972031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pannelli e tavole/Tavole per pastello
+4355229031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura
+4355236031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Agenti riducenti
+4354962031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche
+4354965031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Carta da giornale
+4354967031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Carta da lucidi
+4354966031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Carta pastello
+4290281031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Carta per acquarelli
+4354963031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Carta per aerografia
+4354964031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Carta per disegno a carboncino
+4290289031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Fogli da disegno sfusi
+4290290031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Carta per applicazioni artistiche/Lavagne a fogli mobili e fogli per cavalletto
+4355163031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Cavalletti orizzontali
+4355244031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Colori
+4355240031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Diluenti per vernici
+4355239031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Filtri per vernici
+4355231031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Kit
+4355230031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Materiali per aerografi
+4355234031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Materiali per preparazione colori
+4355243031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Pennelli
+4355235031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Primer per pittura
+4355245031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Scodellini per tavolozza
+4355242031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Set di pennelli
+4355237031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Sigillanti per pittura
+4355246031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Spatole per tavolozza
+4355238031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Spugne per pittura
+4355241031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Strizzatori tubetti di colore
+4355164031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tavolette da disegno
+4355165031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tavoli da disegno
+4355247031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tavolozze
+4354974031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tele
+4354976031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tele/Cartoni telati
+4354977031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tele/Pannelli in tela
+4354975031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tele/Striscioni in TNT (tessuto non tessuto)
+4354980031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tele/Tele arrotolate
+4354979031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tele/Tele intelaiate
+4354978031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Tele/Utensili e accessori per tele
+4355232031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Vaschette per miscelare colori
+4355233031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura/Vernici finali
+4355138031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti
+4355145031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti/Cere
+4355141031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti/Colori per tessuti e stoffe
+4355143031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti/Fissativi
+4355142031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti/Kit per decorazione tessuti
+4355144031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti/Repellenti
+4355139031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti/Strumenti di applicazione
+4355140031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Pittura e tintura tessuti/Tinture
+4355333031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking
+4355341031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Abbellimenti
+4355349031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Adesivi
+4355334031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Album e ricariche
+4355335031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Album e ricariche/Album
+4355336031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Album e ricariche/Ricariche
+731698031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Album foto
+4355344031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Angoli per montaggio foto
+4355267031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Carta
+4355264031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Cartoncini
+4354957031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Colle per applicazioni artistiche
+4354998031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Conservazione
+4355339031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Fustellatrici
+4355340031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Fustelle
+4355343031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Kit
+4355348031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Macchine per adesivi
+4355287031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Modelli
+4354959031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Nastro
+4355338031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Pannelli di truciolato
+4354958031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Paste per applicazioni artistiche
+4355131031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Pennarelli
+4355337031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Puntine
+9708173031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Silhouette per Scrapbooking
+4355286031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Stencil
+4355345031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Strisce da arrotolare
+4355342031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Tamponi
+4355350031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Tappetini con trama
+4355216031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Tappetini per taglio
+4355347031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Timbri
+4355346031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Scrapbooking/Utensili per scrapbooking
+4290125031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia
+4355030031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Abbigliamento protettivo
+4355028031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Attrezzatura per il controllo della polvere
+4355033031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Cabine di verniciatura
+4355032031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Crema mani protettiva
+4355031031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Equipaggiamento protettivo
+4355026031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Pulizia accessori
+4355025031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Rimozione adesivi
+4355027031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Sicurezza e pulizia/Sapone artigianale
+4354974031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Tele
+4354976031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Tele/Cartoni telati
+4354977031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Tele/Pannelli in tela
+4354975031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Tele/Striscioni in TNT (tessuto non tessuto)
+4354980031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Tele/Tele arrotolate
+4354979031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Tele/Tele intelaiate
+4354978031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Tele/Utensili e accessori per tele
+4290126031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio
+4355013031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Attrezzi da affilatura
+4355007031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Binari da taglio
+4355011031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Bordi di sicurezza
+4355012031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Forbici
+4355004031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Lame cutter
+4355009031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Lame per tappetini da taglio
+4290240031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Taglierine e lame per carta
+4290354031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Taglierine e lame per carta/Lame per taglierine
+4290355031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Taglierine e lame per carta/Taglierine a lama rotante
+4290356031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Taglierine e lame per carta/Taglierine a leva
+4355005031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Taglierini
+4355010031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Taglierini da passepartout
+4355008031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Utensili per il taglio/Utensili per tagliare il vetro
+3119990031	Cancelleria e prodotti per ufficio/Materiali per hobby creativi/Vernice a spray
+4290086031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione"
+4290313031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Astucci per matite"
+4290127031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Correttori e gomme"
+4290292031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Correttori e gomme/Correttori a nastro"
+4290293031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Correttori e gomme/Correttori a penna"
+4290294031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Correttori e gomme/Correttori liquidi"
+4290295031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Correttori e gomme/Gomme"
+4290128031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Gessi"
+4290129031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Marcatori ed evidenziatori"
+4290296031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Marcatori ed evidenziatori/Evidenziatori"
+4290297031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Marcatori ed evidenziatori/Marcatori cancellabili a secco e liquidi"
+4290298031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Marcatori ed evidenziatori/Marcatori per superfici trasparenti"
+4290299031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Marcatori ed evidenziatori/Pennarelli indelebili e marcatori"
+4355131031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Marcatori ed evidenziatori/Pennarelli per disegno"
+4290130031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Materiali per il disegno tecnico"
+4290131031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Matite"
+4290300031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Matite/Matite colorate"
+4290301031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Matite/Matite di legno"
+4290302031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Matite/Mine per portamine"
+4290303031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Matite/Portamine"
+4290132031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Pastelli a cera"
+4290133031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche"
+4290304031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Inchiostri in flacone"
+4290305031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Penne a punta porosa"
+4290306031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Penne a scatto"
+4290307031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Penne a sfera"
+4290308031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Penne calligrafiche"
+4290309031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Penne roller a inchiostro gel"
+4290310031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Penne roller a inchiostro liquido"
+4290311031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Penne stilografiche"
+4290312031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Ricariche penne"
+5457228031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Set di penne"
+5457231031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Set di penne/Penne a sfera e matite"
+5457232031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Set di penne/Penne a sfera e penne roller"
+5457230031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Set di penne/Penne a sfera e penne stilografiche"
+5457229031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Set di penne/Penne a sfera, penne stilografiche e matite"
+5457233031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Set di penne/Penne stilografiche e matite"
+5457234031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Penne e ricariche/Set di penne/Penne stilografiche e penne roller"
+4290134031	"Cancelleria e prodotti per ufficio/Penne, matite, scrittura e correzione/Temperamatite"
+4290087031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico
+632915031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Biglietti d'auguri
+632919031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Carta
+632926031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Cartelle e zaini per la scuola
+4290313031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Cartelle e zaini per la scuola/Astucci
+2691157031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Cartelle e zaini per la scuola/Cartelle
+2691158031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Cartelle e zaini per la scuola/Set per la scuola
+700545031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Cartelle e zaini per la scuola/Zainetti per bambini
+632924031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Coni per la scuola
+632909031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Copertine per i libri
+632918031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Custodie  per i quaderni
+4290136031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Decorazioni per la classe
+632569031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Forbici
+4290139031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Insegnanti materiale didattico
+16243710031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Insegnanti materiale didattico/Adesivi di encomio e incentivi per studenti
+16243711031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Insegnanti materiale didattico/Calendari e agende per insegnanti
+632912031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Libri di esercizi e attività
+632917031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Lunch Box e borracce
+16304107031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Lunch Box e borracce/Borracce
+14515747031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Lunch Box e borracce/Borse portapranzo
+14515748031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Lunch Box e borracce/Portapranzo
+16304241031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Lunch Box e borracce/Set pranzo
+16243712031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico
+16243714031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Geografia
+632914031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Geografia/Mappamondi
+4290137031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Geografia/Mappe
+16243720031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Lettura e scrittura
+16243713031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Lingue straniere
+16243716031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Matematica
+9426911031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Matematica/Abachi
+4290135031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Matematica/Bilance
+4290235031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Matematica/Compassi
+4290141031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Matematica/Set di strumenti per la geometria
+16243717031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Musica e teatro
+6311643031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza
+4290135031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Bilance
+12440565031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Campioni
+12440558031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Fossili
+12440559031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Insetti e kit per entomologia
+12440560031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Magneti e kit sul magnetismo
+473515031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Microscopi
+8521668031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Microscopi/Microscopi composti
+8521669031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Microscopi/Microscopi composti/Microscopi binoculari
+1479726031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Microscopi/Microscopi composti/Microscopi monoculari
+8521670031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Microscopi/Microscopi composti/Microscopi trinoculari
+1479728031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Microscopi/Microscopi digitali portatili
+1479727031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Microscopi/Microscopi stereoscopici
+12440563031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Modellini animali
+12440564031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Ottica
+12440561031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Strumenti di misura
+12440557031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Tavole e poster
+473521031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Telescopi
+473524031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Telescopi/Refrattori
+473523031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Telescopi/Riflettori
+473522031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Telescopi/Telescopi catadiottrici
+12440562031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Scienza/Vetrini preparati per microscopia
+16243715031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Storia
+16243721031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Sviluppo socio-emotivo
+16243722031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico/Tecnologia e ingegneria
+4290138031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Materiale didattico per la prima infanzia
+632921031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Matite
+16243693031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola
+16243698031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Portaoggetti e organizzazione
+16243703031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Portaoggetti e organizzazione/Armadietti
+16243700031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Portaoggetti e organizzazione/Carrelli per la scuola
+16243702031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Portaoggetti e organizzazione/Contenitori e accessori
+16243699031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Portaoggetti e organizzazione/Esposizione e archiviazione di libri
+16243701031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Portaoggetti e organizzazione/Mobili portacontenitori
+16243694031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Sedute e sedie
+16243695031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Sedute e sedie/Sedie per la scuola
+2808675031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Sedute e sedie/Sedie per sala d'attesa
+2808717031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Sedute e sedie/Sedie pieghevoli
+16243697031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Sedute e sedie/Sedute morbide
+16243696031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Sedute e sedie/Sgabelli per la scuola
+16243704031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Tavoli e scrivanie
+16243707031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Tavoli e scrivanie/Postazioni studio
+16243706031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Tavoli e scrivanie/Tavoli caffetteria
+16243705031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Tavoli e scrivanie/Tavoli per attività
+16243708031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Mobili per la scuola/Tavoli e scrivanie/Tavoli per formazione
+632561031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Pennarelli
+632913031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Penne stilografiche
+632920031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Porta penne
+4290140031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Registri di classe e libri per lezioni
+632923031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Righelli e squadre
+632925031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Set Scolastici
+632916031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Set carta da lettera e buste
+9426912031	Cancelleria e prodotti per ufficio/Scuola e materiale didattico/Sottomani da scrivania

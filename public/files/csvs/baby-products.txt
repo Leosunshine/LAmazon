@@ -1,0 +1,686 @@
+﻿1571287031	Prima infanzia
+1739205031	Prima infanzia/Abbigliamento
+1806479031	Prima infanzia/Abbigliamento/Bambina 0-24
+1806490031	Prima infanzia/Abbigliamento/Bambina 0-24/Abiti da battesimo
+1806491031	Prima infanzia/Abbigliamento/Bambina 0-24/Abitini
+1806480031	Prima infanzia/Abbigliamento/Bambina 0-24/Accessori
+1806482031	Prima infanzia/Abbigliamento/Bambina 0-24/Accessori/Berretti e cappellini
+1806483031	Prima infanzia/Abbigliamento/Bambina 0-24/Accessori/Fazzoletti da collo
+1806481031	Prima infanzia/Abbigliamento/Bambina 0-24/Accessori/Guanti e manopole
+1806485031	Prima infanzia/Abbigliamento/Bambina 0-24/Accessori/Occhiali da sole
+1806484031	Prima infanzia/Abbigliamento/Bambina 0-24/Accessori/Sciarpe
+1806521031	Prima infanzia/Abbigliamento/Bambina 0-24/Calze e calzamaglie
+1806524031	Prima infanzia/Abbigliamento/Bambina 0-24/Calze e calzamaglie/Calzamaglie
+1806523031	Prima infanzia/Abbigliamento/Bambina 0-24/Calze e calzamaglie/Calzini
+1806522031	Prima infanzia/Abbigliamento/Bambina 0-24/Calze e calzamaglie/Scaldamuscoli
+1806501031	Prima infanzia/Abbigliamento/Bambina 0-24/Capispalla e Tutone
+1806502031	Prima infanzia/Abbigliamento/Bambina 0-24/Capispalla e Tutone/Cappotti e giacche
+1806518031	Prima infanzia/Abbigliamento/Bambina 0-24/Capispalla e Tutone/Giacche per la pioggia
+1806503031	Prima infanzia/Abbigliamento/Bambina 0-24/Capispalla e Tutone/Gilet
+1806520031	Prima infanzia/Abbigliamento/Bambina 0-24/Capispalla e Tutone/Tutone & Tute da neve
+1806504031	Prima infanzia/Abbigliamento/Bambina 0-24/Completini e coordinati
+9173764031	Prima infanzia/Abbigliamento/Bambina 0-24/Completini e coordinati/Completi due pezzi con gonna
+9173765031	Prima infanzia/Abbigliamento/Bambina 0-24/Completini e coordinati/Completi due pezzi con pantaloncino
+9173766031	Prima infanzia/Abbigliamento/Bambina 0-24/Completini e coordinati/Completi due pezzi con pantalone
+1806492031	Prima infanzia/Abbigliamento/Bambina 0-24/Felpe e tute
+1806495031	Prima infanzia/Abbigliamento/Bambina 0-24/Felpe e tute/Completini sportivi
+1806496031	Prima infanzia/Abbigliamento/Bambina 0-24/Felpe e tute/Felpe
+1806494031	Prima infanzia/Abbigliamento/Bambina 0-24/Felpe e tute/Felpe con cappuccio
+1806493031	Prima infanzia/Abbigliamento/Bambina 0-24/Felpe e tute/Pantaloni sportivi
+1806497031	Prima infanzia/Abbigliamento/Bambina 0-24/Felpe e tute/Tute
+1806507031	Prima infanzia/Abbigliamento/Bambina 0-24/Gonne e gonne pantalone
+1806536031	Prima infanzia/Abbigliamento/Bambina 0-24/Intimo
+1806540031	Prima infanzia/Abbigliamento/Bambina 0-24/Intimo/Canottiere
+1806538031	Prima infanzia/Abbigliamento/Bambina 0-24/Intimo/Coordinati
+1806537031	Prima infanzia/Abbigliamento/Bambina 0-24/Intimo/Mutandine e culotte
+1806539031	Prima infanzia/Abbigliamento/Bambina 0-24/Intimo/Mutandine-pannolino
+1806498031	Prima infanzia/Abbigliamento/Bambina 0-24/Jeans
+1806500031	Prima infanzia/Abbigliamento/Bambina 0-24/Leggings
+1806499031	Prima infanzia/Abbigliamento/Bambina 0-24/Maglieria
+1806530031	Prima infanzia/Abbigliamento/Bambina 0-24/Magliette e top
+1806531031	Prima infanzia/Abbigliamento/Bambina 0-24/Magliette e top/Camicie
+1806533031	Prima infanzia/Abbigliamento/Bambina 0-24/Magliette e top/Canotte
+5332413031	Prima infanzia/Abbigliamento/Bambina 0-24/Magliette e top/Maglie a manica lunga
+1806534031	Prima infanzia/Abbigliamento/Bambina 0-24/Magliette e top/Magliette
+1806532031	Prima infanzia/Abbigliamento/Bambina 0-24/Magliette e top/Polo
+1806525031	Prima infanzia/Abbigliamento/Bambina 0-24/Mare e piscina
+1806526031	Prima infanzia/Abbigliamento/Bambina 0-24/Mare e piscina/Copricostumi
+1806529031	Prima infanzia/Abbigliamento/Bambina 0-24/Mare e piscina/Costumi a due pezzi
+1806527031	Prima infanzia/Abbigliamento/Bambina 0-24/Mare e piscina/Costumi interi e a mutandina
+1806528031	Prima infanzia/Abbigliamento/Bambina 0-24/Mare e piscina/Costumi-pannolino
+1806516031	Prima infanzia/Abbigliamento/Bambina 0-24/Neve e pioggia
+1806518031	Prima infanzia/Abbigliamento/Bambina 0-24/Neve e pioggia/Giacche per la pioggia
+1806519031	Prima infanzia/Abbigliamento/Bambina 0-24/Neve e pioggia/Pantaloni e salopette da neve
+1806517031	Prima infanzia/Abbigliamento/Bambina 0-24/Neve e pioggia/Pantaloni per la pioggia
+1806520031	Prima infanzia/Abbigliamento/Bambina 0-24/Neve e pioggia/Tutone & Tute da neve
+1806506031	Prima infanzia/Abbigliamento/Bambina 0-24/Pantaloncini
+1806535031	Prima infanzia/Abbigliamento/Bambina 0-24/Pantaloni
+1806508031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi
+1806513031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi/Accappatoi
+1806509031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi/Camicie da notte
+1806512031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi/Magliette da notte
+1806510031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi/Pantaloni da notte
+1806511031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi/Pigiami due pezzi
+1806515031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi/Pigiami interi
+1806514031	Prima infanzia/Abbigliamento/Bambina 0-24/Pigiami e accappatoi/Sacchi nanna
+1806505031	Prima infanzia/Abbigliamento/Bambina 0-24/Salopette
+1806486031	Prima infanzia/Abbigliamento/Bambina 0-24/Tutine e body
+1806487031	Prima infanzia/Abbigliamento/Bambina 0-24/Tutine e body/Body
+1806489031	Prima infanzia/Abbigliamento/Bambina 0-24/Tutine e body/Pagliaccetti
+1806488031	Prima infanzia/Abbigliamento/Bambina 0-24/Tutine e body/Tutine
+1806418031	Prima infanzia/Abbigliamento/Bambino 0-24
+1806429031	Prima infanzia/Abbigliamento/Bambino 0-24/Abiti da battesimo
+1806462031	Prima infanzia/Abbigliamento/Bambino 0-24/Abiti e giacche eleganti
+1806464031	Prima infanzia/Abbigliamento/Bambino 0-24/Abiti e giacche eleganti/Abiti
+1806463031	Prima infanzia/Abbigliamento/Bambino 0-24/Abiti e giacche eleganti/Giacche eleganti
+1806465031	Prima infanzia/Abbigliamento/Bambino 0-24/Abiti e giacche eleganti/Smoking
+1806419031	Prima infanzia/Abbigliamento/Bambino 0-24/Accessori
+1806421031	Prima infanzia/Abbigliamento/Bambino 0-24/Accessori/Berretti e cappellini
+1806422031	Prima infanzia/Abbigliamento/Bambino 0-24/Accessori/Fazzoletti da collo
+1806420031	Prima infanzia/Abbigliamento/Bambino 0-24/Accessori/Guanti e manopole
+1806424031	Prima infanzia/Abbigliamento/Bambino 0-24/Accessori/Occhiali da sole
+1806423031	Prima infanzia/Abbigliamento/Bambino 0-24/Accessori/Sciarpe
+1806458031	Prima infanzia/Abbigliamento/Bambino 0-24/Calze e calzamaglie
+1806461031	Prima infanzia/Abbigliamento/Bambino 0-24/Calze e calzamaglie/Calzamaglie
+1806460031	Prima infanzia/Abbigliamento/Bambino 0-24/Calze e calzamaglie/Calzini
+1806459031	Prima infanzia/Abbigliamento/Bambino 0-24/Calze e calzamaglie/Scaldamuscoli
+1806444031	Prima infanzia/Abbigliamento/Bambino 0-24/Camicie
+1806439031	Prima infanzia/Abbigliamento/Bambino 0-24/Capispalla e Tutone
+1806440031	Prima infanzia/Abbigliamento/Bambino 0-24/Capispalla e Tutone/Cappotti e giacche
+1806455031	Prima infanzia/Abbigliamento/Bambino 0-24/Capispalla e Tutone/Giacche per la pioggia
+1806441031	Prima infanzia/Abbigliamento/Bambino 0-24/Capispalla e Tutone/Gilet
+1806457031	Prima infanzia/Abbigliamento/Bambino 0-24/Capispalla e Tutone/Tutone & Tute da neve
+1806442031	Prima infanzia/Abbigliamento/Bambino 0-24/Completini e coordinati
+9173762031	Prima infanzia/Abbigliamento/Bambino 0-24/Completini e coordinati/Completi due pezzi con pantaloncino
+9173763031	Prima infanzia/Abbigliamento/Bambino 0-24/Completini e coordinati/Completi due pezzi con pantalone
+1806430031	Prima infanzia/Abbigliamento/Bambino 0-24/Felpe e tute
+1806433031	Prima infanzia/Abbigliamento/Bambino 0-24/Felpe e tute/Completini sportivi
+1806434031	Prima infanzia/Abbigliamento/Bambino 0-24/Felpe e tute/Felpe
+1806432031	Prima infanzia/Abbigliamento/Bambino 0-24/Felpe e tute/Felpe con cappuccio
+1806431031	Prima infanzia/Abbigliamento/Bambino 0-24/Felpe e tute/Pantaloni sportivi
+1806435031	Prima infanzia/Abbigliamento/Bambino 0-24/Felpe e tute/Tute
+1806474031	Prima infanzia/Abbigliamento/Bambino 0-24/Intimo
+1806478031	Prima infanzia/Abbigliamento/Bambino 0-24/Intimo/Canottiere
+1806476031	Prima infanzia/Abbigliamento/Bambino 0-24/Intimo/Coordinati
+1806475031	Prima infanzia/Abbigliamento/Bambino 0-24/Intimo/Mutandine
+1806477031	Prima infanzia/Abbigliamento/Bambino 0-24/Intimo/Mutandine-pannolino
+1806436031	Prima infanzia/Abbigliamento/Bambino 0-24/Jeans
+1806438031	Prima infanzia/Abbigliamento/Bambino 0-24/Leggings
+1806437031	Prima infanzia/Abbigliamento/Bambino 0-24/Maglieria
+1806469031	Prima infanzia/Abbigliamento/Bambino 0-24/Magliette e polo
+1806471031	Prima infanzia/Abbigliamento/Bambino 0-24/Magliette e polo/Canotte
+5332414031	Prima infanzia/Abbigliamento/Bambino 0-24/Magliette e polo/Maglie a manica lunga
+1806472031	Prima infanzia/Abbigliamento/Bambino 0-24/Magliette e polo/Magliette
+1806470031	Prima infanzia/Abbigliamento/Bambino 0-24/Magliette e polo/Polo
+1806466031	Prima infanzia/Abbigliamento/Bambino 0-24/Mare e piscina
+1806467031	Prima infanzia/Abbigliamento/Bambino 0-24/Mare e piscina/Costumi
+1806468031	Prima infanzia/Abbigliamento/Bambino 0-24/Mare e piscina/Costumi-pannolino
+1806453031	Prima infanzia/Abbigliamento/Bambino 0-24/Neve e pioggia
+1806455031	Prima infanzia/Abbigliamento/Bambino 0-24/Neve e pioggia/Giacche per la pioggia
+1806456031	Prima infanzia/Abbigliamento/Bambino 0-24/Neve e pioggia/Pantaloni e salopette da neve
+1806454031	Prima infanzia/Abbigliamento/Bambino 0-24/Neve e pioggia/Pantaloni per la pioggia
+1806457031	Prima infanzia/Abbigliamento/Bambino 0-24/Neve e pioggia/Tutone & Tute da neve
+1806445031	Prima infanzia/Abbigliamento/Bambino 0-24/Pantaloncini
+1806473031	Prima infanzia/Abbigliamento/Bambino 0-24/Pantaloni
+1806446031	Prima infanzia/Abbigliamento/Bambino 0-24/Pigiami e accappatoi
+1806450031	Prima infanzia/Abbigliamento/Bambino 0-24/Pigiami e accappatoi/Accappatoi
+1806449031	Prima infanzia/Abbigliamento/Bambino 0-24/Pigiami e accappatoi/Magliette da notte
+1806447031	Prima infanzia/Abbigliamento/Bambino 0-24/Pigiami e accappatoi/Pantaloni da notte
+1806448031	Prima infanzia/Abbigliamento/Bambino 0-24/Pigiami e accappatoi/Pigiami due pezzi
+1806452031	Prima infanzia/Abbigliamento/Bambino 0-24/Pigiami e accappatoi/Pigiami interi
+1806451031	Prima infanzia/Abbigliamento/Bambino 0-24/Pigiami e accappatoi/Sacchi nanna
+1806443031	Prima infanzia/Abbigliamento/Bambino 0-24/Salopette
+1806425031	Prima infanzia/Abbigliamento/Bambino 0-24/Tutine e body
+1806426031	Prima infanzia/Abbigliamento/Bambino 0-24/Tutine e body/Body
+1806428031	Prima infanzia/Abbigliamento/Bambino 0-24/Tutine e body/Pagliaccetti
+1806427031	Prima infanzia/Abbigliamento/Bambino 0-24/Tutine e body/Tutine
+5332412031	Prima infanzia/Abbigliamento/Unisex
+1806562031	Prima infanzia/Abbigliamento premaman
+1806563031	Prima infanzia/Abbigliamento premaman/Abbigliamento sportivo
+1806564031	Prima infanzia/Abbigliamento premaman/Abbigliamento sportivo/Camicie e magliette sportive
+1806570031	Prima infanzia/Abbigliamento premaman/Abbigliamento sportivo/Felpe con cappuccio sportive
+1806596031	Prima infanzia/Abbigliamento premaman/Abbigliamento sportivo/Felpe sportive
+1806566031	Prima infanzia/Abbigliamento premaman/Abbigliamento sportivo/Gonne sportive
+1806565031	Prima infanzia/Abbigliamento premaman/Abbigliamento sportivo/Pantaloncini sportivi
+1806567031	Prima infanzia/Abbigliamento premaman/Abbigliamento sportivo/Pantaloni sportivi
+1806569031	Prima infanzia/Abbigliamento premaman/Abiti
+1806568031	Prima infanzia/Abbigliamento premaman/Camicie e casacche
+1806588031	Prima infanzia/Abbigliamento premaman/Capispalla
+1806589031	Prima infanzia/Abbigliamento premaman/Capispalla/Cappotti
+1806591031	Prima infanzia/Abbigliamento premaman/Capispalla/Giacche
+1806590031	Prima infanzia/Abbigliamento premaman/Capispalla/Gilet
+1806606031	Prima infanzia/Abbigliamento premaman/Collant e calze
+9173758031	Prima infanzia/Abbigliamento premaman/Completi
+9173759031	Prima infanzia/Abbigliamento premaman/Completi/Completi due pezzi con gonna
+9173760031	Prima infanzia/Abbigliamento premaman/Completi/Completi due pezzi con pantaloncino
+9173761031	Prima infanzia/Abbigliamento premaman/Completi/Completi due pezzi con pantalone
+1806596031	Prima infanzia/Abbigliamento premaman/Felpe
+1806570031	Prima infanzia/Abbigliamento premaman/Felpe con cappuccio
+1806594031	Prima infanzia/Abbigliamento premaman/Gonne
+1806578031	Prima infanzia/Abbigliamento premaman/Intimo
+2154893031	Prima infanzia/Abbigliamento premaman/Intimo/Canotte e sottovesti
+1806581031	Prima infanzia/Abbigliamento premaman/Intimo/Completini intimi
+1806579031	Prima infanzia/Abbigliamento premaman/Intimo/Fasce di sostegno
+1806580031	Prima infanzia/Abbigliamento premaman/Intimo/Mutandine per gestante
+1806582031	Prima infanzia/Abbigliamento premaman/Intimo/Reggiseni premaman e da allattamento
+1806571031	Prima infanzia/Abbigliamento premaman/Jeans
+1806577031	Prima infanzia/Abbigliamento premaman/Leggings
+1806572031	Prima infanzia/Abbigliamento premaman/Maglieria
+1806573031	Prima infanzia/Abbigliamento premaman/Maglieria/Cardigan
+1806574031	Prima infanzia/Abbigliamento premaman/Maglieria/Gilet
+1806576031	Prima infanzia/Abbigliamento premaman/Maglieria/Magliette
+1806575031	Prima infanzia/Abbigliamento premaman/Maglieria/Pullover
+1806607031	Prima infanzia/Abbigliamento premaman/Magliette e top
+1806611031	Prima infanzia/Abbigliamento premaman/Magliette e top/Canotte
+1806610031	Prima infanzia/Abbigliamento premaman/Magliette e top/Magliette a maniche corte
+1806608031	Prima infanzia/Abbigliamento premaman/Magliette e top/Magliette a maniche lunghe
+1806609031	Prima infanzia/Abbigliamento premaman/Magliette e top/Polo
+1806597031	Prima infanzia/Abbigliamento premaman/Mare e piscina
+1806598031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Bikini
+1806600031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Bikini/Coordinati
+1806601031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Bikini/Pezzo sopra
+1806599031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Bikini/Pezzo sotto
+1806602031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Copricostumi e parei
+1806603031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Costumi interi
+1806604031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Pantaloncini da mare
+1806605031	Prima infanzia/Abbigliamento premaman/Mare e piscina/Tankini
+1806593031	Prima infanzia/Abbigliamento premaman/Pantaloncini
+1806612031	Prima infanzia/Abbigliamento premaman/Pantaloni
+1806583031	Prima infanzia/Abbigliamento premaman/Pigiami e camicie da notte
+1806585031	Prima infanzia/Abbigliamento premaman/Pigiami e camicie da notte/Camicie da notte e vestaglie
+1806587031	Prima infanzia/Abbigliamento premaman/Pigiami e camicie da notte/Maglie da notte
+1806584031	Prima infanzia/Abbigliamento premaman/Pigiami e camicie da notte/Pantaloni da notte
+1806586031	Prima infanzia/Abbigliamento premaman/Pigiami e camicie da notte/Set coordinati
+1806592031	Prima infanzia/Abbigliamento premaman/Salopette
+1806595031	Prima infanzia/Abbigliamento premaman/Tailleur e giacche eleganti
+1739201031	Prima infanzia/Allattamento e pappa
+1806706031	Prima infanzia/Allattamento e pappa/Allattamento al seno
+1806710031	Prima infanzia/Allattamento e pappa/Allattamento al seno/Contenitori per latte materno
+1806709031	Prima infanzia/Allattamento e pappa/Allattamento al seno/Cuscini per allattamento
+1806707031	Prima infanzia/Allattamento e pappa/Allattamento al seno/Dischetti assorbilatte e proteggi seno
+1806711031	Prima infanzia/Allattamento e pappa/Allattamento al seno/Poncho per allattamento
+1806708031	Prima infanzia/Allattamento e pappa/Allattamento al seno/Tiralatte
+1806697031	Prima infanzia/Allattamento e pappa/Allattamento con biberon
+1806702031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Biberon
+4203703031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Biberon/Biberon in plastica
+4203702031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Biberon/Biberon in vetro
+1806704031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Borse termiche
+4203700031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Contenitori per biberon
+4203705031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Creme per capezzoli
+1806705031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Dischetti sigilla biberon
+4203704031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Dispenser di latte in polvere
+5124687031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Manici
+1806698031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Pulizia biberon
+4203701031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Rastrelliere asciuga biberon
+1806701031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Scalda e raffredda biberon
+1806700031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Set di biberon
+1806703031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Sterilizzatori
+1806699031	Prima infanzia/Allattamento e pappa/Allattamento con biberon/Tettarelle
+1806696031	Prima infanzia/Allattamento e pappa/Bavaglini
+1806715031	Prima infanzia/Allattamento e pappa/Bicchieri salvagoccia
+5124688031	Prima infanzia/Allattamento e pappa/Bilance
+1806713031	Prima infanzia/Allattamento e pappa/Contenitori porta cibo
+4203696031	"Prima infanzia/Allattamento e pappa/Frullatori, robot da cucina e presse"
+4203697031	"Prima infanzia/Allattamento e pappa/Frullatori, robot da cucina e presse/Frullatori"
+4203698031	"Prima infanzia/Allattamento e pappa/Frullatori, robot da cucina e presse/Presse"
+4203699031	"Prima infanzia/Allattamento e pappa/Frullatori, robot da cucina e presse/Robot da cucina"
+5124689031	Prima infanzia/Allattamento e pappa/Grembiuli
+1806714031	Prima infanzia/Allattamento e pappa/Mussole
+1806712031	Prima infanzia/Allattamento e pappa/Scaldabiberon e cuocipappa
+4203693031	"Prima infanzia/Allattamento e pappa/Seggioloni, sedili e accessori"
+1806676031	"Prima infanzia/Allattamento e pappa/Seggioloni, sedili e accessori/Alzasedia"
+1806674031	"Prima infanzia/Allattamento e pappa/Seggioloni, sedili e accessori/Cuscini e fodere per seggioloni"
+1806677031	"Prima infanzia/Allattamento e pappa/Seggioloni, sedili e accessori/Seggiolini da tavolo"
+1806675031	"Prima infanzia/Allattamento e pappa/Seggioloni, sedili e accessori/Seggioloni"
+1806716031	Prima infanzia/Allattamento e pappa/Stoviglie
+5124685031	Prima infanzia/Allattamento e pappa/Stoviglie/Bicchieri
+5124686031	Prima infanzia/Allattamento e pappa/Stoviglie/Borracce
+1806718031	Prima infanzia/Allattamento e pappa/Stoviglie/Piatti
+1806717031	Prima infanzia/Allattamento e pappa/Stoviglie/Posate
+1806719031	Prima infanzia/Allattamento e pappa/Stoviglie/Set di stoviglie
+5124703031	Prima infanzia/Allattamento e pappa/Stoviglie/Tovagliette
+1806695031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine
+6397049031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati
+6397050031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati/Acqua per neonati
+6397051031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati/Succhi e frullati per neonati
+6397052031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati/Tè per neonati
+6397053031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Cereali e pappa d'avena per neonati
+6397054031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Cereali e pappa d'avena per neonati/Cereali per neonati
+6397055031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Cereali e pappa d'avena per neonati/Pappa d'avena per neonati
+6397056031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati
+6397057031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati/Formule per lattanti
+6397058031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati/Latte di proseguimento per neonati
+6397059031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati/Latte per la crescita dei neonati
+6397060031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni
+6397061031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Carne e pesce
+6397062031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Frutta e dessert per neonati
+6397063031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Frutta e dessert per neonati/Dessert in vasetto per neonati
+6397064031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Frutta e dessert per neonati/Frutta in vasetto per neonati
+6397065031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Minestrine per neonati
+6397066031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Mix di frutta, cereali e yogurt per neonati"
+6397067031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Piatti di verdure
+6397068031	Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Piatti salati
+6397069031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati"
+6397070031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Barrette alla frutta per neonati"
+6397071031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati"
+6397072031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati/Biscotti per neonati"
+6397073031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati/Biscotti secchi per neonati"
+6397074031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati/Patatine"
+6397075031	"Prima infanzia/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Snack per neonati"
+1806378031	Prima infanzia/Attività e intrattenimento
+632726031	Prima infanzia/Attività e intrattenimento/Acchiappasogni e giochi da appendere
+1806379031	Prima infanzia/Attività e intrattenimento/Altalene da porta
+632587031	Prima infanzia/Attività e intrattenimento/Carillon
+632590031	Prima infanzia/Attività e intrattenimento/Giochi per il bagnetto
+1806382031	Prima infanzia/Attività e intrattenimento/Girelli
+5124704031	Prima infanzia/Attività e intrattenimento/Libri attività
+1806381031	Prima infanzia/Attività e intrattenimento/Sdraiette e dondolini
+1806380031	Prima infanzia/Attività e intrattenimento/Tappetini gioco e palestrine
+1806548031	Prima infanzia/Cambio del pannolino
+1806552031	Prima infanzia/Cambio del pannolino/Borse fasciatoio
+4203689031	Prima infanzia/Cambio del pannolino/Borse fasciatoio/Borse a busta
+4203690031	Prima infanzia/Cambio del pannolino/Borse fasciatoio/Borse shopper
+4203688031	Prima infanzia/Cambio del pannolino/Borse fasciatoio/Borse tascapane
+1806551031	Prima infanzia/Cambio del pannolino/Borse fasciatoio/Zaini fasciatoio
+1806554031	Prima infanzia/Cambio del pannolino/Contenitori per pannolini usati e ricariche
+9645299031	Prima infanzia/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Buste per mangiapannolini
+9645300031	Prima infanzia/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Deodorante per mangiapannolini
+9645302031	Prima infanzia/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Mangiapannolini
+9645301031	Prima infanzia/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Sacchetto portapannolini
+1806406031	Prima infanzia/Cambio del pannolino/Creme lenitive
+1806655031	Prima infanzia/Cambio del pannolino/Fasciatoi
+4203691031	Prima infanzia/Cambio del pannolino/Fasciatoi a pannelli riscaldanti
+1806549031	Prima infanzia/Cambio del pannolino/Materassini per fasciatoio
+9645281031	Prima infanzia/Cambio del pannolino/Materassini per fasciatoio/Fasciatoio da tavolo
+9645282031	Prima infanzia/Cambio del pannolino/Materassini per fasciatoio/Fasciatoio da viaggio
+9645280031	Prima infanzia/Cambio del pannolino/Materassini per fasciatoio/Fodere per fasciatoio
+9645303031	Prima infanzia/Cambio del pannolino/Organizzatori e scatole per pannolini
+1806555031	Prima infanzia/Cambio del pannolino/Organizzatori e scatole per pannolini/Organizzatori per pannolini
+9645304031	Prima infanzia/Cambio del pannolino/Organizzatori e scatole per pannolini/Scatole per pannolini
+1806556031	Prima infanzia/Cambio del pannolino/Pannolini
+9645290031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili
+9645296031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Buste per pannolini usati lavabili
+9645291031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Detersivo per pannolini
+1806553031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Sacchetti per pannolini
+9645292031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spille e gancetti
+9645293031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spille e gancetti/Gancetti per pannolini
+9645294031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spille e gancetti/Spille per pannolini
+9645295031	Prima infanzia/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spruzzatori per lavaggio pannolini
+1806557031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili
+9645288031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili/Inserto assorbente per pannolini lavabili
+9645285031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili/Mutandina esterna
+9645286031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini aderenti
+9645287031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini con tasca interna
+9645289031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini nuoto
+9645283031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini tutto in uno lavabili
+9645284031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini lavabili/Set pannolini lavabili
+1806558031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini usa e getta
+9645298031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini da notte
+1806559031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini da nuoto
+9645297031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini per bambini
+1806560031	Prima infanzia/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini usa e getta a mutandina
+1806561031	Prima infanzia/Cambio del pannolino/Pannolini/Torte di pannolini
+4203679031	Prima infanzia/Cambio del pannolino/Salviettine e accessori
+4203680031	Prima infanzia/Cambio del pannolino/Salviettine e accessori/Batuffoli di cotone e dischetti
+4203682031	Prima infanzia/Cambio del pannolino/Salviettine e accessori/Contenitori per salviettine
+1806412031	Prima infanzia/Cambio del pannolino/Salviettine e accessori/Salviette detergenti
+4203681031	Prima infanzia/Cambio del pannolino/Salviettine e accessori/Salviettine asciutte
+4203684031	Prima infanzia/Cambio del pannolino/Salviettine e accessori/Salviettine e ricariche
+4203683031	Prima infanzia/Cambio del pannolino/Salviettine e accessori/Scalda salviettine
+1806550031	Prima infanzia/Cambio del pannolino/Set per il cambio
+1739196031	Prima infanzia/Cameretta
+1806613031	Prima infanzia/Cameretta/Biancheria
+1806628031	Prima infanzia/Cameretta/Biancheria/Accessori
+1806631031	Prima infanzia/Cameretta/Biancheria/Accessori/Baldacchini
+1806630031	Prima infanzia/Cameretta/Biancheria/Accessori/Paracolpi
+4203692031	Prima infanzia/Cameretta/Biancheria/Accessori/Paraurti per letto
+1806629031	Prima infanzia/Cameretta/Biancheria/Accessori/Set di accessori per culla
+1806632031	Prima infanzia/Cameretta/Biancheria/Accessori/Zanzariere per culla
+1806620031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla
+1806621031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla/Completi da culla
+1806624031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla/Copripiumini
+1806627031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla/Lenzuola
+9645305031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla/Mantovane per culla
+1806616031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla/Materassi
+1806623031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla/Piumini
+1806625031	Prima infanzia/Cameretta/Biancheria/Biancheria da culla/Protezioni materasso
+1806644031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino
+1806645031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino/Completi da lettino
+1806648031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino/Copripiumini
+1806651031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino/Lenzuola
+9645314031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino/Mantovane per lettino
+1806619031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino/Materassi
+1806647031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino/Piumini
+1806649031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino/Protezioni materasso
+1806633031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre
+1806634031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre/Completi da lettino con sbarre
+1806637031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre/Copripiumini
+1806640031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre/Lenzuola
+9645308031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre/Mantovane per lettino con sbarre
+1806617031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre/Materassi
+1806636031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre/Piumini
+1806638031	Prima infanzia/Cameretta/Biancheria/Biancheria da lettino con sbarre/Protezioni materasso
+9645306031	Prima infanzia/Cameretta/Biancheria/Coperte e copertine
+9645307031	Prima infanzia/Cameretta/Biancheria/Coperte e copertine/Coperte
+1806642031	Prima infanzia/Cameretta/Biancheria/Coperte e copertine/Copertine avvolgenti
+1806643031	Prima infanzia/Cameretta/Biancheria/Coperte e copertine/Copertine di conforto e sicurezza
+4203713031	Prima infanzia/Cameretta/Biancheria/Cuscini
+1806614031	Prima infanzia/Cameretta/Biancheria/Cuscini di sostegno per neonati
+3285406031	Prima infanzia/Cameretta/Biancheria/Cuscini per il corpo et maternità
+9645312031	Prima infanzia/Cameretta/Biancheria/Federe
+9645313031	Prima infanzia/Cameretta/Biancheria/Lenzuola
+1806627031	Prima infanzia/Cameretta/Biancheria/Lenzuola/Lenzuola da culla
+1806651031	Prima infanzia/Cameretta/Biancheria/Lenzuola/Lenzuola da lettino
+1806640031	Prima infanzia/Cameretta/Biancheria/Lenzuola/Lenzuola da lettino con sbarre
+1806615031	Prima infanzia/Cameretta/Biancheria/Materassi
+1806618031	Prima infanzia/Cameretta/Biancheria/Materassi/Materassi per box
+1806616031	Prima infanzia/Cameretta/Biancheria/Materassi/Materassi per culle
+1806619031	Prima infanzia/Cameretta/Biancheria/Materassi/Materassi per lettini
+1806617031	Prima infanzia/Cameretta/Biancheria/Materassi/Materassi per lettini con sbarre
+9645309031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini
+9645310031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Copripiumini
+1806624031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Copripiumini/Copripiumini da culla
+1806648031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Copripiumini/Copripiumini da lettino
+1806637031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Copripiumini/Copripiumini da lettino con sbarre
+9645311031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Piumini
+1806623031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Piumini/Piumini da culla
+1806647031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Piumini/Piumini da lettino
+1806636031	Prima infanzia/Cameretta/Biancheria/Piumini e copripiumini/Piumini/Piumini da lettino con sbarre
+1806641031	Prima infanzia/Cameretta/Biancheria/Sacchi nanna
+1806514031	Prima infanzia/Cameretta/Biancheria/Sacchi nanna/Sacchi nanna da bambina
+1806451031	Prima infanzia/Cameretta/Biancheria/Sacchi nanna/Sacchi nanna da bambino
+1806686031	Prima infanzia/Cameretta/Decorazioni cameretta
+632726031	Prima infanzia/Cameretta/Decorazioni cameretta/Acchiappasogni e giochi da appendere
+9645322031	Prima infanzia/Cameretta/Decorazioni cameretta/Articoli per la nanna
+9645319031	Prima infanzia/Cameretta/Decorazioni cameretta/Ceste portaoggetti
+9645324031	Prima infanzia/Cameretta/Decorazioni cameretta/Cestini per la spazzatura
+632727031	Prima infanzia/Cameretta/Decorazioni cameretta/Cornici
+9645321031	Prima infanzia/Cameretta/Decorazioni cameretta/Cuscini decorativi
+9645323031	Prima infanzia/Cameretta/Decorazioni cameretta/Decorazioni murali
+632718031	Prima infanzia/Cameretta/Decorazioni cameretta/Decorazioni murali/Greche
+4203695031	Prima infanzia/Cameretta/Decorazioni cameretta/Decorazioni murali/Lettere e numeri da parete
+632724031	Prima infanzia/Cameretta/Decorazioni cameretta/Decorazioni murali/Metri da parete
+632728031	Prima infanzia/Cameretta/Decorazioni cameretta/Decorazioni murali/Sticker da muro
+5124690031	Prima infanzia/Cameretta/Decorazioni cameretta/Decorazioni per interruttori
+1904566031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade
+1904567031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Lampadari
+1904568031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Lampade da scrivania
+1904569031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Lampade da tavolo e abat-jour
+3837674031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Lampade da terra
+3837675031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Lampade del buonumore
+3837677031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Luci da parete
+1904570031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Luci notturne per bambini
+1904571031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Torce
+3837676031	Prima infanzia/Cameretta/Decorazioni cameretta/Lampade/Wake-up Light
+5124709031	Prima infanzia/Cameretta/Decorazioni cameretta/Maniglie e pomelli
+4203694031	Prima infanzia/Cameretta/Decorazioni cameretta/Orologi baby
+1806692031	Prima infanzia/Cameretta/Decorazioni cameretta/Quadretti
+2911082031	Prima infanzia/Cameretta/Decorazioni cameretta/Reggilibri per bambini
+5124691031	Prima infanzia/Cameretta/Decorazioni cameretta/Scatolette per dentini
+5124706031	Prima infanzia/Cameretta/Decorazioni cameretta/Specchi
+632719031	Prima infanzia/Cameretta/Decorazioni cameretta/Tappeti e scendiletto
+632722031	Prima infanzia/Cameretta/Decorazioni cameretta/Tende
+9645325031	Prima infanzia/Cameretta/Decorazioni cameretta/Tende e persiane
+1806652031	Prima infanzia/Cameretta/Mobili cameretta
+1806666031	Prima infanzia/Cameretta/Mobili cameretta/Amache
+632721031	Prima infanzia/Cameretta/Mobili cameretta/Appendiabiti e appendini
+632713031	Prima infanzia/Cameretta/Mobili cameretta/Armadi
+1806671031	Prima infanzia/Cameretta/Mobili cameretta/Box
+1806678031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino
+1806680031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino/Divani
+1806685031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino/Letti
+1806681031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino/Poltroncine
+632711031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino/Pouf a sacco
+1806684031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino/Sedie
+632716031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino/Set tavolo e sedie
+1806683031	Prima infanzia/Cameretta/Mobili cameretta/Cameretta bambino/Tavolini
+632714031	Prima infanzia/Cameretta/Mobili cameretta/Cassettiere
+1806667031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori
+5124693031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori/Appendini
+1806668031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori/Ceste
+5124695031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori/Contenitori
+632729031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori/Portagiochi
+1806669031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori/Portaoggetti
+5124696031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori/Sacca portabiancheria
+5124694031	Prima infanzia/Cameretta/Mobili cameretta/Contenitori/Sacca portapigiama
+1806657031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini
+1806663031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini/Culla da trasporto
+1806658031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini/Culle
+1806660031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini/Culle basculanti
+1806659031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini/Culle da affiancare al lettone
+1806685031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini/Lettini
+1806661031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini/Lettini con sbarre
+1806662031	Prima infanzia/Cameretta/Mobili cameretta/Culle e lettini/Lettini da viaggio
+1806655031	Prima infanzia/Cameretta/Mobili cameretta/Fasciatoi
+1806672031	Prima infanzia/Cameretta/Mobili cameretta/Mensole
+5124699031	Prima infanzia/Cameretta/Mobili cameretta/Panche
+1806673031	Prima infanzia/Cameretta/Mobili cameretta/Pedane alzabimbo
+5124697031	Prima infanzia/Cameretta/Mobili cameretta/Rotelle
+9645315031	Prima infanzia/Cameretta/Mobili cameretta/Sedie e divani per l'allattamento
+9645316031	Prima infanzia/Cameretta/Mobili cameretta/Sedie e divani per l'allattamento/Divani con poggiapiedi
+1806665031	Prima infanzia/Cameretta/Mobili cameretta/Sedie e divani per l'allattamento/Poltrone e poggiapiedi da allattamento
+9645318031	Prima infanzia/Cameretta/Mobili cameretta/Sedie e divani per l'allattamento/Sedie a dondolo per l'allattamento
+9645317031	Prima infanzia/Cameretta/Mobili cameretta/Sedie e divani per l'allattamento/Sedie ottomane
+1806664031	Prima infanzia/Cameretta/Mobili cameretta/Set di mobili
+1806725031	Prima infanzia/Educazione al vasino e pedane
+1806730031	Prima infanzia/Educazione al vasino e pedane/Pannolini lavabili
+1806539031	Prima infanzia/Educazione al vasino e pedane/Pannolini lavabili/Pannolini lavabili bambina
+1806477031	Prima infanzia/Educazione al vasino e pedane/Pannolini lavabili/Pannolini lavabili bambino
+1806560031	Prima infanzia/Educazione al vasino e pedane/Pannolini usa e getta a mutandina
+1806729031	Prima infanzia/Educazione al vasino e pedane/Pedane
+1806728031	Prima infanzia/Educazione al vasino e pedane/Riduttori
+1806412031	Prima infanzia/Educazione al vasino e pedane/Salviette detergenti
+4203681031	Prima infanzia/Educazione al vasino e pedane/Salviettine asciutte
+1806727031	Prima infanzia/Educazione al vasino e pedane/Target per pipì
+1806726031	Prima infanzia/Educazione al vasino e pedane/Vasini
+632582031	Prima infanzia/Giochi prima infanzia
+632594031	Prima infanzia/Giochi prima infanzia/Cavallini
+632583031	Prima infanzia/Giochi prima infanzia/Centri attività
+632593031	Prima infanzia/Giochi prima infanzia/Chiodi e martelli
+632591031	Prima infanzia/Giochi prima infanzia/Costruzioni e mattoncini
+632601031	"Prima infanzia/Giochi prima infanzia/Cubi, piramidi e anelli componibili"
+632600031	Prima infanzia/Giochi prima infanzia/Giocattoli di pezza
+632599031	Prima infanzia/Giochi prima infanzia/Giochi cavalcabili
+632602031	Prima infanzia/Giochi prima infanzia/Giochi musicali
+632597031	Prima infanzia/Giochi prima infanzia/Giochi per attività motorie
+632590031	Prima infanzia/Giochi prima infanzia/Giochi per il bagnetto
+632598031	Prima infanzia/Giochi prima infanzia/Giochi trainabili
+632604031	Prima infanzia/Giochi prima infanzia/Orologi d'apprendimento
+632595031	Prima infanzia/Giochi prima infanzia/Palestrine
+632592031	Prima infanzia/Giochi prima infanzia/Pallottolieri
+632584031	Prima infanzia/Giochi prima infanzia/Primi giochi
+632587031	Prima infanzia/Giochi prima infanzia/Primi giochi/Carillon
+632589031	Prima infanzia/Giochi prima infanzia/Primi giochi/Giochi da passeggino
+632585031	Prima infanzia/Giochi prima infanzia/Primi giochi/Palle
+632588031	Prima infanzia/Giochi prima infanzia/Primi giochi/Sonagli e anelli di peluches
+632586031	Prima infanzia/Giochi prima infanzia/Primi giochi/Specchi
+5124710031	Prima infanzia/Giochi prima infanzia/Straccetti duoduo
+632603031	Prima infanzia/Giochi prima infanzia/Trottole
+1739204031	Prima infanzia/Igiene e benessere
+1739198031	Prima infanzia/Igiene e benessere/Bagnetto
+4203672031	Prima infanzia/Igiene e benessere/Bagnetto/Accapatoi
+1806513031	Prima infanzia/Igiene e benessere/Bagnetto/Accapatoi/Accapatoi da bambina
+1806450031	Prima infanzia/Igiene e benessere/Bagnetto/Accapatoi/Accapatoi da bambino
+1806399031	Prima infanzia/Igiene e benessere/Bagnetto/Asciugamani da bagno e con cappuccio
+4203674031	Prima infanzia/Igiene e benessere/Bagnetto/Asciugamani per le mani
+1806395031	Prima infanzia/Igiene e benessere/Bagnetto/Bagnoschiuma
+4203673031	Prima infanzia/Igiene e benessere/Bagnetto/Balsami
+632590031	Prima infanzia/Igiene e benessere/Bagnetto/Giochi per il bagnetto
+1806397031	Prima infanzia/Igiene e benessere/Bagnetto/Sali da bagno
+4203675031	Prima infanzia/Igiene e benessere/Bagnetto/Set per il bagno da viaggio
+1806396031	Prima infanzia/Igiene e benessere/Bagnetto/Shampoo
+4203708031	Prima infanzia/Igiene e benessere/Bagnetto/Sicurezza in bagno
+1806402031	Prima infanzia/Igiene e benessere/Bagnetto/Spugne e guanti
+1806398031	Prima infanzia/Igiene e benessere/Bagnetto/Termometri da bagnetto
+1806400031	Prima infanzia/Igiene e benessere/Bagnetto/Vaschette e riduttori
+1806401031	Prima infanzia/Igiene e benessere/Bagnetto/Vaschette verticali
+1806404031	Prima infanzia/Igiene e benessere/Bilance
+1806383031	Prima infanzia/Igiene e benessere/Igiene
+5124707031	Prima infanzia/Igiene e benessere/Igiene/Borsa per toilette
+1806387031	Prima infanzia/Igiene e benessere/Igiene/Cura delle unghie
+1806385031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale
+4203671031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale/Dentifrici
+4203670031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale/Spazzolini da denti
+1806720031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale/Succhietti e massaggiagengive
+1806723031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale/Succhietti e massaggiagengive/Catenelle porta succhietto
+1806724031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale/Succhietti e massaggiagengive/Massaggiagengive
+1806721031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale/Succhietti e massaggiagengive/Porta succhietto
+1806722031	Prima infanzia/Igiene e benessere/Igiene/Igiene orale/Succhietti e massaggiagengive/Succhietti
+1806388031	Prima infanzia/Igiene e benessere/Igiene/Orecchie e naso
+1806390031	Prima infanzia/Igiene e benessere/Igiene/Orecchie e naso/Aspiratori nasali
+1806394031	Prima infanzia/Igiene e benessere/Igiene/Orecchie e naso/Bastoncini ovattati
+1806392031	Prima infanzia/Igiene e benessere/Igiene/Orecchie e naso/Pinzette da nasino
+1806389031	Prima infanzia/Igiene e benessere/Igiene/Orecchie e naso/Set aspiratori nasali e siringhe per orecchie
+1806393031	Prima infanzia/Igiene e benessere/Igiene/Orecchie e naso/Siringhe per orecchie
+1806391031	Prima infanzia/Igiene e benessere/Igiene/Orecchie e naso/Soluzioni saline
+1806386031	Prima infanzia/Igiene e benessere/Igiene/Set di igiene e benessere
+1806384031	Prima infanzia/Igiene e benessere/Igiene/Spazzole e pettini
+1806405031	Prima infanzia/Igiene e benessere/Prodotti per la cura delle pelle
+1806407031	Prima infanzia/Igiene e benessere/Prodotti per la cura delle pelle/Creme idratanti
+1806406031	Prima infanzia/Igiene e benessere/Prodotti per la cura delle pelle/Creme lenitive
+1806408031	Prima infanzia/Igiene e benessere/Prodotti per la cura delle pelle/Creme solari
+1806409031	Prima infanzia/Igiene e benessere/Prodotti per la cura delle pelle/Oli
+1806410031	Prima infanzia/Igiene e benessere/Prodotti per la cura delle pelle/Talco
+4203679031	Prima infanzia/Igiene e benessere/Salviettine e accessori
+4203680031	Prima infanzia/Igiene e benessere/Salviettine e accessori/Batuffoli di cotone e dischetti
+4203682031	Prima infanzia/Igiene e benessere/Salviettine e accessori/Contenitori per salviettine
+1806412031	Prima infanzia/Igiene e benessere/Salviettine e accessori/Salviette detergenti
+4203681031	Prima infanzia/Igiene e benessere/Salviettine e accessori/Salviettine asciutte
+4203684031	Prima infanzia/Igiene e benessere/Salviettine e accessori/Salviettine e ricariche
+4203683031	Prima infanzia/Igiene e benessere/Salviettine e accessori/Scalda salviettine
+1806411031	Prima infanzia/Igiene e benessere/Termometri
+1806403031	Prima infanzia/Igiene e benessere/Trattamenti caldo e freddo
+4203677031	Prima infanzia/Igiene e benessere/Trattamenti caldo e freddo/Borse dell'acqua calda
+4203678031	Prima infanzia/Igiene e benessere/Trattamenti caldo e freddo/Cuscini termici
+4203676031	Prima infanzia/Igiene e benessere/Trattamenti caldo e freddo/Impacchi caldo e freddo
+1806413031	Prima infanzia/Marsupi
+1806416031	Prima infanzia/Marsupi/Borse porta marsupi e accessori
+1806414031	Prima infanzia/Marsupi/Marsupi a fascia
+1806417031	Prima infanzia/Marsupi/Marsupi frontali
+1806415031	Prima infanzia/Marsupi/Marsupio a zainetto
+1806763031	Prima infanzia/Passeggini rimorchio
+1806765031	Prima infanzia/Passeggini rimorchio/Accessori per passeggini rimorchio
+1806764031	Prima infanzia/Passeggini rimorchio/Passeggini rimorchio per bici
+1739200031	"Prima infanzia/Passeggini, carrozzine e accessori"
+1806731031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio"
+5124692031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Accessori di ricambio"
+9645329031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Adattatori per seggiolini auto"
+9645333031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Borsa contenitore per manubrio per passeggino"
+1806738031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Borse da trasporto per passeggini"
+1806552031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Borse fasciatoio"
+4203689031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Borse fasciatoio/Borse a busta"
+4203690031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Borse fasciatoio/Borse shopper"
+4203688031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Borse fasciatoio/Borse tascapane"
+1806551031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Borse fasciatoio/Zaini fasciatoio"
+9645334031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Bretelle e cinture"
+9645336031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Camere d'aria e pneumatici"
+1806742031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Cestini"
+9645339031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Cinghie regolabili"
+9645344031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Conettori per passegini"
+1806739031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Copertine e lenzuolini"
+1806736031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Copertine parasole"
+9645340031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Copriseduta per passeggini"
+1806746031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Culle portatili"
+9645343031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Cuscinetti per cinture di sicurezza"
+9645346031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Ganci per passeggini"
+632589031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Giochi da passeggino"
+4203706031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Manicotti"
+1806737031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Ombrellini parasole"
+9645342031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Organizer staccabile"
+9645326031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Paracolpi per passeggini"
+1806745031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Parapioggia e paravento"
+1806740031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Pedane mobili"
+9645335031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Poggiatesta"
+9645337031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Porta bicchieri"
+5124702031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Portabicchieri per passeggino"
+1806735031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Portaoggetti e supporti"
+1806734031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Riduttori"
+9645332031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Ruote anteriori"
+9645338031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Ruote posteriori"
+1806744031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Sacchi termici"
+9645327031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Sacchi termici per passeggini"
+1806743031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Sedili"
+9645331031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Sedili centrali e posteriori"
+1806732031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Telai passeggino"
+4203707031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Termofori"
+9645328031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Tettini per passegino"
+9645341031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Vassoi"
+9645345031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Ventilatori"
+1806741031	"Prima infanzia/Passeggini, carrozzine e accessori/Accessori e parti di ricambio/Zanzariere"
+9645347031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine"
+1806748031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Carrozzine"
+1806750031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Modulari combinabili"
+1806749031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Passeggini compatti"
+1806747031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Passeggini da Jogging"
+6011638031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Passeggini gemellari e doppi"
+9645350031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Passeggini leggeri"
+9645349031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Passeggini per bambini con bisogni speciali"
+9645348031	"Prima infanzia/Passeggini, carrozzine e accessori/Passeggini e carrozzine/Telaio passeggino per seggiolini auto"
+3735570031	Prima infanzia/Regali per neonati
+1806490031	Prima infanzia/Regali per neonati/Abiti da battesimo per bimba
+1806429031	Prima infanzia/Regali per neonati/Abiti da battesimo per bimbo
+3735577031	Prima infanzia/Regali per neonati/Album di foto
+3735573031	Prima infanzia/Regali per neonati/Candele per battesimo
+632727031	Prima infanzia/Regali per neonati/Cornici per foto
+5124701031	Prima infanzia/Regali per neonati/Custodie per documenti maternità
+632726031	Prima infanzia/Regali per neonati/Giochi da appendere
+632600031	Prima infanzia/Regali per neonati/Giochi morbidi
+3735571031	Prima infanzia/Regali per neonati/Gioielli
+3735572031	Prima infanzia/Regali per neonati/Kit per impronte bimbi
+3735576031	Prima infanzia/Regali per neonati/Libri dei ricordi
+3735574031	Prima infanzia/Regali per neonati/Regali in argento
+3735575031	Prima infanzia/Regali per neonati/Scatole dei ricordi
+632587031	Prima infanzia/Regali per neonati/Scatole musicali
+3735578031	Prima infanzia/Regali per neonati/Set da regalo
+700579031	Prima infanzia/Scarpine
+2004790031	Prima infanzia/Scarpine/Femmina
+2004791031	Prima infanzia/Scarpine/Femmina/Scarpine neonata
+2004792031	Prima infanzia/Scarpine/Femmina/Scarpine primi passi
+2004793031	Prima infanzia/Scarpine/Maschio
+2004794031	Prima infanzia/Scarpine/Maschio/Scarpine neonato
+2004795031	Prima infanzia/Scarpine/Maschio/Scarpine primi passi
+1739199031	Prima infanzia/Seggiolini auto e accessori
+1806541031	Prima infanzia/Seggiolini auto e accessori/Accessori
+5124708031	Prima infanzia/Seggiolini auto e accessori/Accessori/Accessori di ricambio
+4203686031	Prima infanzia/Seggiolini auto e accessori/Accessori/Adattatori per sedili della macchina
+4203685031	Prima infanzia/Seggiolini auto e accessori/Accessori/Adesivi baby per macchina
+1806542031	Prima infanzia/Seggiolini auto e accessori/Accessori/Basi
+1897937031	Prima infanzia/Seggiolini auto e accessori/Accessori/Guaine per cintura di sicurezza
+4203687031	Prima infanzia/Seggiolini auto e accessori/Accessori/Inserti per sedili della macchina
+1897935031	Prima infanzia/Seggiolini auto e accessori/Accessori/Organizer bambino per sedile auto
+1898701031	Prima infanzia/Seggiolini auto e accessori/Accessori/Parapioggia per ovetto
+1806544031	Prima infanzia/Seggiolini auto e accessori/Accessori/Poggiapiedi
+1897936031	Prima infanzia/Seggiolini auto e accessori/Accessori/Protettori per sedile
+1806545031	Prima infanzia/Seggiolini auto e accessori/Accessori/Protezioni copriseggiolino
+1806543031	Prima infanzia/Seggiolini auto e accessori/Accessori/Sacchi termici
+1897934031	Prima infanzia/Seggiolini auto e accessori/Accessori/Specchietti retrovisori controllo bimbo
+1806733031	Prima infanzia/Seggiolini auto e accessori/Accessori/Supporti per la testa
+5124700031	Prima infanzia/Seggiolini auto e accessori/Accessori/Tavolini
+1806546031	Prima infanzia/Seggiolini auto e accessori/Accessori/Tendine parasole per auto
+1898702031	Prima infanzia/Seggiolini auto e accessori/Accessori/Zanzariere per ovetto
+1806547031	Prima infanzia/Seggiolini auto e accessori/Seggiolini auto
+1739197031	Prima infanzia/Sicurezza
+1806751031	Prima infanzia/Sicurezza/Baby monitor
+5124705031	Prima infanzia/Sicurezza/Babymonitor fetale
+5124698031	Prima infanzia/Sicurezza/Batterie per i babymonitor
+1806752031	Prima infanzia/Sicurezza/Cancelletti e prolunghe cancelletti
+4203711031	Prima infanzia/Sicurezza/Cancelletti e prolunghe cancelletti/Cancelletti per camini
+4203710031	Prima infanzia/Sicurezza/Cancelletti e prolunghe cancelletti/Cancelletti per porte e scale
+4203712031	Prima infanzia/Sicurezza/Cancelletti e prolunghe cancelletti/Prolunghe cancelletti
+1806753031	Prima infanzia/Sicurezza/Lucchetti e chiusure
+1806760031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Barriere per fornelli
+1806755031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Blocca armadio e cassetto
+1806756031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Blocca porte e finestre
+1806757031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Copriprese
+1806761031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Lucchetti per wc
+1806754031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Paraspigoli
+1806758031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Protezioni per piante e fiori
+1806759031	Prima infanzia/Sicurezza/Lucchetti e chiusure/Set completi
+1806762031	Prima infanzia/Sicurezza/Redini primi passi
+4203708031	Prima infanzia/Sicurezza/Sicurezza in bagno
+4203709031	Prima infanzia/Sicurezza/Umidificatori
+1806720031	Prima infanzia/Succhietti e massaggiagengive
+1806723031	Prima infanzia/Succhietti e massaggiagengive/Catenelle porta succhietto
+1806724031	Prima infanzia/Succhietti e massaggiagengive/Massaggiagengive
+1806721031	Prima infanzia/Succhietti e massaggiagengive/Porta succhietto
+1806722031	Prima infanzia/Succhietti e massaggiagengive/Succhietti

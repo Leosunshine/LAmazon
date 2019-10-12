@@ -1,0 +1,1429 @@
+﻿1571290031	Salute e cura della persona
+4327117031	Salute e cura della persona/Alimentazione e nutrizione
+4327243031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali
+4327519031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali/Barrette nutrizionali
+4327528031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali/Barrette nutrizionali/Barrette dietetiche
+6102379031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali/Barrette nutrizionali/Barrette proteiche
+6102380031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali/Barrette nutrizionali/Barrette sostitutive del pasto
+6102381031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali/Barrette nutrizionali/Resistenza e energia
+4327520031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali/Bibite e frullati nutrizionali
+4327521031	Salute e cura della persona/Alimentazione e nutrizione/Barrette e bibite nutrizionali/Gel e caramelle gelatinose nutrizionali
+4327244031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport
+6102382031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/7 Keto DHEA
+6102385031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Acido linoleico coniugato (CLA)
+6102365031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi
+6102393031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/Acetil-L-carnitina
+6102394031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/Amminoacidi ramificati (BCAA)
+6102395031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/Beta alanina
+6102396031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/Carnitina
+6102397031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/Creatina
+6102399031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/L-arginina
+6102400031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/L-citrullina
+6102401031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/L-glutammina
+6102402031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/L-leucina
+6102398031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/L-lisina
+6102403031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/L-ornitina
+6102404031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/N-acetilcisteina
+6102405031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Aminoacidi/Taurina
+6102386031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Bruciatori di grasso
+4327526031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Frullati integratori per lo sport
+6102361031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratore di testosterone
+4327549031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di carboidrati
+4327550031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine
+6102432031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Miscela di proteine
+6102433031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine del latte di capra
+6102434031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine del pisello
+6102435031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine del siero del latte
+6102436031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine dell'uovo
+6102437031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine della caseina
+6102438031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine di canapa
+6102439031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine di manzo
+6102440031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine di riso
+6102441031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine di soia
+6102442031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine vegane
+6102443031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Integratori di proteine/Proteine vegetali
+6102362031	Salute e cura della persona/Alimentazione e nutrizione/Integratori per lo sport/Testosterone
+4327245031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso
+4327527031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Apparecchiature per la perdita di peso
+4327528031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Barrette dietetiche
+6102386031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Bruciatori di grasso
+6102448031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Caffè verde
+6102515031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Chetoni di lampone
+4327542031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Disintossicazione e purificazione
+4327529031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Diuretici
+4327530031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Frullati dietetici
+4327526031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Frullati integratori per lo sport
+6102468031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Garcinia Cambogia
+4327531031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Integratori
+4327549031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Integratori di carboidrati
+4327532031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Soppressori dell'appetito
+4327533031	Salute e cura della persona/Alimentazione e nutrizione/Prodotti dimagranti e perdita di peso/Spuntini dietetici
+4327246031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori"
+4327534031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali"
+6102382031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/7 Keto DHEA"
+6102383031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Acido docosaesaenoico (DHA)"
+6102384031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Acido eicosapentaenoico (EPA)"
+6102385031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Acido linoleico coniugato (CLA)"
+6102386031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Bruciatori di grasso"
+6102387031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Miscele"
+6102388031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olii ricchi di omega"
+6102508031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olii ricchi di omega/Omega 3-6-9"
+6102509031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olii ricchi di omega/Omega-3"
+6102510031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olii ricchi di omega/Omega-6"
+6102511031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olii ricchi di omega/Omega-9"
+6102389031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olio di fegato di merluzzo"
+6102390031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olio di krill"
+6102391031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olio di lino"
+4327555031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olio di pesce"
+6102392031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acidi grassi essenziali/Olio di ribes nero"
+6102363031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acido citrico"
+6102364031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Acido ialuronico"
+6102365031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi"
+6102393031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/Acetil-L-carnitina"
+6102394031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/Amminoacidi ramificati (BCAA)"
+6102395031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/Beta alanina"
+6102396031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/Carnitina"
+6102397031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/Creatina"
+6102399031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/L-arginina"
+6102400031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/L-citrullina"
+6102401031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/L-glutammina"
+6102402031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/L-leucina"
+6102398031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/L-lisina"
+6102403031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/L-ornitina"
+6102404031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/N-acetilcisteina"
+6102405031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Aminoacidi/Taurina"
+6102366031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti"
+6102406031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Acido alfa lipoico"
+6102407031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Astaxantina"
+6102408031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Beta carotene"
+6102409031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Carotenoidi"
+6102410031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/CoQ10"
+6102411031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/DMAE"
+6102412031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Integratori colloidali"
+4327790031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Integratori colloidali/Argento colloidale"
+4327803031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Integratori colloidali/Oro colloidale"
+6102512031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Integratori colloidali/Platino colloidale"
+6102413031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Licopene"
+6102414031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Luteina"
+6102415031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Miscele"
+6102416031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo"
+6102457031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Curcumina"
+6102513031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Flavonoidi"
+6102524031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Flavonoidi/Bioflavonoidi"
+6102525031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Flavonoidi/Catechina"
+6102526031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Flavonoidi/Isoflavoni"
+6102527031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Flavonoidi/Quercetina"
+6102528031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Flavonoidi/Rutina"
+6102519031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Mirtilli"
+6102522031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Semi d'uva"
+6102490031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Polifenolo/Sesamino"
+6102417031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Pycnogenolo"
+6102418031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Antiossidanti/Resveratrolo"
+6102367031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Capsule d'aceto"
+4327538031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Collagene"
+6102368031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Condroitina e glucosamina"
+6102419031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Condroitina e glucosamina/Condroitina"
+6102420031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Condroitina e glucosamina/Glucosamina"
+6102421031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Condroitina e glucosamina/Miscele"
+4327544031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Enzimi"
+6102422031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Enzimi/Enzimi della papaya"
+6102423031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Enzimi/Enzimi digestivi"
+6102424031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Enzimi/Multienzimi"
+6102425031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Enzimi/Nattokinase"
+6102369031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Estratti ghiandolari"
+6102426031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Estratti ghiandolari/Estratti di milza"
+6102427031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Estratti ghiandolari/Estratti di timo"
+6102428031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Estratti ghiandolari/Estratti surrenalici"
+6102429031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Estratti ghiandolari/Estratti tiroidei"
+6102430031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Estratti ghiandolari/Estratto di fegato"
+6102431031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Estratti ghiandolari/Placenta"
+6102370031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Euglena"
+4327547031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Fibre alimentari"
+6102371031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di larva d'ape"
+4327550031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine"
+6102432031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Miscela di proteine"
+6102433031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine del latte di capra"
+6102434031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine del pisello"
+6102435031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine del siero del latte"
+6102436031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine dell'uovo"
+6102437031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine della caseina"
+6102438031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine di canapa"
+6102439031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine di manzo"
+6102440031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine di riso"
+6102441031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine di soia"
+6102442031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine vegane"
+6102443031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di proteine/Proteine vegetali"
+6102372031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali"
+6102444031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Aglio"
+6102445031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Aloe vera"
+6102446031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Astragalo"
+6102447031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Biancospino"
+6102448031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Caffè verde"
+6102449031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Camomilla"
+6102450031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Cannella"
+6102451031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Carciofo"
+6102452031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Cayenne"
+6102453031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Chlorella"
+6102454031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Cimicifuga rubifolia"
+6102455031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Clorofilla"
+6102456031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Curcuma"
+6102457031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Curcumina"
+6102458031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Dong quai"
+6102459031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Echinacea"
+6102460031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Enotera"
+6102461031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Erba della capra in calore"
+6102462031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Erba di San Giovanni"
+6102463031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Erba di grano"
+6102464031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Erba medica"
+6102465031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta"
+6102514031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Bacche di acai"
+6102515031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Chetoni di lampone"
+6102516031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Ciliegie"
+6102517031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Lucuma"
+6102518031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Melagrana"
+6102519031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Mirtilli"
+6102520031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Mirtilli rossi"
+6102521031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Sambuco"
+6102522031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Estratti di frutta/Semi d'uva"
+6102466031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Foglie d'olivo"
+6102467031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Funghi"
+6102468031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Garcinia Cambogia"
+6102469031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Ginkgo biloba"
+6102470031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Ginseng"
+6102471031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Green drink"
+6102472031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Idraste"
+6102473031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Kava"
+6102474031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Laminariali"
+6102475031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Latte di cardo"
+6102476031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Lievito di riso rosso"
+6102477031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Liquirizia"
+6102478031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Maca"
+6102479031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Muira puama"
+6102480031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Neem"
+6102481031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Noni"
+6102482031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Origano"
+6102483031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Ortica"
+6102484031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Partenio"
+6102485031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Psillio"
+6102486031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Radici d'altea"
+6102487031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Saw Palmetto"
+6102488031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Semi di chia"
+6102489031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Semi di lino"
+6102490031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Sesamino"
+6102491031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Spirulina"
+6102492031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Stevia"
+6102493031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Tribolo"
+6102494031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Triphala"
+6102495031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Tè verde"
+6102496031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Valeriana"
+6102497031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Yohimbe"
+6102498031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Integratori di sostanze e preparati vegetali/Zenzero"
+6102373031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Lievito di birra"
+6102374031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Lipidi"
+6102499031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Lipidi/Ceramidi"
+6102500031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Lipidi/Colina"
+6102501031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Lipidi/Lecitina"
+6102375031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Metilsulfonilmetano (MSM)"
+4327553031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Multivitamine e minerali"
+6102376031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Pappa reale"
+6102377031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Probiotici"
+6102502031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Probiotici/Acidophilus"
+6102503031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Probiotici/Bifidobacterium"
+6102504031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Probiotici/Lactobacillus"
+6102505031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Probiotici/Saccharomyces boulardii"
+6102378031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Propoli"
+4327560031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine"
+4327781031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Ester-C"
+4327782031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/K-Mag"
+6102506031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Multivitamine"
+4327783031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina A"
+4327784031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B"
+4327804031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Piridossalfosfato (P-5-P)"
+4327867031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B1"
+4327868031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B12"
+4327869031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B2"
+4327870031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B3"
+4327871031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B5"
+4327872031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B6"
+4327866031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B7 (Biotina)"
+4327873031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B8"
+6102523031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina B9 (acido folico)"
+4327874031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina B/Vitamina complesso B"
+4327785031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina C"
+4327786031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina D"
+4327787031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina E"
+4327788031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina K"
+4327789031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamina O"
+6102507031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singole vitamine/Vitamine prenatali"
+4327561031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali"
+4327791031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Boro"
+4327792031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Calcio"
+4327793031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Cromo"
+4327794031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Ferro"
+4327795031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Germanio"
+4327796031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Iodio"
+4327797031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Ioduro di potassio"
+4327798031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Ipriflavone"
+4327799031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Magnesio"
+4327800031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Manganese"
+4327801031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Minerali traccia"
+4327802031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Multiminerali"
+4327805031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Potassio"
+4327806031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Proteine del latte di capra"
+4327807031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Rame"
+4327808031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Selenio"
+4327809031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Silicio"
+4327810031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Sodio"
+4327811031	"Salute e cura della persona/Alimentazione e nutrizione/Vitamine, minerali e integratori/Singoli minerali/Zinco"
+4327082031	Salute e cura della persona/Articoli erotici e contraccezione
+2892926031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico
+2893176031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna
+2893470031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Abiti
+2893471031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Accessori
+2893472031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Babydoll e négligé
+2893473031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Body interi e tute intere
+2893474031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Bustini e corsetti
+2893475031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Calzetteria
+2893476031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Camicie da notte
+2893477031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Completi intimi
+2893478031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Coordinati pigiami e vestaglie
+2893479031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Costumi e travestimenti
+2893132031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Giarrettiere e reggicalze
+2893482031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Mutande
+2893480031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Pagliaccetti e body
+2893481031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Reggiseni
+2893483031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico donna/Vestaglie
+2893177031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo
+2893484031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Accessori
+2893485031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Boxer
+2893486031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Coordinati pigiami e vestaglie
+2893487031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Costumi e travestimenti
+2893488031	"Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Perizomi, string e tanga"
+2893489031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Pigiami
+2893490031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Slip e parigamba
+2893491031	Salute e cura della persona/Articoli erotici e contraccezione/Abbigliamento erotico/Abbigliamento erotico uomo/Vestaglie
+4327091031	Salute e cura della persona/Articoli erotici e contraccezione/Mobili erotici
+4327146031	Salute e cura della persona/Articoli erotici e contraccezione/Mobili erotici/Altalene
+4327147031	Salute e cura della persona/Articoli erotici e contraccezione/Mobili erotici/Lenzuola
+4327148031	Salute e cura della persona/Articoli erotici e contraccezione/Mobili erotici/Materassi
+4327149031	Salute e cura della persona/Articoli erotici e contraccezione/Mobili erotici/Pali per lap dance
+4327150031	Salute e cura della persona/Articoli erotici e contraccezione/Mobili erotici/Saune portatili
+4327151031	Salute e cura della persona/Articoli erotici e contraccezione/Mobili erotici/Scivoli e cuscini
+4327092031	Salute e cura della persona/Articoli erotici e contraccezione/Oggetti insoliti e giochi
+4327152031	Salute e cura della persona/Articoli erotici e contraccezione/Oggetti insoliti e giochi/Giochi
+4327153031	Salute e cura della persona/Articoli erotici e contraccezione/Oggetti insoliti e giochi/Indumenti intimi commestibili
+4327154031	Salute e cura della persona/Articoli erotici e contraccezione/Oggetti insoliti e giochi/Oggetti insoliti
+4327155031	Salute e cura della persona/Articoli erotici e contraccezione/Oggetti insoliti e giochi/Set regalo e kit erotici
+4327093031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico
+4327156031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Afrodisiaci
+4327157031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Candele per massaggi
+4327158031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Colori per il corpo
+4327159031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Creme e gel per l'igiene intima
+4327160031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Creme per aumento del seno
+4327161031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Igiene oggetti erotici
+4327162031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Lavande vaginali e clisteri
+4327163031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Lubrificanti e gel stimolanti
+4327164031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Oli per massaggi
+4327165031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Pompe per aumento del seno
+4327166031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Pompe per ingrandimento pene
+4327167031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Prodotti astringenti vaginali
+4327168031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Prodotti per il bagno
+4327169031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Prodotti per virilità  e ritardanti
+4327170031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Rilassamento sfintere
+4327171031	Salute e cura della persona/Articoli erotici e contraccezione/Prodotti per igiene e ausilio erotico/Tamponi di spugna
+6308769031	Salute e cura della persona/Articoli erotici e contraccezione/Scarpe fetish
+6308771031	Salute e cura della persona/Articoli erotici e contraccezione/Scarpe fetish/Scarpe col tacco alto fetish
+6308770031	Salute e cura della persona/Articoli erotici e contraccezione/Scarpe fetish/Stivali fetish
+4327094031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione
+4327172031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Cappucci cervicali
+4327173031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Diaframmi
+4327174031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Dighe dentali
+4327175031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Preservativi
+4327451031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Preservativi/Preservativi femminili
+4327452031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Preservativi/Preservativi maschili
+4327176031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Spermicidi e gel contraccettivi
+4327177031	Salute e cura della persona/Articoli erotici e contraccezione/Sesso sicuro e contraccezione/Spugne
+4327095031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy
+4327178031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Accessori per sculacciare ed eccitare
+4327453031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Accessori per sculacciare ed eccitare/Accessori per eccitare
+4327454031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Accessori per sculacciare ed eccitare/Bacchette
+4327455031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Accessori per sculacciare ed eccitare/Fruste e frustini
+4327456031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Accessori per sculacciare ed eccitare/Palette
+4327457031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Accessori per sculacciare ed eccitare/Scudisci
+4327179031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Anelli fallici
+4327180031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bambole gonfiabili
+4327181031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage
+4327458031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Accessori per costrizione
+4327459031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Bavagli
+4327460031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Bende per gli occhi
+4327461031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Cappucci che coprono il volto
+4327462031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Cinghie
+4327463031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Cinture di castità 
+4327464031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Collari
+4327465031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Corde
+4327466031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Gabbie per pene
+4327467031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Manette
+4327468031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Nastri
+4327469031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Sciarpe
+4327470031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Bondage/Set
+4327182031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Dilatatori
+4327183031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Dildo
+4327471031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Dildo/Dildo anali
+4327472031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Dildo/Dildo classici
+4327473031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Dildo/Dildo doppi
+4327184031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Elettrostimolazione
+4327185031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Giocattoli per capezzoli
+4327474031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Giocattoli per capezzoli/Pesi
+4327475031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Giocattoli per capezzoli/Pinze
+4327476031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Giocattoli per capezzoli/Succhiatori
+4327186031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Guaine e prolunghe per il pene
+4327187031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Masturbatori maschili
+4327188031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Palline anali
+4327189031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Palline vaginali Ben Wa
+4327190031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Pannolini
+4327191031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Plug anali
+4327192031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Proteggi dita
+4327194031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Set
+4327193031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Set di clonazione
+4327195031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Strap-on
+4327196031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Succhia clitoride
+4327197031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori
+4327477031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori/Ovuli e palline vibranti
+4327478031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori/Vibratori Lay-on
+4327479031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori/Vibratori a farfalla
+4327480031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori/Vibratori anali e per perineo
+4327481031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori/Vibratori classici
+4327482031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori/Vibratori per coppia
+4327483031	Salute e cura della persona/Articoli erotici e contraccezione/Sex toy/Vibratori/Vibratori rabbit
+6308772031	Salute e cura della persona/Articoli per fumatori
+6308773031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco
+6308774031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari
+6308781031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari/Bucasigari
+6308775031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari/Custodie per forbici e rasoi
+6308780031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari/Igrometri
+6308776031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari/Portasigari
+6308777031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari/Tagliasigari
+6308778031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari/Umidificatori
+6308779031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori e umidificatori per sigari/Umidificatori Humidor
+6308782031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette
+6308785031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette/Bocchini
+6308787031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette/Cartine e sigarette vuote
+6308784031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette/Filtri
+6308786031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette/Macchinette
+6308783031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette/Portasigarette e porta tabacco
+6308789031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette/Salva sigarette
+6308788031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Accessori per sigarette/Vassoi per rollare
+6308793031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori
+6308805031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Bocchini e filtri
+6308796031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Borse e custodie porta narghilè
+6308795031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Bracieri
+6308798031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Carboncini
+6308800031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Carta stagnola
+6308807031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Corpo centrale
+6308802031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Fornelli
+6308801031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Guarnizioni di gomma
+6308794031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Innesti per il tubo
+6308803031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Narghilè
+6308806031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Perfora stagnola
+6308797031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Pinzette per carboncini
+6308799031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Prodotti per la pulizia
+6308810031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Salva vento
+6308804031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Tubi
+6308809031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Valvole per l'aria
+6308808031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Narghilè e accessori/Vassoi
+6308811031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Pipe da tabacco e accessori
+6308812031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Pipe da tabacco e accessori/Borse e borsellini portapipe
+6308816031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Pipe da tabacco e accessori/Pipe da tabacco
+6308815031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Pipe da tabacco e accessori/Portapipe e poggiapipe
+6308814031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Pipe da tabacco e accessori/Retine
+6308813031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Pipe da tabacco e accessori/Scovolini
+6308790031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Set regalo e kit starter
+6308792031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Set regalo e kit starter/Kit
+6308791031	Salute e cura della persona/Articoli per fumatori/Prodotti e accessori per tabacco/Set regalo e kit starter/Set regalo
+4327086031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori
+4852539031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Narghilè elettronici e accessori
+4852540031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Narghilè elettronici e accessori/Accessori
+4852541031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Narghilè elettronici e accessori/Liquidi e ricariche
+4852542031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Narghilè elettronici e accessori/Penne narghilè
+4852538031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Sigarette elettroniche e accessori
+4327101031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Sigarette elettroniche e accessori/Accessori
+4327102031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Sigarette elettroniche e accessori/Liquidi e ricariche
+4327103031	Salute e cura della persona/Articoli per fumatori/Sigarette e narghilè elettronici e accessori/Sigarette elettroniche e accessori/Sigarette elettroniche
+4327880031	Salute e cura della persona/Bagno e corpo
+4327888031	Salute e cura della persona/Bagno e corpo/Accessori da bagno
+4327893031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Cuffie doccia
+731767031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Cuscini poggiatesta
+4327891031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Luffe
+3225885031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Manopole da bagno
+4327890031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Muffole e guanti esfolianti
+4327892031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Pouf
+4327889031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Spazzole da bagno
+4327894031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Spugne
+3225891031	Salute e cura della persona/Bagno e corpo/Accessori da bagno/Vassoi
+4327899031	Salute e cura della persona/Bagno e corpo/Deodoranti
+4327895031	Salute e cura della persona/Bagno e corpo/Detergenti per il corpo
+4327896031	"Salute e cura della persona/Bagno e corpo/Detergenti per il corpo/Bagnoschiuma, docciaschiuma e gel doccia"
+4327897031	Salute e cura della persona/Bagno e corpo/Detergenti per il corpo/Oli e balsami corpo per doccia
+4327898031	Salute e cura della persona/Bagno e corpo/Detergenti per il corpo/Saponette e sapone liquido
+4327881031	Salute e cura della persona/Bagno e corpo/Prodotti per il bagno
+4327882031	Salute e cura della persona/Bagno e corpo/Prodotti per il bagno/Bombe da bagno
+4327887031	Salute e cura della persona/Bagno e corpo/Prodotti per il bagno/Infusi da bagno
+4327886031	Salute e cura della persona/Bagno e corpo/Prodotti per il bagno/Oli
+4327883031	Salute e cura della persona/Bagno e corpo/Prodotti per il bagno/Perle e scaglie da bagno
+4327885031	Salute e cura della persona/Bagno e corpo/Prodotti per il bagno/Sali e minerali
+4327884031	Salute e cura della persona/Bagno e corpo/Prodotti per il bagno/Schiuma da bagno
+4327901031	Salute e cura della persona/Bagno e corpo/Set
+4327900031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti
+4331153031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Burri per il corpo
+4331154031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Creme per il corpo
+4331161031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Esfolianti per il corpo
+4331159031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Fanghi per il corpo
+4331156031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Lozioni per il corpo
+4331158031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Mousse e soufflé corpo
+4331160031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Oli per il corpo
+4331155031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Rassodanti e tonificanti per il corpo
+4331157031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Spray idratanti per il corpo
+4331162031	Salute e cura della persona/Bagno e corpo/Trattamenti corpo ed esfolianti/Talchi
+4327083031	Salute e cura della persona/Benessere
+4327096031	Salute e cura della persona/Benessere/Accessori per la sauna
+4327198031	Salute e cura della persona/Benessere/Accessori per la sauna/Apparecchi riscaldamento per sauna
+4327199031	Salute e cura della persona/Benessere/Accessori per la sauna/Detergenti per sauna
+4327200031	Salute e cura della persona/Benessere/Accessori per la sauna/Essenze per sauna
+4327201031	Salute e cura della persona/Benessere/Accessori per la sauna/Kit per sauna
+4327202031	Salute e cura della persona/Benessere/Accessori per la sauna/Liquidi da versare
+4327203031	Salute e cura della persona/Benessere/Accessori per la sauna/Mastelli e mestoli per sauna
+4327204031	Salute e cura della persona/Benessere/Accessori per la sauna/Pietre
+5520901031	Salute e cura della persona/Benessere/Accessori per la sauna/Sali sauna
+4327205031	Salute e cura della persona/Benessere/Accessori per la sauna/Strumenti di misurazione per saune
+4327097031	Salute e cura della persona/Benessere/Lampade abbronzanti
+4327098031	Salute e cura della persona/Benessere/Massaggi e relax
+4327206031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali
+4327484031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali/Accessori per lettini
+4327485031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali/Biancheria
+4327486031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali/Cuscini ordinari e cuscini cilindrici
+4327487031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali/Fornelli e attrezzature per scaldare
+4327488031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali/Lettini
+4327489031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali/Sedie e sgabelli
+4327490031	Salute e cura della persona/Benessere/Massaggi e relax/Attrezzature per massaggi professionali/Tappetini per massaggi
+4327207031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi"
+4327491031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi/Candele"
+4327492031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi/Creme"
+4331161031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi/Esfolianti per il corpo"
+4331159031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi/Fanghi per il corpo"
+4327493031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi/Gel"
+4327494031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi/Lozioni"
+4327495031	"Salute e cura della persona/Benessere/Massaggi e relax/Creme, lozioni e oli per massaggi/Oli"
+4327208031	Salute e cura della persona/Benessere/Massaggi e relax/Massaggiatori elettrici
+4327496031	Salute e cura della persona/Benessere/Massaggi e relax/Massaggiatori elettrici/Cuscini per massaggi elettrici
+4327497031	Salute e cura della persona/Benessere/Massaggi e relax/Massaggiatori elettrici/Massaggiatori cervicali e da collo
+4327498031	Salute e cura della persona/Benessere/Massaggi e relax/Massaggiatori elettrici/Massaggiatori elettrici manuali
+4327499031	Salute e cura della persona/Benessere/Massaggi e relax/Massaggiatori elettrici/Massaggiatori elettrici per i piedi
+4327500031	Salute e cura della persona/Benessere/Massaggi e relax/Massaggiatori elettrici/Sedie e materassini per massaggi elettrici
+4327209031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali
+4327501031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Bastoncini per massaggi
+4327502031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Kit per massaggi
+4327503031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Massaggiatori per i piedi
+4327504031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Massaggiatori per la schiena
+4327505031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Massaggiatori per la testa
+4327506031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Palle per massaggi
+4327507031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Pietre per massaggi
+4327508031	Salute e cura della persona/Benessere/Massaggi e relax/Strumenti per i massaggi manuali/Sacchetti di erbe
+4327773031	Salute e cura della persona/Benessere/Massaggi e relax/Trattamenti caldo/freddo
+4327814031	Salute e cura della persona/Benessere/Massaggi e relax/Trattamenti caldo/freddo/Cerotti e fasce riscaldanti
+4327774031	Salute e cura della persona/Benessere/Massaggi e relax/Trattamenti caldo/freddo/Coperte elettriche e scalda-materessi
+4327815031	Salute e cura della persona/Benessere/Massaggi e relax/Trattamenti caldo/freddo/Cuscinetti termici
+4327816031	Salute e cura della persona/Benessere/Massaggi e relax/Trattamenti caldo/freddo/Cuscini termici
+6306961031	Salute e cura della persona/Benessere/Massaggi e relax/Trattamenti caldo/freddo/Maschere refrigeranti
+4327775031	Salute e cura della persona/Benessere/Massaggi e relax/Trattamenti caldo/freddo/Scaldapiedi
+4327131031	Salute e cura della persona/Benessere/Terapie alternative
+4327337031	Salute e cura della persona/Benessere/Terapie alternative/Agopressione
+4327338031	Salute e cura della persona/Benessere/Terapie alternative/Agopuntura
+4327339031	Salute e cura della persona/Benessere/Terapie alternative/Aromaterapia
+4327621031	Salute e cura della persona/Benessere/Terapie alternative/Aromaterapia/Candele
+4327622031	Salute e cura della persona/Benessere/Terapie alternative/Aromaterapia/Diffusori di oli profumati
+4327623031	Salute e cura della persona/Benessere/Terapie alternative/Aromaterapia/Oli profumati
+4327340031	Salute e cura della persona/Benessere/Terapie alternative/Ayurveda
+4327341031	Salute e cura della persona/Benessere/Terapie alternative/Cristalloterapia
+4327342031	Salute e cura della persona/Benessere/Terapie alternative/Essenze floreali
+4327343031	Salute e cura della persona/Benessere/Terapie alternative/Magnetoterapia
+4327344031	Salute e cura della persona/Benessere/Terapie alternative/Oligoterapia
+4327345031	Salute e cura della persona/Benessere/Terapie alternative/Ossigenoterapia
+4327346031	Salute e cura della persona/Benessere/Terapie alternative/Pietre e minerali
+4327347031	Salute e cura della persona/Benessere/Terapie alternative/Rimedi omeopatici
+4327349031	Salute e cura della persona/Benessere/Terapie alternative/Terapia del suono
+4327350031	Salute e cura della persona/Benessere/Terapie alternative/Terapia della luce
+9900020031	Salute e cura della persona/Benessere/Terapie alternative/Terapia della luce/Lampade SAD
+9900019031	Salute e cura della persona/Benessere/Terapie alternative/Terapia della luce/Proiettori sensoriali
+4327348031	Salute e cura della persona/Benessere/Terapie alternative/Terapia della luce/Terapia con raggi infrarossi
+1904597031	Salute e cura della persona/Benessere/Terapie alternative/Terapia della luce/Wake-up light
+4327902031	Salute e cura della persona/Cura dei capelli
+4327920031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli
+6307197031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Asciugamani per capelli
+4327932031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Cerchietti e fasce per capelli
+4327922031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Ciambelle per chignon
+4327933031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Elastici e fermacoda
+4327926031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori"
+6307199031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Collanti"
+4327927031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Extension"
+6307200031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Extension in piume"
+4327930031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Parrucche"
+4327928031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Posticci"
+6307201031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Retine per parrucche"
+6307198031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Solventi per collanti"
+4327929031	"Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Extension, parrucche e accessori/Teste di polistirolo"
+4327924031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Fermagli
+4327925031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Fermagli a pettine
+4327931031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Mollette per capelli
+4327923031	Salute e cura della persona/Cura dei capelli/Accessori styling capelli/Pinze
+4327934031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri
+4327943031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Bottigliette spray
+4327940031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Carrelli portaoggetti
+4327957031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Caschi per asciugatura
+4327942031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Lavelli per shampoo
+4327937031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Mantelle
+4327941031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Pennelli per collo
+4327936031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Scope e spazzole
+4327935031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Sedie da barbiere
+4327938031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Sgabelli per il taglio
+4327939031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Specchi a mano
+4327945031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Teste studio
+4327944031	Salute e cura della persona/Cura dei capelli/Arredi per parrucchieri/Valigette e contenitori porta-attrezzi
+4327915031	Salute e cura della persona/Cura dei capelli/Colore
+4327916031	Salute e cura della persona/Cura dei capelli/Colore/Accessori colore
+6307205031	Salute e cura della persona/Cura dei capelli/Colore/Acqua ossigenata per capelli
+6307202031	Salute e cura della persona/Cura dei capelli/Colore/Additivi colore e sigillanti
+4327918031	Salute e cura della persona/Cura dei capelli/Colore/Colore permanente
+4327919031	Salute e cura della persona/Cura dei capelli/Colore/Colore semi permanente
+6307209031	Salute e cura della persona/Cura dei capelli/Colore/Colori per barba e baffi
+6307203031	Salute e cura della persona/Cura dei capelli/Colore/Correttori colore
+6307206031	Salute e cura della persona/Cura dei capelli/Colore/Decoloranti per capelli
+6307207031	Salute e cura della persona/Cura dei capelli/Colore/Gessetti per capelli
+6307208031	Salute e cura della persona/Cura dei capelli/Colore/Henné
+6307204031	Salute e cura della persona/Cura dei capelli/Colore/Illuminanti per colore
+4327917031	Salute e cura della persona/Cura dei capelli/Colore/Rimozione colore
+4327903031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli
+6307215031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Accessori per permanente
+6307217031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Accessori per piastre lisciacapelli
+4327904031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Balsami
+4327905031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Balsami ad azione profonda e trattamenti
+4327911031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Liscianti
+4327908031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Mascara per capelli
+6307213031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Maschere per capelli
+4327909031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Oli per capelli
+4327910031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Permanente e volume
+4327907031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Prodotti per la perdita dei capelli
+4770056031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Set da regalo
+4770057031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Set da viaggio
+4327913031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Set shampoo e balsamo
+4327914031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Shampoo
+4327906031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Shampoo a secco
+6307210031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Shampoo doccia 3 in 1
+6307216031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Shampoo e balsamo
+4327912031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Tonici per capelli
+6307211031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Trattamenti liscianti
+6307212031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Trattamenti per capelli e cute
+6307214031	Salute e cura della persona/Cura dei capelli/Prodotti per la cura dei capelli/Trattamenti per la ricrescita dei capelli
+4327946031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli
+6307218031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Districanti
+6307219031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Fragranze per capelli
+4327947031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Gel
+4327948031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Lacche e spray per capelli
+4327949031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Mousse e spume
+4327950031	"Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Paste, argille e cere"
+6307220031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Polveri volumizzanti per radici
+4327951031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Sieri
+6307221031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Spray acqua salata
+4327952031	Salute e cura della persona/Cura dei capelli/Prodotti per styling capelli/Spray protezione termica
+4327953031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling
+4327956031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Arricciacapelli
+4327958031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Asciugacapelli
+6307223031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Asciugacapelli/Asciugacapelli
+6307224031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Asciugacapelli/Diffusori
+6307225031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Asciugacapelli/Pettini di ricambio per asciugacapelli
+4327963031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Bigodini
+4327957031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Caschi per asciugatura
+6307222031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Guanti termici per piastra
+4327961031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Modellatori ad aria calda
+4327962031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Modellatori multifunzione
+4327965031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Ondulatori per capelli
+4327954031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Pettini
+4327959031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Piastre per capelli
+4327955031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Piastre per frisè
+4327960031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Spazzole per capelli
+4327436031	Salute e cura della persona/Cura dei capelli/Strumenti per lo styling/Tagliacapelli
+6307140031	Salute e cura della persona/Cura dei capelli/Strumenti per taglio dei capelli
+6307141031	Salute e cura della persona/Cura dei capelli/Strumenti per taglio dei capelli/Custodie per forbici e rasoi
+4327964031	Salute e cura della persona/Cura dei capelli/Strumenti per taglio dei capelli/Forbici
+6307143031	Salute e cura della persona/Cura dei capelli/Strumenti per taglio dei capelli/Kit per taglio dei capelli
+6307144031	Salute e cura della persona/Cura dei capelli/Strumenti per taglio dei capelli/Rasoi
+4327085031	Salute e cura della persona/Cura di bambini e neonati
+1739201031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa
+1806706031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento al seno
+1806710031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento al seno/Contenitori per latte materno
+1806709031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento al seno/Cuscini per allattamento
+1806707031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento al seno/Dischetti assorbilatte e proteggi seno
+1806711031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento al seno/Poncho per allattamento
+1806708031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento al seno/Tiralatte
+1806697031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon
+1806702031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Biberon
+4203703031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Biberon/Biberon in plastica
+4203702031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Biberon/Biberon in vetro
+1806704031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Borse termiche
+4203700031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Contenitori per biberon
+4203705031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Creme per capezzoli
+1806705031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Dischetti sigilla biberon
+4203704031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Dispenser di latte in polvere
+5124687031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Manici
+1806698031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Pulizia biberon
+4203701031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Rastrelliere asciuga biberon
+1806701031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Scalda e raffredda biberon
+1806700031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Set di biberon
+1806703031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Sterilizzatori
+1806699031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Allattamento con biberon/Tettarelle
+1806696031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Bavaglini
+1806715031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Bicchieri salvagoccia
+5124688031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Bilance
+1806713031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Contenitori porta cibo
+4203696031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Frullatori, robot da cucina e presse"
+4203697031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Frullatori, robot da cucina e presse/Frullatori"
+4203698031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Frullatori, robot da cucina e presse/Presse"
+4203699031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Frullatori, robot da cucina e presse/Robot da cucina"
+5124689031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Grembiuli
+1806714031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Mussole
+1806712031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Scaldabiberon e cuocipappa
+4203693031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Seggioloni, sedili e accessori"
+1806676031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Seggioloni, sedili e accessori/Alzasedia"
+1806674031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Seggioloni, sedili e accessori/Cuscini e fodere per seggioloni"
+1806677031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Seggioloni, sedili e accessori/Seggiolini da tavolo"
+1806675031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Seggioloni, sedili e accessori/Seggioloni"
+1806716031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Stoviglie
+5124685031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Stoviglie/Bicchieri
+5124686031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Stoviglie/Borracce
+1806718031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Stoviglie/Piatti
+1806717031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Stoviglie/Posate
+1806719031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Stoviglie/Set di stoviglie
+5124703031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Stoviglie/Tovagliette
+1806695031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine
+6397049031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati
+6397050031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati/Acqua per neonati
+6397051031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati/Succhi e frullati per neonati
+6397052031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Bevande e frullati per neonati/Tè per neonati
+6397053031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Cereali e pappa d'avena per neonati
+6397054031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Cereali e pappa d'avena per neonati/Cereali per neonati
+6397055031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Cereali e pappa d'avena per neonati/Pappa d'avena per neonati
+6397056031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati
+6397057031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati/Formule per lattanti
+6397058031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati/Latte di proseguimento per neonati
+6397059031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Latte e formule per neonati/Latte per la crescita dei neonati
+6397060031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni
+6397061031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Carne e pesce
+6397062031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Frutta e dessert per neonati
+6397063031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Frutta e dessert per neonati/Dessert in vasetto per neonati
+6397064031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Frutta e dessert per neonati/Frutta in vasetto per neonati
+6397065031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Minestrine per neonati
+6397066031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Mix di frutta, cereali e yogurt per neonati"
+6397067031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Piatti di verdure
+6397068031	Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Piatti pronti e contorni/Piatti salati
+6397069031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati"
+6397070031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Barrette alla frutta per neonati"
+6397071031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati"
+6397072031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati/Biscotti per neonati"
+6397073031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati/Biscotti secchi per neonati"
+6397074031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Frollini e biscotti secchi per neonati/Patatine"
+6397075031	"Salute e cura della persona/Cura di bambini e neonati/Allattamento e pappa/Svezzamento e pappine/Stuzzichini, snack e biscotti per neonati/Snack per neonati"
+1739198031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto
+4203672031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Accapatoi
+1806513031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Accapatoi/Accapatoi da bambina
+1806450031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Accapatoi/Accapatoi da bambino
+1806399031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Asciugamani da bagno e con cappuccio
+4203674031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Asciugamani per le mani
+1806395031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Bagnoschiuma
+4203673031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Balsami
+632590031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Giochi per il bagnetto
+1806397031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Sali da bagno
+4203675031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Set per il bagno da viaggio
+1806396031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Shampoo
+4203708031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Sicurezza in bagno
+1806402031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Spugne e guanti
+1806398031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Termometri da bagnetto
+1806400031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Vaschette e riduttori
+1806401031	Salute e cura della persona/Cura di bambini e neonati/Bagnetto/Vaschette verticali
+1806404031	Salute e cura della persona/Cura di bambini e neonati/Bilance
+1806548031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino
+1806552031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Borse fasciatoio
+4203689031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Borse fasciatoio/Borse a busta
+4203690031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Borse fasciatoio/Borse shopper
+4203688031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Borse fasciatoio/Borse tascapane
+1806551031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Borse fasciatoio/Zaini fasciatoio
+1806554031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Contenitori per pannolini usati e ricariche
+9645299031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Buste per mangiapannolini
+9645300031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Deodorante per mangiapannolini
+9645302031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Mangiapannolini
+9645301031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Contenitori per pannolini usati e ricariche/Sacchetto portapannolini
+1806406031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Creme lenitive
+1806655031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Fasciatoi
+4203691031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Fasciatoi a pannelli riscaldanti
+1806549031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Materassini per fasciatoio
+9645281031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Materassini per fasciatoio/Fasciatoio da tavolo
+9645282031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Materassini per fasciatoio/Fasciatoio da viaggio
+9645280031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Materassini per fasciatoio/Fodere per fasciatoio
+9645303031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Organizzatori e scatole per pannolini
+1806555031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Organizzatori e scatole per pannolini/Organizzatori per pannolini
+9645304031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Organizzatori e scatole per pannolini/Scatole per pannolini
+1806556031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini
+9645290031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili
+9645296031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Buste per pannolini usati lavabili
+9645291031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Detersivo per pannolini
+1806553031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Sacchetti per pannolini
+9645292031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spille e gancetti
+9645293031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spille e gancetti/Gancetti per pannolini
+9645294031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spille e gancetti/Spille per pannolini
+9645295031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Accessori per pannolini lavabili/Spruzzatori per lavaggio pannolini
+1806557031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili
+9645288031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili/Inserto assorbente per pannolini lavabili
+9645285031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili/Mutandina esterna
+9645286031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini aderenti
+9645287031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini con tasca interna
+9645289031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini nuoto
+9645283031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili/Pannolini tutto in uno lavabili
+9645284031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini lavabili/Set pannolini lavabili
+1806558031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini usa e getta
+9645298031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini da notte
+1806559031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini da nuoto
+9645297031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini per bambini
+1806560031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Pannolini usa e getta/Pannolini usa e getta a mutandina
+1806561031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Pannolini/Torte di pannolini
+4203679031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Salviettine e accessori
+4203680031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Salviettine e accessori/Batuffoli di cotone e dischetti
+4203682031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Salviettine e accessori/Contenitori per salviettine
+1806412031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Salviettine e accessori/Salviette detergenti
+4203681031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Salviettine e accessori/Salviettine asciutte
+4203684031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Salviettine e accessori/Salviettine e ricariche
+4203683031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Salviettine e accessori/Scalda salviettine
+1806550031	Salute e cura della persona/Cura di bambini e neonati/Cambio del pannolino/Set per il cambio
+1806383031	Salute e cura della persona/Cura di bambini e neonati/Igiene
+5124707031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Borsa per toilette
+1806387031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Cura delle unghie
+1806385031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale
+4203671031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale/Dentifrici
+4203670031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale/Spazzolini da denti
+1806720031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale/Succhietti e massaggiagengive
+1806723031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale/Succhietti e massaggiagengive/Catenelle porta succhietto
+1806724031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale/Succhietti e massaggiagengive/Massaggiagengive
+1806721031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale/Succhietti e massaggiagengive/Porta succhietto
+1806722031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Igiene orale/Succhietti e massaggiagengive/Succhietti
+1806388031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Orecchie e naso
+1806390031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Orecchie e naso/Aspiratori nasali
+1806394031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Orecchie e naso/Bastoncini ovattati
+1806392031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Orecchie e naso/Pinzette da nasino
+1806389031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Orecchie e naso/Set aspiratori nasali e siringhe per orecchie
+1806393031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Orecchie e naso/Siringhe per orecchie
+1806391031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Orecchie e naso/Soluzioni saline
+1806386031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Set di igiene e benessere
+1806384031	Salute e cura della persona/Cura di bambini e neonati/Igiene/Spazzole e pettini
+8556798031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale
+4327109031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini
+4327226031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Collutori
+4327227031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Dentifrici
+6761921031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Kit per l'igiene dentale
+4327228031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti
+4327514031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori
+4327776031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici
+4327863031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini a tecnologi ultrasonica
+4327864031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini a tecnologia sonica
+4327865031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini rotanti
+4327777031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Testine di ricambio per spazzolini
+4327515031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti manuali
+1806385031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia
+4203671031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia/Dentifrici
+4203670031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia/Spazzolini da denti
+1806720031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia/Succhietti e massaggiagengive
+1806723031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia/Succhietti e massaggiagengive/Catenelle porta succhietto
+1806724031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia/Succhietti e massaggiagengive/Massaggiagengive
+1806721031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia/Succhietti e massaggiagengive/Porta succhietto
+1806722031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Igiene dentale prima infanzia/Succhietti e massaggiagengive/Succhietti
+1806720031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Succhietti e massaggiagengive
+1806723031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Succhietti e massaggiagengive/Catenelle porta succhietto
+1806724031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Succhietti e massaggiagengive/Massaggiagengive
+1806721031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Succhietti e massaggiagengive/Porta succhietto
+1806722031	Salute e cura della persona/Cura di bambini e neonati/Igiene dentale/Succhietti e massaggiagengive/Succhietti
+1806405031	Salute e cura della persona/Cura di bambini e neonati/Prodotti per la cura delle pelle
+1806407031	Salute e cura della persona/Cura di bambini e neonati/Prodotti per la cura delle pelle/Creme idratanti
+1806406031	Salute e cura della persona/Cura di bambini e neonati/Prodotti per la cura delle pelle/Creme lenitive
+1806408031	Salute e cura della persona/Cura di bambini e neonati/Prodotti per la cura delle pelle/Creme solari
+1806409031	Salute e cura della persona/Cura di bambini e neonati/Prodotti per la cura delle pelle/Oli
+1806410031	Salute e cura della persona/Cura di bambini e neonati/Prodotti per la cura delle pelle/Talco
+4203679031	Salute e cura della persona/Cura di bambini e neonati/Salviettine e accessori
+4203680031	Salute e cura della persona/Cura di bambini e neonati/Salviettine e accessori/Batuffoli di cotone e dischetti
+4203682031	Salute e cura della persona/Cura di bambini e neonati/Salviettine e accessori/Contenitori per salviettine
+1806412031	Salute e cura della persona/Cura di bambini e neonati/Salviettine e accessori/Salviette detergenti
+4203681031	Salute e cura della persona/Cura di bambini e neonati/Salviettine e accessori/Salviettine asciutte
+4203684031	Salute e cura della persona/Cura di bambini e neonati/Salviettine e accessori/Salviettine e ricariche
+4203683031	Salute e cura della persona/Cura di bambini e neonati/Salviettine e accessori/Scalda salviettine
+1806411031	Salute e cura della persona/Cura di bambini e neonati/Termometri
+1806403031	Salute e cura della persona/Cura di bambini e neonati/Trattamenti caldo e freddo
+4203677031	Salute e cura della persona/Cura di bambini e neonati/Trattamenti caldo e freddo/Borse dell'acqua calda
+4203678031	Salute e cura della persona/Cura di bambini e neonati/Trattamenti caldo e freddo/Cuscini termici
+4203676031	Salute e cura della persona/Cura di bambini e neonati/Trattamenti caldo e freddo/Impacchi caldo e freddo
+4327087031	Salute e cura della persona/Igiene dentale
+4327104031	Salute e cura della persona/Igiene dentale/Accessori per idropulsori e fili interdentali elettrici
+4327105031	Salute e cura della persona/Igiene dentale/Collutori
+4327106031	Salute e cura della persona/Igiene dentale/Cura protesi dentarie
+4327221031	Salute e cura della persona/Igiene dentale/Cura protesi dentarie/Adesivi
+4327222031	Salute e cura della persona/Igiene dentale/Cura protesi dentarie/Detergenti
+4327223031	Salute e cura della persona/Igiene dentale/Cura protesi dentarie/Kit di riparazione
+4327224031	Salute e cura della persona/Igiene dentale/Cura protesi dentarie/Spazzolini per protesi dentarie
+4327225031	Salute e cura della persona/Igiene dentale/Cura protesi dentarie/Vaschette
+4327107031	Salute e cura della persona/Igiene dentale/Dentifrici
+4327108031	Salute e cura della persona/Igiene dentale/Idropulsori e fili interdentali elettrici
+4327109031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini
+4327226031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Collutori
+4327227031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Dentifrici
+6761921031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Kit per l'igiene dentale
+4327228031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti
+4327514031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori
+4327776031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici
+4327863031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini a tecnologi ultrasonica
+4327864031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini a tecnologia sonica
+4327865031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini rotanti
+4327777031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti elettrici e accessori/Testine di ricambio per spazzolini
+4327515031	Salute e cura della persona/Igiene dentale/Igiene dentale dei bambini/Spazzolini da denti/Spazzolini da denti manuali
+4327110031	Salute e cura della persona/Igiene dentale/Kit per l'igiene dentale
+4327111031	Salute e cura della persona/Igiene dentale/Puliscilingua
+4327112031	Salute e cura della persona/Igiene dentale/Pulizia interdentale
+4327229031	Salute e cura della persona/Igiene dentale/Pulizia interdentale/Bastoncini dentali
+4327230031	Salute e cura della persona/Igiene dentale/Pulizia interdentale/Filo interdentale
+4327231031	Salute e cura della persona/Igiene dentale/Pulizia interdentale/Scovolini
+4327232031	Salute e cura della persona/Igiene dentale/Pulizia interdentale/Spazzolini interdentali
+4327113031	Salute e cura della persona/Igiene dentale/Rinfrescanti per l'alito
+6377909031	Salute e cura della persona/Igiene dentale/Rinfrescanti per l'alito/Caramelle alla menta
+9956703031	Salute e cura della persona/Igiene dentale/Rinfrescanti per l'alito/Gomme da masticare
+9956704031	Salute e cura della persona/Igiene dentale/Rinfrescanti per l'alito/Spray
+9956705031	Salute e cura della persona/Igiene dentale/Rinfrescanti per l'alito/Strisce
+4327114031	Salute e cura della persona/Igiene dentale/Sbiancanti denti
+4327233031	Salute e cura della persona/Igiene dentale/Sbiancanti denti/Gel
+4327234031	Salute e cura della persona/Igiene dentale/Sbiancanti denti/Kit per sbiancamento denti
+4327235031	Salute e cura della persona/Igiene dentale/Sbiancanti denti/Strisce
+4327115031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori
+4327236031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Contenitori
+4327237031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti elettrici e accessori
+4327516031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti elettrici e accessori/Caricatori
+4327517031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici
+4327778031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini a tecnologi ultrasonica
+4327779031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini a tecnologia sonica
+4327780031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti elettrici e accessori/Spazzolini da denti elettrici/Spazzolini rotanti
+4327518031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti elettrici e accessori/Testine di ricambio per spazzolini
+4327238031	Salute e cura della persona/Igiene dentale/Spazzolini da denti e accessori/Spazzolini da denti manuali
+6691169031	Salute e cura della persona/Igiene intima
+6691173031	Salute e cura della persona/Igiene intima/Assorbenti esterni
+6691174031	Salute e cura della persona/Igiene intima/Assorbenti interni
+6691170031	Salute e cura della persona/Igiene intima/Assorbenti per perdite urinarie
+6691171031	Salute e cura della persona/Igiene intima/Detergenti intimi
+6691172031	Salute e cura della persona/Igiene intima/Salvaslip
+4327089031	Salute e cura della persona/Prodotti e apparecchiature mediche
+4327133031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio
+4327355031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori
+4327624031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Boccagli
+4327625031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Cinture per la deambulazione
+4327627031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Coprisonda termometro
+4327628031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Elettrodi
+4327629031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Forniture per radiografia
+4327630031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Gel di trasmissione
+4327631031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Lancette
+4327632031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Accessori/Soluzioni di controllo
+4327356031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Anoscopi e proctoscopi
+4327357031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Bilance da laboratorio
+4327358031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Bilance pesapersona mediche
+4327633031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Bilance pesapersona mediche/Bilance pesapersona analogiche
+4327634031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Bilance pesapersona mediche/Bilance pesapersona digitali
+4327359031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Elettrocardiogramma
+4327360031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Kit per dissezione
+4327361031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Martelli neurologici
+4327362031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori colesterolo
+4327363031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della composizione e grasso corporeo
+4327364031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della pressione arteriosa
+4327635031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della pressione arteriosa/Misuratori da braccio
+4327817031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della pressione arteriosa/Misuratori da braccio/Misuratori elettrici
+4327818031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della pressione arteriosa/Misuratori da braccio/Misuratori manuali
+4327636031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della pressione arteriosa/Misuratori da polso
+4327819031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della pressione arteriosa/Misuratori da polso/Misuratori da polso elettrici
+4327820031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori della pressione arteriosa/Misuratori da polso/Misuratori da polso manuali
+4327365031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Misuratori di glucosio nel sangue
+4327366031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Ossimetri
+4327367031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Otoscopi
+4327368031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Penne luminose
+4327369031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Rotelle stimolanti
+4327370031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Stetoscopi
+4327371031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Strumenti misura altezza e circonferenza
+4327372031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Tavole optometriche
+4327373031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori
+4327627031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Coprisonda termometro
+4327637031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri
+4327821031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri/Termometri da fronte
+4327822031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri/Termometri da orecchio
+1806411031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri/Termometri per i neonati
+4327616031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri/Termometri per misurare la fertilità 
+4327823031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri/Termometri rettali, orali e ascellari"
+4327875031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri/Termometri rettali, orali e ascellari/Analogici"
+4327876031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Termometri e accessori/Termometri/Termometri rettali, orali e ascellari/Digitali"
+4327374031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test
+4327638031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test MST
+4327639031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test alcolemici
+4327640031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test allergologici
+4327641031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test antidroga
+4327642031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test colesterolo
+4327618031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test della fertilità  maschile
+4327617031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test di fertilità  femminile
+4327643031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test di funzionalità  renale
+4327644031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test di funzionalità  tiroidea
+4327325031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test di gravidanza
+4327326031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test di menopausa
+4327645031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test glicemici
+4327646031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test infezioni vie urinarie
+4327647031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test malattie colorettali
+4327648031	Salute e cura della persona/Prodotti e apparecchiature mediche/Apparecchi diagnostici e di monitoraggio/Test/Test oncologici
+4327134031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici
+4327375031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi
+2808578031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Armadietti
+4327649031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Barelle
+4327650031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Carrelli
+4327651031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Lettini da visita medica
+4327652031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Paraventi
+4327653031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Poltrone da visita medica
+4327654031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Scaffali
+4327655031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Scheletri e modelli anatomici
+4327656031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Arredi/Sgabelli
+4327376031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso
+4327657031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Abbassalingua
+4327658031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Camici
+4327659031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Cateteri
+4327660031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Copriscarpe
+4327661031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Cuffie da infermiera
+4327662031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Grembiuli
+4327663031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Guanti
+4327664031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Mascherine
+4327665031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Provette per prelievo sangue
+4327666031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Siringhe e aghi
+4327667031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Tappetini assorbenti
+4327668031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Teli per lettino visita medica
+4327669031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Prodotti monouso/Vaschette per rifiuti sanitari
+4327377031	Salute e cura della persona/Prodotti e apparecchiature mediche/Arredi e prodotti monouso per centri medici/Stoviglie
+4327135031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana
+4327378031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Apparecchi acustici e accessori
+4327670031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Apparecchi acustici e accessori/Accessori
+4327824031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Apparecchi acustici e accessori/Accessori/Asciugatori e detergenti
+4327825031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Apparecchi acustici e accessori/Accessori/Batterie
+4327826031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Apparecchi acustici e accessori/Accessori/Cupole
+4327827031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Apparecchi acustici e accessori/Accessori/Custodie
+4327671031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Apparecchi acustici e accessori/Apparecchi acustici
+4327379031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno
+4327672031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Ausili per la cura dentale
+4327673031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Barre di sostegno vasca da bagno
+4327674031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Catini e contenitori per lo shampoo
+4327675031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Cura dei piedi
+4327676031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Detergenti senza risciacquo
+4327677031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Maniglie
+4327678031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Padelle WC
+4327679031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Pinze per carta igienica
+4327680031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Protezioni per il bagno
+4327828031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Protezioni per il bagno/Protezioni per le braccia
+4327829031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Protezioni per il bagno/Protezioni per le gambe
+4327681031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sedili per WC e sedie da comodo
+6330429031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sedili per WC e sedie da comodo/Accessori per sedie da comodo sponda letto
+4327830031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sedili per WC e sedie da comodo/Rialzi per WC
+4327831031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sedili per WC e sedie da comodo/Sedie a rotelle da bagno
+4327832031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sedili per WC e sedie da comodo/Sedie da comodo sponda letto
+4327833031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sedili per WC e sedie da comodo/Supporti di sicurezza per WC
+4327682031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sedili per doccia e vasca da bagno
+4327683031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sgabelli per doccia e bagno
+4327684031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Sollevatori vasca da bagno
+4327685031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Spazzole e pettini con manico lungo
+4327686031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Strizza tubetti
+4327687031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Supporti per asciugacapelli
+4327688031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Tagliaunghie
+4327689031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Urinali
+4327690031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili e sicurezza per il bagno/Vasche da bagno tipo semicupio
+4327380031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive
+4327691031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive/Ausili per la lettura e lenti di ingrandimento
+4327692031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive/Ausili per la scrittura
+4327693031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive/Coperture per tastiera braille
+4327694031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive/Etichettatrici braille
+4327695031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive/Orologi e orologi da polso
+4327696031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive/Strumenti di apprendimento braille
+4327697031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per disabilità  visive/Tavolette braille e accessori
+4327381031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per la memoria
+4327382031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere
+4327698031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Bordi per piatti
+4327699031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Cannucce
+4327700031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Fluidi addensanti
+4327701031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Protezioni per abiti
+4327702031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Reggiposate
+4327703031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Stoviglie
+4327704031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Tazze e bicchieri
+4327705031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per mangiare e bere/Utensili
+4327383031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per persone con poca forza
+4327706031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per persone con poca forza/Apribottiglie
+4327707031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per persone con poca forza/Ausili per presa debole
+4327708031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per persone con poca forza/Bastoncini da bocca
+4327709031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per persone con poca forza/Forbici ad apertura automatica
+4327384031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per vestirsi
+4327710031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per vestirsi/Bastoni per vestirsi e svestirsi
+4327711031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per vestirsi/Dispositivi chiudi braccialetto
+4327712031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per vestirsi/Ganci per bottoni e zip
+4327713031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per vestirsi/Infilacalze
+4327714031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per vestirsi/Kit di recupero per protesi all'anca
+4327715031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Ausili per vestirsi/Lacci e chiusura scarpe
+4327385031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori"
+4327716031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori"
+4327834031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori/Appoggi imbottiti"
+4327835031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori/Cinturini da polso"
+4327836031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori/Contenitori"
+4327837031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori/Impugnature"
+4327838031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori/Luci"
+4327839031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori/Puntali"
+4327840031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Accessori/Punte antighiaccio"
+4327717031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Bastoni da passeggio"
+6330431031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Bastoni da passeggio pieghevoli"
+6330432031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Bastoni da passeggio tripodi e quadripodi"
+4327718031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Bastoni da passeggio, stampelle e accessori/Stampelle"
+6330430031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Cinture alza malati
+4327386031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori"
+4327719031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori/Accessori per deambulatori"
+4327841031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori/Accessori per deambulatori/Borse, cestini e portapacchi"
+4327842031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori/Accessori per deambulatori/Inserti per scivolamento"
+4327843031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori/Accessori per deambulatori/Ruote"
+4327844031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori/Accessori per deambulatori/Tavolini reclinabili"
+4327720031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori/Deambulatori standard e articolati"
+4327721031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Deambulatori fissi, su ruote e accessori/Deambulatori su ruote"
+4327387031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto"
+4327722031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Barre di sicurezza e assistenza"
+4327723031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Cuscini posizionatori"
+4327724031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Letti"
+4327725031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Materassi"
+4327678031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Padelle WC"
+4327275031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Protezione per letti e arredi"
+4327832031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Sedie da comodo sponda letto"
+4327726031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Sollevatori"
+4327271031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Tamponi e protezioni assorbenti"
+4327689031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Urinali"
+4327727031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Letti, ausili e accessori per camera da letto/Vassoi da letto"
+4327388031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Montascale
+4327389031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Pinze prensili
+4327390031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Poltrone elevabili
+4327391031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Rampe
+4327852031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Rampe/Rampe per sedia a rotelle
+4327728031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Rampe/Rampe per soglia
+4327392031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori"
+4327729031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti"
+4327845031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Allarmi"
+4327846031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Borse e ceste"
+4327847031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Braccioli"
+4327848031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Cinture di sicurezza"
+4327849031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Cuscini"
+4327850031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Montascale"
+4327851031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Poggiapiedi e poggiagambe"
+4327852031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Rampe"
+4327853031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Ruote"
+4327854031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Schienali"
+4327855031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Supporti per bombole di ossigeno"
+4327856031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Accessori e parti/Tavolini"
+4327730031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Scooter disabili"
+4327731031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Sedie a rotelle"
+4327857031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Sedie a rotelle/Sedie a rotelle automotrici"
+4327858031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Sedie a rotelle/Sedie a rotelle elettriche"
+4327859031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Sedie a rotelle/Sedie a rotelle per bambini"
+4327877031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Sedie a rotelle/Sedie a rotelle per bambini/Automotrici"
+4327878031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Sedie a rotelle/Sedie a rotelle per bambini/Elettriche"
+4327860031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedie a rotelle, scooter disabili e accessori/Sedie a rotelle/Sedie a rotelle per transito e accompagnamento"
+4327393031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sedili sollevabili
+4327394031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Sollevatori per gambe e cosce
+4327395031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Standing e stabilizzatori
+4327396031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per la mobilità e vita quotidiana/Tavole di trasferimento
+4327136031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche
+4327397031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Accessori per stimolatori muscolari
+4327398031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Apparecchiature di trazione
+4327399031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Apparecchiature per logopedia
+6330433031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Ausili sensomotori
+4327400031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Esercitatori per mani
+4327401031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Esercitatori per piedi
+4327402031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Plastilina per esercizi
+4327403031	Salute e cura della persona/Prodotti e apparecchiature mediche/Ausili per terapie occupazionali e fisiche/Stimolatori muscolari
+6330428031	Salute e cura della persona/Prodotti e apparecchiature mediche/Body contenitivi
+5520902031	Salute e cura della persona/Prodotti e apparecchiature mediche/Forniture mastectomia
+5520903031	Salute e cura della persona/Prodotti e apparecchiature mediche/Forniture mastectomia/Protesi mastectomia
+5520904031	Salute e cura della persona/Prodotti e apparecchiature mediche/Forniture mastectomia/Reggiseni mastectomia
+4327137031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori"
+4327404031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Calze e calzini di supporto"
+4327732031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze a compressione"
+4327733031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze di sostegno"
+4327861031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze di sostegno/Calze di sostegno per donne"
+4327862031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze di sostegno/Calze di sostegno per uomini"
+4327405031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Nastro e materiali"
+4327406031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Protezioni per gesso"
+4327407031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito"
+4327734031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti per dita"
+4327735031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti per gomito"
+4327736031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti per mano e polso"
+4327737031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti reggibraccio"
+4327408031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per gambe e piedi"
+4327738031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Cavigliere"
+4327739031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Divaricatori per borsite dell'alluce"
+4327740031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Ginocchiere"
+4327741031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Supporti coscia"
+4327742031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Supporti per i piedi"
+4327743031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Supporti per polpaccio e stinco"
+4327409031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle"
+4327744031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Busti ortopedici"
+4327745031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Collo"
+4327746031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Supporti lombari"
+4327747031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Supporti per spalle"
+4327410031	"Salute e cura della persona/Prodotti e apparecchiature mediche/Supporti, imbracature e sollevatori/Supporti vita e addome"
+4327088031	Salute e cura della persona/Prodotti per la medicazione
+4327118031	Salute e cura della persona/Prodotti per la medicazione/Apparecchi per ionoforesi
+4327120031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi
+4327247031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Cerotti
+4327248031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Cuscinetti e imbottiture per piedi
+4327249031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Cuscinetti per calli e duroni
+4327250031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Deodorante per scarpe
+4327739031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Divaricatori per borsite dell'alluce
+4327251031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Imbottiture per calzature
+2004772031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Ortopediche
+4327252031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Pomate per calli e duroni
+4327253031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Proteggidita
+4327254031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Raddrizza dita
+4327255031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Rimozione verruche
+4327742031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Supporti per i piedi
+4327256031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Supporti plantari per tallone
+4327257031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Trattamenti e rimedi per cattivi odori
+4327258031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Trattamenti per fessure e crepe
+4327259031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Utensili per la cura dei piedi
+4327565031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Utensili per la cura dei piedi/Lime
+4327566031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Utensili per la cura dei piedi/Pietre pomice
+4327567031	Salute e cura della persona/Prodotti per la medicazione/Cura dei piedi/Utensili per la cura dei piedi/Taglierini e accessori
+4327121031	Salute e cura della persona/Prodotti per la medicazione/Cura delle orecchie
+4327260031	Salute e cura della persona/Prodotti per la medicazione/Cura delle orecchie/Coni di cera
+4327261031	Salute e cura della persona/Prodotti per la medicazione/Cura delle orecchie/Tappi per le orecchie
+4327124031	"Salute e cura della persona/Prodotti per la medicazione/Inalatori al vapore, nebulizzatori e accessori"
+4327267031	"Salute e cura della persona/Prodotti per la medicazione/Inalatori al vapore, nebulizzatori e accessori/Inalatori e aerosol elettrici"
+4327268031	"Salute e cura della persona/Prodotti per la medicazione/Inalatori al vapore, nebulizzatori e accessori/Inalatori e aerosol manuali"
+4327269031	"Salute e cura della persona/Prodotti per la medicazione/Inalatori al vapore, nebulizzatori e accessori/Sali"
+4327270031	"Salute e cura della persona/Prodotti per la medicazione/Inalatori al vapore, nebulizzatori e accessori/Soluzioni liquide"
+4327125031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza
+4327271031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Assorbenti e protezione
+4327272031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Detergenti e deodoranti
+4327273031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Diaframma
+4327274031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Indumenti intimi protettivi
+4327275031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Protezione lenzuola e mobilia
+4327276031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Sacchetti di drenaggio
+4327277031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Tonificatori pelvici
+4327278031	Salute e cura della persona/Prodotti per la medicazione/Incontinenza/Tonificatori sfintere
+4327127031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso
+4327311031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Antisettici e disinfettanti
+2808578031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Armadietti farmacia
+4327312031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e bendaggi
+4327610031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e bendaggi/Cerotti
+4327609031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e bendaggi/Cerotti liquidi
+4327611031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e bendaggi/Compresse per medicazione
+4327612031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e bendaggi/Garze
+4327613031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e bendaggi/Nastro adesivo
+4327614031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e bendaggi/Proteggi dita
+4327814031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cerotti e fasce riscaldanti
+4327313031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Coperte
+4327314031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Cura delle ustioni
+4327315031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Defibrillatori
+4327316031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Forbici
+4327663031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Guanti
+4327317031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Kit di pronto soccorso
+2420718031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Kit di pronto soccorso/Auto
+967711031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Kit di pronto soccorso/Barca
+3102215031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Kit di pronto soccorso/Campeggio e viaggio
+3119705031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Kit di pronto soccorso/Casa e lavoro
+9590834031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Kit di pronto soccorso/Paramedico e medicina sportiva
+4327318031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Manichini per rianimazione
+4327664031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Maschere
+4327319031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Mascherine da rianimazione
+4327320031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Palloni di rianimazione
+4327321031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Pinzette da pronto soccorso
+4327137031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori"
+4327404031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Calze e calzini di supporto"
+4327732031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze a compressione"
+4327733031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze di sostegno"
+4327861031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze di sostegno/Calze di sostegno per donne"
+4327862031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Calze e calzini di supporto/Calze di sostegno/Calze di sostegno per uomini"
+4327405031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Nastro e materiali"
+4327406031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Protezioni per gesso"
+4327407031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito"
+4327734031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti per dita"
+4327735031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti per gomito"
+4327736031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti per mano e polso"
+4327737031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Sostegni per braccio, mano, dito/Supporti reggibraccio"
+4327408031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per gambe e piedi"
+4327738031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Cavigliere"
+4327739031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Divaricatori per borsite dell'alluce"
+4327740031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Ginocchiere"
+4327741031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Supporti coscia"
+4327742031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Supporti per i piedi"
+4327743031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per gambe e piedi/Supporti per polpaccio e stinco"
+4327409031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle"
+4327744031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Busti ortopedici"
+4327745031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Collo"
+4327746031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Supporti lombari"
+4327747031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti per schiena, collo e spalle/Supporti per spalle"
+4327410031	"Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Supporti, imbracature e sollevatori/Supporti vita e addome"
+4327322031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Teli da trasporto
+4327812031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Terapie caldo/freddo
+4327813031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Terapie caldo/freddo/Borse dell'acqua calda
+4327814031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Terapie caldo/freddo/Cerotti e fasce riscaldanti
+4327879031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Terapie caldo/freddo/Cuscinetti terapia caldo/freddo
+4327815031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Terapie caldo/freddo/Cuscinetti termici elettrici
+4327816031	Salute e cura della persona/Prodotti per la medicazione/Pronto soccorso/Terapie caldo/freddo/Cuscini termici
+4327128031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare
+4327323031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Lubrificanti per fertilità 
+4327094031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione
+4327172031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Cappucci cervicali
+4327173031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Diaframmi
+4327174031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Dighe dentali
+4327175031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Preservativi
+4327451031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Preservativi/Preservativi femminili
+4327452031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Preservativi/Preservativi maschili
+4327176031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Spermicidi e gel contraccettivi
+4327177031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Sesso sicuro e contraccezione/Spugne
+4327324031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Test di fertilità e ovulazione
+4327615031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Test di fertilità e ovulazione/Kit per test di ovulazione e fertilità 
+4327616031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Test di fertilità e ovulazione/Termometri per misurare la fertilità 
+4327617031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Test di fertilità e ovulazione/Test di fertilità femminile
+4327618031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Test di fertilità e ovulazione/Test di fertilità maschile
+4327325031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Test di gravidanza
+4327277031	Salute e cura della persona/Prodotti per la medicazione/Salute della donna e pianificazione familiare/Tonificatori pelvici
+4327130031	Salute e cura della persona/Prodotti per la medicazione/Sonno e russamento
+4327334031	Salute e cura della persona/Prodotti per la medicazione/Sonno e russamento/Mascherine per dormire
+4327131031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative
+4327337031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Agopressione
+4327338031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Agopuntura
+4327339031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Aromaterapia
+4327621031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Aromaterapia/Candele
+4327622031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Aromaterapia/Diffusori di oli profumati
+4327623031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Aromaterapia/Oli profumati
+4327340031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Ayurveda
+4327341031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Cristalloterapia
+4327342031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Essenze floreali
+4327343031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Magnetoterapia
+4327344031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Oligoterapia
+4327345031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Ossigenoterapia
+4327346031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Pietre e minerali
+4327347031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Rimedi omeopatici
+4327349031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Terapia del suono
+4327350031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Terapia della luce
+9900020031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Terapia della luce/Lampade SAD
+9900019031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Terapia della luce/Proiettori sensoriali
+4327348031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Terapia della luce/Terapia con raggi infrarossi
+1904597031	Salute e cura della persona/Prodotti per la medicazione/Terapie alternative/Terapia della luce/Wake-up light
+4327812031	Salute e cura della persona/Prodotti per la medicazione/Terapie caldo/freddo
+4327813031	Salute e cura della persona/Prodotti per la medicazione/Terapie caldo/freddo/Borse dell'acqua calda
+4327814031	Salute e cura della persona/Prodotti per la medicazione/Terapie caldo/freddo/Cerotti e fasce riscaldanti
+4327879031	Salute e cura della persona/Prodotti per la medicazione/Terapie caldo/freddo/Cuscinetti terapia caldo/freddo
+4327815031	Salute e cura della persona/Prodotti per la medicazione/Terapie caldo/freddo/Cuscinetti termici elettrici
+4327816031	Salute e cura della persona/Prodotti per la medicazione/Terapie caldo/freddo/Cuscini termici
+4327090031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli"
+4327138031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori"
+5521868031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Accessori e parti per epilatori"
+4327768031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Caricatori e alimentatori per rasoi elettrici"
+4327759031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Cartucce e lampadine di ricambio"
+5521869031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Custodie per rasoi"
+5521870031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Custodie per rasoi elettrici"
+4327752031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Fornelli scaldacera"
+4327763031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Lame da rasoio da donna"
+4327765031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Lamette da uomo"
+4327769031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Lamine di ricambio"
+4327430031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Olio per tagliabasette e tagliacapelli"
+4327760031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Pennelli di barba"
+4327431031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Pettini per tagliabasette e pettini tagliacapelli"
+4327411031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Pulizia"
+4327748031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Pulizia/Cartucce"
+4327749031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Pulizia/Fluidi e spray"
+4327750031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Pulizia/Pennelli"
+4327756031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Spatole"
+4327761031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Supporti per set da rasatura"
+4327770031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Testine di ricambio"
+4327762031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Accessori/Vaschette per sapone da barba"
+4327139031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli"
+4327412031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Apparecchi depilazione laser"
+4327413031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Apparecchi per elettrolisi"
+4327414031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta"
+4327751031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Cera"
+4327753031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Kit"
+4327754031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Pasta di zucchero"
+4327755031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Rulli"
+4327752031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Scaldacera"
+4327756031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Spatole"
+4327757031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Strisce"
+4331162031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Ceretta/Talchi"
+4327415031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Creme depilatorie"
+4327416031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Cuscinetti"
+4327417031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Decolorazione"
+4327418031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Epilatori a luce pulsata e accessori"
+4327759031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Epilatori a luce pulsata e accessori/Cartucce di ricambio"
+4327758031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Epilatori a luce pulsata e accessori/Epilatori a luce pulsata"
+4327419031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Epilatori e accessori"
+5521868031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Epilatori e accessori/Accessori e parti"
+5521867031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Epilatori e accessori/Epilatori"
+4327420031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Pinzette"
+4327421031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Epilazione e rimozione peli/Utensili con filo"
+4327140031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Forbici"
+4327422031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Forbici/Forbici per baffi e barba"
+4327964031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Forbici/Forbici per capelli"
+4327423031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Forbici/Forbici per naso e orecchie"
+4327141031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale"
+4327424031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Accessori"
+5521869031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Accessori/Custodie per rasoi"
+4327760031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Accessori/Pennelli da barba"
+4327761031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Accessori/Supporti per set da rasatura"
+4327762031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Accessori/Vaschette per sapone da barba"
+4327425031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Rasatura femminile"
+4327763031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Rasatura femminile/Lame da rasoio"
+4327764031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Rasatura femminile/Rasoi"
+4327426031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Rasatura maschile"
+4327765031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Rasatura maschile/Lame da rasoio"
+4327766031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Rasatura maschile/Rasoi"
+4327767031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasatura manuale/Rasatura maschile/Set"
+4327142031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici"
+4327427031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori"
+4327768031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Caricatori e alimentatori"
+5521870031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Custodie per rasoi elettrici"
+4327769031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Lamine di ricambio"
+4327411031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Pulizia"
+4327748031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Pulizia/Cartucce"
+4327749031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Pulizia/Fluidi e spray"
+4327750031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Pulizia/Pennelli"
+4327770031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Accessori/Testine di ricambio"
+4327428031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Rasoi femminili"
+4327429031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Rasoi maschili"
+4327771031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Rasoi maschili/Rasoi a lamina"
+4327772031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Rasoi elettrici/Rasoi maschili/Rasoi a testine rotanti"
+4327143031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo"
+4327430031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo/Olio per tagliabasette e tagliacapelli"
+4327431031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo/Pettini per tagliabasette e tagliacapelli"
+4327432031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo/Rasoi multifunzione e kit"
+4327433031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo/Rasoi per il corpo"
+4327434031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo/Regolarbarba e rifinitori"
+4327435031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo/Regolatori taglio per donna"
+4327436031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Regolabarba, tagliacapelli e rasoi per il corpo/Tagliacapelli"
+4327144031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione"
+4327437031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Astringenti"
+4327438031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Balsami"
+4327439031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Dopobarba"
+4327440031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Gel"
+4327441031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Kit"
+4327442031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Lozioni e fluidi"
+4327890031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Muffole e guanti esfolianti"
+10533718031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Oli da barba"
+4327443031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti post rasatura o depilazione/Trattementi per peli incarniti"
+4327145031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari"
+4327444031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Creme"
+4327445031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Gel"
+4327446031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Kit"
+4327447031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Lozioni"
+4327890031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Muffole e guanti esfolianti"
+4327448031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Oli"
+4327449031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Saponi"
+4327450031	"Salute e cura della persona/Rasatura, epilazione e rimozione peli/Trattamenti preliminari/Schiume da barba"

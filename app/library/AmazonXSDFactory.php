@@ -1,17 +1,24 @@
 <?php
 
 class AmazonXSDFactory{
-	static public function constructHome_Home($product){
+	
+	static public function constructHome_Home($product, $isVariation = false, $va_name = ""){
+		$VariationData = array();
+		if(!$isVariation){
+			$VariationData["VariationTheme"] = $product["variation_theme"];
+		}else{
+			$VariationData[$product["variation_theme"]] = $va_name;
+		}
+
 		$xml = array(
 			"ProductType" => array(
 				"Home"=>array(
-					"Material"=>$product['material_type']?$product['material_type']:"unknown"
+					//"Material"=>$product['material_type']?$product['material_type']:"unknown"
+					"Material"=>"Lamazon"
 				)
 			),
-			"Parentage" => "parent",
-			"VariationData"=>array(
-				"VariationTheme"=>$product["variation_theme"]
-			),
+			"Parentage" => $isVariation? "child":"parent",
+			"VariationData"=>$VariationData,
 			"IdentityPackageType"=>"bulk"
 		);
 		return array("Home"=>$xml);
@@ -22,7 +29,8 @@ class AmazonXSDFactory{
 			"ProductType" => array(
 				"BedAndBath" => array(
 					"IdentityPackageType"=>"bulk",
-					"Material"=>$product['material_type']?$product['material_type']:"unknown",
+					//"Material"=>$product['material_type']?$product['material_type']:"unknown",
+					"Material"=>"Lamazon",
 					"VariationData"=>array(
 						"VariationTheme"=>$product["variation_theme"]
 					)
@@ -39,7 +47,8 @@ class AmazonXSDFactory{
 			"ProductType" => array(
 				"FurnitureAndDecor" => array(
 					"IdentityPackageType" => "bulk",
-					"Material"=>$product['material_type']?$product['material_type']:"unknown",
+					//"Material"=>$product['material_type']?$product['material_type']:"unknown",
+					"Material"=>"Lamazon",
 					"VariationData"=>array(
 						"VariationTheme"=>$product["variation_theme"]
 					)
@@ -51,11 +60,11 @@ class AmazonXSDFactory{
 		return array("Home"=>$xml);
 	}
 
-	static public function construct($product){
+	static public function construct($product, $isVariation, $va_name){
 		switch($product['amazon_category_id']){
 			case 230: $ret = AmazonXSDFactory::constructHome_BedAndBath($product);break;
 			case 231: $ret = AmazonXSDFactory::constructHome_FurnitureAndDecor($product);break;
-			default: $ret = AmazonXSDFactory::constructHome_Home($product);break;
+			default: $ret = AmazonXSDFactory::constructHome_Home($product, $isVariation, $va_name);break;
 		}
 
 		return $ret;

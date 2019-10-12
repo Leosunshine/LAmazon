@@ -1,0 +1,1674 @@
+﻿412610031	Elettronica
+1463299031	Elettronica/Accessori
+473225031	Elettronica/Accessori/Accessori GPS
+473226031	Elettronica/Accessori/Accessori GPS/Antenne
+473234031	Elettronica/Accessori/Accessori GPS/Batterie
+473227031	Elettronica/Accessori/Accessori GPS/Caricabatterie
+473231031	Elettronica/Accessori/Accessori GPS/Cavi
+473233031	Elettronica/Accessori/Accessori GPS/Custodie
+1463462031	Elettronica/Accessori/Accessori GPS/Moduli ricevitori GPS
+1463463031	Elettronica/Accessori/Accessori GPS/Pellicola protettiva per display
+473229031	Elettronica/Accessori/Accessori GPS/Ricevitori traffico TMC
+473232031	Elettronica/Accessori/Accessori GPS/Software
+473230031	Elettronica/Accessori/Accessori GPS/Supporti
+473228031	Elettronica/Accessori/Accessori GPS/Telecomandi
+473305031	Elettronica/Accessori/Accessori Home audio e video
+1486806031	Elettronica/Accessori/Accessori Home audio e video/Accessori per casse acustiche
+1486807031	Elettronica/Accessori/Accessori Home audio e video/Accessori per casse acustiche/Imbottiture isolanti
+1486809031	Elettronica/Accessori/Accessori Home audio e video/Accessori per casse acustiche/Punte
+1486808031	Elettronica/Accessori/Accessori Home audio e video/Accessori per casse acustiche/Supporti da parete
+473332031	Elettronica/Accessori/Accessori Home audio e video/Accessori per casse acustiche/Supporti da terra
+1486781031	Elettronica/Accessori/Accessori Home audio e video/Accessori per cuffie
+1486782031	Elettronica/Accessori/Accessori Home audio e video/Accessori per cuffie/Adattatori
+1486786031	Elettronica/Accessori/Accessori Home audio e video/Accessori per cuffie/Amplificatori
+1486785031	Elettronica/Accessori/Accessori Home audio e video/Accessori per cuffie/Cavi di estensione
+1486783031	Elettronica/Accessori/Accessori Home audio e video/Accessori per cuffie/Custodie
+1486784031	Elettronica/Accessori/Accessori Home audio e video/Accessori per cuffie/Imbottiture
+1486787031	Elettronica/Accessori/Accessori Home audio e video/Accessori per proiettori
+473306031	Elettronica/Accessori/Accessori Home audio e video/Accessori per proiettori/Lampade per proiettori
+1486788031	Elettronica/Accessori/Accessori Home audio e video/Accessori per proiettori/Lenti per proiettori
+1486789031	Elettronica/Accessori/Accessori Home audio e video/Accessori per proiettori/Portaproiettori
+473346031	Elettronica/Accessori/Accessori Home audio e video/Accessori per proiettori/Schermi di proiezione
+473307031	Elettronica/Accessori/Accessori Home audio e video/Accessori per proiettori/Supporti per proiettori
+473308031	Elettronica/Accessori/Accessori Home audio e video/Adattatori
+1486764031	Elettronica/Accessori/Accessori Home audio e video/Antenne
+473312031	Elettronica/Accessori/Accessori Home audio e video/Antenne/Antenne TV
+473311031	Elettronica/Accessori/Accessori Home audio e video/Antenne/Antenne radio
+473315031	Elettronica/Accessori/Accessori Home audio e video/Cavi
+473316031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi Antenna
+460027031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi DVI
+473317031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi HDMI
+473323031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi Scart
+473325031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi Stereo Jack
+1486769031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi Subwoofer
+473318031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi coassiali
+473322031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi di alimentazione
+473321031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi ottici
+473319031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Cavi per casse acustiche
+473320031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Conettori S-Video
+1486768031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Connettori D-Terminal
+473324031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Connettori RCA
+1904670031	Elettronica/Accessori/Accessori Home audio e video/Cavi/Prolunghe
+1486775031	Elettronica/Accessori/Accessori Home audio e video/Convertitori D/A
+473365031	Elettronica/Accessori/Accessori Home audio e video/Cuffie
+473367031	Elettronica/Accessori/Accessori Home audio e video/Cuffie/Auricolari
+473368031	Elettronica/Accessori/Accessori Home audio e video/Cuffie/Cuffie aperte
+473369031	Elettronica/Accessori/Accessori Home audio e video/Cuffie/Cuffie audio surround
+473366031	Elettronica/Accessori/Accessori Home audio e video/Cuffie/Cuffie chiuse
+6108359031	Elettronica/Accessori/Accessori Home audio e video/Cuffie/Cuffie da studio
+5021830031	Elettronica/Accessori/Accessori Home audio e video/Cuffie/Cuffie per DJ
+473370031	Elettronica/Accessori/Accessori Home audio e video/Cuffie/Cuffie wireless
+1486776031	Elettronica/Accessori/Accessori Home audio e video/Distributori
+1486777031	Elettronica/Accessori/Accessori Home audio e video/Distributori/Interruttori da parete
+1486779031	Elettronica/Accessori/Accessori Home audio e video/Distributori/Pannelli di distribuzione
+1486780031	Elettronica/Accessori/Accessori Home audio e video/Distributori/Selettori audio-video
+1486791031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari
+1486794031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Accessori per supporti
+1486798031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Accessori per supporti/Cavi antenna per porta/finestra
+1486795031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Accessori per supporti/Connettori per cavi
+1486797031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Accessori per supporti/Rilevatori di satellite
+1486796031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Accessori per supporti/Supporti per parabole
+1486801031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Amplificatori di segnale
+1486792031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Attenuatori di segnale
+473318031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Cavi coassiali
+1486793031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Diplexer
+1486800031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Divisori
+1486803031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Interruttori
+1486799031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Interruttori multipli
+473314031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/LNB
+1486802031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Splitter
+1486804031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Trasformatori
+1486805031	Elettronica/Accessori/Accessori Home audio e video/Impianti satellitari/Triplexer
+1486790031	Elettronica/Accessori/Accessori Home audio e video/Modulatori RF
+473330031	Elettronica/Accessori/Accessori Home audio e video/Moduli di accesso condizionali
+1486763031	Elettronica/Accessori/Accessori Home audio e video/Occhiali 3D
+1486810031	Elettronica/Accessori/Accessori Home audio e video/Parti e componenti per casse acustiche
+1486814031	Elettronica/Accessori/Accessori Home audio e video/Parti e componenti per casse acustiche/Altoparlanti sostitutivi
+1486813031	Elettronica/Accessori/Accessori Home audio e video/Parti e componenti per casse acustiche/Cabinet per altoparlanti
+1486811031	Elettronica/Accessori/Accessori Home audio e video/Parti e componenti per casse acustiche/Connettori
+1486812031	Elettronica/Accessori/Accessori Home audio e video/Parti e componenti per casse acustiche/Crossover audio
+473329031	Elettronica/Accessori/Accessori Home audio e video/Porta CD e DVD modulari
+1486766031	Elettronica/Accessori/Accessori Home audio e video/Porta CD e DVD modulari/Porta CD e DVD modulari
+1486765031	Elettronica/Accessori/Accessori Home audio e video/Porta CD e DVD modulari/Porta CD modulari
+1486767031	Elettronica/Accessori/Accessori Home audio e video/Porta CD e DVD modulari/Porta DVD modulari
+1486815031	Elettronica/Accessori/Accessori Home audio e video/Protettori schermo per TV
+1486818031	Elettronica/Accessori/Accessori Home audio e video/Riavvolgitori VHS
+473337031	Elettronica/Accessori/Accessori Home audio e video/Sistemi di pulizia
+1486770031	Elettronica/Accessori/Accessori Home audio e video/Sistemi di pulizia/Panni di pulizia
+1486773031	Elettronica/Accessori/Accessori Home audio e video/Sistemi di pulizia/Pulisci testine
+1486771031	Elettronica/Accessori/Accessori Home audio e video/Sistemi di pulizia/Pulitori disco
+1486774031	Elettronica/Accessori/Accessori Home audio e video/Sistemi di pulizia/Pulitori per Monitor
+1486772031	Elettronica/Accessori/Accessori Home audio e video/Sistemi di pulizia/Set di riparazione disco
+473335031	Elettronica/Accessori/Accessori Home audio e video/Supporti e mobili TV
+1486816031	Elettronica/Accessori/Accessori Home audio e video/Supporti e mobili TV/Mobili
+473336031	Elettronica/Accessori/Accessori Home audio e video/Supporti e mobili TV/Supporti da parete e da soffitto
+1486817031	Elettronica/Accessori/Accessori Home audio e video/Supporti e mobili TV/Supporti girevoli
+473331031	Elettronica/Accessori/Accessori Home audio e video/Telecomandi
+5021839031	Elettronica/Accessori/Accessori Home audio e video/Testine e puntine
+5021988031	Elettronica/Accessori/Accessori Home audio e video/Testine e puntine/Puntine
+5021989031	Elettronica/Accessori/Accessori Home audio e video/Testine e puntine/Testine
+1486819031	Elettronica/Accessori/Accessori Home audio e video/Video convertiori
+1485125031	Elettronica/Accessori/Accessori per Lettori portatili audio e video
+473297031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3
+1486848031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Adesivi decorativi
+473303031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Batterie
+473298031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Bracciali
+473299031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Caricabatterie e docking station
+1486846031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie ad energia solare
+1486843031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie ad induzione
+1486845031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie da muro
+1486844031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie internazionali
+1486841031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie per auto
+1486842031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Caricabatterie e docking station/Dock di ricarica
+1486847031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Cavi Sync per PC
+473302031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Custodie e cover
+8484757031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Kit di accessori
+473301031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Pellicole protettive per display
+1486850031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Supporti
+1486840031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per lettori MP3/Supporti per auto
+4262431031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per registratori vocali
+1486929031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per registratori vocali/Custodie
+1486931031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per registratori vocali/Microfoni esterni
+1486932031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Accessori per registratori vocali/Supporti
+473304031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Borse per lettori DVD e CD
+16725728031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Casse portatili e Docking Station con altoparlanti
+16725729031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Casse portatili e Docking Station con altoparlanti/Casse portatili Bluetooth
+16725730031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Casse portatili e Docking Station con altoparlanti/Casse portatili Line-In
+1486849031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Casse portatili e Docking Station con altoparlanti/Docking Station con altoparlanti
+473365031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie
+473367031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie/Auricolari
+473368031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie/Cuffie aperte
+473369031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie/Cuffie audio surround
+473366031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie/Cuffie chiuse
+6108359031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie/Cuffie da studio
+5021830031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie/Cuffie per DJ
+473370031	Elettronica/Accessori/Accessori per Lettori portatili audio e video/Cuffie/Cuffie wireless
+460002031	Elettronica/Accessori/Accessori per PC
+5225081031	Elettronica/Accessori/Accessori per PC/Accessori per Hard-Disk
+5225082031	Elettronica/Accessori/Accessori per PC/Accessori per Hard-Disk/Adesivi
+460043031	Elettronica/Accessori/Accessori per PC/Accessori per Hard-Disk/Borse e custodie
+460044031	Elettronica/Accessori/Accessori per PC/Accessori per Hard-Disk/Case e serrature
+13854850031	Elettronica/Accessori/Accessori per PC/Accessori per Hard-Disk/Circuiti stampati
+1480106031	Elettronica/Accessori/Accessori per PC/Accessori per Hard-Disk/Docking stations
+460050031	Elettronica/Accessori/Accessori per PC/Accessori per Monitor
+460052031	Elettronica/Accessori/Accessori per PC/Accessori per Monitor/Coperture per Monitor
+460053031	Elettronica/Accessori/Accessori per PC/Accessori per Monitor/Filtri per Monitor
+460054031	Elettronica/Accessori/Accessori per PC/Accessori per Monitor/Protezioni schermo
+460051031	Elettronica/Accessori/Accessori per PC/Accessori per Monitor/Supporti
+460059031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili
+460069031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Adesivi per computer
+460068031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Apparecchi di sicurezza per computer portatili
+460065031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Batterie per computer portatili
+460060031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Borse per PC portatili
+2664875031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Borse per PC portatili/Borse e Messenger
+2752229031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Borse per PC portatili/Custodie morbide
+7165759031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Borse per PC portatili/Custodie rigide
+2664876031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Borse per PC portatili/Trolley porta PC
+2664874031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Borse per PC portatili/Ventiquattrore
+2664873031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Borse per PC portatili/Zaini
+6411167031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Caricabatterie e docking station
+6411168031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Caricabatterie e docking station/Caricabatterie per auto
+460061031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Caricabatterie e docking station/Caricatori e alimentatori
+460063031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Caricabatterie e docking station/Docking station
+460066031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Filtri schermo per computer portatili
+460067031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Protezioni schermo per computer portatili
+12205564031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Set di accessori
+2808694031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Supporti per notebook
+460064031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Vassoi di appoggio
+14310235031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Ventole e basi di raffreddamento esterno
+460062031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Ventole e basi di raffreddamento esterno/Basi di raffreddamento
+14310236031	Elettronica/Accessori/Accessori per PC/Accessori per PC portatili/Ventole e basi di raffreddamento esterno/Ventole per raffreddamento esterno
+460077031	Elettronica/Accessori/Accessori per PC/Accessori per Scanner
+1500029031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC
+1500033031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Adesivi e Skin
+1500031031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Caricatori e Adattatori
+1500035031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Custodie morbide e rigide
+2664877031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Custodie morbide e rigide/Borse e Messenger
+1500038031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Custodie morbide e rigide/Custodie morbide
+1500039031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Custodie morbide e rigide/Custodie rigide
+5854934031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Parti di ricambio
+5145045031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Parti e accessori delle stilo
+5145047031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Parti e accessori delle stilo/Dischi
+5145048031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Parti e accessori delle stilo/Punte
+5145046031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Parti e accessori delle stilo/Tappi
+1500032031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Protezioni schermo
+1500030031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Set di accessori
+473286031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Stilo
+1500034031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Supporti
+1500053031	Elettronica/Accessori/Accessori per PC/Accessori per Tablet PC/Tastiere
+16119536031	Elettronica/Accessori/Accessori per PC/Accessori per audio e video
+460176031	Elettronica/Accessori/Accessori per PC/Accessori per audio e video/Casse per PC
+460190031	Elettronica/Accessori/Accessori per PC/Accessori per audio e video/Cuffie per PC
+460191031	Elettronica/Accessori/Accessori per PC/Accessori per audio e video/Microfoni per PC
+460189031	Elettronica/Accessori/Accessori per PC/Accessori per audio e video/Webcam e periferiche VoIP
+7124972031	Elettronica/Accessori/Accessori per PC/Accessori per schede di memoria
+7124973031	Elettronica/Accessori/Accessori per PC/Accessori per schede di memoria/Adattatori per schede di memoria
+7124974031	Elettronica/Accessori/Accessori per PC/Accessori per schede di memoria/Custodie per schede di memoria
+460131031	Elettronica/Accessori/Accessori per PC/Accessori per schede di memoria/Lettori schede di memoria esterni
+460070031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser
+6095089031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Cartucce a inchiostro solido
+460073031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Cartucce d'inchiostro
+460071031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Cassetti per stampante
+6095087031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Kit di fusione
+6095088031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Kit di manutenzione
+6095090031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Kit di trasferimento
+6095086031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Kit tamburo
+460074031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Moduli per stampanti
+8490863031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Ricariche e kit di ricarica cartucce
+5517816031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Testine di stampa
+460075031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Toner
+6095085031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Unità developer
+460072031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Unità duplex
+6095091031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Vaschette di recupero toner
+460076031	Elettronica/Accessori/Accessori per PC/Accessori per stampanti a inchiostro e laser/Vassoi per stampante
+460046031	Elettronica/Accessori/Accessori per PC/Accessori per tastiere e Mouse
+460047031	Elettronica/Accessori/Accessori per PC/Accessori per tastiere e Mouse/Coperture antipolvere
+4290152031	Elettronica/Accessori/Accessori per PC/Accessori per tastiere e Mouse/Poggiapolsi
+460048031	Elettronica/Accessori/Accessori per PC/Accessori per tastiere e Mouse/Tappetini per il Mouse
+16112222031	Elettronica/Accessori/Accessori per PC/Accessori videogiochi per PC
+13900034031	Elettronica/Accessori/Accessori per PC/Accessori videogiochi per PC/Cuffie
+13900027031	Elettronica/Accessori/Accessori per PC/Accessori videogiochi per PC/Gamepads
+13900035031	Elettronica/Accessori/Accessori per PC/Accessori videogiochi per PC/Joysticks
+13900032031	Elettronica/Accessori/Accessori per PC/Accessori videogiochi per PC/Mouse da gioco
+13900031031	Elettronica/Accessori/Accessori per PC/Accessori videogiochi per PC/Tastiere da gioco
+460003031	Elettronica/Accessori/Accessori per PC/Adattatori
+16194124031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori DP-HDMI
+460004031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori DVI-HDMI
+460005031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori FireWire
+5176951031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori Lightning
+460007031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori PS/2
+460009031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori SCSI
+5176952031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori Thunderbolt
+460011031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori USB a USB
+6911866031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori USB-VGA
+460006031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori maschio/femmina
+460008031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori porta parallela
+460010031	Elettronica/Accessori/Accessori per PC/Adattatori/Adattatori seriali
+16060549031	Elettronica/Accessori/Accessori per PC/Borse organizer per cavi
+460026031	Elettronica/Accessori/Accessori per PC/Cavi
+460027031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi DVI
+2559681031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi DisplayPort
+460028031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi Ethernet
+598203031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi FDD
+460029031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi FireWire
+473317031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi HDMI
+598204031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi IDE
+5145198031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi KVM
+5176953031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi Lightning
+460030031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi PS/2
+460033031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi RGB
+460034031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi SAS
+460035031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi SATA
+460036031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi SCSI
+5176954031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi Thunderbolt
+460038031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi USB
+460039031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi VGA
+5520739031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi a fibre ottiche
+460032031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi di alimentazione
+460031031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi porta parallela
+460037031	Elettronica/Accessori/Accessori per PC/Cavi/Cavi seriali
+460040031	Elettronica/Accessori/Accessori per PC/Computer e server racks
+460012031	Elettronica/Accessori/Accessori per PC/Custodie supporti vergini
+9638542031	Elettronica/Accessori/Accessori per PC/Gadget USB
+5348982031	Elettronica/Accessori/Accessori per PC/Gadget USB/Lampade USB
+9638548031	Elettronica/Accessori/Accessori per PC/Gadget USB/Scalda bevande USB
+9638545031	Elettronica/Accessori/Accessori per PC/Gadget USB/Ventilatori USB
+14330075031	Elettronica/Accessori/Accessori per PC/Gruppi di continuità UPS e accessori
+14330076031	Elettronica/Accessori/Accessori per PC/Gruppi di continuità UPS e accessori/Batterie di ricambio per UPS
+460079031	Elettronica/Accessori/Accessori per PC/Gruppi di continuità UPS e accessori/Gruppi di continuità UPS
+460045031	Elettronica/Accessori/Accessori per PC/KVM switch
+6572053031	Elettronica/Accessori/Accessori per PC/Materiali per la stampa 3D
+6572426031	Elettronica/Accessori/Accessori per PC/Materiali per la stampa 3D/Filamenti per stampanti 3D
+6572427031	Elettronica/Accessori/Accessori per PC/Materiali per la stampa 3D/Granuli per stampanti 3D
+6572428031	Elettronica/Accessori/Accessori per PC/Materiali per la stampa 3D/Liquidi per stampanti 3D
+4290098031	Elettronica/Accessori/Accessori per PC/Pulizia per computer
+4290222031	Elettronica/Accessori/Accessori per PC/Pulizia per computer/Aspirapolvere per computer
+4290223031	Elettronica/Accessori/Accessori per PC/Pulizia per computer/Aspiratori ad aria compressa
+4290224031	Elettronica/Accessori/Accessori per PC/Pulizia per computer/Salviette e tamponi detergenti
+6572055031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D
+6572429031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Accessori per stampanti 3D
+8641301031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Cinghie di distribuzione per stampanti 3D
+6572430031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Controller per stampanti 3D
+6572431031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Estrusori per stampanti 3D
+6572432031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Interfacce e moduli driver stampanti 3D
+6572433031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Motori per stampanti 3D
+8641300031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Parti per estrusore per stampanti 3D
+6572434031	Elettronica/Accessori/Accessori per PC/Ricambi e accessori per stampanti 3D/Piattaforme per stampanti 3D
+460013031	Elettronica/Accessori/Accessori per PC/Supporti vergini
+460014031	Elettronica/Accessori/Accessori per PC/Supporti vergini/BD-R
+460015031	Elettronica/Accessori/Accessori per PC/Supporti vergini/BD-RW
+460016031	Elettronica/Accessori/Accessori per PC/Supporti vergini/CD-R
+460017031	Elettronica/Accessori/Accessori per PC/Supporti vergini/CD-RW
+460018031	Elettronica/Accessori/Accessori per PC/Supporti vergini/DVD+R
+460019031	Elettronica/Accessori/Accessori per PC/Supporti vergini/DVD+RW
+460020031	Elettronica/Accessori/Accessori per PC/Supporti vergini/DVD-R
+460021031	Elettronica/Accessori/Accessori per PC/Supporti vergini/DVD-RAM
+460022031	Elettronica/Accessori/Accessori per PC/Supporti vergini/DVD-RW
+460023031	Elettronica/Accessori/Accessori per PC/Supporti vergini/Floppy disk
+460024031	Elettronica/Accessori/Accessori per PC/Supporti vergini/Nastri
+460025031	Elettronica/Accessori/Accessori per PC/Supporti vergini/Zip media
+460078031	Elettronica/Accessori/Accessori per PC/USB Hub
+460041031	Elettronica/Accessori/Accessori per PC/Viti per computer
+1463268031	Elettronica/Accessori/Accessori per Radiocomunicazione
+1463279031	Elettronica/Accessori/Accessori per Radiocomunicazione/Alimentatori
+1463273031	Elettronica/Accessori/Accessori per Radiocomunicazione/Altoparlanti esterni
+1463274031	Elettronica/Accessori/Accessori per Radiocomunicazione/Antenne fisse
+1463270031	Elettronica/Accessori/Accessori per Radiocomunicazione/Antenne marine e per auto
+1463275031	Elettronica/Accessori/Accessori per Radiocomunicazione/Antenne per ricetrasmettitori palmari
+1463269031	Elettronica/Accessori/Accessori per Radiocomunicazione/Batterie
+1463272031	Elettronica/Accessori/Accessori per Radiocomunicazione/Caricabatterie
+1463276031	Elettronica/Accessori/Accessori per Radiocomunicazione/Cuffie
+1463271031	Elettronica/Accessori/Accessori per Radiocomunicazione/Custodie
+1463278031	Elettronica/Accessori/Accessori per Radiocomunicazione/Microfoni
+1463280031	Elettronica/Accessori/Accessori per Radiocomunicazione/Misuratore di SWR
+1463277031	Elettronica/Accessori/Accessori per Radiocomunicazione/Supporti
+473257031	Elettronica/Accessori/Accessori per cellulari
+473261031	Elettronica/Accessori/Accessori per cellulari/Accessori per auto
+16225883031	Elettronica/Accessori/Accessori per cellulari/Accessori per auto/Caricabatterie Wireless
+473272031	Elettronica/Accessori/Accessori per cellulari/Accessori per auto/Caricabatterie per auto con cavo
+473263031	Elettronica/Accessori/Accessori per cellulari/Accessori per auto/Set per auto
+473262031	Elettronica/Accessori/Accessori per cellulari/Accessori per auto/Supporti per auto
+9754596031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches
+9754597031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches/Cavi
+9754599031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches/Cinturini di ricambio
+9754601031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches/Cover morbide
+15855789031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches/Custodie
+15855788031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches/Custodie con cinturino
+9754600031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches/Proteggi schermo e pellicole
+9754598031	Elettronica/Accessori/Accessori per cellulari/Accessori per smartwatches/Stazioni di ricarica
+1486782031	Elettronica/Accessori/Accessori per cellulari/Adattatori audio
+473285031	Elettronica/Accessori/Accessori per cellulari/Amplificatori di segnale
+9899556031	Elettronica/Accessori/Accessori per cellulari/Bastoni Selfie
+473260031	Elettronica/Accessori/Accessori per cellulari/Batterie
+7342330031	Elettronica/Accessori/Accessori per cellulari/Batterie/Batterie interne
+5520537031	Elettronica/Accessori/Accessori per cellulari/Batterie/Caricabatterie portatile
+7342329031	Elettronica/Accessori/Accessori per cellulari/Batterie/Custodie con batteria integrata
+473298031	Elettronica/Accessori/Accessori per cellulari/Bracciali
+1603835031	Elettronica/Accessori/Accessori per cellulari/Calzini per cellulare
+473271031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie
+5431738031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie a induzione
+473275031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie ad energia solare
+473276031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie da muro
+473273031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie da tavolo
+16225883031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie per auto Wireless
+473272031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie per auto con cavo
+5520537031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie portatile
+473274031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Caricabatterie universali
+7342329031	Elettronica/Accessori/Accessori per cellulari/Caricabatterie/Custodie con batteria integrata
+16725728031	Elettronica/Accessori/Accessori per cellulari/Casse portatili e Docking Station con altoparlanti
+16725729031	Elettronica/Accessori/Accessori per cellulari/Casse portatili e Docking Station con altoparlanti/Casse portatili Bluetooth
+16725730031	Elettronica/Accessori/Accessori per cellulari/Casse portatili e Docking Station con altoparlanti/Casse portatili Line-In
+1486849031	Elettronica/Accessori/Accessori per cellulari/Casse portatili e Docking Station con altoparlanti/Docking Station con altoparlanti
+473277031	Elettronica/Accessori/Accessori per cellulari/Cavi per trasmissione dati
+473281031	Elettronica/Accessori/Accessori per cellulari/Charms
+473278031	Elettronica/Accessori/Accessori per cellulari/Cuffie
+473279031	Elettronica/Accessori/Accessori per cellulari/Cuffie/Cuffie bluetooth
+473280031	Elettronica/Accessori/Accessori per cellulari/Cuffie/Cuffie con cavo
+12128814031	Elettronica/Accessori/Accessori per cellulari/Cuffie/Visori realtà virtuale
+15814050031	Elettronica/Accessori/Accessori per cellulari/Cuffie Bluetooth monoaurali
+473268031	Elettronica/Accessori/Accessori per cellulari/Custodie da cintura
+473264031	Elettronica/Accessori/Accessori per cellulari/Custodie e cover
+473258031	Elettronica/Accessori/Accessori per cellulari/Kit di accessori
+5519432031	Elettronica/Accessori/Accessori per cellulari/Lenti per cellulare
+473284031	Elettronica/Accessori/Accessori per cellulari/Parti di ricambio
+473282031	Elettronica/Accessori/Accessori per cellulari/Pellicole protettive per display
+473286031	Elettronica/Accessori/Accessori per cellulari/Penne
+4219449031	Elettronica/Accessori/Accessori per cellulari/Proiettori
+473283031	Elettronica/Accessori/Accessori per cellulari/Supporti
+473391031	Elettronica/Accessori/Accessori per foto e videocamere
+473435031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale
+473396031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Batterie
+473397031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Caricabatterie
+1479686031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Cavo di controllo Wireless
+1479684031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Cavo di controllo dell'otturatore
+473438031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Docking station
+1479685031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Estensori paraocchi
+1479681031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Impugnature
+473436031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Kit di accessori
+473439031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Pellicola protettiva per display
+1479687031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Pellicole protettive per cornici digitali
+1479682031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Schermo di messa a fuoco
+1479683031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Telecomandi
+1356286031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori fotocamera digitale/Tracolle
+473461031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti
+473462031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Adattatori e convertitori
+1479698031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Anelli di fissaggio per treppiedi
+1479697031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Anelli di inversione macro
+473464031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Diottrie
+473471031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Leva Follow Focus
+473472031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Otturatori
+473467031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Paraluce
+473465031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Schede lenti
+473468031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Supporti per lenti
+473466031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Tappo coprilente
+1479696031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori lenti/Tubi prolunga
+473399031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per binocolo
+1479652031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per binocolo/Adattatori per treppiedi
+1479650031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per binocolo/Filtri
+1479649031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per binocolo/Oculari
+1479651031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per binocolo/Protezioni pioggia
+473427031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura
+473430031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Accessori per ingranditore
+473433031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Accessori per lo sviluppo negativi
+1479678031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Equipaggiamento per la stampa
+473431031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Ingranditori
+473432031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Ingranditori per carta
+1479676031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Ingranditori per carta/Fogli per stampe a colori
+1479675031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Ingranditori per carta/Fogli per stampe in bianco e nero
+1479677031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Ingranditori per carta/Retrofogli a colori
+473434031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Lampade di sicurezza
+473429031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Prodotti chimici
+1479680031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Regolatori d'acqua e filtri
+473428031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Regolatori d'aria
+1479679031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Regolatori di temperatura
+1479674031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per camera oscura/Vasche sviluppo
+1479688031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per filtri
+1479692031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per filtri/Anelli adattatori Step-down
+1479693031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per filtri/Anelli adattatori Step-up
+1479691031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per filtri/Coperchi per filtri
+1479689031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per filtri/Custodie per filtri
+1479690031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per filtri/Filtri di gel
+473455031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per il flash
+473456031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per il flash/Anelli adattatori
+1479695031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per il flash/Diffusori e modificatori
+473457031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per il flash/Pacchetti batterie
+473459031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per il flash/Shoe mount
+473458031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per il flash/Supporti per fotocamera
+473460031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per il flash/Sync e cavi PC
+6572828031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio
+6575067031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio/Adattatori e lenti
+1479701031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio/Adattatori e lenti/Adattatori lenti per microscopio
+6575136031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio/Adattatori e lenti/Lenti
+6575069031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio/Coprivetrini
+1479700031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio/Filtri per microscopio
+6575070031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio/Portavetrini
+6575072031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per microscopio/Vetrini
+473502031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio
+473509031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Adattatori
+473507031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Cercatori
+1479716031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Diagonali e Prismi
+473506031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Filtri
+1479717031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Guider
+473503031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Lenti di Barlow
+473505031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Lenti oculari
+473508031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Motori guida
+1479715031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Schermi rugiada
+473510031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Telecomandi
+1479718031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per telescopio/Teste equatoriali
+473512031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi
+1479698031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi/Anelli di fissaggio per treppiedi
+1479719031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi/Boccole
+1479721031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi/Colonne centrali
+1479722031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi/Custodie per testa
+1479723031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi/Piedi per monopiede
+1479720031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi/Sostegni per fotocamera
+1479724031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per treppiedi e monopiedi/Viti
+473406031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera
+473395031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Batterie per videocamera
+473397031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Caricabatterie
+473407031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Microfoni esterni
+473408031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Pellicola protettiva per display
+1479658031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Stabilizzatori e supporti
+1479660031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti removibili per videoregistratori
+473400031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti vergini per videocamera
+473401031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti vergini per videocamera/Full-Size DV
+473402031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti vergini per videocamera/Hi-8
+1479659031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti vergini per videocamera/MicroMV
+473403031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti vergini per videocamera/MiniDV
+473404031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti vergini per videocamera/VHS
+473405031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Supporti vergini per videocamera/VHS-C
+1479657031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Telecomandi
+1479704031	Elettronica/Accessori/Accessori per foto e videocamere/Accessori per videocamera/Torce video
+473440031	Elettronica/Accessori/Accessori per foto e videocamere/Archivio immagini digitali
+473392031	"Elettronica/Accessori/Accessori per foto e videocamere/Batterie, caricabatterie e alimentatori"
+473393031	"Elettronica/Accessori/Accessori per foto e videocamere/Batterie, caricabatterie e alimentatori/Adattatori"
+473394031	"Elettronica/Accessori/Accessori per foto e videocamere/Batterie, caricabatterie e alimentatori/Batterie"
+473396031	"Elettronica/Accessori/Accessori per foto e videocamere/Batterie, caricabatterie e alimentatori/Batterie/Batterie per fotocamera"
+473395031	"Elettronica/Accessori/Accessori per foto e videocamere/Batterie, caricabatterie e alimentatori/Batterie/Batterie per videocamera"
+473397031	"Elettronica/Accessori/Accessori per foto e videocamere/Batterie, caricabatterie e alimentatori/Caricabatterie"
+1479662031	Elettronica/Accessori/Accessori per foto e videocamere/Coperture parapioggia
+473410031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse
+473417031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie
+1479664031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie/Cinturini e equipaggiamento
+1479665031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie/Cinturini e equipaggiamento/Cinturini
+1479666031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie/Cinturini e equipaggiamento/Equipaggiamento
+1479667031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie/Organizer e divisori
+1479669031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie/Organizer e divisori/Divisori
+1479668031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie/Organizer e divisori/Organizer
+1479670031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Accessori per borse e custodie/Tracolle
+1479673031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Borse per treppiedi e monopiedi
+1479671031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie combinate per video e fotocamera
+473414031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie e borse per fotocamere
+4202480031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie e borse per fotocamere/Custodie e borse per compatte
+4202481031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie e borse per fotocamere/Custodie e borse per reflex
+1479672031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per Flash
+473411031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per binocolo
+1479689031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per filtri
+473418031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per lenti
+2691153031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per microscopi
+473420031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per telescopi
+1479722031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per teste da treppiedi e monopiedi
+473412031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Custodie per videocamera
+4175434031	Elettronica/Accessori/Accessori per foto e videocamere/Custodie e borse/Zaini per fotocamere
+1479653031	Elettronica/Accessori/Accessori per foto e videocamere/Diagrammi di bilanciamento e Gray Card
+1479654031	Elettronica/Accessori/Accessori per foto e videocamere/Diagrammi di bilanciamento e Gray Card/Diagrammi di bilanciamento colore
+1479656031	Elettronica/Accessori/Accessori per foto e videocamere/Diagrammi di bilanciamento e Gray Card/Diagrammi di bilanciamento lenti
+1479655031	Elettronica/Accessori/Accessori per foto e videocamere/Diagrammi di bilanciamento e Gray Card/Gray Card
+1479663031	Elettronica/Accessori/Accessori per foto e videocamere/Dorsi digitali
+473445031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri
+473454031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri Skylight e ultravioletti
+473449031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri creativi
+473448031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri graduati
+1479694031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri infrarossi
+473451031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri neutri
+473447031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri per correzione e conversione di colore
+473446031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri per il bianco e nero
+473452031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri polarizzati
+473453031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri skylight
+473566031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Filtri subacquei
+473450031	Elettronica/Accessori/Accessori per foto e videocamere/Filtri/Set di filtri
+473489031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione
+473495031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Accessori per sfondi
+1479709031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Accessori per sfondi/Sostegni per posa
+1479708031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Accessori per sfondi/Supporti per sfondi
+1479710031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Accessori per sfondi/Tavoli da Still-Life
+1479711031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Accessori per sfondi/Tende da Still-Life
+1479712031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Controlli remoti
+473475031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione
+473476031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Bracci e supporti
+473477031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori"
+473478031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Alette frangiluce"
+473479031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Diffusori"
+473480031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Filtri"
+473481031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Flag"
+1479705031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Gobbi"
+473482031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Riflettori"
+473483031	"Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Soft Box"
+473473031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Loupe
+473484031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Monoluci
+473487031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Ombrelli
+1479707031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Pacchetti di batterie
+473486031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Slave
+473485031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Supporti Hardware
+1479704031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Torce video
+1479706031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Illuminazione/Tubi di luce
+4546177031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Luci per set fotografico
+473490031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Materiale per copia
+473474031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Misuratori di luce e accessori
+1479713031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Sandbag
+1479703031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Scatole di luce da Still-Life
+473496031	Elettronica/Accessori/Accessori per foto e videocamere/Foto studio e Illuminazione/Sfondi
+473306031	Elettronica/Accessori/Accessori per foto e videocamere/Lampade per proiettori
+473497031	Elettronica/Accessori/Accessori per foto e videocamere/Materiali per archiviazione e presentazione
+473501031	"Elettronica/Accessori/Accessori per foto e videocamere/Materiali per archiviazione e presentazione/Archiviazione diapositive, negativi e foto"
+473499031	Elettronica/Accessori/Accessori per foto e videocamere/Materiali per archiviazione e presentazione/Buste per archiviazione
+473500031	Elettronica/Accessori/Accessori per foto e videocamere/Materiali per archiviazione e presentazione/Portfolio
+1479714031	Elettronica/Accessori/Accessori per foto e videocamere/Materiali per archiviazione e presentazione/Raccoglitori per archiviazione
+473498031	Elettronica/Accessori/Accessori per foto e videocamere/Materiali per archiviazione e presentazione/Scatole per archiviazione
+1479725031	Elettronica/Accessori/Accessori per foto e videocamere/Mirini
+473441031	Elettronica/Accessori/Accessori per foto e videocamere/Pellicole
+473442031	Elettronica/Accessori/Accessori per foto e videocamere/Pellicole/35mm
+473443031	Elettronica/Accessori/Accessori per foto e videocamere/Pellicole/APS
+473444031	Elettronica/Accessori/Accessori per foto e videocamere/Pellicole/Istantanea
+473555031	Elettronica/Accessori/Accessori per foto e videocamere/Proiettori di diapositive
+473574031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria
+473575031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Compact Flash
+473576031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Memory Stick
+473577031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Micro SD
+473578031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Schede Multimedia
+473579031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Schede PC e PCMCIA
+473580031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Schede SecureDigital
+473581031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Schede SmartMedia
+473582031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Schede miniSD
+473583031	Elettronica/Accessori/Accessori per foto e videocamere/Schede di memoria/Schede xD-Picture
+473421031	Elettronica/Accessori/Accessori per foto e videocamere/Sistemi di pulizia
+473426031	Elettronica/Accessori/Accessori per foto e videocamere/Sistemi di pulizia/Detergenti liquidi
+473423031	Elettronica/Accessori/Accessori per foto e videocamere/Sistemi di pulizia/Kit di pulizia
+473424031	Elettronica/Accessori/Accessori per foto e videocamere/Sistemi di pulizia/Panni
+473422031	Elettronica/Accessori/Accessori per foto e videocamere/Sistemi di pulizia/Spazzole
+473425031	Elettronica/Accessori/Accessori per foto e videocamere/Sistemi di pulizia/Spray aria compressa
+1479661031	"Elettronica/Accessori/Accessori per foto e videocamere/Tracolle per videocamere, macchine fotografiche e binocoli"
+473251031	Elettronica/Accessori/Accessori per telefoni fissa
+473252031	Elettronica/Accessori/Accessori per telefoni fissa/Batterie
+473255031	Elettronica/Accessori/Accessori per telefoni fissa/Cavi
+473253031	Elettronica/Accessori/Accessori per telefoni fissa/Cordless e caricabatterie
+473256031	Elettronica/Accessori/Accessori per telefoni fissa/Cuffie
+473254031	Elettronica/Accessori/Accessori per telefoni fissa/Socket
+1904614031	Elettronica/Accessori/Adattatori da viaggio
+16060549031	Elettronica/Accessori/Borse organizer per cavi
+15559319031	Elettronica/Accessori/Gestione del cavo
+1904630031	Elettronica/Accessori/Gestione del cavo/Bobine per cavo
+1904639031	Elettronica/Accessori/Gestione del cavo/Canaline fili elettrici
+15559321031	Elettronica/Accessori/Gestione del cavo/Cinghie per cavi
+15559323031	Elettronica/Accessori/Gestione del cavo/Clip fermacavi da parete
+15559320031	Elettronica/Accessori/Gestione del cavo/Guaine per cavi
+15559322031	Elettronica/Accessori/Gestione del cavo/Protezioni per cavi a pavimento
+1904635031	Elettronica/Accessori/Gestione del cavo/Stringicavi
+473568031	Elettronica/Accessori/Pile e caricabatterie
+473569031	Elettronica/Accessori/Pile e caricabatterie/Caricabatterie
+473571031	Elettronica/Accessori/Pile e caricabatterie/Pile e set per caricabatterie
+473572031	Elettronica/Accessori/Pile e caricabatterie/Pile monouso
+473573031	Elettronica/Accessori/Pile e caricabatterie/Pile ricaricabili
+473570031	Elettronica/Accessori/Pile e caricabatterie/Tester per batterie
+1904669031	Elettronica/Accessori/Prese filtrate
+473574031	Elettronica/Accessori/Schede di memoria
+473575031	Elettronica/Accessori/Schede di memoria/Compact Flash
+473576031	Elettronica/Accessori/Schede di memoria/Memory Stick
+473577031	Elettronica/Accessori/Schede di memoria/Micro SD
+473578031	Elettronica/Accessori/Schede di memoria/Schede Multimedia
+473579031	Elettronica/Accessori/Schede di memoria/Schede PC e PCMCIA
+473580031	Elettronica/Accessori/Schede di memoria/Schede SecureDigital
+473581031	Elettronica/Accessori/Schede di memoria/Schede SmartMedia
+473582031	Elettronica/Accessori/Schede di memoria/Schede miniSD
+473583031	Elettronica/Accessori/Schede di memoria/Schede xD-Picture
+473326031	Elettronica/Accessori/Supporti vergini
+473327031	Elettronica/Accessori/Supporti vergini/Audiocassette
+460014031	Elettronica/Accessori/Supporti vergini/BD-R
+460015031	Elettronica/Accessori/Supporti vergini/BD-RW
+460016031	Elettronica/Accessori/Supporti vergini/CD-R
+460017031	Elettronica/Accessori/Supporti vergini/CD-RW
+460018031	Elettronica/Accessori/Supporti vergini/DVD+R
+460019031	Elettronica/Accessori/Supporti vergini/DVD+RW
+460020031	Elettronica/Accessori/Supporti vergini/DVD-R
+460021031	Elettronica/Accessori/Supporti vergini/DVD-RAM
+460022031	Elettronica/Accessori/Supporti vergini/DVD-RW
+473401031	Elettronica/Accessori/Supporti vergini/Full-Size DV
+473402031	Elettronica/Accessori/Supporti vergini/Hi-8
+1479659031	Elettronica/Accessori/Supporti vergini/MicroMV
+473328031	Elettronica/Accessori/Supporti vergini/Mini disc
+473403031	Elettronica/Accessori/Supporti vergini/MiniDV
+473404031	Elettronica/Accessori/Supporti vergini/VHS
+473405031	Elettronica/Accessori/Supporti vergini/VHS-C
+473287031	Elettronica/Audio e video portatile
+1485125031	Elettronica/Audio e video portatile/Accessori
+473297031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3
+1486848031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Adesivi decorativi
+473303031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Batterie
+473298031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Bracciali
+473299031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Caricabatterie e docking station
+1486846031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie ad energia solare
+1486843031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie ad induzione
+1486845031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie da muro
+1486844031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie internazionali
+1486841031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Caricabatterie e docking station/Caricabatterie per auto
+1486842031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Caricabatterie e docking station/Dock di ricarica
+1486847031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Cavi Sync per PC
+473302031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Custodie e cover
+8484757031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Kit di accessori
+473301031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Pellicole protettive per display
+1486850031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Supporti
+1486840031	Elettronica/Audio e video portatile/Accessori/Accessori per lettori MP3/Supporti per auto
+4262431031	Elettronica/Audio e video portatile/Accessori/Accessori per registratori vocali
+1486929031	Elettronica/Audio e video portatile/Accessori/Accessori per registratori vocali/Custodie
+1486931031	Elettronica/Audio e video portatile/Accessori/Accessori per registratori vocali/Microfoni esterni
+1486932031	Elettronica/Audio e video portatile/Accessori/Accessori per registratori vocali/Supporti
+473304031	Elettronica/Audio e video portatile/Accessori/Borse per lettori DVD e CD
+16725728031	Elettronica/Audio e video portatile/Accessori/Casse portatili e Docking Station con altoparlanti
+16725729031	Elettronica/Audio e video portatile/Accessori/Casse portatili e Docking Station con altoparlanti/Casse portatili Bluetooth
+16725730031	Elettronica/Audio e video portatile/Accessori/Casse portatili e Docking Station con altoparlanti/Casse portatili Line-In
+1486849031	Elettronica/Audio e video portatile/Accessori/Casse portatili e Docking Station con altoparlanti/Docking Station con altoparlanti
+473365031	Elettronica/Audio e video portatile/Accessori/Cuffie
+473367031	Elettronica/Audio e video portatile/Accessori/Cuffie/Auricolari
+473368031	Elettronica/Audio e video portatile/Accessori/Cuffie/Cuffie aperte
+473369031	Elettronica/Audio e video portatile/Accessori/Cuffie/Cuffie audio surround
+473366031	Elettronica/Audio e video portatile/Accessori/Cuffie/Cuffie chiuse
+6108359031	Elettronica/Audio e video portatile/Accessori/Cuffie/Cuffie da studio
+5021830031	Elettronica/Audio e video portatile/Accessori/Cuffie/Cuffie per DJ
+473370031	Elettronica/Audio e video portatile/Accessori/Cuffie/Cuffie wireless
+473290031	Elettronica/Audio e video portatile/Lettori CD
+473291031	Elettronica/Audio e video portatile/Lettori DVD e Blu-ray
+473293031	Elettronica/Audio e video portatile/Lettori MP3 e MP4
+473292031	Elettronica/Audio e video portatile/Lettori MiniDisc
+473289031	Elettronica/Audio e video portatile/Lettori audiocassette
+473294031	Elettronica/Audio e video portatile/Radio
+473372031	Elettronica/Audio e video portatile/Radio portatili Boombox
+1486823031	Elettronica/Audio e video portatile/Radio ricetrasmittenti a onde corte
+473296031	Elettronica/Audio e video portatile/Registratori vocali
+3474650031	Elettronica/Audio e video portatile/Registratori vocali digitali
+473295031	Elettronica/Audio e video portatile/Televisori
+1497228031	Elettronica/Cellulari e accessori
+473257031	Elettronica/Cellulari e accessori/Accessori
+473261031	Elettronica/Cellulari e accessori/Accessori/Accessori per auto
+16225883031	Elettronica/Cellulari e accessori/Accessori/Accessori per auto/Caricabatterie Wireless
+473272031	Elettronica/Cellulari e accessori/Accessori/Accessori per auto/Caricabatterie per auto con cavo
+473263031	Elettronica/Cellulari e accessori/Accessori/Accessori per auto/Set per auto
+473262031	Elettronica/Cellulari e accessori/Accessori/Accessori per auto/Supporti per auto
+9754596031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches
+9754597031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches/Cavi
+9754599031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches/Cinturini di ricambio
+9754601031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches/Cover morbide
+15855789031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches/Custodie
+15855788031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches/Custodie con cinturino
+9754600031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches/Proteggi schermo e pellicole
+9754598031	Elettronica/Cellulari e accessori/Accessori/Accessori per smartwatches/Stazioni di ricarica
+1486782031	Elettronica/Cellulari e accessori/Accessori/Adattatori audio
+473285031	Elettronica/Cellulari e accessori/Accessori/Amplificatori di segnale
+9899556031	Elettronica/Cellulari e accessori/Accessori/Bastoni Selfie
+473260031	Elettronica/Cellulari e accessori/Accessori/Batterie
+7342330031	Elettronica/Cellulari e accessori/Accessori/Batterie/Batterie interne
+5520537031	Elettronica/Cellulari e accessori/Accessori/Batterie/Caricabatterie portatile
+7342329031	Elettronica/Cellulari e accessori/Accessori/Batterie/Custodie con batteria integrata
+473298031	Elettronica/Cellulari e accessori/Accessori/Bracciali
+1603835031	Elettronica/Cellulari e accessori/Accessori/Calzini per cellulare
+473271031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie
+5431738031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie a induzione
+473275031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie ad energia solare
+473276031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie da muro
+473273031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie da tavolo
+16225883031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie per auto Wireless
+473272031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie per auto con cavo
+5520537031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie portatile
+473274031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Caricabatterie universali
+7342329031	Elettronica/Cellulari e accessori/Accessori/Caricabatterie/Custodie con batteria integrata
+16725728031	Elettronica/Cellulari e accessori/Accessori/Casse portatili e Docking Station con altoparlanti
+16725729031	Elettronica/Cellulari e accessori/Accessori/Casse portatili e Docking Station con altoparlanti/Casse portatili Bluetooth
+16725730031	Elettronica/Cellulari e accessori/Accessori/Casse portatili e Docking Station con altoparlanti/Casse portatili Line-In
+1486849031	Elettronica/Cellulari e accessori/Accessori/Casse portatili e Docking Station con altoparlanti/Docking Station con altoparlanti
+473277031	Elettronica/Cellulari e accessori/Accessori/Cavi per trasmissione dati
+473281031	Elettronica/Cellulari e accessori/Accessori/Charms
+473278031	Elettronica/Cellulari e accessori/Accessori/Cuffie
+473279031	Elettronica/Cellulari e accessori/Accessori/Cuffie/Cuffie bluetooth
+473280031	Elettronica/Cellulari e accessori/Accessori/Cuffie/Cuffie con cavo
+12128814031	Elettronica/Cellulari e accessori/Accessori/Cuffie/Visori realtà virtuale
+15814050031	Elettronica/Cellulari e accessori/Accessori/Cuffie Bluetooth monoaurali
+473268031	Elettronica/Cellulari e accessori/Accessori/Custodie da cintura
+473264031	Elettronica/Cellulari e accessori/Accessori/Custodie e cover
+473258031	Elettronica/Cellulari e accessori/Accessori/Kit di accessori
+5519432031	Elettronica/Cellulari e accessori/Accessori/Lenti per cellulare
+473284031	Elettronica/Cellulari e accessori/Accessori/Parti di ricambio
+473282031	Elettronica/Cellulari e accessori/Accessori/Pellicole protettive per display
+473286031	Elettronica/Cellulari e accessori/Accessori/Penne
+4219449031	Elettronica/Cellulari e accessori/Accessori/Proiettori
+473283031	Elettronica/Cellulari e accessori/Accessori/Supporti
+1498529031	Elettronica/Cellulari e accessori/Adesivi decorativi
+473246031	Elettronica/Cellulari e accessori/Cellulari e Smartphone
+3457416031	Elettronica/Cellulari e accessori/Smartwatch
+1465649031	Elettronica/Elettronica per veicoli
+1467952031	Elettronica/Elettronica per veicoli/Accessori
+473213031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video
+1467954031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video
+1467968031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Adattatori cavi Patch
+1467956031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Bass Blocker
+1467961031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Blocchi di distribuzione elettrica
+1467965031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Cavi di giunzione
+1467969031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Cavi massa e di potenza
+1467975031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Cavi per casse acustiche
+1467971031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Componenti per distributori di potenza
+1467958031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Condensatori
+1467976031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fasci di cablaggio
+1467967031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Filtri antidisturbo
+2421226031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili
+2421227031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili/Fusibili in vetro
+2421228031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili/Fusibili mini
+2421229031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili/Fusibili piatti
+1467964031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Guaine termorestringenti
+1467966031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Impianti Kick-Panel
+1467955031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Kit cavi per amplificatori
+1467972031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Kit per distributori di potenza
+473215031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Mascherine telaio
+1467957031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Morsetti e cablaggi per batterie
+1467970031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Morsetti per cavi di potenza
+1467962031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Portafusibili
+473220031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Scatole per Subwoofer
+473221031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Scatole per altoparlanti
+1467974031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Spine per casse acustiche
+473218031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Supporti per casse acustiche
+1467959031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Tappetini
+1467973031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Tessuti per lo smorzamento acustico
+1467960031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Ventole di raffreddamento
+1467977031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Adattatori per ingressi audio-video
+473214031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Antenne
+1467953031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Bluetooth Kit
+473216031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Crossover
+1467978031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Invertitori di corrente
+1467980031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Supporti poggiatesta per Tablet
+1467979031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Telecomandi
+473222031	Elettronica/Elettronica per veicoli/Accessori/Accessori audio e video/Trasmettitori FM
+1467982031	Elettronica/Elettronica per veicoli/Accessori/Accessori per GPS
+473227031	Elettronica/Elettronica per veicoli/Accessori/Accessori per GPS/Caricabatterie
+473229031	Elettronica/Elettronica per veicoli/Accessori/Accessori per GPS/Ricevitori traffico TMC
+473230031	Elettronica/Elettronica per veicoli/Accessori/Accessori per GPS/Supporti
+473261031	Elettronica/Elettronica per veicoli/Accessori/Accessori per cellulari
+16225883031	Elettronica/Elettronica per veicoli/Accessori/Accessori per cellulari/Caricabatterie Wireless
+473272031	Elettronica/Elettronica per veicoli/Accessori/Accessori per cellulari/Caricabatterie per auto con cavo
+473263031	Elettronica/Elettronica per veicoli/Accessori/Accessori per cellulari/Set per auto
+473262031	Elettronica/Elettronica per veicoli/Accessori/Accessori per cellulari/Supporti per auto
+1467981031	Elettronica/Elettronica per veicoli/Accessori/Accessori per sistemi multimediali digitali
+1486841031	Elettronica/Elettronica per veicoli/Accessori/Accessori per sistemi multimediali digitali/Caricabatterie per auto
+1486840031	Elettronica/Elettronica per veicoli/Accessori/Accessori per sistemi multimediali digitali/Supporti per auto
+1467983031	Elettronica/Elettronica per veicoli/Accessori/Ricevitori d'allerta radar RWR
+1467996031	Elettronica/Elettronica per veicoli/Accessori/Telecamere per retromarcia
+1467998031	Elettronica/Elettronica per veicoli/Elettronica nautica
+1468003031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica
+967705031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/Accessori per GPS
+967702031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/Antenne
+967704031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/Cartografia elettronica
+968540031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/Ecoscandagli
+473235031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/GPS nautici
+967703031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/Piloti automatici
+967706031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/Radar
+967707031	Elettronica/Elettronica per veicoli/Elettronica nautica/Navigazione nautica/Radio
+1467999031	Elettronica/Elettronica per veicoli/Elettronica nautica/Sistemi audio
+1468001031	Elettronica/Elettronica per veicoli/Elettronica nautica/Sistemi audio/Altoparlanti
+1468000031	Elettronica/Elettronica per veicoli/Elettronica nautica/Sistemi audio/Amplificatori
+1468002031	Elettronica/Elettronica per veicoli/Elettronica nautica/Sistemi audio/Stereo
+473208031	Elettronica/Elettronica per veicoli/Elettronica nautica/Sistemi audio/Subwoofer nautici
+473194031	Elettronica/Elettronica per veicoli/Elettronica per auto
+2453984031	Elettronica/Elettronica per veicoli/Elettronica per auto/Park Assist
+2453985031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sensori di parcheggio
+1467985031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio
+473201031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti
+1467989031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti canali centrali
+1467990031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti coassiali
+473202031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti non integrati
+1467991031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti per frequenze alte
+473206031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Componenti Subwoofer
+473204031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Set Altoparlanti
+473207031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Sistemi Subwoofer integrati
+473196031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori
+473197031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori/Amplificatori mono
+473198031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori/Amplificatori multicanale
+473199031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori/Amplificatori stereo
+473195031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Autoradio
+1467986031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Caricatori CD
+473200031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Equalizzatori
+1467988031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Radio satellitari
+1467987031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Sistemi multimediali
+2453982031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi di allarme e di sicurezza
+2453983031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi di ingresso remoto
+473209031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video
+1467995031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Impianti surround
+473212031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD da poggiatesta
+1467997031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD da visiera
+1467993031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD integrati nel cruscotto
+1467994031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD per specchietto retrovisore
+473223031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Ricevitori TV
+473211031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Schermo flip down
+473210031	Elettronica/Elettronica per veicoli/Elettronica per auto/Sistemi video/Videocamera da cruscotto
+2453987031	Elettronica/Elettronica per veicoli/Elettronica per auto/Telecamera posteriore
+2453986031	Elettronica/Elettronica per veicoli/Elettronica per auto/Telecomandi
+1467948031	Elettronica/Elettronica per veicoli/Elettronica per l'aviazione
+1467951031	Elettronica/Elettronica per veicoli/Elettronica per l'aviazione/Cuffie e sistemi di vivavoce
+1467949031	Elettronica/Elettronica per veicoli/Elettronica per l'aviazione/GPS aeronautici
+1467950031	Elettronica/Elettronica per veicoli/Elettronica per l'aviazione/Ricetrasmettitori palmari
+1468004031	Elettronica/Elettronica per veicoli/Elettronica per moto
+1468008031	Elettronica/Elettronica per veicoli/Elettronica per moto/Casse acustiche
+1468006031	Elettronica/Elettronica per veicoli/Elettronica per moto/Cuffie bluetooth
+1463464031	Elettronica/Elettronica per veicoli/Elettronica per moto/GPS per moto
+1468005031	Elettronica/Elettronica per veicoli/Elettronica per moto/Sistemi d'allarme
+1468007031	Elettronica/Elettronica per veicoli/Elettronica per moto/Supporti audio-video
+1467984031	Elettronica/Elettronica per veicoli/GPS per auto e veicoli
+473235031	Elettronica/Elettronica per veicoli/GPS per auto e veicoli/GPS nautici
+473236031	Elettronica/Elettronica per veicoli/GPS per auto e veicoli/GPS per auto
+1463466031	Elettronica/Elettronica per veicoli/GPS per auto e veicoli/GPS per camion
+1463464031	Elettronica/Elettronica per veicoli/GPS per auto e veicoli/GPS per moto
+435505031	Elettronica/Foto e videocamere
+473391031	Elettronica/Foto e videocamere/Accessori
+473435031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale
+473396031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Batterie
+473397031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Caricabatterie
+1479686031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Cavo di controllo Wireless
+1479684031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Cavo di controllo dell'otturatore
+473438031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Docking station
+1479685031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Estensori paraocchi
+1479681031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Impugnature
+473436031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Kit di accessori
+473439031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Pellicola protettiva per display
+1479687031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Pellicole protettive per cornici digitali
+1479682031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Schermo di messa a fuoco
+1479683031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Telecomandi
+1356286031	Elettronica/Foto e videocamere/Accessori/Accessori fotocamera digitale/Tracolle
+473461031	Elettronica/Foto e videocamere/Accessori/Accessori lenti
+473462031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Adattatori e convertitori
+1479698031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Anelli di fissaggio per treppiedi
+1479697031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Anelli di inversione macro
+473464031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Diottrie
+473471031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Leva Follow Focus
+473472031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Otturatori
+473467031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Paraluce
+473465031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Schede lenti
+473468031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Supporti per lenti
+473466031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Tappo coprilente
+1479696031	Elettronica/Foto e videocamere/Accessori/Accessori lenti/Tubi prolunga
+473399031	Elettronica/Foto e videocamere/Accessori/Accessori per binocolo
+1479652031	Elettronica/Foto e videocamere/Accessori/Accessori per binocolo/Adattatori per treppiedi
+1479650031	Elettronica/Foto e videocamere/Accessori/Accessori per binocolo/Filtri
+1479649031	Elettronica/Foto e videocamere/Accessori/Accessori per binocolo/Oculari
+1479651031	Elettronica/Foto e videocamere/Accessori/Accessori per binocolo/Protezioni pioggia
+473427031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura
+473430031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Accessori per ingranditore
+473433031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Accessori per lo sviluppo negativi
+1479678031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Equipaggiamento per la stampa
+473431031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Ingranditori
+473432031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Ingranditori per carta
+1479676031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Ingranditori per carta/Fogli per stampe a colori
+1479675031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Ingranditori per carta/Fogli per stampe in bianco e nero
+1479677031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Ingranditori per carta/Retrofogli a colori
+473434031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Lampade di sicurezza
+473429031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Prodotti chimici
+1479680031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Regolatori d'acqua e filtri
+473428031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Regolatori d'aria
+1479679031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Regolatori di temperatura
+1479674031	Elettronica/Foto e videocamere/Accessori/Accessori per camera oscura/Vasche sviluppo
+1479688031	Elettronica/Foto e videocamere/Accessori/Accessori per filtri
+1479692031	Elettronica/Foto e videocamere/Accessori/Accessori per filtri/Anelli adattatori Step-down
+1479693031	Elettronica/Foto e videocamere/Accessori/Accessori per filtri/Anelli adattatori Step-up
+1479691031	Elettronica/Foto e videocamere/Accessori/Accessori per filtri/Coperchi per filtri
+1479689031	Elettronica/Foto e videocamere/Accessori/Accessori per filtri/Custodie per filtri
+1479690031	Elettronica/Foto e videocamere/Accessori/Accessori per filtri/Filtri di gel
+473455031	Elettronica/Foto e videocamere/Accessori/Accessori per il flash
+473456031	Elettronica/Foto e videocamere/Accessori/Accessori per il flash/Anelli adattatori
+1479695031	Elettronica/Foto e videocamere/Accessori/Accessori per il flash/Diffusori e modificatori
+473457031	Elettronica/Foto e videocamere/Accessori/Accessori per il flash/Pacchetti batterie
+473459031	Elettronica/Foto e videocamere/Accessori/Accessori per il flash/Shoe mount
+473458031	Elettronica/Foto e videocamere/Accessori/Accessori per il flash/Supporti per fotocamera
+473460031	Elettronica/Foto e videocamere/Accessori/Accessori per il flash/Sync e cavi PC
+6572828031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio
+6575067031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio/Adattatori e lenti
+1479701031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio/Adattatori e lenti/Adattatori lenti per microscopio
+6575136031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio/Adattatori e lenti/Lenti
+6575069031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio/Coprivetrini
+1479700031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio/Filtri per microscopio
+6575070031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio/Portavetrini
+6575072031	Elettronica/Foto e videocamere/Accessori/Accessori per microscopio/Vetrini
+473502031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio
+473509031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Adattatori
+473507031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Cercatori
+1479716031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Diagonali e Prismi
+473506031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Filtri
+1479717031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Guider
+473503031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Lenti di Barlow
+473505031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Lenti oculari
+473508031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Motori guida
+1479715031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Schermi rugiada
+473510031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Telecomandi
+1479718031	Elettronica/Foto e videocamere/Accessori/Accessori per telescopio/Teste equatoriali
+473512031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi
+1479698031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi/Anelli di fissaggio per treppiedi
+1479719031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi/Boccole
+1479721031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi/Colonne centrali
+1479722031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi/Custodie per testa
+1479723031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi/Piedi per monopiede
+1479720031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi/Sostegni per fotocamera
+1479724031	Elettronica/Foto e videocamere/Accessori/Accessori per treppiedi e monopiedi/Viti
+473406031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera
+473395031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Batterie per videocamera
+473397031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Caricabatterie
+473407031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Microfoni esterni
+473408031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Pellicola protettiva per display
+1479658031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Stabilizzatori e supporti
+1479660031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti removibili per videoregistratori
+473400031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti vergini per videocamera
+473401031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti vergini per videocamera/Full-Size DV
+473402031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti vergini per videocamera/Hi-8
+1479659031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti vergini per videocamera/MicroMV
+473403031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti vergini per videocamera/MiniDV
+473404031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti vergini per videocamera/VHS
+473405031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Supporti vergini per videocamera/VHS-C
+1479657031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Telecomandi
+1479704031	Elettronica/Foto e videocamere/Accessori/Accessori per videocamera/Torce video
+473440031	Elettronica/Foto e videocamere/Accessori/Archivio immagini digitali
+473392031	"Elettronica/Foto e videocamere/Accessori/Batterie, caricabatterie e alimentatori"
+473393031	"Elettronica/Foto e videocamere/Accessori/Batterie, caricabatterie e alimentatori/Adattatori"
+473394031	"Elettronica/Foto e videocamere/Accessori/Batterie, caricabatterie e alimentatori/Batterie"
+473396031	"Elettronica/Foto e videocamere/Accessori/Batterie, caricabatterie e alimentatori/Batterie/Batterie per fotocamera"
+473395031	"Elettronica/Foto e videocamere/Accessori/Batterie, caricabatterie e alimentatori/Batterie/Batterie per videocamera"
+473397031	"Elettronica/Foto e videocamere/Accessori/Batterie, caricabatterie e alimentatori/Caricabatterie"
+1479662031	Elettronica/Foto e videocamere/Accessori/Coperture parapioggia
+473410031	Elettronica/Foto e videocamere/Accessori/Custodie e borse
+473417031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie
+1479664031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie/Cinturini e equipaggiamento
+1479665031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie/Cinturini e equipaggiamento/Cinturini
+1479666031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie/Cinturini e equipaggiamento/Equipaggiamento
+1479667031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie/Organizer e divisori
+1479669031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie/Organizer e divisori/Divisori
+1479668031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie/Organizer e divisori/Organizer
+1479670031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Accessori per borse e custodie/Tracolle
+1479673031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Borse per treppiedi e monopiedi
+1479671031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie combinate per video e fotocamera
+473414031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie e borse per fotocamere
+4202480031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie e borse per fotocamere/Custodie e borse per compatte
+4202481031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie e borse per fotocamere/Custodie e borse per reflex
+1479672031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per Flash
+473411031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per binocolo
+1479689031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per filtri
+473418031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per lenti
+2691153031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per microscopi
+473420031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per telescopi
+1479722031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per teste da treppiedi e monopiedi
+473412031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Custodie per videocamera
+4175434031	Elettronica/Foto e videocamere/Accessori/Custodie e borse/Zaini per fotocamere
+1479653031	Elettronica/Foto e videocamere/Accessori/Diagrammi di bilanciamento e Gray Card
+1479654031	Elettronica/Foto e videocamere/Accessori/Diagrammi di bilanciamento e Gray Card/Diagrammi di bilanciamento colore
+1479656031	Elettronica/Foto e videocamere/Accessori/Diagrammi di bilanciamento e Gray Card/Diagrammi di bilanciamento lenti
+1479655031	Elettronica/Foto e videocamere/Accessori/Diagrammi di bilanciamento e Gray Card/Gray Card
+1479663031	Elettronica/Foto e videocamere/Accessori/Dorsi digitali
+473445031	Elettronica/Foto e videocamere/Accessori/Filtri
+473454031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri Skylight e ultravioletti
+473449031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri creativi
+473448031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri graduati
+1479694031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri infrarossi
+473451031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri neutri
+473447031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri per correzione e conversione di colore
+473446031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri per il bianco e nero
+473452031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri polarizzati
+473453031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri skylight
+473566031	Elettronica/Foto e videocamere/Accessori/Filtri/Filtri subacquei
+473450031	Elettronica/Foto e videocamere/Accessori/Filtri/Set di filtri
+473489031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione
+473495031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Accessori per sfondi
+1479709031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Accessori per sfondi/Sostegni per posa
+1479708031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Accessori per sfondi/Supporti per sfondi
+1479710031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Accessori per sfondi/Tavoli da Still-Life
+1479711031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Accessori per sfondi/Tende da Still-Life
+1479712031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Controlli remoti
+473475031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione
+473476031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Bracci e supporti
+473477031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori"
+473478031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Alette frangiluce"
+473479031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Diffusori"
+473480031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Filtri"
+473481031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Flag"
+1479705031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Gobbi"
+473482031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Riflettori"
+473483031	"Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Diffusori, filtri e riflettori/Soft Box"
+473473031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Loupe
+473484031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Monoluci
+473487031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Ombrelli
+1479707031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Pacchetti di batterie
+473486031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Slave
+473485031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Supporti Hardware
+1479704031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Torce video
+1479706031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Illuminazione/Tubi di luce
+4546177031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Luci per set fotografico
+473490031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Materiale per copia
+473474031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Misuratori di luce e accessori
+1479713031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Sandbag
+1479703031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Scatole di luce da Still-Life
+473496031	Elettronica/Foto e videocamere/Accessori/Foto studio e Illuminazione/Sfondi
+473306031	Elettronica/Foto e videocamere/Accessori/Lampade per proiettori
+473497031	Elettronica/Foto e videocamere/Accessori/Materiali per archiviazione e presentazione
+473501031	"Elettronica/Foto e videocamere/Accessori/Materiali per archiviazione e presentazione/Archiviazione diapositive, negativi e foto"
+473499031	Elettronica/Foto e videocamere/Accessori/Materiali per archiviazione e presentazione/Buste per archiviazione
+473500031	Elettronica/Foto e videocamere/Accessori/Materiali per archiviazione e presentazione/Portfolio
+1479714031	Elettronica/Foto e videocamere/Accessori/Materiali per archiviazione e presentazione/Raccoglitori per archiviazione
+473498031	Elettronica/Foto e videocamere/Accessori/Materiali per archiviazione e presentazione/Scatole per archiviazione
+1479725031	Elettronica/Foto e videocamere/Accessori/Mirini
+473441031	Elettronica/Foto e videocamere/Accessori/Pellicole
+473442031	Elettronica/Foto e videocamere/Accessori/Pellicole/35mm
+473443031	Elettronica/Foto e videocamere/Accessori/Pellicole/APS
+473444031	Elettronica/Foto e videocamere/Accessori/Pellicole/Istantanea
+473555031	Elettronica/Foto e videocamere/Accessori/Proiettori di diapositive
+473574031	Elettronica/Foto e videocamere/Accessori/Schede di memoria
+473575031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Compact Flash
+473576031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Memory Stick
+473577031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Micro SD
+473578031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Schede Multimedia
+473579031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Schede PC e PCMCIA
+473580031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Schede SecureDigital
+473581031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Schede SmartMedia
+473582031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Schede miniSD
+473583031	Elettronica/Foto e videocamere/Accessori/Schede di memoria/Schede xD-Picture
+473421031	Elettronica/Foto e videocamere/Accessori/Sistemi di pulizia
+473426031	Elettronica/Foto e videocamere/Accessori/Sistemi di pulizia/Detergenti liquidi
+473423031	Elettronica/Foto e videocamere/Accessori/Sistemi di pulizia/Kit di pulizia
+473424031	Elettronica/Foto e videocamere/Accessori/Sistemi di pulizia/Panni
+473422031	Elettronica/Foto e videocamere/Accessori/Sistemi di pulizia/Spazzole
+473425031	Elettronica/Foto e videocamere/Accessori/Sistemi di pulizia/Spray aria compressa
+1479661031	"Elettronica/Foto e videocamere/Accessori/Tracolle per videocamere, macchine fotografiche e binocoli"
+3123903031	Elettronica/Foto e videocamere/Action camera e accessori
+3596112031	Elettronica/Foto e videocamere/Action camera e accessori/Action camera
+3596113031	Elettronica/Foto e videocamere/Action camera e accessori/Attacchi e tracolle
+3596111031	Elettronica/Foto e videocamere/Action camera e accessori/Custodie e borse
+473513031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica"
+473514031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Binocoli"
+473515031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Microscopi"
+8521668031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Microscopi/Microscopi composti"
+8521669031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Microscopi/Microscopi composti/Microscopi binoculari"
+1479726031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Microscopi/Microscopi composti/Microscopi monoculari"
+8521670031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Microscopi/Microscopi composti/Microscopi trinoculari"
+1479728031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Microscopi/Microscopi digitali portatili"
+1479727031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Microscopi/Microscopi stereoscopici"
+473516031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Monocoli"
+473519031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Riflescopi"
+473517031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Strumenti di visione notturna"
+473518031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Telemetri"
+473521031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Telescopi"
+473524031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Telescopi/Refrattori"
+473523031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Telescopi/Riflettori"
+473522031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Telescopi/Telescopi catadiottrici"
+473520031	"Elettronica/Foto e videocamere/Binocoli, telescopi e ottica/Telescopi Spotting Scope"
+473539031	Elettronica/Foto e videocamere/Cornici digitali
+14515843031	Elettronica/Foto e videocamere/Droni
+460185031	Elettronica/Foto e videocamere/Film scanner
+473548031	Elettronica/Foto e videocamere/Flash
+1479735031	Elettronica/Foto e videocamere/Flash/Flash Macro Ring Light
+1479734031	Elettronica/Foto e videocamere/Flash/Flash elettronici
+1479736031	Elettronica/Foto e videocamere/Flash/Flash manuali
+473540031	Elettronica/Foto e videocamere/Fotocamere analogiche
+473541031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere a telemetro
+473542031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere analogiche compatte
+473544031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere di grande formato
+473545031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere di medio formato
+473543031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere istantanee
+1479732031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere panoramiche
+1479733031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere stenoscopiche
+473547031	Elettronica/Foto e videocamere/Fotocamere analogiche/Fotocamere usa e getta
+473546031	Elettronica/Foto e videocamere/Fotocamere analogiche/Reflex
+473535031	Elettronica/Foto e videocamere/Fotocamere digitali
+473537031	Elettronica/Foto e videocamere/Fotocamere digitali/Fotocamere Mirrorless
+473536031	Elettronica/Foto e videocamere/Fotocamere digitali/Fotocamere digitali compatte
+1479731031	Elettronica/Foto e videocamere/Fotocamere digitali/Fotocamere digitali compatte  e set di accessori
+1479730031	Elettronica/Foto e videocamere/Fotocamere digitali/Fotocamere digitali medio formato
+473538031	Elettronica/Foto e videocamere/Fotocamere digitali/Fotocamere digitali reflex
+1479729031	Elettronica/Foto e videocamere/Fotocamere digitali/Fotocamere digitali reflex e set di accessori
+473549031	Elettronica/Foto e videocamere/Lenti
+473550031	Elettronica/Foto e videocamere/Lenti/Lenti per  videocamera
+473551031	Elettronica/Foto e videocamere/Lenti/Lenti per fotocamera
+5332056031	Elettronica/Foto e videocamere/Lenti/Lenti per fotocamera/Lenti per mirrorless
+5332057031	Elettronica/Foto e videocamere/Lenti/Lenti per fotocamera/Lenti per reflex
+473347031	Elettronica/Foto e videocamere/Proiettori
+473552031	Elettronica/Foto e videocamere/Stampanti fotografiche
+473557031	Elettronica/Foto e videocamere/Treppiedi e monopiedi
+473562031	Elettronica/Foto e videocamere/Treppiedi e monopiedi/Gambe per treppiedi
+473559031	Elettronica/Foto e videocamere/Treppiedi e monopiedi/Monopiede
+473561031	Elettronica/Foto e videocamere/Treppiedi e monopiedi/Teste per treppiedi
+473560031	Elettronica/Foto e videocamere/Treppiedi e monopiedi/Treppiedi da tavolo e viaggio
+473558031	Elettronica/Foto e videocamere/Treppiedi e monopiedi/Unità completa treppiede
+473563031	Elettronica/Foto e videocamere/Video e fotografia subacquea
+1479741031	Elettronica/Foto e videocamere/Video e fotografia subacquea/Bracci
+473565031	Elettronica/Foto e videocamere/Video e fotografia subacquea/Custodie subacquee per fotocamere
+473566031	Elettronica/Foto e videocamere/Video e fotografia subacquea/Filtri subacquei
+473564031	Elettronica/Foto e videocamere/Video e fotografia subacquea/Fotocamere subacque
+473567031	Elettronica/Foto e videocamere/Video e fotografia subacquea/Illuminazione subacquea
+1479742031	Elettronica/Foto e videocamere/Video e fotografia subacquea/Videocamere subacquee
+473525031	Elettronica/Foto e videocamere/Videocamere
+473532031	Elettronica/Foto e videocamere/Videocamere/Alta definizione
+473526031	Elettronica/Foto e videocamere/Videocamere/Analogiche 8mm e Hi8
+473527031	Elettronica/Foto e videocamere/Videocamere/Digital DVD
+473528031	Elettronica/Foto e videocamere/Videocamere/Digital MiniDV
+473529031	Elettronica/Foto e videocamere/Videocamere/Digital8
+473531031	Elettronica/Foto e videocamere/Videocamere/Hard-Disk drive
+473530031	Elettronica/Foto e videocamere/Videocamere/Memoria Flash
+473534031	Elettronica/Foto e videocamere/Videocamere/VHS-C
+473556031	Elettronica/Foto e videocamere/Videocamere di sorveglianza
+1479737031	Elettronica/Foto e videocamere/Videocamere di sorveglianza/Bullet camera
+1479738031	Elettronica/Foto e videocamere/Videocamere di sorveglianza/Dom camera
+968904031	Elettronica/Foto e videocamere/Videocamere di sorveglianza/Macchine fotografiche da caccia
+1479740031	Elettronica/Foto e videocamere/Videocamere di sorveglianza/Microcamere spia
+1479739031	Elettronica/Foto e videocamere/Videocamere di sorveglianza/Videocamere finte
+473553031	Elettronica/Foto e videocamere/Visualizzatori fotografici
+435508031	Elettronica/GPS e accessori
+473225031	Elettronica/GPS e accessori/Accessori
+473226031	Elettronica/GPS e accessori/Accessori/Antenne
+473234031	Elettronica/GPS e accessori/Accessori/Batterie
+473227031	Elettronica/GPS e accessori/Accessori/Caricabatterie
+473231031	Elettronica/GPS e accessori/Accessori/Cavi
+473233031	Elettronica/GPS e accessori/Accessori/Custodie
+1463462031	Elettronica/GPS e accessori/Accessori/Moduli ricevitori GPS
+1463463031	Elettronica/GPS e accessori/Accessori/Pellicola protettiva per display
+473229031	Elettronica/GPS e accessori/Accessori/Ricevitori traffico TMC
+473232031	Elettronica/GPS e accessori/Accessori/Software
+473230031	Elettronica/GPS e accessori/Accessori/Supporti
+473228031	Elettronica/GPS e accessori/Accessori/Telecomandi
+473235031	Elettronica/GPS e accessori/GPS nautici
+473236031	Elettronica/GPS e accessori/GPS per auto
+1463466031	Elettronica/GPS e accessori/GPS per camion
+1463464031	Elettronica/GPS e accessori/GPS per moto
+937275031	Elettronica/GPS e accessori/GPS portatili e sportivi
+967371031	Elettronica/GPS e accessori/GPS portatili e sportivi/GPS da ciclismo
+967374031	Elettronica/GPS e accessori/GPS portatili e sportivi/GPS da corsa
+967372031	Elettronica/GPS e accessori/GPS portatili e sportivi/GPS per campi da Golf
+1463465031	Elettronica/GPS e accessori/GPS portatili e sportivi/GPS portatili
+473237031	Elettronica/GPS e accessori/Localizzatori GPS
+16063342031	Elettronica/GPS e accessori/Trova oggetti
+473584031	Elettronica/Garanzie
+473357031	Elettronica/Home Audio e Hi-Fi
+1486820031	Elettronica/Home Audio e Hi-Fi/Accessori
+1486806031	Elettronica/Home Audio e Hi-Fi/Accessori/Accessori per casse acustiche
+1486807031	Elettronica/Home Audio e Hi-Fi/Accessori/Accessori per casse acustiche/Imbottiture isolanti
+1486809031	Elettronica/Home Audio e Hi-Fi/Accessori/Accessori per casse acustiche/Punte
+1486808031	Elettronica/Home Audio e Hi-Fi/Accessori/Accessori per casse acustiche/Supporti da parete
+473332031	Elettronica/Home Audio e Hi-Fi/Accessori/Accessori per casse acustiche/Supporti da terra
+473311031	Elettronica/Home Audio e Hi-Fi/Accessori/Antenne radio
+1486821031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi
+473317031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi/Cavi HDMI
+473325031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi/Cavi Stereo Jack
+473322031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi/Cavi di alimentazione
+473321031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi/Cavi ottici
+473319031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi/Cavi per casse acustiche
+473324031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi/Connettori RCA
+1904670031	Elettronica/Home Audio e Hi-Fi/Accessori/Cavi/Prolunghe
+1486775031	Elettronica/Home Audio e Hi-Fi/Accessori/Convertitori D/A
+1486810031	Elettronica/Home Audio e Hi-Fi/Accessori/Parti e componenti per casse acustiche
+1486814031	Elettronica/Home Audio e Hi-Fi/Accessori/Parti e componenti per casse acustiche/Altoparlanti sostitutivi
+1486813031	Elettronica/Home Audio e Hi-Fi/Accessori/Parti e componenti per casse acustiche/Cabinet per altoparlanti
+1486811031	Elettronica/Home Audio e Hi-Fi/Accessori/Parti e componenti per casse acustiche/Connettori
+1486812031	Elettronica/Home Audio e Hi-Fi/Accessori/Parti e componenti per casse acustiche/Crossover audio
+473329031	Elettronica/Home Audio e Hi-Fi/Accessori/Porta CD e DVD modulari
+1486766031	Elettronica/Home Audio e Hi-Fi/Accessori/Porta CD e DVD modulari/Porta CD e DVD modulari
+1486765031	Elettronica/Home Audio e Hi-Fi/Accessori/Porta CD e DVD modulari/Porta CD modulari
+1486767031	Elettronica/Home Audio e Hi-Fi/Accessori/Porta CD e DVD modulari/Porta DVD modulari
+1486829031	Elettronica/Home Audio e Hi-Fi/Accessori/Preamplificatori phono
+5021839031	Elettronica/Home Audio e Hi-Fi/Accessori/Testine e puntine
+5021988031	Elettronica/Home Audio e Hi-Fi/Accessori/Testine e puntine/Puntine
+5021989031	Elettronica/Home Audio e Hi-Fi/Accessori/Testine e puntine/Testine
+473380031	Elettronica/Home Audio e Hi-Fi/Altoparlanti
+473382031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Altoparlanti centrali
+1486831031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Altoparlanti integrati
+16725728031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Casse portatili e Docking Station con altoparlanti
+16725729031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Casse portatili e Docking Station con altoparlanti/Casse portatili Bluetooth
+16725730031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Casse portatili e Docking Station con altoparlanti/Casse portatili Line-In
+1486849031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Casse portatili e Docking Station con altoparlanti/Docking Station con altoparlanti
+1486832031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Diffusori da esterno
+473383031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Diffusori da pavimento
+473381031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Diffusori da scaffale
+473384031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Diffusori satellitari
+473385031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Sistemi di altoparlanti
+1486833031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Soundbar
+473386031	Elettronica/Home Audio e Hi-Fi/Altoparlanti/Subwoofer
+473387031	Elettronica/Home Audio e Hi-Fi/Dispositivi per lo Streaming
+473390031	Elettronica/Home Audio e Hi-Fi/Dispositivi per lo Streaming/Client Streaming
+473388031	Elettronica/Home Audio e Hi-Fi/Dispositivi per lo Streaming/Internet Radio
+473389031	Elettronica/Home Audio e Hi-Fi/Dispositivi per lo Streaming/Server multimediali
+473371031	Elettronica/Home Audio e Hi-Fi/Radio
+473388031	Elettronica/Home Audio e Hi-Fi/Radio/Internet Radio
+1486822031	Elettronica/Home Audio e Hi-Fi/Radio/Radio da collezionismo
+473374031	Elettronica/Home Audio e Hi-Fi/Radio/Radio da cucina
+473375031	Elettronica/Home Audio e Hi-Fi/Radio/Radio da doccia
+473372031	Elettronica/Home Audio e Hi-Fi/Radio/Radio portatili Boombox
+1486823031	Elettronica/Home Audio e Hi-Fi/Radio/Radio ricetrasmittenti a onde corte
+473373031	Elettronica/Home Audio e Hi-Fi/Radio/Radiosveglie
+473376031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti
+473377031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Amplificatori
+1486827031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Equalizzatori grafici
+473362031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Giradischi
+473359031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Lettori CD
+1486828031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Lettori Minidisc
+473363031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Lettori Super Audio CD
+473361031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Lettori audiocassette
+1486830031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Preamplificatori
+1486829031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Preamplificatori phono
+473360031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Registratori CD
+473378031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Ricevitori Hi-Fi
+473338031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Ricevitori e amplificatori AV
+473379031	Elettronica/Home Audio e Hi-Fi/Ricevitori e componenti/Sintonizzatori
+473364031	Elettronica/Home Audio e Hi-Fi/Stereo compatti
+435504031	"Elettronica/Home Cinema, TV e video"
+1486834031	"Elettronica/Home Cinema, TV e video/Accessori"
+1486787031	"Elettronica/Home Cinema, TV e video/Accessori/Accessori per proiettori"
+473306031	"Elettronica/Home Cinema, TV e video/Accessori/Accessori per proiettori/Lampade per proiettori"
+1486788031	"Elettronica/Home Cinema, TV e video/Accessori/Accessori per proiettori/Lenti per proiettori"
+1486789031	"Elettronica/Home Cinema, TV e video/Accessori/Accessori per proiettori/Portaproiettori"
+473346031	"Elettronica/Home Cinema, TV e video/Accessori/Accessori per proiettori/Schermi di proiezione"
+473307031	"Elettronica/Home Cinema, TV e video/Accessori/Accessori per proiettori/Supporti per proiettori"
+473312031	"Elettronica/Home Cinema, TV e video/Accessori/Antenne TV"
+1486835031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi"
+473316031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi Antenna"
+460027031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi DVI"
+473317031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi HDMI"
+473323031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi Scart"
+1486769031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi Subwoofer"
+460038031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi USB"
+473318031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi coassiali"
+473321031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Cavi ottici"
+473320031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Conettori S-Video"
+1486768031	"Elettronica/Home Cinema, TV e video/Accessori/Cavi/Connettori D-Terminal"
+1486791031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari"
+1486794031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Accessori per supporti"
+1486798031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Accessori per supporti/Cavi antenna per porta/finestra"
+1486795031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Accessori per supporti/Connettori per cavi"
+1486797031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Accessori per supporti/Rilevatori di satellite"
+1486796031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Accessori per supporti/Supporti per parabole"
+1486801031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Amplificatori di segnale"
+1486792031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Attenuatori di segnale"
+473318031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Cavi coassiali"
+1486793031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Diplexer"
+1486800031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Divisori"
+1486803031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Interruttori"
+1486799031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Interruttori multipli"
+473314031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/LNB"
+1486802031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Splitter"
+1486804031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Trasformatori"
+1486805031	"Elettronica/Home Cinema, TV e video/Accessori/Impianti satellitari/Triplexer"
+1486790031	"Elettronica/Home Cinema, TV e video/Accessori/Modulatori RF"
+473330031	"Elettronica/Home Cinema, TV e video/Accessori/Moduli di accesso condizionali"
+1486763031	"Elettronica/Home Cinema, TV e video/Accessori/Occhiali 3D"
+473329031	"Elettronica/Home Cinema, TV e video/Accessori/Porta CD e DVD modulari"
+1486766031	"Elettronica/Home Cinema, TV e video/Accessori/Porta CD e DVD modulari/Porta CD e DVD modulari"
+1486765031	"Elettronica/Home Cinema, TV e video/Accessori/Porta CD e DVD modulari/Porta CD modulari"
+1486767031	"Elettronica/Home Cinema, TV e video/Accessori/Porta CD e DVD modulari/Porta DVD modulari"
+1486815031	"Elettronica/Home Cinema, TV e video/Accessori/Protettori schermo per TV"
+1486818031	"Elettronica/Home Cinema, TV e video/Accessori/Riavvolgitori VHS"
+473337031	"Elettronica/Home Cinema, TV e video/Accessori/Sistemi di pulizia"
+1486770031	"Elettronica/Home Cinema, TV e video/Accessori/Sistemi di pulizia/Panni di pulizia"
+1486773031	"Elettronica/Home Cinema, TV e video/Accessori/Sistemi di pulizia/Pulisci testine"
+1486771031	"Elettronica/Home Cinema, TV e video/Accessori/Sistemi di pulizia/Pulitori disco"
+1486774031	"Elettronica/Home Cinema, TV e video/Accessori/Sistemi di pulizia/Pulitori per Monitor"
+1486772031	"Elettronica/Home Cinema, TV e video/Accessori/Sistemi di pulizia/Set di riparazione disco"
+473335031	"Elettronica/Home Cinema, TV e video/Accessori/Supporti e mobili TV"
+1486816031	"Elettronica/Home Cinema, TV e video/Accessori/Supporti e mobili TV/Mobili"
+473336031	"Elettronica/Home Cinema, TV e video/Accessori/Supporti e mobili TV/Supporti da parete e da soffitto"
+1486817031	"Elettronica/Home Cinema, TV e video/Accessori/Supporti e mobili TV/Supporti girevoli"
+473331031	"Elettronica/Home Cinema, TV e video/Accessori/Telecomandi"
+1486819031	"Elettronica/Home Cinema, TV e video/Accessori/Video convertiori"
+1486838031	"Elettronica/Home Cinema, TV e video/Altoparlanti"
+473384031	"Elettronica/Home Cinema, TV e video/Altoparlanti/Diffusori satellitari"
+473385031	"Elettronica/Home Cinema, TV e video/Altoparlanti/Sistemi di altoparlanti"
+1486833031	"Elettronica/Home Cinema, TV e video/Altoparlanti/Soundbar"
+473387031	"Elettronica/Home Cinema, TV e video/Dispositivi per lo Streaming"
+473390031	"Elettronica/Home Cinema, TV e video/Dispositivi per lo Streaming/Client Streaming"
+473388031	"Elettronica/Home Cinema, TV e video/Dispositivi per lo Streaming/Internet Radio"
+473389031	"Elettronica/Home Cinema, TV e video/Dispositivi per lo Streaming/Server multimediali"
+473339031	"Elettronica/Home Cinema, TV e video/Lettori e registratori Blu-ray"
+1486836031	"Elettronica/Home Cinema, TV e video/Lettori e registratori Blu-ray/Lettori Blu-ray"
+1486837031	"Elettronica/Home Cinema, TV e video/Lettori e registratori Blu-ray/Registratori Blu-ray"
+473340031	"Elettronica/Home Cinema, TV e video/Lettori e registratori DVD"
+473341031	"Elettronica/Home Cinema, TV e video/Lettori e registratori DVD/Lettori DVD"
+473344031	"Elettronica/Home Cinema, TV e video/Lettori e registratori DVD/Lettori HD DVD"
+473343031	"Elettronica/Home Cinema, TV e video/Lettori e registratori DVD/Lettori combinati DVD-VCR"
+473342031	"Elettronica/Home Cinema, TV e video/Lettori e registratori DVD/Registratori DVD"
+473354031	"Elettronica/Home Cinema, TV e video/Lettori e registratori video"
+473343031	"Elettronica/Home Cinema, TV e video/Lettori e registratori video/Lettore combinato DVD-VCR"
+473355031	"Elettronica/Home Cinema, TV e video/Lettori e registratori video/Registratori S-VHS"
+473356031	"Elettronica/Home Cinema, TV e video/Lettori e registratori video/Registratori VHS"
+473291031	"Elettronica/Home Cinema, TV e video/Lettori portatili DVD e Blu-ray"
+1486839031	"Elettronica/Home Cinema, TV e video/Occhiali virtuali"
+473310031	"Elettronica/Home Cinema, TV e video/Parabole"
+473347031	"Elettronica/Home Cinema, TV e video/Proiettori"
+473348031	"Elettronica/Home Cinema, TV e video/Ricevitori TV"
+473350031	"Elettronica/Home Cinema, TV e video/Ricevitori TV/Ricevitori digitale terrestre"
+473351031	"Elettronica/Home Cinema, TV e video/Ricevitori TV/Ricevitori satellitari"
+473349031	"Elettronica/Home Cinema, TV e video/Ricevitori TV/Ricevitori via cavo"
+473338031	"Elettronica/Home Cinema, TV e video/Ricevitori e amplificatori AV"
+473345031	"Elettronica/Home Cinema, TV e video/Sistemi Home Cinema"
+473353031	"Elettronica/Home Cinema, TV e video/Sistemi TV satellitare"
+473352031	"Elettronica/Home Cinema, TV e video/Televisori"
+473601031	Elettronica/Informatica
+460002031	Elettronica/Informatica/Accessori
+5225081031	Elettronica/Informatica/Accessori/Accessori per Hard-Disk
+5225082031	Elettronica/Informatica/Accessori/Accessori per Hard-Disk/Adesivi
+460043031	Elettronica/Informatica/Accessori/Accessori per Hard-Disk/Borse e custodie
+460044031	Elettronica/Informatica/Accessori/Accessori per Hard-Disk/Case e serrature
+13854850031	Elettronica/Informatica/Accessori/Accessori per Hard-Disk/Circuiti stampati
+1480106031	Elettronica/Informatica/Accessori/Accessori per Hard-Disk/Docking stations
+460050031	Elettronica/Informatica/Accessori/Accessori per Monitor
+460052031	Elettronica/Informatica/Accessori/Accessori per Monitor/Coperture per Monitor
+460053031	Elettronica/Informatica/Accessori/Accessori per Monitor/Filtri per Monitor
+460054031	Elettronica/Informatica/Accessori/Accessori per Monitor/Protezioni schermo
+460051031	Elettronica/Informatica/Accessori/Accessori per Monitor/Supporti
+460059031	Elettronica/Informatica/Accessori/Accessori per PC portatili
+460069031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Adesivi per computer
+460068031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Apparecchi di sicurezza per computer portatili
+460065031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Batterie per computer portatili
+460060031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili
+2664875031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Borse e Messenger
+2752229031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Custodie morbide
+7165759031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Custodie rigide
+2664876031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Trolley porta PC
+2664874031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Ventiquattrore
+2664873031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Zaini
+6411167031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station
+6411168031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station/Caricabatterie per auto
+460061031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station/Caricatori e alimentatori
+460063031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station/Docking station
+460066031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Filtri schermo per computer portatili
+460067031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Protezioni schermo per computer portatili
+12205564031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Set di accessori
+2808694031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Supporti per notebook
+460064031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Vassoi di appoggio
+14310235031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Ventole e basi di raffreddamento esterno
+460062031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Ventole e basi di raffreddamento esterno/Basi di raffreddamento
+14310236031	Elettronica/Informatica/Accessori/Accessori per PC portatili/Ventole e basi di raffreddamento esterno/Ventole per raffreddamento esterno
+460077031	Elettronica/Informatica/Accessori/Accessori per Scanner
+1500029031	Elettronica/Informatica/Accessori/Accessori per Tablet PC
+1500033031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Adesivi e Skin
+1500031031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Caricatori e Adattatori
+1500035031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide
+2664877031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide/Borse e Messenger
+1500038031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide/Custodie morbide
+1500039031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide/Custodie rigide
+5854934031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Parti di ricambio
+5145045031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo
+5145047031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo/Dischi
+5145048031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo/Punte
+5145046031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo/Tappi
+1500032031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Protezioni schermo
+1500030031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Set di accessori
+473286031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Stilo
+1500034031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Supporti
+1500053031	Elettronica/Informatica/Accessori/Accessori per Tablet PC/Tastiere
+16119536031	Elettronica/Informatica/Accessori/Accessori per audio e video
+460176031	Elettronica/Informatica/Accessori/Accessori per audio e video/Casse per PC
+460190031	Elettronica/Informatica/Accessori/Accessori per audio e video/Cuffie per PC
+460191031	Elettronica/Informatica/Accessori/Accessori per audio e video/Microfoni per PC
+460189031	Elettronica/Informatica/Accessori/Accessori per audio e video/Webcam e periferiche VoIP
+7124972031	Elettronica/Informatica/Accessori/Accessori per schede di memoria
+7124973031	Elettronica/Informatica/Accessori/Accessori per schede di memoria/Adattatori per schede di memoria
+7124974031	Elettronica/Informatica/Accessori/Accessori per schede di memoria/Custodie per schede di memoria
+460131031	Elettronica/Informatica/Accessori/Accessori per schede di memoria/Lettori schede di memoria esterni
+460070031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser
+6095089031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Cartucce a inchiostro solido
+460073031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Cartucce d'inchiostro
+460071031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Cassetti per stampante
+6095087031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit di fusione
+6095088031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit di manutenzione
+6095090031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit di trasferimento
+6095086031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit tamburo
+460074031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Moduli per stampanti
+8490863031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Ricariche e kit di ricarica cartucce
+5517816031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Testine di stampa
+460075031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Toner
+6095085031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Unità developer
+460072031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Unità duplex
+6095091031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Vaschette di recupero toner
+460076031	Elettronica/Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Vassoi per stampante
+460046031	Elettronica/Informatica/Accessori/Accessori per tastiere e Mouse
+460047031	Elettronica/Informatica/Accessori/Accessori per tastiere e Mouse/Coperture antipolvere
+4290152031	Elettronica/Informatica/Accessori/Accessori per tastiere e Mouse/Poggiapolsi
+460048031	Elettronica/Informatica/Accessori/Accessori per tastiere e Mouse/Tappetini per il Mouse
+16112222031	Elettronica/Informatica/Accessori/Accessori videogiochi per PC
+13900034031	Elettronica/Informatica/Accessori/Accessori videogiochi per PC/Cuffie
+13900027031	Elettronica/Informatica/Accessori/Accessori videogiochi per PC/Gamepads
+13900035031	Elettronica/Informatica/Accessori/Accessori videogiochi per PC/Joysticks
+13900032031	Elettronica/Informatica/Accessori/Accessori videogiochi per PC/Mouse da gioco
+13900031031	Elettronica/Informatica/Accessori/Accessori videogiochi per PC/Tastiere da gioco
+460003031	Elettronica/Informatica/Accessori/Adattatori
+16194124031	Elettronica/Informatica/Accessori/Adattatori/Adattatori DP-HDMI
+460004031	Elettronica/Informatica/Accessori/Adattatori/Adattatori DVI-HDMI
+460005031	Elettronica/Informatica/Accessori/Adattatori/Adattatori FireWire
+5176951031	Elettronica/Informatica/Accessori/Adattatori/Adattatori Lightning
+460007031	Elettronica/Informatica/Accessori/Adattatori/Adattatori PS/2
+460009031	Elettronica/Informatica/Accessori/Adattatori/Adattatori SCSI
+5176952031	Elettronica/Informatica/Accessori/Adattatori/Adattatori Thunderbolt
+460011031	Elettronica/Informatica/Accessori/Adattatori/Adattatori USB a USB
+6911866031	Elettronica/Informatica/Accessori/Adattatori/Adattatori USB-VGA
+460006031	Elettronica/Informatica/Accessori/Adattatori/Adattatori maschio/femmina
+460008031	Elettronica/Informatica/Accessori/Adattatori/Adattatori porta parallela
+460010031	Elettronica/Informatica/Accessori/Adattatori/Adattatori seriali
+16060549031	Elettronica/Informatica/Accessori/Borse organizer per cavi
+460026031	Elettronica/Informatica/Accessori/Cavi
+460027031	Elettronica/Informatica/Accessori/Cavi/Cavi DVI
+2559681031	Elettronica/Informatica/Accessori/Cavi/Cavi DisplayPort
+460028031	Elettronica/Informatica/Accessori/Cavi/Cavi Ethernet
+598203031	Elettronica/Informatica/Accessori/Cavi/Cavi FDD
+460029031	Elettronica/Informatica/Accessori/Cavi/Cavi FireWire
+473317031	Elettronica/Informatica/Accessori/Cavi/Cavi HDMI
+598204031	Elettronica/Informatica/Accessori/Cavi/Cavi IDE
+5145198031	Elettronica/Informatica/Accessori/Cavi/Cavi KVM
+5176953031	Elettronica/Informatica/Accessori/Cavi/Cavi Lightning
+460030031	Elettronica/Informatica/Accessori/Cavi/Cavi PS/2
+460033031	Elettronica/Informatica/Accessori/Cavi/Cavi RGB
+460034031	Elettronica/Informatica/Accessori/Cavi/Cavi SAS
+460035031	Elettronica/Informatica/Accessori/Cavi/Cavi SATA
+460036031	Elettronica/Informatica/Accessori/Cavi/Cavi SCSI
+5176954031	Elettronica/Informatica/Accessori/Cavi/Cavi Thunderbolt
+460038031	Elettronica/Informatica/Accessori/Cavi/Cavi USB
+460039031	Elettronica/Informatica/Accessori/Cavi/Cavi VGA
+5520739031	Elettronica/Informatica/Accessori/Cavi/Cavi a fibre ottiche
+460032031	Elettronica/Informatica/Accessori/Cavi/Cavi di alimentazione
+460031031	Elettronica/Informatica/Accessori/Cavi/Cavi porta parallela
+460037031	Elettronica/Informatica/Accessori/Cavi/Cavi seriali
+460040031	Elettronica/Informatica/Accessori/Computer e server racks
+460012031	Elettronica/Informatica/Accessori/Custodie supporti vergini
+9638542031	Elettronica/Informatica/Accessori/Gadget USB
+5348982031	Elettronica/Informatica/Accessori/Gadget USB/Lampade USB
+9638548031	Elettronica/Informatica/Accessori/Gadget USB/Scalda bevande USB
+9638545031	Elettronica/Informatica/Accessori/Gadget USB/Ventilatori USB
+14330075031	Elettronica/Informatica/Accessori/Gruppi di continuità UPS e accessori
+14330076031	Elettronica/Informatica/Accessori/Gruppi di continuità UPS e accessori/Batterie di ricambio per UPS
+460079031	Elettronica/Informatica/Accessori/Gruppi di continuità UPS e accessori/Gruppi di continuità UPS
+460045031	Elettronica/Informatica/Accessori/KVM switch
+6572053031	Elettronica/Informatica/Accessori/Materiali per la stampa 3D
+6572426031	Elettronica/Informatica/Accessori/Materiali per la stampa 3D/Filamenti per stampanti 3D
+6572427031	Elettronica/Informatica/Accessori/Materiali per la stampa 3D/Granuli per stampanti 3D
+6572428031	Elettronica/Informatica/Accessori/Materiali per la stampa 3D/Liquidi per stampanti 3D
+4290098031	Elettronica/Informatica/Accessori/Pulizia per computer
+4290222031	Elettronica/Informatica/Accessori/Pulizia per computer/Aspirapolvere per computer
+4290223031	Elettronica/Informatica/Accessori/Pulizia per computer/Aspiratori ad aria compressa
+4290224031	Elettronica/Informatica/Accessori/Pulizia per computer/Salviette e tamponi detergenti
+6572055031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D
+6572429031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Accessori per stampanti 3D
+8641301031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Cinghie di distribuzione per stampanti 3D
+6572430031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Controller per stampanti 3D
+6572431031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Estrusori per stampanti 3D
+6572432031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Interfacce e moduli driver stampanti 3D
+6572433031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Motori per stampanti 3D
+8641300031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Parti per estrusore per stampanti 3D
+6572434031	Elettronica/Informatica/Accessori/Ricambi e accessori per stampanti 3D/Piattaforme per stampanti 3D
+460013031	Elettronica/Informatica/Accessori/Supporti vergini
+460014031	Elettronica/Informatica/Accessori/Supporti vergini/BD-R
+460015031	Elettronica/Informatica/Accessori/Supporti vergini/BD-RW
+460016031	Elettronica/Informatica/Accessori/Supporti vergini/CD-R
+460017031	Elettronica/Informatica/Accessori/Supporti vergini/CD-RW
+460018031	Elettronica/Informatica/Accessori/Supporti vergini/DVD+R
+460019031	Elettronica/Informatica/Accessori/Supporti vergini/DVD+RW
+460020031	Elettronica/Informatica/Accessori/Supporti vergini/DVD-R
+460021031	Elettronica/Informatica/Accessori/Supporti vergini/DVD-RAM
+460022031	Elettronica/Informatica/Accessori/Supporti vergini/DVD-RW
+460023031	Elettronica/Informatica/Accessori/Supporti vergini/Floppy disk
+460024031	Elettronica/Informatica/Accessori/Supporti vergini/Nastri
+460025031	Elettronica/Informatica/Accessori/Supporti vergini/Zip media
+460078031	Elettronica/Informatica/Accessori/USB Hub
+460041031	Elettronica/Informatica/Accessori/Viti per computer
+460176031	Elettronica/Informatica/Casse per PC
+460080031	Elettronica/Informatica/Componenti
+460125031	Elettronica/Informatica/Componenti/Alimentatori
+460081031	Elettronica/Informatica/Componenti/Barebone
+460082031	Elettronica/Informatica/Componenti/Case
+14076167031	Elettronica/Informatica/Componenti/Dispositivi archiviazione dati interni
+14076168031	Elettronica/Informatica/Componenti/Dispositivi archiviazione dati interni/Disk ibridi
+460102031	Elettronica/Informatica/Componenti/Dispositivi archiviazione dati interni/Hard-Disk
+460114031	Elettronica/Informatica/Componenti/Dispositivi archiviazione dati interni/Unità a stato solido interne
+460106031	Elettronica/Informatica/Componenti/Lettori di schede di memoria interni
+460119031	Elettronica/Informatica/Componenti/Memorie
+460126031	Elettronica/Informatica/Componenti/Processori
+460094031	Elettronica/Informatica/Componenti/Schede I/O
+460097031	Elettronica/Informatica/Componenti/Schede I/O/Controller RAID
+460100031	Elettronica/Informatica/Componenti/Schede I/O/Scheda porta USB
+460095031	Elettronica/Informatica/Componenti/Schede I/O/Schede porta FireWire
+460098031	Elettronica/Informatica/Componenti/Schede I/O/Schede porta SCSI
+460096031	Elettronica/Informatica/Componenti/Schede I/O/Schede porta parallela
+460099031	Elettronica/Informatica/Componenti/Schede I/O/Schede porta seriale
+460116031	Elettronica/Informatica/Componenti/Schede TV interne e schede per video editing
+460115031	Elettronica/Informatica/Componenti/Schede audio interne
+460121031	Elettronica/Informatica/Componenti/Schede di rete
+460090031	Elettronica/Informatica/Componenti/Schede grafiche
+460091031	Elettronica/Informatica/Componenti/Schede grafiche/Schede grafiche AGP
+460093031	Elettronica/Informatica/Componenti/Schede grafiche/Schede grafiche PCI
+460092031	Elettronica/Informatica/Componenti/Schede grafiche/Schede grafiche PCI Express
+460120031	Elettronica/Informatica/Componenti/Schede madri
+460118031	Elettronica/Informatica/Componenti/Unità ZIP interne
+460101031	Elettronica/Informatica/Componenti/Unità floppy disk interne
+460117031	Elettronica/Informatica/Componenti/Unità nastri interne
+460107031	Elettronica/Informatica/Componenti/Unità ottiche interne
+460109031	Elettronica/Informatica/Componenti/Unità ottiche interne/Unità Blu-ray
+460113031	Elettronica/Informatica/Componenti/Unità ottiche interne/Unità CD/DVD
+460083031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento
+8434401031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento/Controller per ventole
+460088031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento/Dissipatori di calore
+460087031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento/Prese d'aria
+460089031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento/Sistemi di raffreddamento ad acqua
+460084031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento/Ventole per CPU
+460085031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento/Ventole per case
+460086031	Elettronica/Informatica/Componenti/Ventole e sistemi di raffreddamento/Ventole per schede grafiche
+460127031	Elettronica/Informatica/Desktop
+13829952031	Elettronica/Informatica/Desktop/All-in-One
+13829953031	Elettronica/Informatica/Desktop/Mini PC
+13829954031	Elettronica/Informatica/Desktop/Tower PC
+460128031	Elettronica/Informatica/Dispositivi archiviazione dati esterni
+460130031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Hard-Disk esterni
+460145031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Network attached storage
+460146031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/PenDrive
+460141031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede TV esterne
+460140031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede audio esterne
+473574031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria
+473575031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Compact Flash
+473576031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Memory Stick
+473577031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Micro SD
+473578031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede Multimedia
+473579031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede PC e PCMCIA
+473580031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede SecureDigital
+473581031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede SmartMedia
+473582031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede miniSD
+473583031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede xD-Picture
+460143031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Unità ZIP esterne
+460139031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Unità a stato solido esterne
+460129031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Unità floppy disk esterne
+460142031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Unità nastri esterne
+460132031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Unità ottiche esterne
+460134031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Unità ottiche esterne/Unità Blu-ray
+460138031	Elettronica/Informatica/Dispositivi archiviazione dati esterni/Unità ottiche esterne/Unità CD/DVD
+460159031	Elettronica/Informatica/Monitor
+460161031	Elettronica/Informatica/Periferiche di rete
+460174031	Elettronica/Informatica/Periferiche di rete/Access point wireless
+460163031	Elettronica/Informatica/Periferiche di rete/Adattatori Bluetooth
+460170031	Elettronica/Informatica/Periferiche di rete/Adattatori PowerLAN
+460175031	Elettronica/Informatica/Periferiche di rete/Adattatori USB wireless
+460162031	Elettronica/Informatica/Periferiche di rete/Antenne e amplificatori
+460169031	Elettronica/Informatica/Periferiche di rete/Hub di rete e switch
+460164031	Elettronica/Informatica/Periferiche di rete/Internet Key
+460165031	Elettronica/Informatica/Periferiche di rete/Modem
+460167031	Elettronica/Informatica/Periferiche di rete/Modem/Modem DSL
+460168031	Elettronica/Informatica/Periferiche di rete/Modem/Modem ISDN
+460166031	Elettronica/Informatica/Periferiche di rete/Modem/Modem analogici
+460172031	Elettronica/Informatica/Periferiche di rete/Ripetitori
+460173031	Elettronica/Informatica/Periferiche di rete/Router
+460121031	Elettronica/Informatica/Periferiche di rete/Scheda di rete
+460171031	Elettronica/Informatica/Periferiche di rete/Server di stampa
+15671984031	Elettronica/Informatica/Periferiche di rete/Sistemi WiFi Mesh
+460158031	Elettronica/Informatica/Portatili
+460184031	Elettronica/Informatica/Scanner
+460185031	Elettronica/Informatica/Scanner/Film scanner
+598773031	Elettronica/Informatica/Scanner/Scanner per biglietti da visita
+598772031	Elettronica/Informatica/Scanner/Scanner per documenti
+460186031	Elettronica/Informatica/Scanner/Scanner piani
+460187031	Elettronica/Informatica/Server
+6572059031	Elettronica/Informatica/Stampanti 3D
+460177031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser
+460183031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Plotter
+460178031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Stampanti All-In-One
+598755031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Stampanti All-In-One/Inkjet
+598756031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Stampanti All-In-One/Laser
+460179031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Stampanti a getto d'inchiostro
+460181031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Stampanti a matrice
+473552031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Stampanti fotografiche
+460180031	Elettronica/Informatica/Stampanti a getto d’inchiostro e laser/Stampanti laser
+460188031	Elettronica/Informatica/Tablet PC
+460147031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input"
+460155031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Mouse"
+13900032031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Mouse da gioco"
+599066031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Penne tavoletta grafica"
+460153031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Set tastiera e Mouse"
+460154031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Tastiere"
+460156031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Tastiere numeriche"
+1500053031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Tastiere per Tablet PC"
+460151031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Tavolette grafiche"
+460157031	"Elettronica/Informatica/Tastiere, Mouse e periferiche di input/Trackball"
+15424896031	Elettronica/Informatica/Tavolette per scrittura LCD ed eWriters
+460189031	Elettronica/Informatica/Webcam e periferiche VoIP
+1463267031	Elettronica/Radiocomunicazione
+1463268031	Elettronica/Radiocomunicazione/Accessori
+1463279031	Elettronica/Radiocomunicazione/Accessori/Alimentatori
+1463273031	Elettronica/Radiocomunicazione/Accessori/Altoparlanti esterni
+1463274031	Elettronica/Radiocomunicazione/Accessori/Antenne fisse
+1463270031	Elettronica/Radiocomunicazione/Accessori/Antenne marine e per auto
+1463275031	Elettronica/Radiocomunicazione/Accessori/Antenne per ricetrasmettitori palmari
+1463269031	Elettronica/Radiocomunicazione/Accessori/Batterie
+1463272031	Elettronica/Radiocomunicazione/Accessori/Caricabatterie
+1463276031	Elettronica/Radiocomunicazione/Accessori/Cuffie
+1463271031	Elettronica/Radiocomunicazione/Accessori/Custodie
+1463278031	Elettronica/Radiocomunicazione/Accessori/Microfoni
+1463280031	Elettronica/Radiocomunicazione/Accessori/Misuratore di SWR
+1463277031	Elettronica/Radiocomunicazione/Accessori/Supporti
+1463281031	Elettronica/Radiocomunicazione/Radio CB
+1463282031	Elettronica/Radiocomunicazione/Radiotrasmettitori nautici
+473247031	Elettronica/Radiocomunicazione/Ricetrasmettitori
+1463283031	Elettronica/Radiocomunicazione/Ripetitori
+1463284031	Elettronica/Radiocomunicazione/Scanner
+1497227031	Elettronica/Telefonia fissa e accessori
+473251031	Elettronica/Telefonia fissa e accessori/Accessori
+473252031	Elettronica/Telefonia fissa e accessori/Accessori/Batterie
+473255031	Elettronica/Telefonia fissa e accessori/Accessori/Cavi
+473253031	Elettronica/Telefonia fissa e accessori/Accessori/Cordless e caricabatterie
+473256031	Elettronica/Telefonia fissa e accessori/Accessori/Cuffie
+473254031	Elettronica/Telefonia fissa e accessori/Accessori/Socket
+473250031	Elettronica/Telefonia fissa e accessori/Carte telefoniche prepagate
+473248031	Elettronica/Telefonia fissa e accessori/Fax
+473240031	Elettronica/Telefonia fissa e accessori/ISDN/Telefoni digitali
+473239031	Elettronica/Telefonia fissa e accessori/Segreterie telefoniche
+473242031	Elettronica/Telefonia fissa e accessori/Telefoni VoIP
+473241031	Elettronica/Telefonia fissa e accessori/Telefoni analogici
+473243031	Elettronica/Telefonia fissa e accessori/Telefoni da ufficio
+1462698031	Elettronica/eBook Reader e accessori
+1462701031	Elettronica/eBook Reader e accessori/Alimentatori
+1462704031	Elettronica/eBook Reader e accessori/Custodie morbide
+1462700031	Elettronica/eBook Reader e accessori/Custodie rigide
+1462706031	Elettronica/eBook Reader e accessori/Garanzie
+1904575031	Elettronica/eBook Reader e accessori/Lampade da lettura
+1462702031	Elettronica/eBook Reader e accessori/Luci di lettura
+1462703031	Elettronica/eBook Reader e accessori/Protezioni schermo
+1462699031	Elettronica/eBook Reader e accessori/Set completi
+2309664031	Elettronica/eBook Reader e accessori/Skin
+1462705031	Elettronica/eBook Reader e accessori/Supporti
+1462707031	Elettronica/eBook Reader e accessori/eBook Reader

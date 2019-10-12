@@ -1,0 +1,199 @@
+﻿14437357031	Grandi elettrodomestici
+5495934031	Grandi elettrodomestici/Accessori e parti di ricambio
+14567243031	"Grandi elettrodomestici/Accessori e parti di ricambio/Attrezzature per il catering, ricambi e accessori"
+14567236031	Grandi elettrodomestici/Accessori e parti di ricambio/Cavi di alimentazione
+14567296031	Grandi elettrodomestici/Accessori e parti di ricambio/Cavi di alimentazione/Cavi di rete
+14567295031	Grandi elettrodomestici/Accessori e parti di ricambio/Cavi di alimentazione/Cavi per alta tensione
+14567250031	Grandi elettrodomestici/Accessori e parti di ricambio/Colonne per lavatrici e asciugatrici
+14567246031	Grandi elettrodomestici/Accessori e parti di ricambio/Invertitori
+14567242031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori cantinette per vino
+14567240031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori compattatori rifiuti
+14567337031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori compattatori rifiuti/Manopole per compattatori di rifiuti
+14567336031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori compattatori rifiuti/Sacchi per compattatori di rifiuti
+14567233031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici
+14567282031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Filtri pelucchi per asciugatrici
+14567286031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Filtri per asciugatrici
+14567283031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Inserti per scarpe per asciugatrici
+14567281031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Kit di installazione per asciugatrici
+14567285031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Prese per asciugatrici
+14567280031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Sportelli per asciugatrici
+14567287031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Supporti e telai per asciugatrici
+14567284031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici/Tubi per asciugatrici
+14567248031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per asciugatrici per futon
+14567237031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine
+14567305031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Diffusori e coprilampade cappe cucine
+14567299031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Filtri per cappe per cucine
+14567300031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Kit di installazione per cappe per cucine
+14567302031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Luci per cappe per cucine
+14567301031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Manopole per cappe per cucine
+14567303031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Protezioni per cappe per cucine
+14567298031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Tubi di scarico per cappe per cucine
+14567304031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Vaschette dell’olio per cappe per cucine
+14567297031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cappe per cucine/Ventole per cappe per cucine
+14567247031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per compostiere elettriche
+14567234031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori
+14567289031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori/Cassetti per congelatori
+14567291031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori/Kit di installazione per congelatori
+14567290031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori/Maniglie per congelatori
+14567294031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori/Ricambi per macchine per il ghiaccio
+14567292031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori/Ripiani per congelatori
+14567288031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori/Sportelli per congelatori
+14567293031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per congelatori/Vassoi per congelatori
+14567238031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine
+14567308031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Alzate per cucine
+14567315031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Kit di guarnizioni per cucine
+14567312031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Kit di installazione per cucine
+14567313031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Manopole per cucine
+14567314031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Pannelli per cucine
+14567316031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Prese per cucine
+14567317031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Regolatori di energia
+14567310031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Sgocciolatoi per cucine
+14567306031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Termometri incorporati per cucine
+14567307031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Timer incorporati per cucine
+14567309031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Utensili di pulizia per cucine
+14567311031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per cucine/Ventole di scarico per cucine
+14567245031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per forni
+14567361031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per forni/Graticole per forni
+14567357031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per forni/Griglie per forni
+14567360031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per forni/Guide per forni
+14567359031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per forni/Luci per forni
+14567358031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per forni/Resistenze per forni
+14567239031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi
+14567332031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Addolcitori d’acqua per frigoriferi
+14567319031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Cartucce per frigoriferi
+14567321031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Cassetti per frigoriferi
+14567318031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Contenitori per frigoriferi
+14567333031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Filtri per acqua per frigoriferi
+14567323031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Griglie per frigoriferi
+14567334031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Guarnizioni per sportelli di frigoriferi
+14567327031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Kit di installazione per frigoriferi
+14567328031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Luci per frigoriferi
+14567325031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Macchine per il ghiaccio per frigoriferi
+14567324031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Maniglie per frigoriferi
+14567329031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Motori per frigoriferi
+14567322031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Portauova per frigoriferi
+14567326031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Raschietti per ghiaccio per frigoriferi
+14567330031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Ripiani per frigoriferi
+14567320031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Sportelli per frigoriferi
+3214314031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Termometri per frigorifero
+14567335031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Tubi per frigoriferi
+14567331031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per frigoriferi/Vassoi per frigoriferi
+14567232031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie
+14567278031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Bracci di lavaggio per lavastoviglie
+14567276031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Cestelli per lavastoviglie
+14567269031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Cestelli portaposate per lavastoviglie
+14567279031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Filtri per lavastoviglie
+14567277031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Kit di guarnizioni per lavastoviglie
+14567274031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Kit di installazione per lavastoviglie
+14567272031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Maniglie per lavastoviglie
+14567270031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Molle per sportelli per lavastoviglie
+14567275031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Pannelli per lavastoviglie
+14567271031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Sportelli per lavastoviglie
+14567273031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavastoviglie/Tubi per lavastoviglie
+14567241031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici
+14567338031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Fascette per lavatrici
+14567349031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Filtri di asciugatura per lavasciuga
+14567346031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Filtri pelucchi per lavatrici
+14567344031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Kit di installazione per lavatrici
+14567347031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Motori per lavatrici
+14567351031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Piedini per lavatrici
+14567341031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Pompe di scarico per lavatrici
+14567350031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Pompe per acqua del bagno per lavatrici
+14567345031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Sacchetti per biancheria per lavatrici
+14567340031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Sportelli per lavatrici
+14567352031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Supporti e telai per lavatrici
+14567348031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Tubi di carico per lavatrici
+14567343031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Tubi per lavatrici
+14567342031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Vaschette di raccolta per lavatrici
+14567339031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per lavatrici/Vaschette per detergente per lavatrici
+14567235031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per microonde
+652519031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per microonde/Contenitori
+3574749031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per microonde/Filtri
+3574748031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per microonde/Finiture
+3574751031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per microonde/Kit di installazione
+3574747031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per microonde/Piatti girevoli
+14567244031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per piani cottura
+14567353031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per piani cottura/Anelli per fuochi per piani cottura
+14567356031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per piani cottura/Coperchi per piani cottura
+14567354031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per piani cottura/Fuochi per piani cottura
+14567355031	Grandi elettrodomestici/Accessori e parti di ricambio/Ricambi e accessori per piani cottura/Griglie per piani cottura
+14567251031	Grandi elettrodomestici/Accessori e parti di ricambio/Stabilizzatori
+14567249031	Grandi elettrodomestici/Accessori e parti di ricambio/Tubi del gas
+14567222031	Grandi elettrodomestici/Asciugatrici per futon
+14567221031	Grandi elettrodomestici/Asciugatrici per piatti
+3544252031	Grandi elettrodomestici/Cantinette vino
+14567259031	Grandi elettrodomestici/Cantinette vino/Mobili cantinetta
+14567262031	Grandi elettrodomestici/Cantinette vino/Mobili per cantina
+14567260031	Grandi elettrodomestici/Cantinette vino/Piccole cantinette per vino
+14567261031	Grandi elettrodomestici/Cantinette vino/Sistemi di raffreddamento per cantinette
+14567217031	Grandi elettrodomestici/Compattatori di rifiuti
+14567253031	Grandi elettrodomestici/Compattatori di rifiuti/Compattatori di rifiuti portatili
+14567252031	Grandi elettrodomestici/Compattatori di rifiuti/Compattatori integrati
+14567216031	Grandi elettrodomestici/Compostiere elettriche
+14567223031	Grandi elettrodomestici/Congelatori e frigoriferi
+5495937031	Grandi elettrodomestici/Congelatori e frigoriferi/Congelatori
+14567365031	Grandi elettrodomestici/Congelatori e frigoriferi/Congelatori/Congelatori a pozzetto
+14567366031	Grandi elettrodomestici/Congelatori e frigoriferi/Congelatori/Congelatori verticali
+14567367031	Grandi elettrodomestici/Congelatori e frigoriferi/Congelatori/Mini congelatori
+14567266031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigo-congelatori combinati
+14567265031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi
+3544252031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Cantinette per vino
+14567259031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Cantinette per vino/Mobili cantinetta
+14567262031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Cantinette per vino/Mobili per cantina
+14567260031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Cantinette per vino/Piccole cantinette per vino
+14567261031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Cantinette per vino/Sistemi di raffreddamento per cantinette
+14567368031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Frigoriferi per bevande
+3543565031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Frigoriferi per birra
+5495938031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Frigoriferi standard
+14567369031	Grandi elettrodomestici/Congelatori e frigoriferi/Frigoriferi/Mini frigoriferi
+14567215031	Grandi elettrodomestici/Cucine compatte
+14567224031	Grandi elettrodomestici/Forni e piani cottura
+5495936031	Grandi elettrodomestici/Forni e piani cottura/Cappe
+14567372031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe a isola
+14567371031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe a muro
+15415300031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe ad angolo
+14567373031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe aspiranti
+14567374031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe da incasso
+14567375031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe integrate
+14567370031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe sottopensile
+14567376031	Grandi elettrodomestici/Forni e piani cottura/Cappe/Cappe telescopiche
+14567268031	Grandi elettrodomestici/Forni e piani cottura/Cassetti scaldavivande
+14567267031	Grandi elettrodomestici/Forni e piani cottura/Cucine a gas ed elettriche
+14567378031	Grandi elettrodomestici/Forni e piani cottura/Cucine a gas ed elettriche/Cucine a libera installazione
+14567377031	Grandi elettrodomestici/Forni e piani cottura/Cucine a gas ed elettriche/Cucine da incasso
+14567379031	Grandi elettrodomestici/Forni e piani cottura/Cucine a gas ed elettriche/Cucine da inserimento
+3543550031	Grandi elettrodomestici/Forni e piani cottura/Fornetti tostapane
+5750400031	Grandi elettrodomestici/Forni e piani cottura/Forni
+652429031	Grandi elettrodomestici/Forni e piani cottura/Forni a microonde
+3543505031	Grandi elettrodomestici/Forni e piani cottura/Forni a microonde/Forni a microonde combinati
+13712993031	Grandi elettrodomestici/Forni e piani cottura/Forni a microonde/Forni a microonde combinati con convezione
+3543504031	Grandi elettrodomestici/Forni e piani cottura/Forni a microonde/Forni a microonde combinati con grill
+3543506031	Grandi elettrodomestici/Forni e piani cottura/Forni a microonde/Forni a microonde con cottura a vapore
+13712994031	Grandi elettrodomestici/Forni e piani cottura/Forni a microonde/Forni a microonde multifunzionali
+3543507031	Grandi elettrodomestici/Forni e piani cottura/Forni a microonde/Forni a microonde standard
+15415299031	Grandi elettrodomestici/Forni e piani cottura/Forni e piani cottura abbinati
+5495941031	Grandi elettrodomestici/Forni e piani cottura/Piani cottura
+14567219031	Grandi elettrodomestici/Garanzia estesa
+14567218031	Grandi elettrodomestici/Lavasciuga
+5495935031	Grandi elettrodomestici/Lavasciuga/Asciugatrici
+14567363031	Grandi elettrodomestici/Lavasciuga/Asciugatrici/Asciugatrici a condensazione
+14567364031	Grandi elettrodomestici/Lavasciuga/Asciugatrici/Asciugatrici a pompa di calore
+14567362031	Grandi elettrodomestici/Lavasciuga/Asciugatrici/Asciugatrici a ventilazione
+14567255031	Grandi elettrodomestici/Lavasciuga/Centrifughe
+14567256031	Grandi elettrodomestici/Lavasciuga/Colonna di lavatrice e asciugatrice
+14567254031	Grandi elettrodomestici/Lavasciuga/Lavasciuga combinate
+5495940031	Grandi elettrodomestici/Lavasciuga/Lavatrici
+14567257031	Grandi elettrodomestici/Lavasciuga/Lavatrici portatili
+14567258031	Grandi elettrodomestici/Lavasciuga/Lavatrici semi-automatiche
+5495939031	Grandi elettrodomestici/Lavastoviglie
+14567228031	Grandi elettrodomestici/Lavastoviglie/Lavastoviglie a cassetto
+14567226031	Grandi elettrodomestici/Lavastoviglie/Lavastoviglie compatte
+14567231031	Grandi elettrodomestici/Lavastoviglie/Lavastoviglie da appoggio
+14567227031	Grandi elettrodomestici/Lavastoviglie/Lavastoviglie doppie
+14567225031	Grandi elettrodomestici/Lavastoviglie/Lavastoviglie portatili
+14567230031	Grandi elettrodomestici/Lavastoviglie/Lavastoviglie slim
+14567229031	Grandi elettrodomestici/Lavastoviglie/Lavastoviglie standard
+3543538031	Grandi elettrodomestici/Macchine per cubetti di ghiaccio
+14567220031	Grandi elettrodomestici/Sterilizzatori
+14567263031	Grandi elettrodomestici/Sterilizzatori/Sterilizzatori integrati
+14567264031	Grandi elettrodomestici/Sterilizzatori/Sterilizzatori verticali

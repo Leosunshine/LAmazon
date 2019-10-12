@@ -288,6 +288,11 @@ class ProductController extends ControllerBase
 		if(!$product_instance) {
 			$product_instance = new Products();
 			$product_instance->status = 1;
+			if(count($product['variations'])){
+				$product_instance->amazon_status = "11111";
+			}else{
+				$product_instance->amazon_status = "10111";
+			}
 		}else{
 			$amazon_status = $product_instance->amazon_status;
 			if("2" === substr($amazon_status, 0,1) || "5" === substr($amazon_status, 0, 1)){ //如果尚未初始化,则进行状态切换
@@ -447,7 +452,7 @@ class ProductController extends ControllerBase
 		$amazon_status = substr($amazon_status, 0, 1);
 		if("1" === $amazon_status){
 			//不删除任何记录,便于追溯
-			$product_instance->status = 7;			
+			$product_instance->status = 7;
 		}else{
 			$product_instance->status = 6;
 			$product_instance->amazon_status = Tools::replaceCharAt($product_instance->amazon_status,0,"6");
@@ -462,9 +467,10 @@ class ProductController extends ControllerBase
 				$variation->save();
 			}
 		}
-		
 		$product_instance->save();
 		$transaction->commit();
+
+		$this->dataReturn(array("success"=>$product_id));
 	}
 	public function deleteProductOpeartionAction(){
 		$this->view->disable();

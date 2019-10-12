@@ -56,14 +56,14 @@ class AmazonController extends ControllerBase
 
 	public function updatePricesAction(){
 		$this->view->disable();
-		$products = Products::find()->toArray();
+		$products = Products::find("status < 6");
 		$product_submission_id = AmazonAPI::updatePrice($products);
 		$this->dataReturn(array("success"=>$product_submission_id));
 	}
 
 	public function updateInventoryAction(){
 		$this->view->disable();
-		$products = Products::find()->toArray();
+		$products = Products::find();
 		$submissionId = AmazonAPI::updateInventory($products);
 		$this->dataReturn(array("success"=>$submissionId));
 	}
@@ -84,13 +84,15 @@ class AmazonController extends ControllerBase
 
 	public function getpreparedcountAction(){
 		$this->view->disable();
-		$products = Products::find("status < 7")->toArray();
+		$products = Products::find("status < 7");
 		$product_count = Tools::countOfPreparedProduct($products);
-		$this->dataReturn(array("success"=>array("products"=>$product_count)));
+		$counts = Tools::countOfPreparedOther($products);
+
+		$this->dataReturn(array("success"=>array("products"=>$product_count, "relation" => $counts["relation"], "price"=>$counts["price"], "inventory"=>$counts["inventory"])));
 	}
 
 	public static function getResult(){
-		$submission = file_get_contents("./temp/uploadLog.dat");
+		$submission = file_get_contents("./temp/updateLogs/uploadLog.dat");
 		$submission = json_decode($submission,true);
 		$submissionId = $submission["submission_id"];
 		$result = AmazonAPI::getSubmissionResult($submissionId);
@@ -98,6 +100,7 @@ class AmazonController extends ControllerBase
 
 		$result = simplexml_load_string($result);
 		$result = XMLTools::xmlToArray($result);
+		print_r($result);
 		$messages = $result["AmazonEnvelope"]["Message"];
 		$report = $messages["ProcessingReport"];
 		$status = $report["StatusCode"];

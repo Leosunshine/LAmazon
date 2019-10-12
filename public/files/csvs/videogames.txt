@@ -1,0 +1,642 @@
+﻿412604031	Videogiochi
+13900151031	Videogiochi/Garanzie
+13900075031	Videogiochi/Mac
+13900076031	Videogiochi/Mac/Accessori
+13900077031	Videogiochi/Mac/Accessori/Controller e gamepad
+13900079031	Videogiochi/Mac/Accessori/Controlli di volo
+13900082031	Videogiochi/Mac/Accessori/Cuffie
+13900091031	Videogiochi/Mac/Accessori/Dispositivi VR
+13900083031	Videogiochi/Mac/Accessori/Joysticks
+13900081031	Videogiochi/Mac/Accessori/Mouse da gioco
+13900084031	Videogiochi/Mac/Accessori/Pistole laser
+13900085031	Videogiochi/Mac/Accessori/Strumenti musicali
+13900086031	Videogiochi/Mac/Accessori/Strumenti musicali/Batterie
+13900087031	Videogiochi/Mac/Accessori/Strumenti musicali/Guitarre
+13900089031	Videogiochi/Mac/Accessori/Strumenti musicali/Microfoni
+13900088031	Videogiochi/Mac/Accessori/Strumenti musicali/Tastiere
+13900078031	Videogiochi/Mac/Accessori/Tappeti da ballo
+13900080031	Videogiochi/Mac/Accessori/Tastiere da gioco
+13900090031	Videogiochi/Mac/Accessori/Volanti da corsa
+13900093031	Videogiochi/Mac/Giochi
+538525031	Videogiochi/Nintendo 3DS & 2DS
+538526031	Videogiochi/Nintendo 3DS & 2DS/Accessori
+13899988031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Accessori per la pulizia
+13899998031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Basi
+538528031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Batterie e caricabatterie
+13899978031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Batterie e caricabatterie/Batterie
+13899980031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Batterie e caricabatterie/Caricabatterie
+13899979031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+538529031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Cavi e adattatori
+13899981031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Cavi e adattatori/Adattatori
+13899983031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Cavi e adattatori/Cavi
+13899982031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+538532031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Cuffie
+13899984031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Custodie e porta cartucce
+13899985031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Custodie e porta cartucce/Custodie
+13899986031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899987031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Custodie e porta cartucce/Porta cartucce
+13899992031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Impugnature
+538527031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Kit di accessori
+13899989031	"Videogiochi/Nintendo 3DS & 2DS/Accessori/Maschere, protezioni e skins"
+538531031	"Videogiochi/Nintendo 3DS & 2DS/Accessori/Maschere, protezioni e skins/Maschere"
+13899990031	"Videogiochi/Nintendo 3DS & 2DS/Accessori/Maschere, protezioni e skins/Protezioni per schermo"
+538535031	"Videogiochi/Nintendo 3DS & 2DS/Accessori/Maschere, protezioni e skins/Skins"
+538536031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Penne stilo
+13899994031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899995031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899997031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899996031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899993031	Videogiochi/Nintendo 3DS & 2DS/Accessori/Unità di memoria
+538537031	Videogiochi/Nintendo 3DS & 2DS/Console
+13900000031	Videogiochi/Nintendo 3DS & 2DS/Figurine
+538538031	Videogiochi/Nintendo 3DS & 2DS/Giochi
+435493031	Videogiochi/Nintendo DS
+491652031	Videogiochi/Nintendo DS/Accessori
+13900064031	Videogiochi/Nintendo DS/Accessori/Accessori per la pulizia
+13900073031	Videogiochi/Nintendo DS/Accessori/Basi
+491654031	Videogiochi/Nintendo DS/Accessori/Batterie e caricabatterie
+13900054031	Videogiochi/Nintendo DS/Accessori/Batterie e caricabatterie/Batterie
+13900056031	Videogiochi/Nintendo DS/Accessori/Batterie e caricabatterie/Caricabatterie
+13900055031	Videogiochi/Nintendo DS/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+491655031	Videogiochi/Nintendo DS/Accessori/Cavi e adattatori
+13900058031	Videogiochi/Nintendo DS/Accessori/Cavi e adattatori/Adattatori
+13900059031	Videogiochi/Nintendo DS/Accessori/Cavi e adattatori/Cavi
+13900057031	Videogiochi/Nintendo DS/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+491658031	Videogiochi/Nintendo DS/Accessori/Cuffie
+13900060031	Videogiochi/Nintendo DS/Accessori/Custodie e porta cartucce
+13900061031	Videogiochi/Nintendo DS/Accessori/Custodie e porta cartucce/Custodie
+13900062031	Videogiochi/Nintendo DS/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13900063031	Videogiochi/Nintendo DS/Accessori/Custodie e porta cartucce/Porta cartucce
+13900068031	Videogiochi/Nintendo DS/Accessori/Impugnature
+491653031	Videogiochi/Nintendo DS/Accessori/Kit di accessori
+13900065031	"Videogiochi/Nintendo DS/Accessori/Maschere, protezioni e skins"
+491657031	"Videogiochi/Nintendo DS/Accessori/Maschere, protezioni e skins/Maschere"
+13900066031	"Videogiochi/Nintendo DS/Accessori/Maschere, protezioni e skins/Protezioni per schermo"
+491661031	"Videogiochi/Nintendo DS/Accessori/Maschere, protezioni e skins/Skins"
+491662031	Videogiochi/Nintendo DS/Accessori/Penne stilo
+13900069031	Videogiochi/Nintendo DS/Accessori/Strumenti di riparazione & pezzi di ricambio
+13900070031	Videogiochi/Nintendo DS/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13900072031	Videogiochi/Nintendo DS/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13900071031	Videogiochi/Nintendo DS/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+491659031	Videogiochi/Nintendo DS/Accessori/Unità di memoria e Hard-disk
+491674031	Videogiochi/Nintendo DS/Console
+528647031	Videogiochi/Nintendo DS/Giochi
+12366208031	Videogiochi/Nintendo Switch
+12366211031	Videogiochi/Nintendo Switch/Accessori
+13461648031	Videogiochi/Nintendo Switch/Accessori/Accessori per la pulizia
+13461636031	Videogiochi/Nintendo Switch/Accessori/Batterie e caricabatterie
+13461637031	Videogiochi/Nintendo Switch/Accessori/Batterie e caricabatterie/Batterie
+13461639031	Videogiochi/Nintendo Switch/Accessori/Batterie e caricabatterie/Caricabatterie
+13461638031	Videogiochi/Nintendo Switch/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13461640031	Videogiochi/Nintendo Switch/Accessori/Cavi e adattatori
+13461642031	Videogiochi/Nintendo Switch/Accessori/Cavi e adattatori/Adattatori
+13461643031	Videogiochi/Nintendo Switch/Accessori/Cavi e adattatori/Cavi
+13461641031	Videogiochi/Nintendo Switch/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13461649031	Videogiochi/Nintendo Switch/Accessori/Controller e telecomandi
+13461667031	Videogiochi/Nintendo Switch/Accessori/Copri levette analogiche
+13461656031	Videogiochi/Nintendo Switch/Accessori/Cuffie
+13461644031	Videogiochi/Nintendo Switch/Accessori/Custodie e porta cartucce
+13461646031	Videogiochi/Nintendo Switch/Accessori/Custodie e porta cartucce/Custodie
+13461645031	Videogiochi/Nintendo Switch/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13461647031	Videogiochi/Nintendo Switch/Accessori/Custodie e porta cartucce/Porta cartucce
+13461655031	Videogiochi/Nintendo Switch/Accessori/Impugnature
+13461635031	Videogiochi/Nintendo Switch/Accessori/Kit di accessori
+13461650031	"Videogiochi/Nintendo Switch/Accessori/Maschere, protezioni e skins"
+13461653031	"Videogiochi/Nintendo Switch/Accessori/Maschere, protezioni e skins/Kit di protezioni e skins"
+13461651031	"Videogiochi/Nintendo Switch/Accessori/Maschere, protezioni e skins/Maschere"
+13461652031	"Videogiochi/Nintendo Switch/Accessori/Maschere, protezioni e skins/Protezioni per schermo"
+13461654031	"Videogiochi/Nintendo Switch/Accessori/Maschere, protezioni e skins/Skins"
+13461663031	Videogiochi/Nintendo Switch/Accessori/Strumenti di riparazione & pezzi di ricambio
+13461664031	Videogiochi/Nintendo Switch/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13461666031	Videogiochi/Nintendo Switch/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13461665031	Videogiochi/Nintendo Switch/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13461658031	"Videogiochi/Nintendo Switch/Accessori/Supporti, staffe e basi"
+13461662031	"Videogiochi/Nintendo Switch/Accessori/Supporti, staffe e basi/Basi"
+13461661031	"Videogiochi/Nintendo Switch/Accessori/Supporti, staffe e basi/Kit di supporti e staffe"
+13461659031	"Videogiochi/Nintendo Switch/Accessori/Supporti, staffe e basi/Staffe"
+13461660031	"Videogiochi/Nintendo Switch/Accessori/Supporti, staffe e basi/Supporti"
+13461657031	Videogiochi/Nintendo Switch/Accessori/Unità di memoria
+12366209031	Videogiochi/Nintendo Switch/Console
+13461668031	Videogiochi/Nintendo Switch/Figurine
+12366210031	Videogiochi/Nintendo Switch/Giochi
+13900025031	Videogiochi/PC
+13900026031	Videogiochi/PC/Accessori
+13900027031	Videogiochi/PC/Accessori/Controller e gamepad
+13900029031	Videogiochi/PC/Accessori/Controlli di volo
+13900034031	Videogiochi/PC/Accessori/Cuffie
+13900035031	Videogiochi/PC/Accessori/Joystick
+13900030031	Videogiochi/PC/Accessori/Kit di tastiere e mouse per gamers
+13900032031	Videogiochi/PC/Accessori/Mouse da gioco
+13900036031	Videogiochi/PC/Accessori/Pistole laser
+14439419031	Videogiochi/PC/Accessori/Sedili per simulatori di guida
+13900037031	Videogiochi/PC/Accessori/Strumenti musicali
+13900038031	Videogiochi/PC/Accessori/Strumenti musicali/Batterie
+13900039031	Videogiochi/PC/Accessori/Strumenti musicali/Guitarre
+13900041031	Videogiochi/PC/Accessori/Strumenti musicali/Microfoni
+13900040031	Videogiochi/PC/Accessori/Strumenti musicali/Tastiere
+13900028031	Videogiochi/PC/Accessori/Tappeti da ballo
+13900033031	Videogiochi/PC/Accessori/Tappeti di mouse per gamers
+13900031031	Videogiochi/PC/Accessori/Tastiere da gioco
+13900042031	Videogiochi/PC/Accessori/Volanti da gioco
+13900045031	Videogiochi/PC/Dispositivi VR
+13900046031	Videogiochi/PC/Dispositivi VR/Accessori
+13900047031	Videogiochi/PC/Dispositivi VR/Accessori/Auricolari
+13900049031	Videogiochi/PC/Dispositivi VR/Accessori/Caricabatterie
+13900048031	Videogiochi/PC/Dispositivi VR/Accessori/Custodie e porta cartucce
+13900051031	Videogiochi/PC/Dispositivi VR/Controller e telecomandi
+13900052031	Videogiochi/PC/Dispositivi VR/Cuffie
+13900053031	Videogiochi/PC/Dispositivi VR/Sensori di movimento
+13900050031	Videogiochi/PC/Dispositivi VR/Videocamera
+13900044031	Videogiochi/PC/Giochi
+1380806031	Videogiochi/PS Vita
+1380809031	Videogiochi/PS Vita/Accessori
+13899967031	Videogiochi/PS Vita/Accessori/Accessori per la pulizia
+13899960031	Videogiochi/PS Vita/Accessori/Batterie e caricabatterie
+1499589031	Videogiochi/PS Vita/Accessori/Batterie e caricabatterie/Batterie
+1499590031	Videogiochi/PS Vita/Accessori/Batterie e caricabatterie/Caricabatterie
+13899961031	Videogiochi/PS Vita/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13899962031	Videogiochi/PS Vita/Accessori/Cavi e adattatori
+1499587031	Videogiochi/PS Vita/Accessori/Cavi e adattatori/Adattatori
+1499592031	Videogiochi/PS Vita/Accessori/Cavi e adattatori/Cavi
+13899963031	Videogiochi/PS Vita/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13899976031	Videogiochi/PS Vita/Accessori/Copri levette analogiche
+1499593031	Videogiochi/PS Vita/Accessori/Cuffie
+13899964031	Videogiochi/PS Vita/Accessori/Custodie e porta cartucce
+1499594031	Videogiochi/PS Vita/Accessori/Custodie e porta cartucce/Custodie
+13899965031	Videogiochi/PS Vita/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899966031	Videogiochi/PS Vita/Accessori/Custodie e porta cartucce/Porta cartucce
+13899970031	Videogiochi/PS Vita/Accessori/Impugnature
+1499596031	Videogiochi/PS Vita/Accessori/Kit di accessori
+13899968031	"Videogiochi/PS Vita/Accessori/Maschere, protezioni e skins"
+13899969031	"Videogiochi/PS Vita/Accessori/Maschere, protezioni e skins/Kit di protezioni e skins"
+1499595031	"Videogiochi/PS Vita/Accessori/Maschere, protezioni e skins/Maschere"
+1499598031	"Videogiochi/PS Vita/Accessori/Maschere, protezioni e skins/Protezioni per schermo"
+1499599031	"Videogiochi/PS Vita/Accessori/Maschere, protezioni e skins/Skins"
+13899972031	Videogiochi/PS Vita/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899973031	Videogiochi/PS Vita/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899975031	Videogiochi/PS Vita/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899974031	Videogiochi/PS Vita/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899971031	Videogiochi/PS Vita/Accessori/Supporti
+1499600031	Videogiochi/PS Vita/Accessori/Unità di memoria e Hard-Disk
+1380807031	Videogiochi/PS Vita/Console
+1380808031	Videogiochi/PS Vita/Giochi
+435490031	Videogiochi/PlayStation 3
+491777031	Videogiochi/PlayStation 3/Accessori
+13899883031	Videogiochi/PlayStation 3/Accessori/Accessori per la pulizia
+13899871031	Videogiochi/PlayStation 3/Accessori/Batterie e caricabatterie
+13899872031	Videogiochi/PlayStation 3/Accessori/Batterie e caricabatterie/Batterie
+13899874031	Videogiochi/PlayStation 3/Accessori/Batterie e caricabatterie/Caricabatterie
+13899873031	Videogiochi/PlayStation 3/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13899878031	Videogiochi/PlayStation 3/Accessori/Cameras e webcams
+491780031	Videogiochi/PlayStation 3/Accessori/Cavi e adattatori
+13899875031	Videogiochi/PlayStation 3/Accessori/Cavi e adattatori/Adattatori
+13899877031	Videogiochi/PlayStation 3/Accessori/Cavi e adattatori/Cavi
+13899876031	Videogiochi/PlayStation 3/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13899884031	Videogiochi/PlayStation 3/Accessori/Controller e telecomandi
+491782031	Videogiochi/PlayStation 3/Accessori/Controller e telecomandi/Controller
+13899886031	Videogiochi/PlayStation 3/Accessori/Controller e telecomandi/Joysticks
+13899885031	Videogiochi/PlayStation 3/Accessori/Controller e telecomandi/Tappeti da ballo
+13899889031	Videogiochi/PlayStation 3/Accessori/Controller e telecomandi/Telecomandi
+13899888031	Videogiochi/PlayStation 3/Accessori/Controller e telecomandi/Volanti da corsa
+13899913031	Videogiochi/PlayStation 3/Accessori/Copri levette analogiche
+491784031	Videogiochi/PlayStation 3/Accessori/Cuffie
+13899879031	Videogiochi/PlayStation 3/Accessori/Custodie e porta cartucce
+13899881031	Videogiochi/PlayStation 3/Accessori/Custodie e porta cartucce/Custodie
+13899880031	Videogiochi/PlayStation 3/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899882031	Videogiochi/PlayStation 3/Accessori/Custodie e porta cartucce/Porta cartucce
+491778031	Videogiochi/PlayStation 3/Accessori/Kit di accessori
+13899891031	"Videogiochi/PlayStation 3/Accessori/Maschere, protezioni e skins"
+491783031	"Videogiochi/PlayStation 3/Accessori/Maschere, protezioni e skins/Maschere"
+13899892031	"Videogiochi/PlayStation 3/Accessori/Maschere, protezioni e skins/Protezioni"
+491787031	"Videogiochi/PlayStation 3/Accessori/Maschere, protezioni e skins/Skins"
+14439415031	Videogiochi/PlayStation 3/Accessori/Sedili per simulatori di guida
+13899904031	Videogiochi/PlayStation 3/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899905031	Videogiochi/PlayStation 3/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899907031	Videogiochi/PlayStation 3/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899906031	Videogiochi/PlayStation 3/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899899031	Videogiochi/PlayStation 3/Accessori/Strumenti musicali
+13899900031	Videogiochi/PlayStation 3/Accessori/Strumenti musicali/Batterie
+13899901031	Videogiochi/PlayStation 3/Accessori/Strumenti musicali/Guitarre
+13899903031	Videogiochi/PlayStation 3/Accessori/Strumenti musicali/Microfoni
+13899902031	Videogiochi/PlayStation 3/Accessori/Strumenti musicali/Tastiere
+13899894031	"Videogiochi/PlayStation 3/Accessori/Supporti, staffe e basi"
+13899898031	"Videogiochi/PlayStation 3/Accessori/Supporti, staffe e basi/Basi"
+13899896031	"Videogiochi/PlayStation 3/Accessori/Supporti, staffe e basi/Kit di supporti e staffe"
+13899895031	"Videogiochi/PlayStation 3/Accessori/Supporti, staffe e basi/Staffe"
+13899897031	"Videogiochi/PlayStation 3/Accessori/Supporti, staffe e basi/Supporti"
+491785031	Videogiochi/PlayStation 3/Accessori/Unità di memoria e Hard-disk
+13899890031	Videogiochi/PlayStation 3/Accessori/Ventole di raffreddamento
+491796031	Videogiochi/PlayStation 3/Console
+13899915031	Videogiochi/PlayStation 3/Figurine
+528649031	Videogiochi/PlayStation 3/Giochi
+2569674031	Videogiochi/PlayStation 4
+2569675031	Videogiochi/PlayStation 4/Accessori
+13899752031	Videogiochi/PlayStation 4/Accessori/Accessori per la pulizia
+13899740031	Videogiochi/PlayStation 4/Accessori/Batterie e caricabatterie
+13899741031	Videogiochi/PlayStation 4/Accessori/Batterie e caricabatterie/Batterie
+13899743031	Videogiochi/PlayStation 4/Accessori/Batterie e caricabatterie/Caricabatterie
+13899742031	Videogiochi/PlayStation 4/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13899744031	Videogiochi/PlayStation 4/Accessori/Cameras e webcams
+4125217031	Videogiochi/PlayStation 4/Accessori/Cavi e adattatori
+13899746031	Videogiochi/PlayStation 4/Accessori/Cavi e adattatori/Adattatori
+13899747031	Videogiochi/PlayStation 4/Accessori/Cavi e adattatori/Cavi
+13899745031	Videogiochi/PlayStation 4/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13899753031	Videogiochi/PlayStation 4/Accessori/Controller e telecomandi
+4125223031	Videogiochi/PlayStation 4/Accessori/Controller e telecomandi/Controller
+13899755031	Videogiochi/PlayStation 4/Accessori/Controller e telecomandi/Joysticks
+13899756031	Videogiochi/PlayStation 4/Accessori/Controller e telecomandi/Motion controller
+13899754031	Videogiochi/PlayStation 4/Accessori/Controller e telecomandi/Tappeti da ballo
+13899758031	Videogiochi/PlayStation 4/Accessori/Controller e telecomandi/Telecomandi
+13899757031	Videogiochi/PlayStation 4/Accessori/Controller e telecomandi/Volanti da corsa
+13899778031	Videogiochi/PlayStation 4/Accessori/Copri levette analogiche
+4125219031	Videogiochi/PlayStation 4/Accessori/Cuffie
+13899748031	Videogiochi/PlayStation 4/Accessori/Custodie e porta cartucce
+13899750031	Videogiochi/PlayStation 4/Accessori/Custodie e porta cartucce/Custodie
+13899749031	Videogiochi/PlayStation 4/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899751031	Videogiochi/PlayStation 4/Accessori/Custodie e porta cartucce/Porta cartucce
+4125220031	Videogiochi/PlayStation 4/Accessori/Kit di accessori
+13899760031	"Videogiochi/PlayStation 4/Accessori/Maschere, protezioni e skins"
+13899762031	"Videogiochi/PlayStation 4/Accessori/Maschere, protezioni e skins/Kit di protezioni e skins"
+4125218031	"Videogiochi/PlayStation 4/Accessori/Maschere, protezioni e skins/Maschere"
+13899761031	"Videogiochi/PlayStation 4/Accessori/Maschere, protezioni e skins/Protezioni"
+4125222031	"Videogiochi/PlayStation 4/Accessori/Maschere, protezioni e skins/Skin"
+14439416031	Videogiochi/PlayStation 4/Accessori/Sedili per simulatori di guida
+13899769031	Videogiochi/PlayStation 4/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899770031	Videogiochi/PlayStation 4/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899772031	Videogiochi/PlayStation 4/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899771031	Videogiochi/PlayStation 4/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899768031	Videogiochi/PlayStation 4/Accessori/Strumenti musicali
+13899763031	"Videogiochi/PlayStation 4/Accessori/Supporti, staffe e basi"
+13899767031	"Videogiochi/PlayStation 4/Accessori/Supporti, staffe e basi/Basi"
+13899765031	"Videogiochi/PlayStation 4/Accessori/Supporti, staffe e basi/Kit di supporti e staffe"
+13899764031	"Videogiochi/PlayStation 4/Accessori/Supporti, staffe e basi/Staffe"
+13899766031	"Videogiochi/PlayStation 4/Accessori/Supporti, staffe e basi/Supporti"
+4125224031	Videogiochi/PlayStation 4/Accessori/Unità di memoria e Hard-disk
+13899759031	Videogiochi/PlayStation 4/Accessori/Ventole di raffreddamento
+2569676031	Videogiochi/PlayStation 4/Console
+9382812031	Videogiochi/PlayStation 4/Dispositivi VR
+13899781031	Videogiochi/PlayStation 4/Dispositivi VR/Accessori
+13899782031	Videogiochi/PlayStation 4/Dispositivi VR/Accessori/Auricolari
+13899784031	Videogiochi/PlayStation 4/Dispositivi VR/Accessori/Caricabatterie
+13899783031	Videogiochi/PlayStation 4/Dispositivi VR/Accessori/Custodie e porta cartucce
+13899786031	Videogiochi/PlayStation 4/Dispositivi VR/Controller e telecomandi
+13899787031	Videogiochi/PlayStation 4/Dispositivi VR/Cuffie
+13899785031	Videogiochi/PlayStation 4/Dispositivi VR/Videocamera
+13899780031	Videogiochi/PlayStation 4/Figurine
+2569677031	Videogiochi/PlayStation 4/Giochi
+5289013031	Videogiochi/PlayStation 4/PlayStation Network
+5289014031	Videogiochi/PlayStation 4/PlayStation Network/Abbonamenti
+5289015031	Videogiochi/PlayStation 4/PlayStation Network/Carte ricaricabili
+490265031	Videogiochi/Retrogaming e micro console
+491507031	Videogiochi/Retrogaming e micro console/3DO
+13900094031	Videogiochi/Retrogaming e micro console/3DO/Accessori
+13900095031	Videogiochi/Retrogaming e micro console/3DO/Console
+491508031	Videogiochi/Retrogaming e micro console/3DO/Giochi
+491510031	Videogiochi/Retrogaming e micro console/Atari 2600
+13900096031	Videogiochi/Retrogaming e micro console/Atari 2600/Accessori
+13900097031	Videogiochi/Retrogaming e micro console/Atari 2600/Console
+491511031	Videogiochi/Retrogaming e micro console/Atari 2600/Giochi
+491513031	Videogiochi/Retrogaming e micro console/Atari 5200
+13900098031	Videogiochi/Retrogaming e micro console/Atari 5200/Accessori
+13900099031	Videogiochi/Retrogaming e micro console/Atari 5200/Console
+491514031	Videogiochi/Retrogaming e micro console/Atari 5200/Giochi
+491516031	Videogiochi/Retrogaming e micro console/Atari 7800
+13900100031	Videogiochi/Retrogaming e micro console/Atari 7800/Accessori
+13900101031	Videogiochi/Retrogaming e micro console/Atari 7800/Console
+491517031	Videogiochi/Retrogaming e micro console/Atari 7800/Giochi
+491519031	Videogiochi/Retrogaming e micro console/Atari Jaguar
+13900102031	Videogiochi/Retrogaming e micro console/Atari Jaguar/Accessori
+13900103031	Videogiochi/Retrogaming e micro console/Atari Jaguar/Console
+491520031	Videogiochi/Retrogaming e micro console/Atari Jaguar/Giochi
+491522031	Videogiochi/Retrogaming e micro console/Atari Lynx
+13900104031	Videogiochi/Retrogaming e micro console/Atari Lynx/Accessori
+13900105031	Videogiochi/Retrogaming e micro console/Atari Lynx/Console
+491523031	Videogiochi/Retrogaming e micro console/Atari Lynx/Giochi
+491525031	Videogiochi/Retrogaming e micro console/ColecoVision
+13900106031	Videogiochi/Retrogaming e micro console/ColecoVision/Accessori
+13900107031	Videogiochi/Retrogaming e micro console/ColecoVision/Console
+491526031	Videogiochi/Retrogaming e micro console/ColecoVision/Giochi
+491528031	Videogiochi/Retrogaming e micro console/Commodore 64
+13900108031	Videogiochi/Retrogaming e micro console/Commodore 64/Accessori
+13900109031	Videogiochi/Retrogaming e micro console/Commodore 64/Console
+491529031	Videogiochi/Retrogaming e micro console/Commodore 64/Giochi
+491531031	Videogiochi/Retrogaming e micro console/Commodore Amiga
+13900110031	Videogiochi/Retrogaming e micro console/Commodore Amiga/Accessori
+13900111031	Videogiochi/Retrogaming e micro console/Commodore Amiga/Console
+491532031	Videogiochi/Retrogaming e micro console/Commodore Amiga/Giochi
+491535031	Videogiochi/Retrogaming e micro console/Game Boy
+13900112031	Videogiochi/Retrogaming e micro console/Game Boy/Accessori
+13900113031	Videogiochi/Retrogaming e micro console/Game Boy/Console
+491536031	Videogiochi/Retrogaming e micro console/Game Boy/Giochi
+491538031	Videogiochi/Retrogaming e micro console/Game Boy Advance
+13900114031	Videogiochi/Retrogaming e micro console/Game Boy Advance/Accessori
+13900115031	Videogiochi/Retrogaming e micro console/Game Boy Advance/Console
+491539031	Videogiochi/Retrogaming e micro console/Game Boy Advance/Giochi
+491541031	Videogiochi/Retrogaming e micro console/Game Boy Color
+13900116031	Videogiochi/Retrogaming e micro console/Game Boy Color/Accessori
+13900117031	Videogiochi/Retrogaming e micro console/Game Boy Color/Console
+491542031	Videogiochi/Retrogaming e micro console/Game Boy Color/Giochi
+491544031	Videogiochi/Retrogaming e micro console/GameCube
+13900118031	Videogiochi/Retrogaming e micro console/GameCube/Accessori
+13900119031	Videogiochi/Retrogaming e micro console/GameCube/Console
+491545031	Videogiochi/Retrogaming e micro console/GameCube/Giochi
+13900120031	Videogiochi/Retrogaming e micro console/Giochi per Linux
+491547031	Videogiochi/Retrogaming e micro console/Intellivision
+13900121031	Videogiochi/Retrogaming e micro console/Intellivision/Accessori
+13900122031	Videogiochi/Retrogaming e micro console/Intellivision/Console
+491548031	Videogiochi/Retrogaming e micro console/Intellivision/Giochi
+491550031	Videogiochi/Retrogaming e micro console/NEOGEO Pocket
+13900123031	Videogiochi/Retrogaming e micro console/NEOGEO Pocket/Accessori
+13900124031	Videogiochi/Retrogaming e micro console/NEOGEO Pocket/Console
+491551031	Videogiochi/Retrogaming e micro console/NEOGEO Pocket/Giochi
+491556031	Videogiochi/Retrogaming e micro console/Nintendo 64
+13900125031	Videogiochi/Retrogaming e micro console/Nintendo 64/Accessori
+13900126031	Videogiochi/Retrogaming e micro console/Nintendo 64/Console
+491557031	Videogiochi/Retrogaming e micro console/Nintendo 64/Giochi
+491559031	Videogiochi/Retrogaming e micro console/Nintendo NES
+13900127031	Videogiochi/Retrogaming e micro console/Nintendo NES/Accessori
+13900128031	Videogiochi/Retrogaming e micro console/Nintendo NES/Console
+491560031	Videogiochi/Retrogaming e micro console/Nintendo NES/Giochi
+9382815031	Videogiochi/Retrogaming e micro console/Nvidia Shield
+9382816031	Videogiochi/Retrogaming e micro console/Nvidia Shield/Accessori
+9382817031	Videogiochi/Retrogaming e micro console/Nvidia Shield/Console
+9382818031	Videogiochi/Retrogaming e micro console/Nvidia Shield/Giochi
+13900129031	Videogiochi/Retrogaming e micro console/Ouya
+491563031	Videogiochi/Retrogaming e micro console/PlayStation/PSone
+13900130031	Videogiochi/Retrogaming e micro console/PlayStation/PSone/Accessori
+13900131031	Videogiochi/Retrogaming e micro console/PlayStation/PSone/Console
+491564031	Videogiochi/Retrogaming e micro console/PlayStation/PSone/Giochi
+490266031	Videogiochi/Retrogaming e micro console/PlayStation 2
+491717031	Videogiochi/Retrogaming e micro console/PlayStation 2/Accessori
+491736031	Videogiochi/Retrogaming e micro console/PlayStation 2/Console
+528648031	Videogiochi/Retrogaming e micro console/PlayStation 2/Giochi
+491566031	Videogiochi/Retrogaming e micro console/Sega CD
+13900132031	Videogiochi/Retrogaming e micro console/Sega CD/Accessori
+13900133031	Videogiochi/Retrogaming e micro console/Sega CD/Console
+491567031	Videogiochi/Retrogaming e micro console/Sega CD/Giochi
+491569031	Videogiochi/Retrogaming e micro console/Sega Dreamcast
+13900134031	Videogiochi/Retrogaming e micro console/Sega Dreamcast/Accessori
+13900135031	Videogiochi/Retrogaming e micro console/Sega Dreamcast/Console
+491570031	Videogiochi/Retrogaming e micro console/Sega Dreamcast/Giochi
+491572031	Videogiochi/Retrogaming e micro console/Sega Game Gear
+13900136031	Videogiochi/Retrogaming e micro console/Sega Game Gear/Accessori
+13900137031	Videogiochi/Retrogaming e micro console/Sega Game Gear/Console
+491573031	Videogiochi/Retrogaming e micro console/Sega Game Gear/Giochi
+491575031	Videogiochi/Retrogaming e micro console/Sega Genesis/Mega Drive
+13900138031	Videogiochi/Retrogaming e micro console/Sega Genesis/Mega Drive/Accessori
+13900139031	Videogiochi/Retrogaming e micro console/Sega Genesis/Mega Drive/Console
+491576031	Videogiochi/Retrogaming e micro console/Sega Genesis/Mega Drive/Giochi
+491578031	Videogiochi/Retrogaming e micro console/Sega Master System
+13900140031	Videogiochi/Retrogaming e micro console/Sega Master System/Accessori
+13900141031	Videogiochi/Retrogaming e micro console/Sega Master System/Console
+491579031	Videogiochi/Retrogaming e micro console/Sega Master System/Giochi
+491581031	Videogiochi/Retrogaming e micro console/Sega Saturn
+13900142031	Videogiochi/Retrogaming e micro console/Sega Saturn/Accessori
+13900143031	Videogiochi/Retrogaming e micro console/Sega Saturn/Console
+491582031	Videogiochi/Retrogaming e micro console/Sega Saturn/Giochi
+9382819031	Videogiochi/Retrogaming e micro console/Steam Machines
+491584031	Videogiochi/Retrogaming e micro console/Super Nintendo/Super NES
+13900144031	Videogiochi/Retrogaming e micro console/Super Nintendo/Super NES/Accessori
+13900145031	Videogiochi/Retrogaming e micro console/Super Nintendo/Super NES/Console
+491585031	Videogiochi/Retrogaming e micro console/Super Nintendo/Super NES/Giochi
+491587031	Videogiochi/Retrogaming e micro console/TurboGrafx 16
+13900146031	Videogiochi/Retrogaming e micro console/TurboGrafx 16/Accessori
+13900147031	Videogiochi/Retrogaming e micro console/TurboGrafx 16/Console
+491588031	Videogiochi/Retrogaming e micro console/TurboGrafx 16/Giochi
+491592031	Videogiochi/Retrogaming e micro console/Xbox
+13900148031	Videogiochi/Retrogaming e micro console/Xbox/Accessori
+13900149031	Videogiochi/Retrogaming e micro console/Xbox/Console
+491593031	Videogiochi/Retrogaming e micro console/Xbox/Giochi
+13900150031	Videogiochi/Servizi di installazione
+435494031	Videogiochi/Sony PSP
+491837031	Videogiochi/Sony PSP/Accessori
+13900022031	Videogiochi/Sony PSP/Accessori/Altoparlanti
+13900001031	Videogiochi/Sony PSP/Accessori/Batterie e caricabatterie
+13900002031	Videogiochi/Sony PSP/Accessori/Batterie e caricabatterie/Batterie
+13900004031	Videogiochi/Sony PSP/Accessori/Batterie e caricabatterie/Caricabatterie
+13900003031	Videogiochi/Sony PSP/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+491840031	Videogiochi/Sony PSP/Accessori/Cavi e adattatori
+13900006031	Videogiochi/Sony PSP/Accessori/Cavi e adattatori/Adattatori
+13900007031	Videogiochi/Sony PSP/Accessori/Cavi e adattatori/Cavi
+13900005031	Videogiochi/Sony PSP/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13900023031	Videogiochi/Sony PSP/Accessori/Cinturini da polso
+13900016031	Videogiochi/Sony PSP/Accessori/Cuffie
+13900008031	Videogiochi/Sony PSP/Accessori/Custodie e porta cartucce
+13900010031	Videogiochi/Sony PSP/Accessori/Custodie e porta cartucce/Custodie
+13900009031	Videogiochi/Sony PSP/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13900011031	Videogiochi/Sony PSP/Accessori/Custodie e porta cartucce/Porta cartucce
+13900015031	Videogiochi/Sony PSP/Accessori/Impugnature
+491838031	Videogiochi/Sony PSP/Accessori/Kit di accessori
+13900012031	"Videogiochi/Sony PSP/Accessori/Maschere, protezioni e skins"
+491842031	"Videogiochi/Sony PSP/Accessori/Maschere, protezioni e skins/Maschere"
+13900013031	"Videogiochi/Sony PSP/Accessori/Maschere, protezioni e skins/Protezioni per schermo"
+491844031	"Videogiochi/Sony PSP/Accessori/Maschere, protezioni e skins/Skins"
+13900018031	Videogiochi/Sony PSP/Accessori/Strumenti di riparazione & pezzi di ricambio
+13900019031	Videogiochi/Sony PSP/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13900021031	Videogiochi/Sony PSP/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13900020031	Videogiochi/Sony PSP/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13900017031	Videogiochi/Sony PSP/Accessori/Supporti
+491843031	Videogiochi/Sony PSP/Accessori/Unità di memoria
+491854031	Videogiochi/Sony PSP/Console
+528650031	Videogiochi/Sony PSP/Giochi
+435492031	Videogiochi/Wii
+491895031	Videogiochi/Wii/Accessori
+491907031	Videogiochi/Wii/Accessori/Accessori per fitness
+13899839031	Videogiochi/Wii/Accessori/Accessori per la pulizia
+13899827031	Videogiochi/Wii/Accessori/Batterie e caricabatterie
+13899828031	Videogiochi/Wii/Accessori/Batterie e caricabatterie/Batterie
+13899830031	Videogiochi/Wii/Accessori/Batterie e caricabatterie/Caricabatterie
+13899829031	Videogiochi/Wii/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13899834031	Videogiochi/Wii/Accessori/Cameras e webcams
+491898031	Videogiochi/Wii/Accessori/Cavi e adattatori
+13899832031	Videogiochi/Wii/Accessori/Cavi e adattatori/Adattatori
+13899833031	Videogiochi/Wii/Accessori/Cavi e adattatori/Cavi
+13899831031	Videogiochi/Wii/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13899840031	Videogiochi/Wii/Accessori/Controller e telecomandi
+491900031	Videogiochi/Wii/Accessori/Controller e telecomandi/Controller
+13899843031	Videogiochi/Wii/Accessori/Controller e telecomandi/Motion controller
+13899841031	Videogiochi/Wii/Accessori/Controller e telecomandi/Tappeti da ballo
+13899845031	Videogiochi/Wii/Accessori/Controller e telecomandi/Telecomandi
+13899844031	Videogiochi/Wii/Accessori/Controller e telecomandi/Volanti da corsa
+13899869031	Videogiochi/Wii/Accessori/Copri levette analogiche
+491902031	Videogiochi/Wii/Accessori/Cuffie
+13899835031	Videogiochi/Wii/Accessori/Custodie e porta cartucce
+13899837031	Videogiochi/Wii/Accessori/Custodie e porta cartucce/Custodie
+13899836031	Videogiochi/Wii/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899838031	Videogiochi/Wii/Accessori/Custodie e porta cartucce/Porta cartucce
+491896031	Videogiochi/Wii/Accessori/Kit di accessori
+13899847031	"Videogiochi/Wii/Accessori/Maschere, protezioni e skins"
+13899849031	"Videogiochi/Wii/Accessori/Maschere, protezioni e skins/Kit di protezioni e skins"
+491901031	"Videogiochi/Wii/Accessori/Maschere, protezioni e skins/Maschere"
+13899848031	"Videogiochi/Wii/Accessori/Maschere, protezioni e skins/Protezioni"
+491906031	"Videogiochi/Wii/Accessori/Maschere, protezioni e skins/Skin"
+14439414031	Videogiochi/Wii/Accessori/Sedili per simulatori di guida
+491905031	Videogiochi/Wii/Accessori/Sensor bar
+13899860031	Videogiochi/Wii/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899861031	Videogiochi/Wii/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899863031	Videogiochi/Wii/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899862031	Videogiochi/Wii/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899855031	Videogiochi/Wii/Accessori/Strumenti musicali
+13899856031	Videogiochi/Wii/Accessori/Strumenti musicali/Batterie
+13899857031	Videogiochi/Wii/Accessori/Strumenti musicali/Guitarre
+13899859031	Videogiochi/Wii/Accessori/Strumenti musicali/Microfoni
+13899858031	Videogiochi/Wii/Accessori/Strumenti musicali/Tastiere
+13899850031	"Videogiochi/Wii/Accessori/Supporti, staffe e basi"
+13899854031	"Videogiochi/Wii/Accessori/Supporti, staffe e basi/Basi"
+13899852031	"Videogiochi/Wii/Accessori/Supporti, staffe e basi/Kit di supporti e staffe"
+13899851031	"Videogiochi/Wii/Accessori/Supporti, staffe e basi/Staffe"
+13899853031	"Videogiochi/Wii/Accessori/Supporti, staffe e basi/Supporti"
+491903031	Videogiochi/Wii/Accessori/Unità di memoria e Hard-disk
+13899846031	Videogiochi/Wii/Accessori/Ventole di raffreddamento
+491916031	Videogiochi/Wii/Console
+528651031	Videogiochi/Wii/Giochi
+1659415031	Videogiochi/Wii U
+1659416031	Videogiochi/Wii U/Accessori
+2593171031	Videogiochi/Wii U/Accessori/Accessori per fitness
+13899796031	Videogiochi/Wii U/Accessori/Accessori per la pulizia
+13899788031	Videogiochi/Wii U/Accessori/Batterie e caricabatterie
+2593158031	Videogiochi/Wii U/Accessori/Batterie e caricabatterie/Batterie
+2593159031	Videogiochi/Wii U/Accessori/Batterie e caricabatterie/Caricabatterie
+13899789031	Videogiochi/Wii U/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13899792031	Videogiochi/Wii U/Accessori/Cameras e webcams
+13899790031	Videogiochi/Wii U/Accessori/Cavi e adattatori
+2593157031	Videogiochi/Wii U/Accessori/Cavi e adattatori/Adattatori di corrente
+2593163031	Videogiochi/Wii U/Accessori/Cavi e adattatori/Cavi
+13899791031	Videogiochi/Wii U/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+2593169031	Videogiochi/Wii U/Accessori/Controller e telecomandi
+2593964031	Videogiochi/Wii U/Accessori/Controller e telecomandi/Controller e gamepad
+13899798031	Videogiochi/Wii U/Accessori/Controller e telecomandi/Motion controller
+13899800031	Videogiochi/Wii U/Accessori/Controller e telecomandi/Telecomandi
+13899799031	Videogiochi/Wii U/Accessori/Controller e telecomandi/Volanti da corsa
+13899824031	Videogiochi/Wii U/Accessori/Copri levette analogiche
+2593164031	Videogiochi/Wii U/Accessori/Cuffie
+13899793031	Videogiochi/Wii U/Accessori/Custodie e porta cartucce
+2593162031	Videogiochi/Wii U/Accessori/Custodie e porta cartucce/Custodie
+13899794031	Videogiochi/Wii U/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899795031	Videogiochi/Wii U/Accessori/Custodie e porta cartucce/Porta cartucce
+2593165031	Videogiochi/Wii U/Accessori/Kit di accessori
+13899802031	"Videogiochi/Wii U/Accessori/Maschere, protezioni e skins"
+13899804031	"Videogiochi/Wii U/Accessori/Maschere, protezioni e skins/Kit di protezioni e skins"
+13899803031	"Videogiochi/Wii U/Accessori/Maschere, protezioni e skins/Maschere"
+2593161031	"Videogiochi/Wii U/Accessori/Maschere, protezioni e skins/Protezioni per schermo"
+2593168031	"Videogiochi/Wii U/Accessori/Maschere, protezioni e skins/Skin"
+2593167031	Videogiochi/Wii U/Accessori/Sensor bar
+13899815031	Videogiochi/Wii U/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899816031	Videogiochi/Wii U/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899818031	Videogiochi/Wii U/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899817031	Videogiochi/Wii U/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899810031	Videogiochi/Wii U/Accessori/Strumenti musicali
+13899811031	Videogiochi/Wii U/Accessori/Strumenti musicali/Batterie
+13899812031	Videogiochi/Wii U/Accessori/Strumenti musicali/Guitarre
+13899814031	Videogiochi/Wii U/Accessori/Strumenti musicali/Microfoni
+13899813031	Videogiochi/Wii U/Accessori/Strumenti musicali/Tastiere
+13899805031	"Videogiochi/Wii U/Accessori/Supporti, staffe e basi"
+13899809031	"Videogiochi/Wii U/Accessori/Supporti, staffe e basi/Basi"
+13899807031	"Videogiochi/Wii U/Accessori/Supporti, staffe e basi/Kit di supporti e staffe"
+13899806031	"Videogiochi/Wii U/Accessori/Supporti, staffe e basi/Staffe"
+13899808031	"Videogiochi/Wii U/Accessori/Supporti, staffe e basi/Supporti"
+2593170031	Videogiochi/Wii U/Accessori/Unità di memoria e Hard-disk
+13899801031	Videogiochi/Wii U/Accessori/Ventole di raffreddamento
+1659417031	Videogiochi/Wii U/Console
+13899826031	Videogiochi/Wii U/Figurine
+1659418031	Videogiochi/Wii U/Giochi
+435491031	Videogiochi/Xbox 360
+491957031	Videogiochi/Xbox 360/Accessori
+13899928031	Videogiochi/Xbox 360/Accessori/Accessori per la pulizia
+13899916031	Videogiochi/Xbox 360/Accessori/Batterie e caricabatterie
+13899917031	Videogiochi/Xbox 360/Accessori/Batterie e caricabatterie/Batterie
+13899919031	Videogiochi/Xbox 360/Accessori/Batterie e caricabatterie/Caricabatterie
+13899918031	Videogiochi/Xbox 360/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13899923031	Videogiochi/Xbox 360/Accessori/Cameras e webcams
+491960031	Videogiochi/Xbox 360/Accessori/Cavi e adattatori
+13899920031	Videogiochi/Xbox 360/Accessori/Cavi e adattatori/Adattatori
+13899922031	Videogiochi/Xbox 360/Accessori/Cavi e adattatori/Cavi
+13899921031	Videogiochi/Xbox 360/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13899929031	Videogiochi/Xbox 360/Accessori/Controller e telecomandi
+491962031	Videogiochi/Xbox 360/Accessori/Controller e telecomandi/Controller
+13899933031	Videogiochi/Xbox 360/Accessori/Controller e telecomandi/Telecomandi
+13899932031	Videogiochi/Xbox 360/Accessori/Controller e telecomandi/Volanti da corsa
+13899957031	Videogiochi/Xbox 360/Accessori/Copri levette analogiche
+491964031	Videogiochi/Xbox 360/Accessori/Cuffie
+13899924031	Videogiochi/Xbox 360/Accessori/Custodie e porta cartucce
+13899926031	Videogiochi/Xbox 360/Accessori/Custodie e porta cartucce/Custodie
+13899925031	Videogiochi/Xbox 360/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899927031	Videogiochi/Xbox 360/Accessori/Custodie e porta cartucce/Porta cartucce
+491958031	Videogiochi/Xbox 360/Accessori/Kit di accessori
+13899935031	"Videogiochi/Xbox 360/Accessori/Maschere, protezioni e skins"
+491963031	"Videogiochi/Xbox 360/Accessori/Maschere, protezioni e skins/Maschere"
+13899936031	"Videogiochi/Xbox 360/Accessori/Maschere, protezioni e skins/Protezioni"
+491968031	"Videogiochi/Xbox 360/Accessori/Maschere, protezioni e skins/Skins"
+14439417031	Videogiochi/Xbox 360/Accessori/Sedili per simulatori di guida
+13899948031	Videogiochi/Xbox 360/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899949031	Videogiochi/Xbox 360/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899951031	Videogiochi/Xbox 360/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899950031	Videogiochi/Xbox 360/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899943031	Videogiochi/Xbox 360/Accessori/Strumenti musicali
+13899944031	Videogiochi/Xbox 360/Accessori/Strumenti musicali/Batterie
+13899945031	Videogiochi/Xbox 360/Accessori/Strumenti musicali/Guitarre
+13899947031	Videogiochi/Xbox 360/Accessori/Strumenti musicali/Microfoni
+13899946031	Videogiochi/Xbox 360/Accessori/Strumenti musicali/Tastiere
+13899938031	"Videogiochi/Xbox 360/Accessori/Supporti, staffe e basi"
+13899942031	"Videogiochi/Xbox 360/Accessori/Supporti, staffe e basi/Basi"
+13899940031	"Videogiochi/Xbox 360/Accessori/Supporti, staffe e basi/Kit di supporti e staffe"
+13899939031	"Videogiochi/Xbox 360/Accessori/Supporti, staffe e basi/Staffe"
+13899941031	"Videogiochi/Xbox 360/Accessori/Supporti, staffe e basi/Supporti"
+491965031	Videogiochi/Xbox 360/Accessori/Unità di memoria e Hard-disk
+13899934031	Videogiochi/Xbox 360/Accessori/Ventole di raffreddamento
+491977031	Videogiochi/Xbox 360/Console
+13899959031	Videogiochi/Xbox 360/Figurine
+528652031	Videogiochi/Xbox 360/Giochi
+2785638031	Videogiochi/Xbox One
+2785639031	Videogiochi/Xbox One/Accessori
+13899706031	Videogiochi/Xbox One/Accessori/Accessori per la pulizia
+13899694031	Videogiochi/Xbox One/Accessori/Batterie e caricabatterie
+13899695031	Videogiochi/Xbox One/Accessori/Batterie e caricabatterie/Batterie
+13899696031	Videogiochi/Xbox One/Accessori/Batterie e caricabatterie/Caricabatterie
+13899697031	Videogiochi/Xbox One/Accessori/Batterie e caricabatterie/Kit di batterie e caricatore
+13899701031	Videogiochi/Xbox One/Accessori/Cameras e webcams
+4125275031	Videogiochi/Xbox One/Accessori/Cavi e adattatori
+13899698031	Videogiochi/Xbox One/Accessori/Cavi e adattatori/Adattatori
+13899699031	Videogiochi/Xbox One/Accessori/Cavi e adattatori/Cavi
+13899700031	Videogiochi/Xbox One/Accessori/Cavi e adattatori/Kit di cavi e adattatori
+13899707031	Videogiochi/Xbox One/Accessori/Controller e telecomandi
+4125282031	Videogiochi/Xbox One/Accessori/Controller e telecomandi/Controller
+13899708031	Videogiochi/Xbox One/Accessori/Controller e telecomandi/Joysticks
+13899711031	Videogiochi/Xbox One/Accessori/Controller e telecomandi/Telecomandi
+13899710031	Videogiochi/Xbox One/Accessori/Controller e telecomandi/Volanti da corsa
+13899730031	Videogiochi/Xbox One/Accessori/Copri levette analogiche
+4125277031	Videogiochi/Xbox One/Accessori/Cuffie
+13899702031	Videogiochi/Xbox One/Accessori/Custodie e porta cartucce
+13899703031	Videogiochi/Xbox One/Accessori/Custodie e porta cartucce/Custodie
+13899704031	Videogiochi/Xbox One/Accessori/Custodie e porta cartucce/Kit di custodie e porta cartucce
+13899705031	Videogiochi/Xbox One/Accessori/Custodie e porta cartucce/Porta cartucce
+4125278031	Videogiochi/Xbox One/Accessori/Kit di accessori
+13899713031	"Videogiochi/Xbox One/Accessori/Maschere, protezioni e skins"
+13899715031	"Videogiochi/Xbox One/Accessori/Maschere, protezioni e skins/Kit di protezioni e skins"
+4125276031	"Videogiochi/Xbox One/Accessori/Maschere, protezioni e skins/Maschere"
+13899714031	"Videogiochi/Xbox One/Accessori/Maschere, protezioni e skins/Protezioni"
+4125281031	"Videogiochi/Xbox One/Accessori/Maschere, protezioni e skins/Skin"
+14439418031	Videogiochi/Xbox One/Accessori/Sedili per simulatori di guida
+13899721031	Videogiochi/Xbox One/Accessori/Strumenti di riparazione & pezzi di ricambio
+13899722031	Videogiochi/Xbox One/Accessori/Strumenti di riparazione & pezzi di ricambio/Kit di riparazione
+13899724031	Videogiochi/Xbox One/Accessori/Strumenti di riparazione & pezzi di ricambio/Pezzi di ricambio
+13899723031	Videogiochi/Xbox One/Accessori/Strumenti di riparazione & pezzi di ricambio/Strumenti di riparazione
+13899716031	"Videogiochi/Xbox One/Accessori/Supporti, staffe e basi"
+13899720031	"Videogiochi/Xbox One/Accessori/Supporti, staffe e basi/Basi"
+13899718031	"Videogiochi/Xbox One/Accessori/Supporti, staffe e basi/Kit di supporti e staffe"
+13899717031	"Videogiochi/Xbox One/Accessori/Supporti, staffe e basi/Staffe"
+13899719031	"Videogiochi/Xbox One/Accessori/Supporti, staffe e basi/Supporti"
+4125283031	Videogiochi/Xbox One/Accessori/Unità di memoria e Hard-disk
+13899712031	Videogiochi/Xbox One/Accessori/Ventole di raffreddamento
+2785640031	Videogiochi/Xbox One/Console
+9382813031	Videogiochi/Xbox One/Dispositivi VR
+13899733031	Videogiochi/Xbox One/Dispositivi VR/Accessori
+13899734031	Videogiochi/Xbox One/Dispositivi VR/Accessori/Auricolari
+13899736031	Videogiochi/Xbox One/Dispositivi VR/Accessori/Caricabatterie
+13899735031	Videogiochi/Xbox One/Dispositivi VR/Accessori/Custodie e porta cartucce
+13899738031	Videogiochi/Xbox One/Dispositivi VR/Controller e telecomandi
+13899739031	Videogiochi/Xbox One/Dispositivi VR/Cuffie
+13899737031	Videogiochi/Xbox One/Dispositivi VR/Videocamera
+13899732031	Videogiochi/Xbox One/Figurine
+2785641031	Videogiochi/Xbox One/Giochi
+4125332031	Videogiochi/Xbox One/Xbox Live

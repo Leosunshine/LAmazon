@@ -14,69 +14,52 @@ class AmazonAPI
 		$uploadLog = array("submission_id"=>"","products"=>array(), "variation"=>array());
 
 		foreach ($products as $index => $product) {
+			$SKU = $product->SKU;
 			$product->setTransaction($transaction);
-			$amazon_status = $product->amazon_status;
-			$amazon_status = substr($amazon_status, 0, 1);
-			if("1" !== $amazon_status && "3" !== $amazon_status){
+
+			if(AmazonStatus::isNeedDelete($product)){
+				//处理完全删除产品的操作，暂时不允许删除主产品来释放变体的操作
+				$message[] = AmazonAPI::constructDeleteProductMessage($messageIndex++,$SKU);
+
+				//修改删除状态为7
+				AmazonStatus::setProductStatus($product, LAMAZON_DATA_DELETING);
+				$uploadLog["products"][$product->SKU] = array("id"=>$product->id,"SKU"=>$product->SKU,"operation"=>"delete");
+				$product->save();
+
+				//忽略变体状态，并所属该产品变体一律删除
+				$variations = Variation::find(array(
+					"product_id = :p_id:",
+					"bind"=>array("p_id"=>$product->id)
+				));
+				foreach ($variations as $key => $variation) {
+					$va_SKU = $variation->SKU;
+					if(AmazonStatus::isAmazonExist($variation)){
+						//若变体已存在amazon中
+						$message[] = AmazonAPI::constructDeleteProductMessage($messageIndex++, $va_SKU);
+						$uploadLog["variation"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"delete");
+						AmazonStatus::setProductStatus($variation, LAMAZON_DATA_DELETING, true);
+					}else{
+						$variation->product_id = 0; //将该变体直接置无效
+					}
+					$variation->save();
+				}
 				continue;
 			}
 
-			$SKU = $product->SKU;
+			
 			$EAN = $product->ASIN;
-			$perpackage_count = $product->perpackage_count?($product->perpackage_count * 1):1;
-			$title = $product->title?$product->title:"No Title";
-			$brand = $product->brand?$product->brand:"Unknown Brand";
-			$description = $product->description?$product->description:"No description";
-			$description = "<p>".str_replace("\n", "</p><p>", $description)."</p>";
-
-			$keywords = explode(",",$product->keywords);
-			$bulletPoint = array();
-			foreach($keywords as $index => $keyword){
-				if($index >= 5) continue;
-				$bulletPoint[] = array("BulletPoint"=>trim($keyword));
+			if(AmazonStatus::isNeedUpdate($product,"Product")){
+				//需要更新product数据
+				$message[] = AmazonAPI::constructUpdateProductMessage($messageIndex++, $SKU, $EAN, $product, false);
+				AmazonStatus::setProductUpdating($product); //设置上传中状态
+				$uploadLog["products"][$SKU] = array("id"=>$product->id,"SKU"=>$SKU,"operation"=>"update");
+				$product->save();
 			}
-			$manufacturer = $product->manufacturer?$product->manufacturer:"Unknown manufacturer";
-			$category = $product->amazon_category_id;
-			$category = Amazoncategory::findFirst($category)->toArray();
-			$productData =AmazonXSDFactory::construct($product->toArray());
-
-			$message[] = array(
-				"Message"=>array(
-					"MessageID"=>$messageIndex++,
-					"OperationType"=>"Update",
-					"Product"=>array(
-						"SKU"=>$SKU,
-						"StandardProductID"=>array(
-							"Type"=>"EAN",
-							"Value"=>$EAN
-						),
-						"Condition"=>array(
-							"ConditionType"=>"New"
-						),
-						"ItemPackageQuantity"=>1,
-						"NumberOfItems"=>$perpackage_count,
-						"DescriptionData"=>array(
-							"Title"=>$title,
-							"Brand"=>$brand,
-							"Description"=>"<![CDATA[$description]]>",
-							$bulletPoint,
-							"Manufacturer"=>$manufacturer,
-							"RecommendedBrowseNode"=>$product->amazon_nodeId
-						),
-						"ProductData"=>$productData
-					)
-				)
-			);
-			$product->status = 4;
-			$product->amazon_status = Tools::replaceCharAt($product->amazon_status,0,"4");
-			$uploadLog["products"][$SKU] = array("id"=>$product->id,"SKU"=>$SKU,"operation"=>"update");
-			$product->save();
 
 			$variations = Variation::find(array(
 				"product_id = :p_id:",
 				"bind"=>array("p_id"=>$product->id)
 			));
-
 
 			$variation_theme = $product->variation_theme;
 
@@ -86,88 +69,50 @@ class AmazonAPI
 				$va_name = $variation->name;
 				$va_ASIN = $variation->EAN;
 
-				$message[] = array(
-					"Message"=>array(
-						"MessageID"=>$messageIndex++,
-						"OperationType"=>"Update",
-						"Product"=>array(
-							"SKU"=>$va_SKU,
-							"StandardProductID"=>array(
-								"Type"=>"EAN",
-								"Value"=>$va_ASIN
-							),
-							"DescriptionData"=>array(
-								"Title"=>$title." ".$va_name,
-								"Brand"=>$brand,
-								"Description"=>"<![CDATA[$description]]>",
-								$bulletPoint,
-								"Manufacturer"=>$manufacturer,
-								"RecommendedBrowseNode"=>$product->amazon_nodeId
-							),
-							"ProductData"=>array(
-								"Home"=>array(
-									"ProductType"=>array(
-										"Home"=>array(
-											"Material"=>$product->material_type?$product->material_type:"unknown"
-										)
-									),
-									"Parentage"=>"child",
-									"VariationData"=>array(
-										$variation_theme=>$va_name
-									)
-								)
-							)
-						)
-					)
-				);
-				$uploadLog["variation"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"update");
-				$variation->amazon_status = Tools::replaceCharAt($variation->amazon_status, 0, "4");
+				if(AmazonStatus::isNeedDelete($variation)){
+					//若该变体期望从amazon删除
+					$message[] = AmazonAPI::constructDeleteProductMessage($messageIndex++, $va_SKU);
+					$uploadLog["variation"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"delete");
+				}
+				else if(AmazonStatus::isNeedUpdate($variation,"Product")){
+					$message[] = AmazonAPI::constructUpdateProductMessage($messageIndex++, $va_SKU, $va_ASIN, $product, true, $va_name);
+					$uploadLog["variation"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"update");
+				}
+				AmazonStatus::setProductUpdating($variation, true);
 				$variation->save();
 			}
 		}
-		if($messageIndex == 1){
-			return 0;
-		}else{
-			$feed_json = array(
-				"AmazonEnvelope"=>array(
-					"Header"=>array(
-						"DocumentVersion"=>1.01,
-						"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']
-					),
-					"MessageType"=>"Product",
-					"PurgeAndReplace"=>"false",
-					$message
-				)
-			);
-			$feed = XMLTools::Json2Xml($feed_json);
-			file_put_contents("./temp/temp.dat", $feed);
-			$submission_id = AmazonAPI::submitFeed($feed,$amazon_config);
-			if(isset($submission_id["submission_id"])){
-				return $submission_id;
-			}
 
-			try{
-				$transaction->commit();
-			}catch(Exception $e){
-				$transaction->rollback();
-			}
-			
-			$uploadLog["submission_id"] = $submission_id;
-			$uploadLog["status"] = "submitted";
-			file_put_contents("./temp/updateLogs/uploadLog.dat", json_encode($uploadLog,JSON_PRETTY_PRINT));
+		$feed_json = AmazonAPI::constructFeedJson($message, $amazon_config, "Product");
+		if(!$feed_json) return 0;
+		$feed = XMLTools::Json2Xml($feed_json);
+		file_put_contents("./temp/temp.dat", $feed);
+		$submission_id = AmazonAPI::submitFeed($feed,$amazon_config);
+		if(isset($submission_id["submission_id"])){
 			return $submission_id;
 		}
+		try{
+			$transaction->commit();
+		}catch(Exception $e){
+			$transaction->rollback();
+		}
+		
+		$uploadLog["submission_id"] = $submission_id;
+		$uploadLog["status"] = "submitted";
+		file_put_contents("./temp/updateLogs/uploadLog.dat", json_encode($uploadLog,JSON_PRETTY_PRINT));
+		return $submission_id;
 	}
 
 	public static function updatePrice($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
 		$messageIndex = 1;
-
+		$uploadLog = array("products"=>array(),"variations"=>array());
 		foreach ($products as $index => $product) {
-			$SKU = $product['SKU'];
-			$currency = $product['currency'];
-			$price = $product['price'];
+			if(!AmazonStatus::isValid($product)) continue;
+			$SKU = $product->SKU;
+			$currency = $product->currency;
+			$price = $product->price;
 			switch ($currency) {
 				case '美元': $currency = "USD";break;
 				case '英磅': $currency = "GBP";break;
@@ -185,73 +130,53 @@ class AmazonAPI
 					$currency = "DEFAULT";break;
 			}
 
-			$variations = $product["variation_node"];
+			$variations = $product->variation_node;
+
 			if($variations){
 				$variations = explode("|", $variations);
+
 				foreach ($variations as $key => $value) {
-					$variation_instance = Variation::findFirst($value)->toArray();
-					$va_SKU = $variation_instance["SKU"];
-					$va_price_bonus = $variation_instance["price_bonus"];
+					$variation_instance = Variation::findFirst($value);
+					if(!(AmazonStatus::isValid($variation_instance, true) && AmazonStatus::isNeedUpdate($variation_instance,"Price")))	continue;
+
+					$va_SKU = $variation_instance->SKU;
+					$va_price_bonus = $variation_instance->price_bonus;
 					$va_price = $price * 1.0 + $va_price_bonus * 1.0;
-					$message[] = array(
-						"Message"=>array(
-							"MessageID"=>$messageIndex++,
-							"Price"=>array(
-								"SKU"=>$va_SKU,
-								"StandardPrice"=>array(
-									$va_price,
-									"__properties"=>array(
-										"currency"=>"EUR"
-									)
-								)
-							)
-						)
-					);
+					$message[] = AmazonAPI::constructUpdatePriceMessage($messageIndex++, $va_SKU, $va_price, "EUR");
+					AmazonStatus::setPriceUpdating($variation_instance);
+					$uploadLog["variations"][$va_SKU] = array("id" => $variation_instance->id, "SKU"=>$va_SKU, "operation"=>"update_price");
+					$variation_instance->save();
 				}
 			}else{
-				$message[] = array(
-					"Message"=>array(
-						"MessageID"=>$messageIndex++,
-						"Price"=>array(
-							"SKU"=>$SKU,
-							"StandardPrice"=>array(
-								$price,
-								"__properties"=>array(
-									"currency"=>"EUR"
-								)
-							)
-						)
-					)
-				);
+				if(!AmazonStatus::isNeedUpdate($product,"Price")) continue;
+				$message[] = AmazonAPI::constructUpdatePriceMessage($messageIndex++, $SKU, $price, "EUR");
+				AmazonStatus::setPriceUpdating($product);
+				$uploadLog["products"][$SKU] = array("id"=>$product->id, "SKU"=>$SKU, "operation"=>"update_price");
+				$product->save();
 			}
 			
 		}
-		$feed_json = array(
-			"AmazonEnvelope"=>array(
-				"Header"=>array(
-					"DocumentVersion"=>1.01,
-					"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']
-				),
-				"MessageType"=>"Price",
-				$message
-			)
-		);
-
-		$feed = XMLTools::Json2Xml($feed_json);
-		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_PRICING_DATA_");
+		return AmazonAPI::submitMessages($message, $amazon_config, "Price", array(
+			"xml"=>"./temp/temp.dat",
+			"uploadLog"=>$uploadLog
+		));
 	}
 	
 	public static function updateRelationship($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
 		$messageIndex = 1;
-		$uploadLog = array("products"=>array());
+		$uploadLog = array("products"=>array(), "variations"=>array());
 		foreach ($products as $index => $product) {
+			if(!AmazonStatus::isNeedUpdate_Relation($product)){
+				continue;
+			}
+
 			$SKU = $product->SKU;
 			$variations = $product->variation_node;
 			$variations = explode("|", $variations);
 			$relation = array();
-			$uploadLog["products"][$SKU] = array();
+			$uploadLog["products"][$SKU] = array("id" => $product->id,"SKU" => $SKU,"operation"=>"update_relation","variations"=>array());
 			foreach ($variations as $key => $variation) {
 				$variation_instance = Variation::findFirst($variation)->toArray();
 				if(!$variation_instance) continue;
@@ -262,7 +187,7 @@ class AmazonAPI
 						"Type"=>"Variation"
 					)
 				);
-				$uploadLog["products"][$SKU][] = $variation_instance["SKU"];
+				$uploadLog["products"][$SKU]["variations"][] = $variation_instance["SKU"];
 			}
 
 			$message[] = array(
@@ -273,92 +198,74 @@ class AmazonAPI
 						"ParentSKU"=>$SKU,
 						$relation
 					)
-
 				)
 			);
+
+			AmazonStatus::setRelationUpdating($product);
+			$product->save();
 		}
 
-		if(1 === $messageIndex){
-			return 0;
-		}else{
-			$feed_json = array(
-				"AmazonEnvelope"=>array(
-					"Header"=>array(
-						"DocumentVersion"=>1.01,
-						"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']
-					),
-					"MessageType"=>"Relationship",
-					"PurgeAndReplace"=>"false",
-					$message
-				)
-			);
+		$feed_json = AmazonAPI::constructFeedJson($message, $amazon_config, "Relationship");
+		if(!$feed_json) return 0;
 
-			$feed = XMLTools::Json2Xml($feed_json);
-			file_put_contents("./temp/temp.dat", $feed);
-			$submission_id = AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_RELATIONSHIP_DATA_");
-			$uploadLog["submission_id"] = $submission_id;
-			file_put_contents("./temp/uploadLog.dat", json_encode($uploadLog, JSON_PRETTY_PRINT));
+		$feed = XMLTools::Json2Xml($feed_json);
+		file_put_contents("./temp/temp.dat", $feed);
+		$submission_id = AmazonAPI::submitFeed($feed,$amazon_config,"_POST_PRODUCT_RELATIONSHIP_DATA_");
+
+		if(isset($submission_id["submission_id"])){
 			return $submission_id;
 		}
+
+		$uploadLog["submission_id"] = $submission_id;
+		$uploadLog["status"] = "submitted";
+		file_put_contents("./temp/updateLogs/uploadLog.dat", json_encode($uploadLog, JSON_PRETTY_PRINT));
+		return $submission_id;
 	}
 	public static function updateInventory($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
 		$messageIndex = 1;
+
+		$uploadLog = array("products"=>array(),"variations"=>array());
 		foreach ($products as $index => $product) {
-			$SKU = $product['SKU'];
-			$variations = $product["variation_node"];
+
+			if(!AmazonStatus::isValid($product)) continue;
+
+			$SKU = $product->SKU;
+			$variations = $product->variation_node;
 			if($variations){
 				$variations = explode("|", $variations);
 				foreach ($variations as $key => $value) {
-					$variation_instance = Variation::findFirst($value)->toArray();
-					$va_SKU = $variation_instance["SKU"];
-					$va_count = $variation_instance["inventory_count"];
-					$message[] =array(
-						"Message"=>array(
-							"MessageID"=> $messageIndex++,
-							"OperationType"=>"Update",
-							"Inventory"=>array(
-								"SKU"=>$va_SKU,
-								"Quantity"=>$va_count,
-								"FulfillmentLatency"=>7
-							)
-						)
-					);
+					$variation_instance = Variation::findFirst($value);
+					if(!(AmazonStatus::isValid($variation_instance, true) && AmazonStatus::isNeedUpdate_Inventory($variation_instance)))	continue;
+					$va_SKU = $variation_instance->SKU;
+					$va_count = $variation_instance->inventory_count;
+					$message[] = AmazonAPI::constructUpdateInventoryMessage($messageIndex++, $va_SKU, $va_count);
+					AmazonStatus::setInventoryUpdating($variation_instance);
+					$uploadLog["variations"][$va_SKU] = array("id"=>$variation_instance->id, "SKU"=>$va_SKU, "operation"=>"update_inventory");
+					$variation_instance->save();
 				}
 			}else{
-				$quantity = $product['product_count'];
-				$message[] = 
-					array(
-						"Message"=>array(
-							"MessageID"=> $messageIndex++,
-							"OperationType"=>"Update",
-							"Inventory"=>array(
-								"SKU"=>$SKU,
-								"Quantity"=>$quantity,
-								"FulfillmentLatency"=>7
-							)
-						)
-					);
+				if(!AmazonStatus::isNeedUpdate_Inventory($product)) continue;
+				$quantity = $product->product_count;
+				$message[] = AmazonAPI::constructUpdateInventoryMessage($messageIndex++, $SKU, $quantity);
+				AmazonStatus::setInventoryUpdating($product);
+				$uploadLog["products"][$SKU] = array("id"=>$product->id, "SKU"=>$SKU, "operation"=>"update_inventory");
+				$product->save();
 			}
-
 		}
-
-		$feed_json = array(
-			"AmazonEnvelope"=>array(
-				"Header"=>array(
-					"DocumentVersion"=>1.01,
-					"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']					
-				),
-				"MessageType"=>"Inventory",
-				"PurgeAndReplace"=>"false",
-				$message
-			)
-		);
-
+		$feed_json = AmazonAPI::constructFeedJson($message, $amazon_config, "Inventory");
+		if(!$feed_json) return 0;
 		$feed = XMLTools::Json2Xml($feed_json);
 		file_put_contents("./temp/temp.dat", $feed);
-		return AmazonAPI::submitFeed($feed,$amazon_config,"_POST_INVENTORY_AVAILABILITY_DATA_");
+		$submission_id = AmazonAPI::submitFeed($feed,$amazon_config,"_POST_INVENTORY_AVAILABILITY_DATA_");
+		if(isset($submission_id["submission_id"])){
+			return $submission_id;
+		}
+		$uploadLog["submission_id"] = $submission_id;
+		$uploadLog["status"] = "submitted";
+		file_put_contents("./temp/updateLogs/uploadLog.dat", json_encode($uploadLog,JSON_PRETTY_PRINT));
+		return $submission_id;
 	}
 
 	public static function updateShipping($products){
@@ -515,52 +422,6 @@ class AmazonAPI
 		return $ean13;
 	}
 
-	public static function submitFeed($feed,$amazon_config,$submitType = "_POST_PRODUCT_DATA_"){
-		$serviceUrl = $amazon_config["ServiceUrlSubmitDE"];
-		$config = array (
-			'ServiceURL' => $serviceUrl,
-			'ProxyHost' => null,
-			'ProxyPort' => -1,
-			'MaxErrorRetry' => 3,
-		);
-		$service = new MarketplaceWebService_Client(
-			$amazon_config['AWS_ACCESS_KEY_ID'], 
-			$amazon_config['AWS_SECRET_ACCESS_KEY'], 
-			$config,
-			$amazon_config['APPLICATION_NAME'],
-			$amazon_config['APPLICATION_VERSION']);
-
-		$marketplaceIdArray = array("Id" => array('A1PA6795UKMFR9'));
-		$feedHandle = @fopen('php://temp', 'rw+');
-		fwrite($feedHandle, $feed);
-		rewind($feedHandle);
-		$parameters = array (
-			'Merchant' => $amazon_config['MERCHANT_ID'],
-			'MarketplaceIdList' => $marketplaceIdArray,
-			'FeedType' => $submitType,
-			'FeedContent' => $feedHandle,
-			'PurgeAndReplace' => false,
-			'ContentMd5' => base64_encode(md5(stream_get_contents($feedHandle), true)),
-			'MWSAuthToken' => $amazon_config['token']
-		);
-		rewind($feedHandle);
-		$request = new MarketplaceWebService_Model_SubmitFeedRequest($parameters);
-		try{
-			$response = $service->submitFeed($request);
-			$result = $response->getSubmitFeedResult();
-			$submissionId = $result->getFeedSubmissionInfo()->getFeedSubmissionId();
-			return $submissionId;
-		}catch(MarketplaceWebService_Exception $ex){
-			return array(
-				"submission_id"=>0,
-				"Exception"=>$ex->getMessage(),
-         		"status_code"=>$ex->getStatusCode(),
-        		"error_code"=>$ex->getErrorCode(),
-         		"error_type"=>$ex->getErrorType()
-			);
-		}
-	}
-
 	public static function uploadImage($products){
 		$amazon_config = LAmazonConfig::$amazon_config;
 		$message = array();
@@ -622,6 +483,192 @@ class AmazonAPI
 		}
 	}
 
+	private static function constructUpdateProductMessage($messageIndex,$SKU, $EAN, $product, $isVariation = false, $va_name = ""){
+		$title = $product->title?$product->title:"No Title";
+		$brand = $product->brand?$product->brand:"Unknown Brand";
+		$description = $product->description?$product->description:"No description";
+		$description = "<p>".str_replace("\n", "</p><p>", $description)."</p>";
+		$keywords = explode(",",$product->keywords);
+		$bulletPoint = array();
+		foreach($keywords as $index => $keyword){
+			if($index >= 5) continue;
+			$bulletPoint[] = array("BulletPoint"=>trim($keyword));
+		}
+		$manufacturer = $product->manufacturer?$product->manufacturer:"Unknown manufacturer";
+		$productData =AmazonXSDFactory::construct($product->toArray(),$isVariation, $va_name);
+		return array(
+			"Message"=>array(
+				"MessageID"=>$messageIndex,
+				"OperationType"=>"Update",
+				"Product"=>array(
+					"SKU"=>$SKU,
+					"StandardProductID"=>array(
+						"Type"=>"EAN",
+						"Value"=>$EAN
+					),
+					"Condition"=>array(
+						"ConditionType"=>"New"
+					),
+					"ItemPackageQuantity"=>1,
+					"NumberOfItems"=>1,
+					"DescriptionData"=>array(
+						"Title"=>$title,
+						"Brand"=>$brand,
+						"Description"=>"<![CDATA[$description]]>",
+						$bulletPoint,
+						"Manufacturer"=>$manufacturer,
+						"RecommendedBrowseNode"=>$product->amazon_nodeId
+					),
+					"ProductData"=>$productData
+				)
+			)
+		);
+	}
+	private static function constructDeleteProductMessage($messageIndex,$SKU){
+		return array(
+			"Message"=>array(
+				"MessageID"=>$messageIndex,
+				"OperationType"=>"Delete",
+				"Product"=>array(
+					"SKU"=>$SKU
+				)
+			)
+		);
+	}
 
-	
+	private static function constructUpdatePriceMessage($messageIndex, $SKU, $price, $currency){
+		return array(
+					"Message"=>array(
+						"MessageID"=>$messageIndex,
+						"Price"=>array(
+							"SKU"=>$SKU,
+							"StandardPrice"=>array(
+								$price,
+								"__properties"=>array(
+									"currency"=>$currency
+								)
+							)
+						)
+					)
+				);
+	}
+
+	private static function constructUpdateInventoryMessage($messageIndex, $SKU, $inventory){
+		return array(
+			"Message"=>array(
+				"MessageID"=> $messageIndex,
+				"OperationType"=>"Update",
+				"Inventory"=>array(
+					"SKU"=>$SKU,
+					"Quantity"=>$inventory,
+					"FulfillmentLatency"=>7
+				)
+			)
+		);
+	}
+
+	private static function constructFeedJson($message, $amazon_config, $submitType = 'Product'){
+		if(!count($message)) return false;
+		return array(
+			"AmazonEnvelope"=>array(
+				"Header"=>array(
+					"DocumentVersion"=>1.01,
+					"MerchantIdentifier"=>$amazon_config['MERCHANT_ID']
+				),
+				"MessageType"=>$submitType,
+				$message
+			)
+		);
+	}
+
+	private static function submitMessages($message, $amazon_config, $submitType = 'Product', $logOptions = null){
+		$feed_json = AmazonAPI::constructFeedJson($message, $amazon_config, $submitType);
+		if(!$feed_json) return 0;   //由于无修改需要，不产生任何记录
+
+		$feed = XMLTools::Json2Xml($feed_json);
+
+		if(null !== $logOptions && isset($logOptions["xml"])){
+			file_put_contents($logOptions["xml"], $feed);
+		}
+
+		$type_map = array(
+			"Product"   =>  "_POST_PRODUCT_DATA_",
+			"Relation"  =>  "_POST_PRODUCT_RELATIONSHIP_DATA_",
+			"Price"     =>  "_POST_PRODUCT_PRICING_DATA_",
+			"Inventory" =>  "_POST_INVENTORY_AVAILABILITY_DATA_",
+			"Image"     =>  "_POST_PRODUCT_IMAGE_DATA_");
+
+		$submission_id = AmazonAPI::submitFeed($feed, $amazon_config, $type_map[$submitType]);
+		if(isset($submission_id["submission_id"])){
+			return $submission_id; //上传失败尽量给出提示，而不写入上传记录中
+		}
+
+		if(null !== $logOptions && isset($logOptions["uploadLog"])){
+			$uploadLog = $logOptions["uploadLog"];
+			$uploadLog["submission_id"] = $submission_id;
+			$uploadLog["status"] = "submitted";
+
+			$quid = Tools::getGUID();
+
+			$log = new Uploadlog();
+			$url = "./temp/updateLogs/upload_$quid.dat";
+			file_put_contents($url, json_encode($uploadLog,JSON_PRETTY_PRINT));
+			$log->submission_id = $submission_id;
+			$log->quid = $quid;
+			$log->type = $submitType;
+			$log->detail_url = $url;
+			$log->status = 1;
+			$log->product_count = count($uploadLog["products"]);
+			$log->variation_count = count($uploadLog["variations"]);
+			$log->save();
+		}
+		return $submission_id;
+	}
+
+	public static function submitFeed($feed,$amazon_config,$submitType = "_POST_PRODUCT_DATA_"){
+		$serviceUrl = $amazon_config["ServiceUrlSubmitDE"];
+		$config = array (
+			'ServiceURL' => $serviceUrl,
+			'ProxyHost' => null,
+			'ProxyPort' => -1,
+			'MaxErrorRetry' => 3,
+		);
+		$service = new MarketplaceWebService_Client(
+			$amazon_config['AWS_ACCESS_KEY_ID'], 
+			$amazon_config['AWS_SECRET_ACCESS_KEY'], 
+			$config,
+			$amazon_config['APPLICATION_NAME'],
+			$amazon_config['APPLICATION_VERSION']);
+
+		$marketplaceIdArray = array("Id" => array('A1PA6795UKMFR9'));
+		$feedHandle = @fopen('php://temp', 'rw+');
+		fwrite($feedHandle, $feed);
+		rewind($feedHandle);
+		$parameters = array (
+			'Merchant' => $amazon_config['MERCHANT_ID'],
+			'MarketplaceIdList' => $marketplaceIdArray,
+			'FeedType' => $submitType,
+			'FeedContent' => $feedHandle,
+			'PurgeAndReplace' => false,
+			'ContentMd5' => base64_encode(md5(stream_get_contents($feedHandle), true)),
+			'MWSAuthToken' => $amazon_config['token']
+		);
+		rewind($feedHandle);
+		$request = new MarketplaceWebService_Model_SubmitFeedRequest($parameters);
+		try{
+			$response = $service->submitFeed($request);
+			$result = $response->getSubmitFeedResult();
+			$submissionId = $result->getFeedSubmissionInfo()->getFeedSubmissionId();
+			return $submissionId;
+		}catch(MarketplaceWebService_Exception $ex){
+			return array(
+				"submission_id"=>0,
+				"Exception"=>$ex->getMessage(),
+         		"status_code"=>$ex->getStatusCode(),
+        		"error_code"=>$ex->getErrorCode(),
+         		"error_type"=>$ex->getErrorType()
+			);
+		}
+	}
+
 }

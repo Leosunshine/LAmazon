@@ -1,0 +1,649 @@
+﻿12472500031	Prodotti per animali domestici
+4725018031	Prodotti per animali domestici/Animali da allevamento e apicoltura
+4725039031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento
+15800310031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Abbeveratoi
+4725044031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Accessori di pulizia
+4725045031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Accessori per il trasporto
+4725046031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Accessori per la salute e la cura
+15800288031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Attrezzature per alloggiamenti
+4725047031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Attrezzature per alloggiamenti/Forniture per la stalla
+4725040031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Attrezzature per alloggiamenti/Sistemazioni per dormire
+15800287031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per animali di allevamento/Mangiatoie
+4725019031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura
+4725030031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Arnie
+4725022031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Arnie/Base dell'arnia
+4725024031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Arnie/Kit arnia
+4725021031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Arnie/Rialzo inferiore
+4725023031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Arnie/Telai mobili
+4725025031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Arnie/Tetto
+4725037031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Attrezzature per allevamenti api regine
+4725038031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Attrezzi
+4725026031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Mangiatoie e mangimi
+4725028031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Mangiatoie e mangimi/Mangiatoie
+4725029031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Mangiatoie e mangimi/Mangimi liquidi
+4725027031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Mangiatoie e mangimi/Mangimi secchi
+4725035031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Pesticidi
+4725036031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Protezioni
+4725020031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Rifugi per api selvatiche
+4725031031	"Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Trattamento del miele, pompe e accessori"
+4725032031	"Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Trattamento del miele, pompe e accessori/Attrezzatura per l'imbottigliamento"
+4725033031	"Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Trattamento del miele, pompe e accessori/Contenitori e etichette"
+4725034031	"Prodotti per animali domestici/Animali da allevamento e apicoltura/Attrezzature per apicoltura/Trattamento del miele, pompe e accessori/Estrattori"
+4725048031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame
+4725062031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Accessori per la cura e la salute
+4725049031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per gestione delle uova
+4725051031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per gestione delle uova/Incubatrici
+4725052031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per gestione delle uova/Scatole e vassoi per uova
+4725050031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per gestione delle uova/Vassoi cova uova
+4725057031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per pollaio
+4725059031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per pollaio/Illuminazione per pollaio
+4725060031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per pollaio/Pollai e gabbie
+4725061031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per pollaio/Recinzioni per pollaio
+4725058031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Attrezzature per pollaio/Riscaldamento per pollaio
+4725053031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Sistemi di alimentazione e abbeveraggio
+4725056031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Sistemi di alimentazione e abbeveraggio/Abbeveratoi e fontane per pollame
+4725055031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Sistemi di alimentazione e abbeveraggio/Mangiatoie per pollame
+4725054031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Pollame/Sistemi di alimentazione e abbeveraggio/Mangimi per pollame
+4725063031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture
+15800350031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Accessori e parti per serre
+15800353031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Accessori e parti per serre/Apparecchiature di ventilazione
+4699507031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Accessori e parti per serre/Aprifinestra
+4724924031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Accessori e parti per serre/Fondamenta e basi per serre
+15800351031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Accessori e parti per serre/Morsetti
+15800352031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Accessori e parti per serre/Plastica per copertura
+4238285031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Accessori e parti per serre/Riscaldamenti per serre
+4725064031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Fienili
+4725067031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Magazzini per conservazione cibo
+731506031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Miniserre
+4238290031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Miniserre con cotrollo dell'umidità
+15800349031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Pellicola riflettente
+4725065031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Porte
+4725066031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Recinzioni
+4238286031	Prodotti per animali domestici/Animali da allevamento e apicoltura/Strutture/Serre in plastica
+13369965031	Prodotti per animali domestici/Cani
+13369974031	Prodotti per animali domestici/Cani/Abbigliamento e accessori
+13370069031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Abiti
+13370071031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Bandana
+13370072031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Cappelli
+13370073031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Cappotti e giubbotti
+13370074031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Collane e ciondoli
+13370070031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Costumi
+13370076031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Felpe
+13370075031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Felpe con cappuccio
+13370077031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Fermagli per pelo
+13370078031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Giubbotti di salvataggio
+13370079031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Giubbotti di sicurezza
+13370080031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Impermeabili
+13370081031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Magliette
+13370082031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Occhiali da sole
+13370083031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Pettorine anti ansia
+13370084031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Stivali e protezione per zampe
+13370085031	Prodotti per animali domestici/Cani/Abbigliamento e accessori/Zaini
+13369975031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento
+13370086031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Accessori antimorso
+13370087031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Attrezzatura per Agility
+13370088031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Catene e paletti
+13370378031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Catene e paletti/Catene per addestramento
+13370379031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Catene e paletti/Paletti
+13370089031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Clicker per addestramento
+13370407031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Collari antiabbaio
+13370090031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Collari con controllo remoto per addestramento
+13370091031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Dissuasori ultrasonici antiabbaio
+13370092031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Dummy per addestramento
+13370093031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Fischietti per cani
+13370094031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Guinzagli da addestramento
+13370095031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Recinzioni via radio e wireless
+13370096031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Repellenti
+13370380031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Repellenti/Repellenti a ultrasuoni
+13370381031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Repellenti/Repellenti spray
+13370382031	Prodotti per animali domestici/Cani/Accessori educativi e per addestramento/Repellenti/Tappetini disabituanti
+13369976031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute
+13370097031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Body post-operatori
+13370098031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Collari protettivi e coni
+13370099031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Cura degli occhi
+13370100031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Cura delle orecchie
+13370101031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Cura di anche e articolazioni
+13370102031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Igiene orale
+13370383031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Igiene orale/Dentifrici
+13370384031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Igiene orale/Prodotti per igiene orale
+13370385031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Igiene orale/Snack per igiene orale
+13370386031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Igiene orale/Spazzolini
+13370103031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine
+13370387031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine/Aminoacidi
+13370388031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine/Antiossidanti
+13370389031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine/Cura della pelle e del pelo
+13370390031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine/Integratori a base di olio di pesce
+13370391031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine/Integratori fitoterapici
+13370392031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine/Multivitaminici
+13370393031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori e vitamine/Probiotici
+13370104031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Integratori per la digestione
+13370105031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Kit e prodotti di pronto soccorso
+13370106031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Medicinali
+13370083031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Pettorine anti ansia
+13370107031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Repellenti per insetti
+13370108031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Rimedi per il prurito
+13370109031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Sostituti del latte
+13370110031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Termometri
+13370111031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Tranquillanti
+13370112031	Prodotti per animali domestici/Cani/Accessori per la cura e la salute/Vermifughi
+13369977031	Prodotti per animali domestici/Cani/Accessori per toilette
+13370113031	Prodotti per animali domestici/Cani/Accessori per toilette/Accessori per bagno e doccia
+13370114031	Prodotti per animali domestici/Cani/Accessori per toilette/Accessori per la muta
+13370115031	Prodotti per animali domestici/Cani/Accessori per toilette/Cardatori
+13370395031	Prodotti per animali domestici/Cani/Accessori per toilette/Cardatori/Pettini
+13370394031	Prodotti per animali domestici/Cani/Accessori per toilette/Cardatori/Pettini a rastrello
+13370116031	Prodotti per animali domestici/Cani/Accessori per toilette/Deodoranti
+13370117031	Prodotti per animali domestici/Cani/Accessori per toilette/Forbici
+13370118031	Prodotti per animali domestici/Cani/Accessori per toilette/Guanti e rulli per rimozione peli
+13370119031	Prodotti per animali domestici/Cani/Accessori per toilette/Pettini
+13370120031	Prodotti per animali domestici/Cani/Accessori per toilette/Profumi
+13370121031	Prodotti per animali domestici/Cani/Accessori per toilette/Rimedi emostatici
+13370122031	Prodotti per animali domestici/Cani/Accessori per toilette/Salviettine per toelettatura
+13370123031	Prodotti per animali domestici/Cani/Accessori per toilette/Shampoo e balsamo
+13370396031	Prodotti per animali domestici/Cani/Accessori per toilette/Shampoo e balsamo/Balsamo
+13370398031	Prodotti per animali domestici/Cani/Accessori per toilette/Shampoo e balsamo/Shampoo
+13370397031	Prodotti per animali domestici/Cani/Accessori per toilette/Shampoo e balsamo/Shampoo con balsamo
+13370124031	Prodotti per animali domestici/Cani/Accessori per toilette/Spazzole
+13370125031	Prodotti per animali domestici/Cani/Accessori per toilette/Spray deallergizzanti
+13370126031	Prodotti per animali domestici/Cani/Accessori per toilette/Tagliaunghie
+13370127031	Prodotti per animali domestici/Cani/Accessori per toilette/Tosatrici elettriche e lame
+13370399031	Prodotti per animali domestici/Cani/Accessori per toilette/Tosatrici elettriche e lame/Lame di ricambio
+13370400031	Prodotti per animali domestici/Cani/Accessori per toilette/Tosatrici elettriche e lame/Tosatrici elettriche
+13369978031	Prodotti per animali domestici/Cani/Antiparassitari
+13370128031	Prodotti per animali domestici/Cani/Antiparassitari/Collari antiparassitari
+13370129031	Prodotti per animali domestici/Cani/Antiparassitari/Compresse antipulci
+13370401031	Prodotti per animali domestici/Cani/Antiparassitari/Detergenti per tappeti
+13370130031	Prodotti per animali domestici/Cani/Antiparassitari/Pettini antipulci
+13370131031	Prodotti per animali domestici/Cani/Antiparassitari/Pipette antiparassitarie
+13370132031	Prodotti per animali domestici/Cani/Antiparassitari/Polveri antiparassitarie
+13370133031	Prodotti per animali domestici/Cani/Antiparassitari/Shampoo antipulci
+13370134031	Prodotti per animali domestici/Cani/Antiparassitari/Spray antiparassitari
+13370135031	Prodotti per animali domestici/Cani/Antiparassitari/Strumenti per la rimozione delle zecche
+13369979031	Prodotti per animali domestici/Cani/Cibo
+13370137031	Prodotti per animali domestici/Cani/Cibo/Complementi
+13370402031	Prodotti per animali domestici/Cani/Cibo/Disidratato e liofilizzato
+13370138031	Prodotti per animali domestici/Cani/Cibo/Liofilizzato
+13370136031	Prodotti per animali domestici/Cani/Cibo/Secco
+13370139031	Prodotti per animali domestici/Cani/Cibo/Umido
+13369980031	Prodotti per animali domestici/Cani/Ciotole e distributori
+13370140031	Prodotti per animali domestici/Cani/Ciotole e distributori/Accessori per allattamento
+13370143031	Prodotti per animali domestici/Cani/Ciotole e distributori/Ciotole
+13370141031	Prodotti per animali domestici/Cani/Ciotole e distributori/Ciotole da viaggio
+13370142031	Prodotti per animali domestici/Cani/Ciotole e distributori/Ciotole rialzate e postazioni per cibo
+13370403031	Prodotti per animali domestici/Cani/Ciotole e distributori/Ciotole rialzate e postazioni per cibo/Ciotole rialzate
+13370404031	Prodotti per animali domestici/Cani/Ciotole e distributori/Ciotole rialzate e postazioni per cibo/Postazioni per cibo
+13370144031	Prodotti per animali domestici/Cani/Ciotole e distributori/Contenitori per cibo
+13370145031	Prodotti per animali domestici/Cani/Ciotole e distributori/Distributori automatici di cibo
+13370146031	Prodotti per animali domestici/Cani/Ciotole e distributori/Distributori d'acqua
+13370147031	Prodotti per animali domestici/Cani/Ciotole e distributori/Fontanelle
+13370148031	Prodotti per animali domestici/Cani/Ciotole e distributori/Tappetini sottociotola
+13369981031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli"
+13370149031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Collari"
+13370405031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Collari/Collari a cavezza"
+13370406031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Collari/Collari a strozzo"
+13370407031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Collari/Collari antiabbaio"
+13370408031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Collari/Collari basic"
+13370090031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Collari/Collari da addestramento"
+13370150031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Guinzagli"
+13370410031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Guinzagli/Guinzagli base"
+13370094031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Guinzagli/Guinzagli da addestramento"
+13370411031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Guinzagli/Guinzagli doppi"
+13370412031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Guinzagli/Guinzagli mani libere"
+13370413031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Guinzagli/Guinzagli retrattili"
+13370151031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Imbracature"
+13370414031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Imbracature/Cablaggi"
+13370415031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Imbracature/Imbracature con pettorina"
+13370416031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Imbracature/Imbracature di base con cavezza"
+13370152031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Localizzatori"
+13370153031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Medagliette identificative"
+13370154031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Museruole"
+13370155031	"Prodotti per animali domestici/Cani/Collari, imbracature e guinzagli/Pendenti per collare"
+13369982031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni"
+13370156031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni/Casette per cani"
+13370157031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni/Coperture per gabbiette e cucce"
+13370158031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni/Gabbiette e cucce"
+13370417031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni/Gabbiette e cucce/Cucce"
+13370418031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni/Gabbiette e cucce/Gabbiette"
+13370159031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni/Materassini per gabbiette e cucce"
+13370160031	"Prodotti per animali domestici/Cani/Cucce, gabbiette e recinzioni/Recinti da esterno"
+13369983031	Prodotti per animali domestici/Cani/Giocattoli
+13370161031	Prodotti per animali domestici/Cani/Giocattoli/Corde
+13370162031	Prodotti per animali domestici/Cani/Giocattoli/Frisbee
+13370163031	Prodotti per animali domestici/Cani/Giocattoli/Giochi con squeak
+13370164031	Prodotti per animali domestici/Cani/Giocattoli/Giochi da masticare
+13370165031	Prodotti per animali domestici/Cani/Giocattoli/Giochi interattivi
+13370166031	Prodotti per animali domestici/Cani/Giocattoli/Giochi laser
+13370167031	Prodotti per animali domestici/Cani/Giocattoli/Palle
+13370168031	Prodotti per animali domestici/Cani/Giocattoli/Peluche
+13369984031	Prodotti per animali domestici/Cani/Golosità
+13370169031	"Prodotti per animali domestici/Cani/Golosità/Biscotti, bocconcini e snack"
+13370419031	"Prodotti per animali domestici/Cani/Golosità/Biscotti, bocconcini e snack/Biscotti"
+13370420031	"Prodotti per animali domestici/Cani/Golosità/Biscotti, bocconcini e snack/Bocconcini"
+13370421031	"Prodotti per animali domestici/Cani/Golosità/Biscotti, bocconcini e snack/Snack"
+13370170031	Prodotti per animali domestici/Cani/Golosità/Carne essiccata
+13370171031	Prodotti per animali domestici/Cani/Golosità/Orecchie di animali
+13370422031	Prodotti per animali domestici/Cani/Golosità/Orecchie di animali/Orecchie di agnello
+13370423031	Prodotti per animali domestici/Cani/Golosità/Orecchie di animali/Orecchie di maiale
+13370424031	Prodotti per animali domestici/Cani/Golosità/Orecchie di animali/Orecchie di manzo
+13370172031	Prodotti per animali domestici/Cani/Golosità/Ossi
+13370173031	Prodotti per animali domestici/Cani/Golosità/Pelle non trattata
+13370465031	Prodotti per animali domestici/Cani/Golosità/Pelle non trattata/Bastoncini e torciglioni
+13370425031	Prodotti per animali domestici/Cani/Golosità/Pelle non trattata/Chips
+13370426031	Prodotti per animali domestici/Cani/Golosità/Pelle non trattata/Ossi
+13370427031	Prodotti per animali domestici/Cani/Golosità/Pelle non trattata/Snack attorcigliati
+13370385031	Prodotti per animali domestici/Cani/Golosità/Snack per igiene orale
+13370174031	Prodotti per animali domestici/Cani/Golosità/Zoccoli
+13369985031	Prodotti per animali domestici/Cani/Lettiere e accessori
+13370175031	Prodotti per animali domestici/Cani/Lettiere e accessori/Antiodori e smacchiatori
+13370176031	Prodotti per animali domestici/Cani/Lettiere e accessori/Lettiere
+13370177031	Prodotti per animali domestici/Cani/Lettiere e accessori/Palette e sacchetti per escrementi
+13370428031	Prodotti per animali domestici/Cani/Lettiere e accessori/Palette e sacchetti per escrementi/Palette per escrementi
+13370429031	Prodotti per animali domestici/Cani/Lettiere e accessori/Palette e sacchetti per escrementi/Sacchetti
+13370430031	Prodotti per animali domestici/Cani/Lettiere e accessori/Palette e sacchetti per escrementi/Set di paletta e sacchetti per escrementi
+13370178031	Prodotti per animali domestici/Cani/Lettiere e accessori/Pannolini e tappetini assorbenti
+13370431031	Prodotti per animali domestici/Cani/Lettiere e accessori/Pannolini e tappetini assorbenti/Pannolini e mutande igieniche
+13370432031	Prodotti per animali domestici/Cani/Lettiere e accessori/Pannolini e tappetini assorbenti/Supporti
+13370433031	Prodotti per animali domestici/Cani/Lettiere e accessori/Pannolini e tappetini assorbenti/Tappetini
+13370179031	Prodotti per animali domestici/Cani/Lettiere e accessori/Rilevatori di macchie di urina animale
+13370180031	Prodotti per animali domestici/Cani/Lettiere e accessori/Rivestimenti per lettiere
+13369986031	Prodotti per animali domestici/Cani/Lettini e accessori
+13370181031	Prodotti per animali domestici/Cani/Lettini e accessori/Copertine
+13370182031	Prodotti per animali domestici/Cani/Lettini e accessori/Coperture e rivestimenti per lettini
+13370183031	Prodotti per animali domestici/Cani/Lettini e accessori/Cuscini
+13370184031	Prodotti per animali domestici/Cani/Lettini e accessori/Divanetti e sedie
+13370185031	Prodotti per animali domestici/Cani/Lettini e accessori/Lettini
+13370186031	Prodotti per animali domestici/Cani/Lettini e accessori/Materassini imbottiti
+13370187031	Prodotti per animali domestici/Cani/Lettini e accessori/Rivestimenti per lettini
+13370188031	Prodotti per animali domestici/Cani/Lettini e accessori/Scale e gradini
+13369987031	Prodotti per animali domestici/Cani/Oggetti commemorativi e funerari
+13370189031	Prodotti per animali domestici/Cani/Oggetti commemorativi e funerari/Bare e urne cinerarie
+13370434031	Prodotti per animali domestici/Cani/Oggetti commemorativi e funerari/Bare e urne cinerarie/Bare
+13370435031	Prodotti per animali domestici/Cani/Oggetti commemorativi e funerari/Bare e urne cinerarie/Urne cinerarie
+13370190031	Prodotti per animali domestici/Cani/Oggetti commemorativi e funerari/Oggetti commemorativi e lapidi
+13370191031	Prodotti per animali domestici/Cani/Oggetti commemorativi e funerari/Piastre e targhe
+13369988031	"Prodotti per animali domestici/Cani/Porticine, cancelletti e rampe"
+13370192031	"Prodotti per animali domestici/Cani/Porticine, cancelletti e rampe/Campanelli"
+13370193031	"Prodotti per animali domestici/Cani/Porticine, cancelletti e rampe/Cancelli"
+13370194031	"Prodotti per animali domestici/Cani/Porticine, cancelletti e rampe/Porte"
+13370195031	"Prodotti per animali domestici/Cani/Porticine, cancelletti e rampe/Rampe"
+13370196031	"Prodotti per animali domestici/Cani/Porticine, cancelletti e rampe/Recinti"
+13369989031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio
+13370197031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Accessori da viaggio
+13370436031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Accessori da viaggio/Barriere
+13370414031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Accessori da viaggio/Cablaggi
+13370437031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Accessori da viaggio/Cuscini rialzati per cani
+13370438031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Accessori da viaggio/Fodere per sedili
+13370439031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Accessori da viaggio/Gabbiette per auto
+13370440031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Accessori da viaggio/Rampe
+13370198031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Borse
+13370200031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Contenitori da trasporto
+13370199031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Contenitori da trasporto per bicicletta
+13370201031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Passeggini
+13370202031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Rimorchi per bicicletta
+13370203031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Tracolle
+13370204031	Prodotti per animali domestici/Cani/Trasportini e accessori da viaggio/Zaini
+13369990031	Prodotti per animali domestici/Cani/Videocamere per animali
+13369969031	Prodotti per animali domestici/Cavalli
+13370027031	Prodotti per animali domestici/Cavalli/Accessori alimentazione e abbeveraggio
+3734513031	Prodotti per animali domestici/Cavalli/Articoli per l'equitazione
+3734516031	Prodotti per animali domestici/Cavalli/Articoli per l'equitazione/Abbigliamento catarifrangente
+968342031	Prodotti per animali domestici/Cavalli/Articoli per l'equitazione/Bende
+968368031	Prodotti per animali domestici/Cavalli/Articoli per l'equitazione/Cavezze
+3734609031	Prodotti per animali domestici/Cavalli/Articoli per l'equitazione/Coperte
+3734514031	Prodotti per animali domestici/Cavalli/Articoli per l'equitazione/Maschere protettive per cavalli
+3734608031	Prodotti per animali domestici/Cavalli/Articoli per l'equitazione/Protezioni per gambe e zampe
+3734609031	Prodotti per animali domestici/Cavalli/Coperte
+13370029031	Prodotti per animali domestici/Cavalli/Cura del cavallo
+13370319031	Prodotti per animali domestici/Cavalli/Cura del cavallo/Cura degli zoccoli
+13370320031	Prodotti per animali domestici/Cavalli/Cura del cavallo/Spazzole e accessori per districare
+13370321031	Prodotti per animali domestici/Cavalli/Cura del cavallo/Stencils per tosatura
+13370322031	Prodotti per animali domestici/Cavalli/Cura del cavallo/Striglie
+13370323031	Prodotti per animali domestici/Cavalli/Cura del cavallo/Tosatrici
+968363031	Prodotti per animali domestici/Cavalli/Finimenti
+968373031	Prodotti per animali domestici/Cavalli/Finimenti/Accessori per finimenti
+968369031	Prodotti per animali domestici/Cavalli/Finimenti/Accessori per la sella
+968374031	Prodotti per animali domestici/Cavalli/Finimenti/Bauli
+968366031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini
+5854071031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini/Briglie
+3734551031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini/Cura del cuoio
+4551647031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini/Hackamores
+3734550031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini/Imbracature
+3734552031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini/Noseband
+3734553031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini/Redini
+3734549031	Prodotti per animali domestici/Cavalli/Finimenti/Briglie e redini/Testiere
+968368031	Prodotti per animali domestici/Cavalli/Finimenti/Cavezze
+968367031	Prodotti per animali domestici/Cavalli/Finimenti/Cinghie
+968370031	Prodotti per animali domestici/Cavalli/Finimenti/Imbottiture per la sella
+3734556031	Prodotti per animali domestici/Cavalli/Finimenti/Imbottiture per la sella/Sottosella avvolgenti
+3734554031	Prodotti per animali domestici/Cavalli/Finimenti/Imbottiture per la sella/Sottosella interi
+3734555031	Prodotti per animali domestici/Cavalli/Finimenti/Imbottiture per la sella/Sottosella piccoli
+4551643031	Prodotti per animali domestici/Cavalli/Finimenti/Lunghine
+968365031	Prodotti per animali domestici/Cavalli/Finimenti/Martingale e pettorali
+968364031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi
+3734543031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Briglie senza morso
+3734546031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Filetti elevatori
+3734544031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi a leve
+3734545031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi da carrozza
+3734547031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi spezzati
+4551649031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi spezzati/Filetti Baucher
+4551650031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi spezzati/Filetti Verdun
+4551653031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi spezzati/Filetti a doppio snodo
+4551652031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi spezzati/Filetti ad aste
+4551651031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Morsi spezzati/Filetti ad oliva
+4551644031	Prodotti per animali domestici/Cavalli/Finimenti/Morsi/Pelhams
+4551654031	Prodotti per animali domestici/Cavalli/Finimenti/Museruole
+968371031	Prodotti per animali domestici/Cavalli/Finimenti/Selle
+3734557031	Prodotti per animali domestici/Cavalli/Finimenti/Selle/Selle da dressage
+3734558031	Prodotti per animali domestici/Cavalli/Finimenti/Selle/Selle da endurance
+3734561031	Prodotti per animali domestici/Cavalli/Finimenti/Selle/Selle da pony
+3734560031	Prodotti per animali domestici/Cavalli/Finimenti/Selle/Selle da salto
+3734559031	Prodotti per animali domestici/Cavalli/Finimenti/Selle/Selle generiche
+3734562031	Prodotti per animali domestici/Cavalli/Finimenti/Selle/Selle per monta western
+3734565031	Prodotti per animali domestici/Cavalli/Finimenti/Speroni
+968372031	Prodotti per animali domestici/Cavalli/Finimenti/Staffe
+3734563031	Prodotti per animali domestici/Cavalli/Finimenti/Staffe/Ferri e pedane per staffe
+3734564031	Prodotti per animali domestici/Cavalli/Finimenti/Staffe/Staffili per staffe
+4725047031	Prodotti per animali domestici/Cavalli/Forniture per la stalla
+13370030031	Prodotti per animali domestici/Cavalli/Golosità
+13370028031	Prodotti per animali domestici/Cavalli/Mangime
+13370031031	Prodotti per animali domestici/Cavalli/Prodotti per la salute
+13370324031	Prodotti per animali domestici/Cavalli/Prodotti per la salute/Cura di anche e articolazioni
+13370325031	Prodotti per animali domestici/Cavalli/Prodotti per la salute/Integratori alimentari e rimedi
+13370326031	Prodotti per animali domestici/Cavalli/Prodotti per la salute/Kit e prodotti di pronto soccorso
+13370327031	Prodotti per animali domestici/Cavalli/Prodotti per la salute/Repellenti insetti
+13370328031	Prodotti per animali domestici/Cavalli/Prodotti per la salute/Unguenti
+13370329031	Prodotti per animali domestici/Cavalli/Prodotti per la salute/Vermifughi
+13369966031	Prodotti per animali domestici/Gatti
+13369991031	Prodotti per animali domestici/Gatti/Abbigliamento e accessori
+13369992031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute
+13370205031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Body post-operatori
+13370206031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Collari protettivi e coni
+13370207031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Cura degli occhi
+13370208031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Cura delle orecchie
+13370209031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Cura di anche e articolazioni
+13370210031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Igiene orale
+13370211031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine
+13370441031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine/Aminoacidi
+13370442031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine/Antiossidanti
+13370443031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine/Cura della pelle e del pelo
+13370444031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine/Integratori a base di olio di pesce
+13370445031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine/Integratori fitoterapici
+13370446031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine/Multivitaminici
+13370447031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori e vitamine/Probiotici
+13370212031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Integratori per la digestione
+13370213031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Kit e prodotti di pronto soccorso
+13370214031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Medicinali
+13370215031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Paste e gel anti-bolo di pelo
+13370216031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Repellenti per insetti
+13370217031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Rimedi per il prurito
+13370218031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Sostituti del latte
+13370219031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Tranquillanti
+13370220031	Prodotti per animali domestici/Gatti/Accessori per la cura e la salute/Vermifughi
+13369993031	Prodotti per animali domestici/Gatti/Accessori per toilette
+13370221031	Prodotti per animali domestici/Gatti/Accessori per toilette/Accessori per la muta
+13370222031	Prodotti per animali domestici/Gatti/Accessori per toilette/Forbici
+13370223031	Prodotti per animali domestici/Gatti/Accessori per toilette/Guanti e rulli per rimozione peli
+13370224031	Prodotti per animali domestici/Gatti/Accessori per toilette/Pettini
+13370225031	Prodotti per animali domestici/Gatti/Accessori per toilette/Rimedi emostatici
+13370226031	Prodotti per animali domestici/Gatti/Accessori per toilette/Shampoo e balsamo
+13370448031	Prodotti per animali domestici/Gatti/Accessori per toilette/Shampoo e balsamo/Balsamo
+13370450031	Prodotti per animali domestici/Gatti/Accessori per toilette/Shampoo e balsamo/Shampoo
+13370449031	Prodotti per animali domestici/Gatti/Accessori per toilette/Shampoo e balsamo/Shampoo balsamo
+13370227031	Prodotti per animali domestici/Gatti/Accessori per toilette/Spazzole
+13370228031	Prodotti per animali domestici/Gatti/Accessori per toilette/Spray deallergizzanti
+13370229031	Prodotti per animali domestici/Gatti/Accessori per toilette/Tagliaunghie
+13370230031	Prodotti per animali domestici/Gatti/Accessori per toilette/Tosatrici elettriche e lame
+13370451031	Prodotti per animali domestici/Gatti/Accessori per toilette/Tosatrici elettriche e lame/Lame di ricambio
+13370452031	Prodotti per animali domestici/Gatti/Accessori per toilette/Tosatrici elettriche e lame/Tosatrici elettriche
+13369994031	Prodotti per animali domestici/Gatti/Antiparassitari
+13370231031	Prodotti per animali domestici/Gatti/Antiparassitari/Collari antiparassitari
+13370232031	Prodotti per animali domestici/Gatti/Antiparassitari/Compresse antipulci
+13370453031	Prodotti per animali domestici/Gatti/Antiparassitari/Detergenti per tappeti
+13370233031	Prodotti per animali domestici/Gatti/Antiparassitari/Pettini antipulci
+13370234031	Prodotti per animali domestici/Gatti/Antiparassitari/Pipette antiparassitario
+13370235031	Prodotti per animali domestici/Gatti/Antiparassitari/Polveri antiparassitarie
+13370236031	Prodotti per animali domestici/Gatti/Antiparassitari/Shampoo antipulci
+13370237031	Prodotti per animali domestici/Gatti/Antiparassitari/Spray antiparassitari
+13370238031	Prodotti per animali domestici/Gatti/Antiparassitari/Strumenti per la rimozione delle zecche
+13369995031	Prodotti per animali domestici/Gatti/Cibo
+13370239031	Prodotti per animali domestici/Gatti/Cibo/Complementi
+13370454031	Prodotti per animali domestici/Gatti/Cibo/Disidratato e liofilizzato
+13370240031	Prodotti per animali domestici/Gatti/Cibo/Liofilizzato
+13370241031	Prodotti per animali domestici/Gatti/Cibo/Secco
+13370242031	Prodotti per animali domestici/Gatti/Cibo/Umido
+13369996031	Prodotti per animali domestici/Gatti/Ciotole e distributori
+13370243031	Prodotti per animali domestici/Gatti/Ciotole e distributori/Accessori per allattamento
+13370244031	Prodotti per animali domestici/Gatti/Ciotole e distributori/Ciotole
+13370245031	Prodotti per animali domestici/Gatti/Ciotole e distributori/Contenitori per cibo
+13370246031	Prodotti per animali domestici/Gatti/Ciotole e distributori/Distributori automatici di cibo
+13370247031	Prodotti per animali domestici/Gatti/Ciotole e distributori/Fontanelle
+13370248031	Prodotti per animali domestici/Gatti/Ciotole e distributori/Tappetini sottociotola
+13369997031	"Prodotti per animali domestici/Gatti/Collari, imbracature e guinzagli"
+13370249031	"Prodotti per animali domestici/Gatti/Collari, imbracature e guinzagli/Collari"
+13370250031	"Prodotti per animali domestici/Gatti/Collari, imbracature e guinzagli/Guinzagli"
+13370251031	"Prodotti per animali domestici/Gatti/Collari, imbracature e guinzagli/Imbracature"
+13370152031	"Prodotti per animali domestici/Gatti/Collari, imbracature e guinzagli/Localizzatori"
+13370252031	"Prodotti per animali domestici/Gatti/Collari, imbracature e guinzagli/Medagliette identificative"
+13370253031	"Prodotti per animali domestici/Gatti/Collari, imbracature e guinzagli/Pendenti per collare"
+13369998031	"Prodotti per animali domestici/Gatti/Cucce, gattaiole e recinzioni"
+13370255031	"Prodotti per animali domestici/Gatti/Cucce, gattaiole e recinzioni/Gattaiole"
+13370254031	"Prodotti per animali domestici/Gatti/Cucce, gattaiole e recinzioni/Gattaiole elettriche"
+13370256031	"Prodotti per animali domestici/Gatti/Cucce, gattaiole e recinzioni/Recinti da esterno"
+13370257031	"Prodotti per animali domestici/Gatti/Cucce, gattaiole e recinzioni/Reti per balcone"
+13370258031	"Prodotti per animali domestici/Gatti/Cucce, gattaiole e recinzioni/Scale e gradini"
+13369999031	Prodotti per animali domestici/Gatti/Disabituanti educativi
+13370259031	Prodotti per animali domestici/Gatti/Disabituanti educativi/Repellenti a ultrasuoni
+13370260031	Prodotti per animali domestici/Gatti/Disabituanti educativi/Repellenti spray
+13370261031	Prodotti per animali domestici/Gatti/Disabituanti educativi/Tappetini disabituanti
+13370000031	Prodotti per animali domestici/Gatti/Giocattoli
+13370262031	Prodotti per animali domestici/Gatti/Giocattoli/Giochi al catnip
+13370263031	Prodotti per animali domestici/Gatti/Giocattoli/Giochi con piume
+13370264031	Prodotti per animali domestici/Gatti/Giocattoli/Giochi in peluche
+13370265031	Prodotti per animali domestici/Gatti/Giocattoli/Giochi interattivi
+13370266031	Prodotti per animali domestici/Gatti/Giocattoli/Giochi laser
+13370267031	Prodotti per animali domestici/Gatti/Giocattoli/Palle
+13370268031	Prodotti per animali domestici/Gatti/Giocattoli/Topolini e animali giocattolo
+13370269031	Prodotti per animali domestici/Gatti/Giocattoli/Tunnel
+13370001031	Prodotti per animali domestici/Gatti/Golosità
+13370270031	Prodotti per animali domestici/Gatti/Golosità/Catnip ed erba gatta
+13370271031	Prodotti per animali domestici/Gatti/Golosità/Snack
+13370455031	Prodotti per animali domestici/Gatti/Golosità/Snack/Golosità  croccanti
+13370456031	Prodotti per animali domestici/Gatti/Golosità/Snack/Golosità  morbide
+13370002031	Prodotti per animali domestici/Gatti/Lettiere e accessori
+13370272031	Prodotti per animali domestici/Gatti/Lettiere e accessori/Antiodori e smacchiatori
+13370274031	Prodotti per animali domestici/Gatti/Lettiere e accessori/Contenitori per lettiere e cassette igieniche
+13370275031	Prodotti per animali domestici/Gatti/Lettiere e accessori/Palette per lettiera
+13370179031	Prodotti per animali domestici/Gatti/Lettiere e accessori/Rilevatori di macchie di urina animale
+13370276031	Prodotti per animali domestici/Gatti/Lettiere e accessori/Rivestimenti per lettiere
+13370273031	Prodotti per animali domestici/Gatti/Lettiere e accessori/Sabbia e lettiere
+13370003031	Prodotti per animali domestici/Gatti/Lettini e accessori
+13370277031	Prodotti per animali domestici/Gatti/Lettini e accessori/Amache da finestra
+13370278031	Prodotti per animali domestici/Gatti/Lettini e accessori/Copertine
+13370279031	Prodotti per animali domestici/Gatti/Lettini e accessori/Lettini e divanetti
+13370457031	Prodotti per animali domestici/Gatti/Lettini e accessori/Lettini e divanetti/Divanetti
+13370458031	Prodotti per animali domestici/Gatti/Lettini e accessori/Lettini e divanetti/Lettini
+13370280031	Prodotti per animali domestici/Gatti/Lettini e accessori/Materassini imbottiti
+13370281031	Prodotti per animali domestici/Gatti/Lettini e accessori/Rivestimenti per lettini
+13370004031	Prodotti per animali domestici/Gatti/Oggetti commemorativi e funerari
+13370282031	Prodotti per animali domestici/Gatti/Oggetti commemorativi e funerari/Bare e urne cinerarie
+13370459031	Prodotti per animali domestici/Gatti/Oggetti commemorativi e funerari/Bare e urne cinerarie/Bare
+13370460031	Prodotti per animali domestici/Gatti/Oggetti commemorativi e funerari/Bare e urne cinerarie/Urne cinerarie
+13370283031	Prodotti per animali domestici/Gatti/Oggetti commemorativi e funerari/Oggetti commemorativi e lapidi
+13370284031	Prodotti per animali domestici/Gatti/Oggetti commemorativi e funerari/Piastre e targhe
+13370005031	Prodotti per animali domestici/Gatti/Tiragraffi e arredi
+13370287031	Prodotti per animali domestici/Gatti/Tiragraffi e arredi/Alberi tiragraffi
+13370277031	Prodotti per animali domestici/Gatti/Tiragraffi e arredi/Amache da finestra
+13370285031	Prodotti per animali domestici/Gatti/Tiragraffi e arredi/Colonne tiragraffi
+13370286031	Prodotti per animali domestici/Gatti/Tiragraffi e arredi/Nicchie e casette
+13370289031	Prodotti per animali domestici/Gatti/Tiragraffi e arredi/Tappetini tiragraffi
+13370288031	Prodotti per animali domestici/Gatti/Tiragraffi e arredi/Tiragraffi a torre
+13370006031	Prodotti per animali domestici/Gatti/Trasportini e accessori da viaggio
+13370290031	Prodotti per animali domestici/Gatti/Trasportini e accessori da viaggio/Contenitori da trasporto
+13370291031	Prodotti per animali domestici/Gatti/Trasportini e accessori da viaggio/Gabbie
+13370292031	Prodotti per animali domestici/Gatti/Trasportini e accessori da viaggio/Gabbiette
+13370293031	Prodotti per animali domestici/Gatti/Trasportini e accessori da viaggio/Passeggini
+13369990031	Prodotti per animali domestici/Gatti/Videocamere per animali
+13369970031	Prodotti per animali domestici/Insetti
+13370032031	Prodotti per animali domestici/Insetti/Accessori per la cura e la salute
+13370033031	Prodotti per animali domestici/Insetti/Accessori per terrari
+13370034031	Prodotti per animali domestici/Insetti/Mangime
+13370035031	Prodotti per animali domestici/Insetti/Terrari
+13369967031	Prodotti per animali domestici/Pesci e animali d'acqua
+13370007031	Prodotti per animali domestici/Pesci e animali d'acqua/Acquari e bocce per pesci
+13370294031	Prodotti per animali domestici/Pesci e animali d'acqua/Acquari e bocce per pesci/Acquari
+13370295031	Prodotti per animali domestici/Pesci e animali d'acqua/Acquari e bocce per pesci/Bocce per pesci
+13370008031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario
+13370296031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Ciottoli decorativi
+13370297031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Coralli
+13370298031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Divisori per vasche
+13370299031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Legni
+13370300031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Oggetti
+13370302031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Piante sintetiche
+13370301031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Piante vive
+13370303031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Rocce decorative
+13370304031	Prodotti per animali domestici/Pesci e animali d'acqua/Arredo per acquario/Sfondi
+13370009031	Prodotti per animali domestici/Pesci e animali d'acqua/Coperchi per acquario
+13370010031	Prodotti per animali domestici/Pesci e animali d'acqua/Distributori automatici di cibo
+13370011031	Prodotti per animali domestici/Pesci e animali d'acqua/Idrometri
+13370012031	Prodotti per animali domestici/Pesci e animali d'acqua/Illuminazione per acquario
+13370013031	Prodotti per animali domestici/Pesci e animali d'acqua/Kit di test
+13370014031	Prodotti per animali domestici/Pesci e animali d'acqua/Mangime
+13370305031	Prodotti per animali domestici/Pesci e animali d'acqua/Mangime/Pesci d'acquario
+4298935031	Prodotti per animali domestici/Pesci e animali d'acqua/Mangime/Pesci da stagno
+13370015031	Prodotti per animali domestici/Pesci e animali d'acqua/Medicinali e integratori
+13370016031	Prodotti per animali domestici/Pesci e animali d'acqua/Pompe e filtri
+13370306031	Prodotti per animali domestici/Pesci e animali d'acqua/Pompe e filtri/Accessori filtraggio
+13370307031	Prodotti per animali domestici/Pesci e animali d'acqua/Pompe e filtri/Accessori per pompe d'acqua
+13370308031	Prodotti per animali domestici/Pesci e animali d'acqua/Pompe e filtri/Accessori per pompe d'aria
+13370309031	Prodotti per animali domestici/Pesci e animali d'acqua/Pompe e filtri/Filtri
+13370310031	Prodotti per animali domestici/Pesci e animali d'acqua/Pompe e filtri/Pompe d'acqua
+13370311031	Prodotti per animali domestici/Pesci e animali d'acqua/Pompe e filtri/Pompe d'aria
+13370017031	Prodotti per animali domestici/Pesci e animali d'acqua/Pulizia
+13370312031	Prodotti per animali domestici/Pesci e animali d'acqua/Pulizia/Aspirarifiuti per ghiaia
+13370313031	Prodotti per animali domestici/Pesci e animali d'acqua/Pulizia/Retini per acquario
+13370314031	Prodotti per animali domestici/Pesci e animali d'acqua/Pulizia/Rimozione alghe
+13370315031	Prodotti per animali domestici/Pesci e animali d'acqua/Pulizia/Spray per pulizia acquario
+13370316031	Prodotti per animali domestici/Pesci e animali d'acqua/Pulizia/Strumenti per cambio acqua
+13370018031	Prodotti per animali domestici/Pesci e animali d'acqua/Riscaldatori per acquario
+13370019031	Prodotti per animali domestici/Pesci e animali d'acqua/Sale parto
+13370020031	Prodotti per animali domestici/Pesci e animali d'acqua/Starter kit per acquario
+13370021031	Prodotti per animali domestici/Pesci e animali d'acqua/Substrati per acquario
+13370317031	Prodotti per animali domestici/Pesci e animali d'acqua/Substrati per acquario/Ghiaia
+13370318031	Prodotti per animali domestici/Pesci e animali d'acqua/Substrati per acquario/Sabbia
+13370022031	Prodotti per animali domestici/Pesci e animali d'acqua/Supporti per acquario
+13370023031	Prodotti per animali domestici/Pesci e animali d'acqua/Termometri
+13370024031	Prodotti per animali domestici/Pesci e animali d'acqua/Trattamento delle acque
+13369971031	Prodotti per animali domestici/Piccoli animali
+13370036031	Prodotti per animali domestici/Piccoli animali/Accessori alimentazione e abbeveraggio
+13370330031	Prodotti per animali domestici/Piccoli animali/Accessori alimentazione e abbeveraggio/Ciotole
+13370332031	Prodotti per animali domestici/Piccoli animali/Accessori alimentazione e abbeveraggio/Distributori d'acqua
+13370331031	Prodotti per animali domestici/Piccoli animali/Accessori alimentazione e abbeveraggio/Distributori di cibo
+13370037031	Prodotti per animali domestici/Piccoli animali/Accessori per la cura e la salute
+13370333031	Prodotti per animali domestici/Piccoli animali/Antiodori e smacchiatori
+13370334031	"Prodotti per animali domestici/Piccoli animali/Collari, imbracature e guinzagli"
+13370335031	"Prodotti per animali domestici/Piccoli animali/Collari, imbracature e guinzagli/Collari"
+13370336031	"Prodotti per animali domestici/Piccoli animali/Collari, imbracature e guinzagli/Guinzagli"
+13370337031	"Prodotti per animali domestici/Piccoli animali/Collari, imbracature e guinzagli/Imbracature"
+13370038031	Prodotti per animali domestici/Piccoli animali/Contenitori da trasporto
+13370039031	Prodotti per animali domestici/Piccoli animali/Cucce e habitat
+13370338031	Prodotti per animali domestici/Piccoli animali/Cucce e habitat/Arredi per habitat
+13370339031	Prodotti per animali domestici/Piccoli animali/Cucce e habitat/Gabbie
+13370340031	Prodotti per animali domestici/Piccoli animali/Cucce e habitat/Lettini
+13370341031	Prodotti per animali domestici/Piccoli animali/Cucce e habitat/Sabbia e lettiera
+13370342031	Prodotti per animali domestici/Piccoli animali/Cucce e habitat/Tubi e tunnel
+13370042031	Prodotti per animali domestici/Piccoli animali/Fieno ed erba
+13370040031	Prodotti per animali domestici/Piccoli animali/Giochi
+13370041031	Prodotti per animali domestici/Piccoli animali/Golosità
+13370043031	Prodotti per animali domestici/Piccoli animali/Mangime
+13370044031	Prodotti per animali domestici/Piccoli animali/Ruote per esercizi
+13370045031	Prodotti per animali domestici/Piccoli animali/Toelettatura
+13370343031	Prodotti per animali domestici/Piccoli animali/Toelettatura/Cura delle unghie
+13370344031	Prodotti per animali domestici/Piccoli animali/Toelettatura/Deodoranti
+13370345031	Prodotti per animali domestici/Piccoli animali/Toelettatura/Pettini
+13370346031	Prodotti per animali domestici/Piccoli animali/Toelettatura/Spazzole
+13369972031	Prodotti per animali domestici/Rettili e anfibi
+13370347031	Prodotti per animali domestici/Rettili e anfibi/Accessori alimentazione
+13370348031	Prodotti per animali domestici/Rettili e anfibi/Accessori per la cura e la salute
+13370046031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat
+13370349031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Alberi
+13370350031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Cascate
+13370351031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Legni
+13370352031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Nascondigli
+13370353031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Piante
+13370354031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Rampicanti
+13370355031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Rocce
+13370356031	Prodotti per animali domestici/Rettili e anfibi/Arredi per habitat/Sfondi
+13370047031	"Prodotti per animali domestici/Rettili e anfibi/Basi, sabbia e substrati"
+13370357031	"Prodotti per animali domestici/Rettili e anfibi/Basi, sabbia e substrati/Basi"
+13370358031	"Prodotti per animali domestici/Rettili e anfibi/Basi, sabbia e substrati/Sabbia"
+13370359031	"Prodotti per animali domestici/Rettili e anfibi/Basi, sabbia e substrati/Substrato"
+13370048031	Prodotti per animali domestici/Rettili e anfibi/Ciotole per terrari
+13370360031	Prodotti per animali domestici/Rettili e anfibi/Contenitori da trasporto
+13370049031	Prodotti per animali domestici/Rettili e anfibi/Coperture per terrari
+13370361031	Prodotti per animali domestici/Rettili e anfibi/Filtri e pompe
+13370050031	Prodotti per animali domestici/Rettili e anfibi/Igrometri
+13370051031	Prodotti per animali domestici/Rettili e anfibi/Igrostati
+13370052031	Prodotti per animali domestici/Rettili e anfibi/Illuminazione habitat
+13370362031	Prodotti per animali domestici/Rettili e anfibi/Illuminazione habitat/Faretti
+13370461031	Prodotti per animali domestici/Rettili e anfibi/Illuminazione habitat/Illuminazione a LED
+13370462031	Prodotti per animali domestici/Rettili e anfibi/Illuminazione habitat/Lampade agli alogenuri metallici
+13370463031	Prodotti per animali domestici/Rettili e anfibi/Illuminazione habitat/Tubi fluorescenti
+13370053031	Prodotti per animali domestici/Rettili e anfibi/Incubatrici
+13370054031	Prodotti per animali domestici/Rettili e anfibi/Lampade riscaldanti
+13370055031	Prodotti per animali domestici/Rettili e anfibi/Mangime
+13370363031	Prodotti per animali domestici/Rettili e anfibi/Pulizia
+13370056031	Prodotti per animali domestici/Rettili e anfibi/Rettilari
+13370057031	Prodotti per animali domestici/Rettili e anfibi/Starter kit per terrari
+13370058031	Prodotti per animali domestici/Rettili e anfibi/Tappetini riscaldanti
+13370059031	Prodotti per animali domestici/Rettili e anfibi/Termometri
+13370060031	Prodotti per animali domestici/Rettili e anfibi/Termostati
+13370061031	Prodotti per animali domestici/Rettili e anfibi/Terrari
+13370464031	Prodotti per animali domestici/Rettili e anfibi/Timer automatici e sistemi di controllo
+13369973031	Prodotti per animali domestici/Uccelli
+13370062031	Prodotti per animali domestici/Uccelli/Accessori alimentazione e abbeveraggio
+13370364031	Prodotti per animali domestici/Uccelli/Accessori alimentazione e abbeveraggio/Distributori d'acqua
+13370365031	Prodotti per animali domestici/Uccelli/Accessori alimentazione e abbeveraggio/Mangiatoie
+13370366031	Prodotti per animali domestici/Uccelli/Accessori alimentazione e abbeveraggio/Strumenti per alimentazione manuale
+13370063031	Prodotti per animali domestici/Uccelli/Accessori per la cura e la salute
+13370064031	Prodotti per animali domestici/Uccelli/Gabbie e accessori
+13370367031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Altalene
+13370368031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Bagnetti per uccelli
+13370369031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Coperture per gabbie
+13370370031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Gabbie
+13370371031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Illuminazione
+13370372031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Nidi
+13370373031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Protezioni e raccogli-mangime
+13370374031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Sabbia e lettiera
+13370375031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Scalette
+13370376031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Supporti per gabbie
+13370377031	Prodotti per animali domestici/Uccelli/Gabbie e accessori/Trespoli e posatoi
+13370065031	Prodotti per animali domestici/Uccelli/Giochi
+13370066031	Prodotti per animali domestici/Uccelli/Golosità
+13370067031	Prodotti per animali domestici/Uccelli/Mangime
+13370068031	Prodotti per animali domestici/Uccelli/Trasportini e accessori da viaggio
+4380634031	Prodotti per animali domestici/Volatili e piccoli animali del giardino
+4699502031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Casette per porcospini
+4380650031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Farfalle
+4380653031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Farfalle/Casette
+4380652031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Farfalle/Cibo
+4380651031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Farfalle/Mangiatoie
+4380635031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Pipistrelli
+4380637031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Pipistrelli/Casette
+4380636031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Pipistrelli/Mangiatoie
+4380654031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Rifugi per insetti
+4380655031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Scoiattoli
+4380658031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Scoiattoli/Casette
+4380657031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Scoiattoli/Cibo
+4380656031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Scoiattoli/Mangiatoie
+4380638031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli
+4380639031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Accessori per fontana-abbeveratoio
+4380643031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Accessori per mangiatoie
+4380641031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Accessori per nidi
+4380640031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Fontana-abbeveratoio
+4380644031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Mangiatoie
+4380645031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Mangimi
+4380647031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Mangimi/Nettare per colibrì
+4380649031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Mangimi/Palline di grasso
+4380646031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Mangimi/Semi
+4380648031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Mangimi/Vermi
+4380642031	Prodotti per animali domestici/Volatili e piccoli animali del giardino/Uccelli/Nidi

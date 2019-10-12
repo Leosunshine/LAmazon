@@ -1,0 +1,163 @@
+﻿2454149031	Valigeria
+11967719031	Valigeria/Accessori
+700566031	Valigeria/Accessori/Accessori da viaggio
+1904614031	Valigeria/Accessori/Accessori da viaggio/Adattatori universali da viaggio
+2004796031	Valigeria/Accessori/Accessori da viaggio/Beauty Case
+700558031	Valigeria/Accessori/Accessori da viaggio/Beauty Case da viaggio
+700569031	Valigeria/Accessori/Accessori da viaggio/Bilance pesa valigie
+11967722031	Valigeria/Accessori/Accessori da viaggio/Bottiglie e contenitori da viaggio
+700567031	Valigeria/Accessori/Accessori da viaggio/Carrelli portavaligie
+700570031	Valigeria/Accessori/Accessori da viaggio/Cinghie per valigie
+2004797031	Valigeria/Accessori/Accessori da viaggio/Coperte da viaggio
+11967721031	Valigeria/Accessori/Accessori da viaggio/Coperture per valigie
+2004798031	Valigeria/Accessori/Accessori da viaggio/Cuscini da viaggio
+700575031	Valigeria/Accessori/Accessori da viaggio/Custodie per passaporto
+700571031	Valigeria/Accessori/Accessori da viaggio/Etichette per valigie
+700568031	Valigeria/Accessori/Accessori da viaggio/Lucchetti per valigie
+700572031	Valigeria/Accessori/Accessori da viaggio/Marsupi portasoldi
+4327334031	Valigeria/Accessori/Accessori da viaggio/Mascherine per dormire
+700574031	Valigeria/Accessori/Accessori da viaggio/Organizer per valigie
+2691412031	Valigeria/Accessori/Accessori da viaggio/Portacravatte da viaggio
+700573031	Valigeria/Accessori/Accessori da viaggio/Portadocumenti da collo
+700576031	Valigeria/Accessori/Accessori da viaggio/Portafogli da viaggio
+2691410031	Valigeria/Accessori/Accessori da viaggio/Sacche impermeabili
+700577031	Valigeria/Accessori/Accessori da viaggio/Sacchetti per calzature
+4327261031	Valigeria/Accessori/Accessori da viaggio/Tappi per le orecchie
+3102028031	Valigeria/Accessori/Accessori per zaini
+3102031031	Valigeria/Accessori/Accessori per zaini/Bretelle
+3102029031	Valigeria/Accessori/Accessori per zaini/Custodie
+3102030031	Valigeria/Accessori/Accessori per zaini/Sacche
+3102032031	Valigeria/Accessori/Accessori per zaini/Serbatoi
+11967720031	Valigeria/Accessori/Accessori tascabili
+700537031	Valigeria/Accessori/Accessori tascabili/Appendi borsa tascabili e ganci
+2691414031	Valigeria/Accessori/Accessori tascabili/Ombrelli pieghevoli
+2691417031	Valigeria/Accessori/Accessori tascabili/Organizer borsa
+6307043031	Valigeria/Accessori/Accessori tascabili/Pochette per trucchi
+2691429031	Valigeria/Accessori/Accessori tascabili/Posacenere portatili
+2691426031	Valigeria/Accessori/Astucci portachiavi
+11968720031	Valigeria/Accessori/Astucci portachiavi/Donna
+11968721031	Valigeria/Accessori/Astucci portachiavi/Uomo
+2691413031	Valigeria/Accessori/Ombrelli
+2691415031	Valigeria/Accessori/Ombrelli/Ombrelli classici
+2691414031	Valigeria/Accessori/Ombrelli/Ombrelli pieghevoli
+2691427031	Valigeria/Accessori/Portachiavi ad anello e catena
+11967751031	Valigeria/Accessori/Portachiavi ad anello e catena/Donna
+11967752031	Valigeria/Accessori/Portachiavi ad anello e catena/Uomo
+11967723031	Valigeria/Accessori/Portafogli e porta documenti
+11967724031	Valigeria/Accessori/Portafogli e porta documenti/Bambini
+2691430031	Valigeria/Accessori/Portafogli e porta documenti/Bambini/Portafogli
+11967725031	Valigeria/Accessori/Portafogli e porta documenti/Bambini/Portamonete
+11967734031	Valigeria/Accessori/Portafogli e porta documenti/Donna
+15335987031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità
+11967739031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Custodie per tessere da viaggio
+11967741031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta badge
+11967735031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta biglietti da visita
+11967740031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta carte di credito
+11967736031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Porta libretto degli assegni
+700876031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Portafogli
+11967738031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Portamonete
+11967737031	Valigeria/Accessori/Portafogli e porta documenti/Donna/Portasigarette
+11967726031	Valigeria/Accessori/Portafogli e porta documenti/Uomo
+2691428031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Fermasoldi
+15335989031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità
+11967731031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Custodie per tessere da viaggio
+11967733031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta badge
+11967727031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta biglietti da visita
+11967732031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta carte di credito
+11967728031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Porta libretto degli assegni
+700858031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Portafogli
+11967730031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Portamonete
+11967729031	Valigeria/Accessori/Portafogli e porta documenti/Uomo/Portasigarette
+2646561031	Valigeria/Borse Messenger
+700516031	Valigeria/Borse a mano e a spalla
+11967745031	Valigeria/Borse a mano e a spalla/Bambine e ragazze
+11967744031	Valigeria/Borse a mano e a spalla/Bambini e ragazzi
+700528031	Valigeria/Borse a mano e a spalla/Donna
+700540031	Valigeria/Borse a mano e a spalla/Donna/Borse Tote
+700539031	Valigeria/Borse a mano e a spalla/Donna/Borse a mano
+700535031	Valigeria/Borse a mano e a spalla/Donna/Borse a spalla
+700532031	Valigeria/Borse a mano e a spalla/Donna/Borse a tracolla
+2004757031	Valigeria/Borse a mano e a spalla/Donna/Borse a zainetto
+700533031	Valigeria/Borse a mano e a spalla/Donna/Pochette e Clutch
+700523031	Valigeria/Borse a mano e a spalla/Uomo
+700527031	Valigeria/Borse a mano e a spalla/Uomo/Borse a mano
+700526031	Valigeria/Borse a mano e a spalla/Uomo/Borse a spalla
+700525031	Valigeria/Borse a mano e a spalla/Uomo/Borse organizer portatutto
+11967746031	Valigeria/Borse a mano e a spalla/Uomo/Zaino monospalla
+11967743031	Valigeria/Borse da lavoro e per PC portatili
+2664877031	Valigeria/Borse da lavoro e per PC portatili/Borse e Messenger per Tablet PC
+2752228031	Valigeria/Borse da lavoro e per PC portatili/Borse per PC portatili
+2664875031	Valigeria/Borse da lavoro e per PC portatili/Borse per PC portatili/Borse e Messenger
+2664876031	Valigeria/Borse da lavoro e per PC portatili/Borse per PC portatili/Trolley porta PC
+2664874031	Valigeria/Borse da lavoro e per PC portatili/Borse per PC portatili/Ventiquattrore
+2664873031	Valigeria/Borse da lavoro e per PC portatili/Borse per PC portatili/Zaini
+2691155031	Valigeria/Borse da lavoro e per PC portatili/Borse pilota
+700546031	Valigeria/Borse da lavoro e per PC portatili/Ventiquattrore
+700549031	Valigeria/Borse da palestra
+700552031	Valigeria/Borse da palestra/Borse  sportive per bambini
+700553031	Valigeria/Borse da palestra/Borse a spalla
+700554031	Valigeria/Borse da palestra/Borsoni
+700550031	Valigeria/Borse da palestra/Sacche
+700551031	Valigeria/Borse da palestra/Tote da palestra
+2691407031	"Valigeria/Borse, cestini e Trolley per la spesa"
+3488018031	"Valigeria/Borse, cestini e Trolley per la spesa/Borse porta vino e portabottiglie"
+700565031	"Valigeria/Borse, cestini e Trolley per la spesa/Borse riutilizzabili per la spesa"
+2691408031	"Valigeria/Borse, cestini e Trolley per la spesa/Cestini per la spesa"
+2691409031	"Valigeria/Borse, cestini e Trolley per la spesa/Trolley per la spesa"
+632926031	"Valigeria/Cartelle, astucci e set per la scuola"
+4290313031	"Valigeria/Cartelle, astucci e set per la scuola/Astucci"
+2691157031	"Valigeria/Cartelle, astucci e set per la scuola/Cartelle"
+2691158031	"Valigeria/Cartelle, astucci e set per la scuola/Set per la scuola"
+700545031	"Valigeria/Cartelle, astucci e set per la scuola/Zainetti per bambini"
+11967750031	Valigeria/Marsupi
+700548031	Valigeria/Marsupi/Marsupi alla moda
+3102035031	Valigeria/Marsupi/Marsupi sportivi
+2691413031	Valigeria/Ombrelli
+2691415031	Valigeria/Ombrelli/Ombrelli classici
+2691414031	Valigeria/Ombrelli/Ombrelli pieghevoli
+11967723031	Valigeria/Portafogli e porta documenti
+11967724031	Valigeria/Portafogli e porta documenti/Bambini
+2691430031	Valigeria/Portafogli e porta documenti/Bambini/Portafogli
+11967725031	Valigeria/Portafogli e porta documenti/Bambini/Portamonete
+11967734031	Valigeria/Portafogli e porta documenti/Donna
+15335987031	Valigeria/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità
+11967739031	Valigeria/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Custodie per tessere da viaggio
+11967741031	Valigeria/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta badge
+11967735031	Valigeria/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta biglietti da visita
+11967740031	Valigeria/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta carte di credito
+11967736031	Valigeria/Portafogli e porta documenti/Donna/Porta libretto degli assegni
+700876031	Valigeria/Portafogli e porta documenti/Donna/Portafogli
+11967738031	Valigeria/Portafogli e porta documenti/Donna/Portamonete
+11967737031	Valigeria/Portafogli e porta documenti/Donna/Portasigarette
+11967726031	Valigeria/Portafogli e porta documenti/Uomo
+2691428031	Valigeria/Portafogli e porta documenti/Uomo/Fermasoldi
+15335989031	Valigeria/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità
+11967731031	Valigeria/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Custodie per tessere da viaggio
+11967733031	Valigeria/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta badge
+11967727031	Valigeria/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta biglietti da visita
+11967732031	Valigeria/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta carte di credito
+11967728031	Valigeria/Portafogli e porta documenti/Uomo/Porta libretto degli assegni
+700858031	Valigeria/Portafogli e porta documenti/Uomo/Portafogli
+11967730031	Valigeria/Portafogli e porta documenti/Uomo/Portamonete
+11967729031	Valigeria/Portafogli e porta documenti/Uomo/Portasigarette
+700555031	Valigeria/Valigie e set da viaggio
+700556031	Valigeria/Valigie e set da viaggio/Bagaglio a mano
+700561031	Valigeria/Valigie e set da viaggio/Borsoni
+700562031	Valigeria/Valigie e set da viaggio/Porta abiti
+700559031	Valigeria/Valigie e set da viaggio/Set di valigie
+700563031	Valigeria/Valigie e set da viaggio/Tote da viaggio
+2664876031	Valigeria/Valigie e set da viaggio/Trolley per PC portatili
+700560031	Valigeria/Valigie e set da viaggio/Valigie
+700557031	Valigeria/Valigie e set da viaggio/Valigie per bambini
+2646560031	Valigeria/Zaini
+700545031	Valigeria/Zaini/Zainetti per bambini
+700544031	Valigeria/Zaini/Zaini Casual
+2664873031	Valigeria/Zaini/Zaini per PC portatili
+4175434031	Valigeria/Zaini/Zaini per fotocamere
+11967742031	Valigeria/Zaini/Zaini sportivi e outdoor
+3102034031	Valigeria/Zaini/Zaini sportivi e outdoor/Zaini da hiking
+1665242031	Valigeria/Zaini/Zaini sportivi e outdoor/Zaini da picnic
+3102390031	Valigeria/Zaini/Zaini sportivi e outdoor/Zaini da sci
+3102415031	Valigeria/Zaini/Zaini sportivi e outdoor/Zaini da snowboard
+3102036031	Valigeria/Zaini/Zaini sportivi e outdoor/Zaini da trekking
+3785251031	Valigeria/Zaini/Zaini sportivi e outdoor/Zaini per ciclismo

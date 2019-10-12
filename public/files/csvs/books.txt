@@ -1,0 +1,451 @@
+﻿411664031	Libri
+508758031	"Libri/Arte, cinema e fotografia"
+508759031	"Libri/Arte, cinema e fotografia/Architettura"
+508762031	"Libri/Arte, cinema e fotografia/Cinema e televisione"
+508765031	"Libri/Arte, cinema e fotografia/Danza"
+508761031	"Libri/Arte, cinema e fotografia/Fotografia"
+508764031	"Libri/Arte, cinema e fotografia/Moda e Design"
+508769031	"Libri/Arte, cinema e fotografia/Musei e museologia"
+508760031	"Libri/Arte, cinema e fotografia/Musica"
+508768031	"Libri/Arte, cinema e fotografia/Pittura"
+508767031	"Libri/Arte, cinema e fotografia/Scultura"
+8537379031	"Libri/Arte, cinema e fotografia/Spartiti, canzonieri e testi"
+508763031	"Libri/Arte, cinema e fotografia/Storia dell'arte, teoria e critica"
+508766031	"Libri/Arte, cinema e fotografia/Teatro e spettacolo"
+508779031	Libri/Azione e avventura
+508714031	"Libri/Biografie, diari e memorie"
+1346621031	"Libri/Biografie, diari e memorie/Biografie e autobiografie"
+1346622031	"Libri/Biografie, diari e memorie/Diari, lettere e giornali"
+1346623031	"Libri/Biografie, diari e memorie/Memorie"
+508791031	Libri/Calendari e agende
+508785031	Libri/Diritto
+1346645031	Libri/Diritto/Diritto internazionale
+1346646031	Libri/Diritto/Diritto privato
+1346648031	Libri/Diritto/Diritto pubblico
+1346647031	Libri/Diritto/Pratiche e procedure penali
+508864031	Libri/Dizionari e opere di consultazione
+508866031	Libri/Dizionari e opere di consultazione/Biblioteche e catalogazione
+508858031	Libri/Dizionari e opere di consultazione/Dizionari e vocabolari
+508865031	Libri/Dizionari e opere di consultazione/Enciclopedie e opere di consultazione
+508786031	"Libri/Economia, affari e finanza"
+508787031	"Libri/Economia, affari e finanza/Economia"
+6138103031	"Libri/Economia, affari e finanza/Economia/Crescita economica"
+6138114031	"Libri/Economia, affari e finanza/Economia/Crisi e disastri finanziari"
+6138104031	"Libri/Economia, affari e finanza/Economia/Econometria"
+6138108031	"Libri/Economia, affari e finanza/Economia/Economia ambientale"
+6138111031	"Libri/Economia, affari e finanza/Economia/Economia del Welfare"
+6138102031	"Libri/Economia, affari e finanza/Economia/Economia del lavoro"
+6138101031	"Libri/Economia, affari e finanza/Economia/Economia dell'organizzazione industriale"
+6138107031	"Libri/Economia, affari e finanza/Economia/Economia dello sviluppo"
+6138106031	"Libri/Economia, affari e finanza/Economia/Economia internazionale"
+6138109031	"Libri/Economia, affari e finanza/Economia/Economia politica"
+6138110031	"Libri/Economia, affari e finanza/Economia/Economia sanitaria"
+6138113031	"Libri/Economia, affari e finanza/Economia/Economia urbana"
+6138098031	"Libri/Economia, affari e finanza/Economia/Filosofia e teoria dell'economia"
+6138099031	"Libri/Economia, affari e finanza/Economia/Macroeconomia"
+6138100031	"Libri/Economia, affari e finanza/Economia/Microeconomia"
+6138105031	"Libri/Economia, affari e finanza/Economia/Previsioni economiche"
+6138112031	"Libri/Economia, affari e finanza/Economia/Sistemi e strutture economiche"
+6138115031	"Libri/Economia, affari e finanza/Economia/Storia economica"
+508789031	"Libri/Economia, affari e finanza/Impresa, strategia e gestione"
+508790031	"Libri/Economia, affari e finanza/Industria e studi industriali"
+6138120031	"Libri/Economia, affari e finanza/Industria e studi industriali/Costruzioni e industria pesante"
+6138123031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione"
+6171394031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione/Industria cinematografica"
+6138125031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione/Industria editoriale"
+6138127031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione/Industria informatica"
+6171395031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione/Industria musicale"
+6171396031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione/Industria radiotelevisiva"
+6138126031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione/Poste e telecomunicazioni"
+6138124031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei media, dell'informazione e della comunicazione/Stampa e giornalismo"
+6138122031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei servizi"
+6138119031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria dei trasporti"
+6138121031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria della distribuzione"
+6138117031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria e servizi energetici"
+6138118031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria manufatturiera"
+6138116031	"Libri/Economia, affari e finanza/Industria e studi industriali/Industria primaria"
+6138128031	"Libri/Economia, affari e finanza/Industria e studi industriali/Pubblica amministrazione e settore pubblico"
+6138129031	"Libri/Economia, affari e finanza/Industria e studi industriali/Relazioni industriali e sicurezza"
+508792031	"Libri/Famiglia, salute e benessere"
+508793031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni"
+4421421031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Adozione e affidamento"
+4421426031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Consigli per l'educazione"
+4421422031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Gravidanza e puericultura"
+4421425031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Gravidanza e puericultura/Cura e allevamento dei bambini"
+4421423031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Gravidanza e puericultura/Gravidanza, parto e puericultura"
+4421424031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Gravidanza e puericultura/Nomi da dare ai bambini"
+4421419031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Relazioni di coppia"
+4421420031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Separazione e divorzio"
+4421418031	"Libri/Famiglia, salute e benessere/Famiglia e relazioni/Sesso e sessualità"
+508795031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito"
+4421451031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro"
+4421452031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro/Astrologia e oroscopi"
+4421453031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro/Cartomanzia e Tarocchi"
+4421458031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro/Chiaroveggenza e precognizione"
+4421456031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro/Chiromanzia, frenologia e fisiognomica"
+4421457031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro/Grafologia"
+4421454031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro/I Ching"
+4421455031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Astrologia e predizione del futuro/Numerologia"
+4421467031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Feng Shui"
+4421469031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Fenomeni inspiegabili e paranormali"
+4421460031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Meditazione e focalizzazione"
+4421468031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Misticismo, magia e rituali"
+4421461031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Poteri e fenomeni psichici"
+4421463031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Poteri e fenomeni psichici/Chakra, aura e poteri spirituali"
+4421462031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Poteri e fenomeni psichici/Cristalloterapia e cromoterapia"
+4421466031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Poteri e fenomeni psichici/Esperienze extracorporee"
+4421464031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Poteri e fenomeni psichici/Reincarnazione e vite passate"
+4421465031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Poteri e fenomeni psichici/Spiriti guida, angeli e medianità"
+4421459031	"Libri/Famiglia, salute e benessere/Mente, corpo e spirito/Sogni e interpretazione dei sogni"
+1346639031	"Libri/Famiglia, salute e benessere/Salute e benessere"
+4421441031	"Libri/Famiglia, salute e benessere/Salute e benessere/Dieta e fitness"
+4421442031	"Libri/Famiglia, salute e benessere/Salute e benessere/Dieta e fitness/Diete e dietologia"
+4421443031	"Libri/Famiglia, salute e benessere/Salute e benessere/Dieta e fitness/Esercizio fisico e allenamento"
+4421444031	"Libri/Famiglia, salute e benessere/Salute e benessere/Dieta e fitness/Massaggi"
+4421438031	"Libri/Famiglia, salute e benessere/Salute e benessere/Dipendenze"
+4421439031	"Libri/Famiglia, salute e benessere/Salute e benessere/Dipendenze/Droga e alcolismo"
+4421440031	"Libri/Famiglia, salute e benessere/Salute e benessere/Dipendenze/Fumo"
+4421428031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali"
+4421432031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali/Ansia e fobie"
+4421434031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali/Disabilità"
+4421430031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali/Disordini alimentari"
+4421429031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali/Malattia"
+4421431031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali/Morte e lutto"
+4421433031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali/Stress"
+4421435031	"Libri/Famiglia, salute e benessere/Salute e benessere/Malattia e problemi personali/Vecchiaia"
+4421427031	"Libri/Famiglia, salute e benessere/Salute e benessere/Primo soccorso"
+4421437031	"Libri/Famiglia, salute e benessere/Salute e benessere/Salute degli uomini"
+4421436031	"Libri/Famiglia, salute e benessere/Salute e benessere/Salute delle donne"
+4421445031	"Libri/Famiglia, salute e benessere/Salute e benessere/Terapie e medicina alternativa"
+4421446031	"Libri/Famiglia, salute e benessere/Salute e benessere/Terapie e medicina alternativa/Aromaterapia e oli essenziali"
+4421450031	"Libri/Famiglia, salute e benessere/Salute e benessere/Terapie e medicina alternativa/Medicina tradizionale e rimedi erboristici"
+4421447031	"Libri/Famiglia, salute e benessere/Salute e benessere/Terapie e medicina alternativa/Omeopatia"
+4421449031	"Libri/Famiglia, salute e benessere/Salute e benessere/Terapie e medicina alternativa/Reiki"
+4421448031	"Libri/Famiglia, salute e benessere/Salute e benessere/Terapie e medicina alternativa/Riflessologia"
+1345828031	"Libri/Fantascienza, Horror e Fantasy"
+508773031	"Libri/Fantascienza, Horror e Fantasy/Fantascienza"
+508772031	"Libri/Fantascienza, Horror e Fantasy/Fantasy"
+508774031	"Libri/Fantascienza, Horror e Fantasy/Horror"
+508784031	Libri/Fumetti e manga
+1346624031	Libri/Fumetti e manga/Fumetti e manga per bambini e ragazzi
+4546138031	Libri/Fumetti e manga/Manga
+4546139031	Libri/Fumetti e manga/Narrativa a fumetti
+4546136031	Libri/Fumetti e manga/Stili e tecniche di disegno
+4546137031	Libri/Fumetti e manga/Strisce a fumetti
+508771031	Libri/Gialli e Thriller
+1346712031	Libri/Guide di revisione e aiuto allo studio
+508820031	Libri/Humour
+508733031	"Libri/Informatica, Web e Digital Media"
+508741031	"Libri/Informatica, Web e Digital Media/Certificazioni"
+508832031	"Libri/Informatica, Web e Digital Media/Computer e videogiochi"
+508740031	"Libri/Informatica, Web e Digital Media/Database"
+508737031	"Libri/Informatica, Web e Digital Media/Hardware"
+508734031	"Libri/Informatica, Web e Digital Media/Internet"
+508736031	"Libri/Informatica, Web e Digital Media/Multimedia e disegno grafico"
+508739031	"Libri/Informatica, Web e Digital Media/Programmazione"
+508743031	"Libri/Informatica, Web e Digital Media/Reti e sistemi amministrativi"
+508744031	"Libri/Informatica, Web e Digital Media/Scienza dei calcolatori"
+508742031	"Libri/Informatica, Web e Digital Media/Sicurezza informatica"
+508738031	"Libri/Informatica, Web e Digital Media/Sistemi operativi"
+508735031	"Libri/Informatica, Web e Digital Media/Software per l'ufficio"
+508770031	Libri/Letteratura e narrativa
+508854031	Libri/Letteratura e narrativa/Antologie
+508777031	Libri/Letteratura e narrativa/Classici
+508755031	Libri/Letteratura e narrativa/Letteratura di viaggio
+508853031	Libri/Letteratura e narrativa/Letteratura teatrale
+508782031	"Libri/Letteratura e narrativa/Miti, saghe e leggende"
+508776031	Libri/Letteratura e narrativa/Narrativa contemporanea
+508781031	Libri/Letteratura e narrativa/Narrativa religiosa e spirituale
+508852031	Libri/Letteratura e narrativa/Poesia
+508783031	Libri/Letteratura e narrativa/Racconti
+508856031	Libri/Letteratura e narrativa/Saggi
+508855031	Libri/Letteratura e narrativa/Storia della letteratura e critica letteraria
+508778031	Libri/Letteratura erotica
+508715031	Libri/Libri per bambini e ragazzi
+1346634031	"Libri/Libri per bambini e ragazzi/Arte, pittura e musica"
+508722031	Libri/Libri per bambini e ragazzi/Avventura
+508732031	Libri/Libri per bambini e ragazzi/Consultazione e informazione
+1346626031	"Libri/Libri per bambini e ragazzi/Famiglia, problemi personali e sociali"
+1345743031	"Libri/Libri per bambini e ragazzi/Fantascienza, Horror e Fantasy"
+508725031	"Libri/Libri per bambini e ragazzi/Fantascienza, Horror e Fantasy/Fantascienza"
+508726031	"Libri/Libri per bambini e ragazzi/Fantascienza, Horror e Fantasy/Fantasy"
+508724031	"Libri/Libri per bambini e ragazzi/Fantascienza, Horror e Fantasy/Horror"
+508727031	Libri/Libri per bambini e ragazzi/Fiabe
+1346624031	Libri/Libri per bambini e ragazzi/Fumetti e manga
+508723031	Libri/Libri per bambini e ragazzi/Gialli e Thriller
+1346627031	"Libri/Libri per bambini e ragazzi/Giochi, giocattoli e attività ricreativa"
+1346625031	Libri/Libri per bambini e ragazzi/Hobby e tempo libero
+1346629031	Libri/Libri per bambini e ragazzi/Humor
+508720031	Libri/Libri per bambini e ragazzi/Letteratura e narrativa
+508730031	Libri/Libri per bambini e ragazzi/Letteratura e narrativa/Antologie
+508721031	Libri/Libri per bambini e ragazzi/Letteratura e narrativa/Classici
+1346631031	Libri/Libri per bambini e ragazzi/Letteratura e narrativa/Letteratura teatrale
+508719031	Libri/Libri per bambini e ragazzi/Letteratura e narrativa/Poesia
+508729031	Libri/Libri per bambini e ragazzi/Letteratura e narrativa/Racconti
+508716031	Libri/Libri per bambini e ragazzi/Libri illustrati
+508717031	Libri/Libri per bambini e ragazzi/Libri interattivi
+1346630031	Libri/Libri per bambini e ragazzi/Lingua e apprendimento
+1346633031	Libri/Libri per bambini e ragazzi/Misteri e curiosità
+508728031	Libri/Libri per bambini e ragazzi/Narrativa storica
+508718031	Libri/Libri per bambini e ragazzi/Primo apprendimento
+1346635031	Libri/Libri per bambini e ragazzi/Religione
+1346636031	"Libri/Libri per bambini e ragazzi/Scienze, natura e tecnologia"
+1346632031	Libri/Libri per bambini e ragazzi/Soldi e lavoro
+1346637031	Libri/Libri per bambini e ragazzi/Sport
+1346628031	Libri/Libri per bambini e ragazzi/Storia
+508888031	Libri/Libri scolastici
+508857031	"Libri/Lingua, linguistica e scrittura"
+508863031	"Libri/Lingua, linguistica e scrittura/Corsi di lingue straniere e supporti didattici"
+508858031	"Libri/Lingua, linguistica e scrittura/Dizionari e vocabolari"
+1346643031	"Libri/Lingua, linguistica e scrittura/Giornalismo"
+508859031	"Libri/Lingua, linguistica e scrittura/Grammatica"
+508861031	"Libri/Lingua, linguistica e scrittura/Linguistica"
+508860031	"Libri/Lingua, linguistica e scrittura/Manuali di scrittura"
+1346644031	"Libri/Lingua, linguistica e scrittura/Retorica e  linguaggio"
+508780031	Libri/Narrativa storica
+508811031	Libri/Politica
+508818031	Libri/Politica/Governo
+508814031	Libri/Politica/Ideologie politiche
+1346649031	Libri/Politica/Libertà e sicurezza
+508816031	Libri/Politica/Partiti politici
+508817031	Libri/Politica/Pubblica amministrazione
+508819031	Libri/Politica/Relazioni internazionali e globalizzazione
+508812031	Libri/Politica/Scienze politiche
+508815031	Libri/Politica/Strutture e processi politici
+508745031	Libri/Religione
+1346650031	Libri/Religione/Baha'i
+508747031	Libri/Religione/Buddismo
+508746031	Libri/Religione/Cristianesimo
+4551867031	Libri/Religione/Cristianesimo/Bibbia
+4551862031	Libri/Religione/Cristianesimo/Chiese e denominazioni cristiane
+4551863031	Libri/Religione/Cristianesimo/Chiese e denominazioni cristiane/Chiesa cattolica romana
+4551864031	Libri/Religione/Cristianesimo/Chiese e denominazioni cristiane/Chiese ortodosse e orientali
+4551865031	Libri/Religione/Cristianesimo/Chiese e denominazioni cristiane/Protestantesimo e chiese protestanti
+4551869031	"Libri/Religione/Cristianesimo/Culto, riti e preghiere"
+4551879031	Libri/Religione/Cristianesimo/Istituzioni e organizzazioni
+4551873031	Libri/Religione/Cristianesimo/Istruzione e vita cristiana
+4551875031	Libri/Religione/Cristianesimo/Istruzione e vita cristiana/Istruzione cristiana
+4551874031	Libri/Religione/Cristianesimo/Istruzione e vita cristiana/Sacramenti
+4551877031	"Libri/Religione/Cristianesimo/Istruzione e vita cristiana/Sessualità, generi e relazioni"
+4551876031	Libri/Religione/Cristianesimo/Istruzione e vita cristiana/Terapia psicologica cristiana
+4551878031	Libri/Religione/Cristianesimo/Istruzione e vita cristiana/Testimonianze personali
+4551871031	Libri/Religione/Cristianesimo/Omelie
+4551872031	Libri/Religione/Cristianesimo/Spiritualità
+4551866031	Libri/Religione/Cristianesimo/Storia della chiesa e del cristianesimo
+4551868031	Libri/Religione/Cristianesimo/Studi ed esegesi biblica
+4551870031	Libri/Religione/Cristianesimo/Teologia
+4551861031	Libri/Religione/Cristianesimo/Vicenda storica di Gesù
+508750031	Libri/Religione/Ebraismo
+1346651031	Libri/Religione/Etenismo
+1346652031	"Libri/Religione/Fondamentalismo, intolleranza e persecuzione"
+1346653031	Libri/Religione/Giainismo
+508748031	Libri/Religione/Induismo
+508749031	Libri/Religione/Islamismo
+1346654031	Libri/Religione/Scintoismo
+1346655031	Libri/Religione/Sikhismo
+508752031	Libri/Religione/Storia delle religioni
+508751031	Libri/Religione/Teologia e filosofia delle religioni
+508775031	Libri/Romanzi rosa
+508867031	"Libri/Scienze, tecnologia e medicina"
+508877031	"Libri/Scienze, tecnologia e medicina/Agricoltura e allevamento"
+508878031	"Libri/Scienze, tecnologia e medicina/Ambiente"
+508870031	"Libri/Scienze, tecnologia e medicina/Astronomia"
+508873031	"Libri/Scienze, tecnologia e medicina/Biologia"
+508872031	"Libri/Scienze, tecnologia e medicina/Chimica"
+508871031	"Libri/Scienze, tecnologia e medicina/Fisica"
+508875031	"Libri/Scienze, tecnologia e medicina/Geografia"
+508876031	"Libri/Scienze, tecnologia e medicina/Ingegneria"
+508869031	"Libri/Scienze, tecnologia e medicina/Matematica"
+508868031	"Libri/Scienze, tecnologia e medicina/Medicina"
+5329325031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina"
+5329326031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Anestesiologia"
+5329334031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Diagnostica per immagini"
+5329342031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Dipendenze"
+5329339031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Disordini alimentari"
+5329343031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Disordini del sonno"
+5329341031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Disordini della parola e del linguaggio"
+5329329031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Farmacologia"
+5329333031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Medicina d'urgenza e pronto soccorso"
+5329336031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Medicina del lavoro"
+5329335031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Medicina legale"
+5329337031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Medicina sportiva"
+5329340031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Obesità"
+5329327031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Odontoiatria"
+5329328031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Patologia"
+5329330031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Psichiatria"
+5329331031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Psicologia clinica"
+5329332031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Psicoterapia"
+5329338031	"Libri/Scienze, tecnologia e medicina/Medicina/Altre branche della medicina/Terapia e terapeutica"
+5329307031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna"
+5329318031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Dermatologia"
+5329323031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Diagnostica"
+5329320031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Endocrinologia"
+5329319031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Gastroenterologia"
+5329314031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Ginecologia e ostetricia"
+5329312031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Immunologia"
+5329308031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Malattie e disturbi"
+5329309031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Malattie e disturbi/Malattie congenite"
+5329310031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Malattie e disturbi/Malattie infettive e contagiose"
+5329322031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Medicina cardiovascolare"
+5329321031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Medicina muscoloscheletrica"
+5329324031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Nefrologia"
+5329317031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Neurologia"
+5329315031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Oftalmologia"
+5329311031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Oncologia"
+5329316031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Otorinolaringoiatria"
+5329313031	"Libri/Scienze, tecnologia e medicina/Medicina/Clinica e medicina interna/Pediatria"
+5329292031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica"
+5329298031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Argomenti medico-legali"
+5329300031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Attrezzature e tecniche mediche"
+5329301031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Chirurgia"
+5329302031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Infermieristica"
+5329297031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Professione medica"
+5329293031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Salute pubblica e medicina preventiva"
+5329294031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Salute pubblica e medicina preventiva/Dietetica e nutrizione"
+5329295031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Servizi e sistemi sanitari"
+5329299031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Sociologia della medicina"
+5329296031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina generale, chirurgia e infermieristica/Storia della medicina"
+5329303031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina pre-clinica"
+5329304031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina pre-clinica/Anatomia"
+5329306031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina pre-clinica/Fisiologia"
+5329305031	"Libri/Scienze, tecnologia e medicina/Medicina/Medicina pre-clinica/Riproduzione umana, crescita e sviluppo"
+508874031	"Libri/Scienze, tecnologia e medicina/Scienze della terra"
+1346656031	"Libri/Scienze, tecnologia e medicina/Trasporti e meccanica"
+508794031	Libri/Self-help
+4421474031	"Libri/Self-help/Autostima, motivazione e capacità cognitive"
+4421472031	Libri/Self-help/Consigli per i consumatori
+4421470031	Libri/Self-help/Finanza personale
+4421471031	Libri/Self-help/Lavoro e raggiungimento del successo
+4421475031	Libri/Self-help/Pensionamento
+4421473031	Libri/Self-help/Proprietà immobiliare
+4421476031	Libri/Self-help/Vivere e lavorare all'estero
+508879031	Libri/Società e scienze sociali
+508882031	Libri/Società e scienze sociali/Antropologia
+508883031	Libri/Società e scienze sociali/Assistenza e servizi sociali
+508886031	Libri/Società e scienze sociali/Educazione
+508887031	Libri/Società e scienze sociali/Filosofia
+508885031	Libri/Società e scienze sociali/Psicologia
+508881031	Libri/Società e scienze sociali/Sociologia
+508880031	Libri/Società e scienze sociali/Studi culturali e sociali
+508835031	Libri/Sport
+1346700031	Libri/Sport/Allenamento
+1346665031	Libri/Sport/Badminton
+1346666031	Libri/Sport/Baseball
+508839031	Libri/Sport/Basket
+1346693031	Libri/Sport/Biliardo
+1346667031	"Libri/Sport/Bocce, Bowl e Bowling"
+508845031	Libri/Sport/Bodybuilding e fitness
+1346678031	"Libri/Sport/Caccia, pesca e tiro"
+1346681031	"Libri/Sport/Caccia, pesca e tiro/Caccia"
+1346680031	"Libri/Sport/Caccia, pesca e tiro/Pesca"
+1346682031	"Libri/Sport/Caccia, pesca e tiro/Tiro a segno"
+1346679031	"Libri/Sport/Caccia, pesca e tiro/Tiro con l'arco"
+508836031	Libri/Sport/Calcio
+1346668031	Libri/Sport/Cheerleading
+508838031	Libri/Sport/Ciclismo
+508844031	Libri/Sport/Combattimento e difesa personale
+1346671031	Libri/Sport/Combattimento e difesa personale/Arti marziali
+1353244031	Libri/Sport/Combattimento e difesa personale/Lotta
+1346669031	Libri/Sport/Combattimento e difesa personale/Pugilato
+1346670031	Libri/Sport/Combattimento e difesa personale/Scherma
+1346688031	Libri/Sport/Corsa e maratona
+1346672031	Libri/Sport/Cricket
+508841031	Libri/Sport/Escursionismo e attività all'aperto
+1346659031	Libri/Sport/Escursionismo e attività all'aperto/Arrampicata e alpinismo
+1346657031	Libri/Sport/Escursionismo e attività all'aperto/Campeggio
+1346660031	Libri/Sport/Escursionismo e attività all'aperto/Orientamento
+1346658031	Libri/Sport/Escursionismo e attività all'aperto/Speleologia
+1346661031	Libri/Sport/Escursionismo e attività all'aperto/Tecniche di sopravvivenza
+1346662031	"Libri/Sport/Escursionismo e attività all'aperto/Trekking, escursionismo e camminata"
+1346697031	Libri/Sport/Eventi sportivi e organizzazione
+1346664031	Libri/Sport/Football americano
+508846031	Libri/Sport/Ginnastica
+1346686031	Libri/Sport/Giocoleria
+1346683031	Libri/Sport/Golf
+1346684031	Libri/Sport/Hockey
+1346685031	Libri/Sport/Hurling
+1346687031	Libri/Sport/Lacrosse
+508837031	Libri/Sport/Motori
+1346689031	Libri/Sport/Motori/Automobilismo
+1346691031	Libri/Sport/Motori/Motociclismo
+1346690031	Libri/Sport/Motori/Rally
+1346692031	Libri/Sport/Netball
+508849031	Libri/Sport/Pallavolo
+1346699031	Libri/Sport/Ping pong
+1346694031	Libri/Sport/Rugby
+1346695031	Libri/Sport/Skateboard e pattinaggio
+1346696031	Libri/Sport/Softball
+508842031	Libri/Sport/Sport acquatici
+1346703031	Libri/Sport/Sport acquatici/Canoa e Kayak
+1346704031	Libri/Sport/Sport acquatici/Canottaggio
+1346702031	Libri/Sport/Sport acquatici/Nautica
+1346707031	Libri/Sport/Sport acquatici/Nuoto e subacquea
+1346706031	"Libri/Sport/Sport acquatici/Surf, Windsurf e sci nautico"
+1346705031	Libri/Sport/Sport acquatici/Vela
+1346663031	Libri/Sport/Sport aerei
+508847031	Libri/Sport/Sport equestri e con animali
+1346673031	Libri/Sport/Sport equestri e con animali/Corse di cani
+1346674031	Libri/Sport/Sport equestri e con animali/Equitazione
+1346675031	Libri/Sport/Sport equestri e con animali/Ippica
+1346676031	Libri/Sport/Sport equestri e con animali/Polo
+1346677031	Libri/Sport/Sport equestri e con animali/Rodeo e corrida
+508840031	Libri/Sport/Sport invernali
+1346709031	Libri/Sport/Sport invernali/Hockey su ghiaccio
+1346708031	Libri/Sport/Sport invernali/Pattinaggio su ghiaccio e di figura
+1346710031	Libri/Sport/Sport invernali/Sci
+1346711031	Libri/Sport/Sport invernali/Snowboard
+1346698031	Libri/Sport/Squash e Racketball
+508848031	Libri/Sport/Tennis
+1346701031	Libri/Sport/Triathlon
+508796031	Libri/Storia
+508797031	Libri/Storia/Archeologia
+508806031	Libri/Storia/Storia antica
+1346640031	Libri/Storia/Storia contemporanea dal XX secolo a oggi
+508807031	Libri/Storia/Storia medioevale
+508809031	Libri/Storia/Storia militare
+508808031	Libri/Storia/Storia moderna e contemporanea dal XVIII al XX secolo
+1346641031	Libri/Storia/Storia moderna fino al XVIII secolo
+508810031	Libri/Storia/Storia sociale e culturale
+1346642031	Libri/Storia/Storiografia
+508821031	Libri/Tempo libero
+508834031	Libri/Tempo libero/Animali domestici
+508825031	Libri/Tempo libero/Collezionismo
+508822031	Libri/Tempo libero/Cucina
+3815823031	Libri/Tempo libero/Cucina/Bevande
+3815826031	Libri/Tempo libero/Cucina/Bevande/Bevande analcoliche
+3815824031	Libri/Tempo libero/Cucina/Bevande/Birre
+3815825031	Libri/Tempo libero/Cucina/Bevande/Vini e cocktail
+3815822031	Libri/Tempo libero/Cucina/Conservazione
+3815808031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti
+3815809031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti/Carne e selvaggina
+3815815031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti/Cioccolato
+3815812031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti/Erbe e spezie
+3815814031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti/Latte e latticini
+3815813031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti/Pasta
+3815811031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti/Pesce e frutti di mare
+3815810031	Libri/Tempo libero/Cucina/Cucina con specifici ingredienti/Pollo e carni bianche
+3815802031	Libri/Tempo libero/Cucina/Cucina facile e veloce
+3815805031	Libri/Tempo libero/Cucina/Cucina internazionale e regionale
+3815807031	Libri/Tempo libero/Cucina/Cucina per le feste
+3815803031	Libri/Tempo libero/Cucina/Cucina salutista e diete specifiche
+3815804031	Libri/Tempo libero/Cucina/Cucina vegetariana
+3815806031	Libri/Tempo libero/Cucina/Cucinare per e con i bambini
+3815801031	Libri/Tempo libero/Cucina/Cuochi celebri e della televisione
+3815816031	Libri/Tempo libero/Cucina/Piatti e portate
+3815817031	"Libri/Tempo libero/Cucina/Piatti e portate/Antipasti, minestre e primi"
+3815820031	Libri/Tempo libero/Cucina/Piatti e portate/Dolci e dessert
+3815818031	Libri/Tempo libero/Cucina/Piatti e portate/Insalate
+3815819031	Libri/Tempo libero/Cucina/Piatti e portate/Secondi
+3815821031	"Libri/Tempo libero/Cucina/Piatti e portate/Torte, dolci da forno e gelati"
+3815800031	Libri/Tempo libero/Cucina/Ricettari generali
+508828031	Libri/Tempo libero/Fai da te e arti decorative
+508823031	Libri/Tempo libero/Giardinaggio
+508827031	Libri/Tempo libero/Giochi e quiz
+508830031	Libri/Tempo libero/Lifestyle e guide allo stile
+508824031	Libri/Tempo libero/Manutenzione della casa
+508826031	Libri/Tempo libero/Modellini e modellismo ferroviario
+508753031	Libri/Viaggi
+508754031	Libri/Viaggi/Guide turistiche
+508755031	Libri/Viaggi/Letteratura di viaggio
+508756031	Libri/Viaggi/Mappe e atlanti
+508757031	Libri/Viaggi/Opere illustrate

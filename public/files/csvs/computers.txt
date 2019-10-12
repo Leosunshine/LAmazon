@@ -1,0 +1,292 @@
+﻿425917031	Informatica
+460002031	Informatica/Accessori
+5225081031	Informatica/Accessori/Accessori per Hard-Disk
+5225082031	Informatica/Accessori/Accessori per Hard-Disk/Adesivi
+460043031	Informatica/Accessori/Accessori per Hard-Disk/Borse e custodie
+460044031	Informatica/Accessori/Accessori per Hard-Disk/Case e serrature
+13854850031	Informatica/Accessori/Accessori per Hard-Disk/Circuiti stampati
+1480106031	Informatica/Accessori/Accessori per Hard-Disk/Docking stations
+460050031	Informatica/Accessori/Accessori per Monitor
+460052031	Informatica/Accessori/Accessori per Monitor/Coperture per Monitor
+460053031	Informatica/Accessori/Accessori per Monitor/Filtri per Monitor
+460054031	Informatica/Accessori/Accessori per Monitor/Protezioni schermo
+460051031	Informatica/Accessori/Accessori per Monitor/Supporti
+460059031	Informatica/Accessori/Accessori per PC portatili
+460069031	Informatica/Accessori/Accessori per PC portatili/Adesivi per computer
+460068031	Informatica/Accessori/Accessori per PC portatili/Apparecchi di sicurezza per computer portatili
+460065031	Informatica/Accessori/Accessori per PC portatili/Batterie per computer portatili
+460060031	Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili
+2664875031	Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Borse e Messenger
+2752229031	Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Custodie morbide
+7165759031	Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Custodie rigide
+2664876031	Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Trolley porta PC
+2664874031	Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Ventiquattrore
+2664873031	Informatica/Accessori/Accessori per PC portatili/Borse per PC portatili/Zaini
+6411167031	Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station
+6411168031	Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station/Caricabatterie per auto
+460061031	Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station/Caricatori e alimentatori
+460063031	Informatica/Accessori/Accessori per PC portatili/Caricabatterie e docking station/Docking station
+460066031	Informatica/Accessori/Accessori per PC portatili/Filtri schermo per computer portatili
+460067031	Informatica/Accessori/Accessori per PC portatili/Protezioni schermo per computer portatili
+12205564031	Informatica/Accessori/Accessori per PC portatili/Set di accessori
+2808694031	Informatica/Accessori/Accessori per PC portatili/Supporti per notebook
+460064031	Informatica/Accessori/Accessori per PC portatili/Vassoi di appoggio
+14310235031	Informatica/Accessori/Accessori per PC portatili/Ventole e basi di raffreddamento esterno
+460062031	Informatica/Accessori/Accessori per PC portatili/Ventole e basi di raffreddamento esterno/Basi di raffreddamento
+14310236031	Informatica/Accessori/Accessori per PC portatili/Ventole e basi di raffreddamento esterno/Ventole per raffreddamento esterno
+460077031	Informatica/Accessori/Accessori per Scanner
+1500029031	Informatica/Accessori/Accessori per Tablet PC
+1500033031	Informatica/Accessori/Accessori per Tablet PC/Adesivi e Skin
+1500031031	Informatica/Accessori/Accessori per Tablet PC/Caricatori e Adattatori
+1500035031	Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide
+2664877031	Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide/Borse e Messenger
+1500038031	Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide/Custodie morbide
+1500039031	Informatica/Accessori/Accessori per Tablet PC/Custodie morbide e rigide/Custodie rigide
+5854934031	Informatica/Accessori/Accessori per Tablet PC/Parti di ricambio
+5145045031	Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo
+5145047031	Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo/Dischi
+5145048031	Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo/Punte
+5145046031	Informatica/Accessori/Accessori per Tablet PC/Parti e accessori delle stilo/Tappi
+1500032031	Informatica/Accessori/Accessori per Tablet PC/Protezioni schermo
+1500030031	Informatica/Accessori/Accessori per Tablet PC/Set di accessori
+473286031	Informatica/Accessori/Accessori per Tablet PC/Stilo
+1500034031	Informatica/Accessori/Accessori per Tablet PC/Supporti
+1500053031	Informatica/Accessori/Accessori per Tablet PC/Tastiere
+16119536031	Informatica/Accessori/Accessori per audio e video
+460176031	Informatica/Accessori/Accessori per audio e video/Casse per PC
+460190031	Informatica/Accessori/Accessori per audio e video/Cuffie per PC
+460191031	Informatica/Accessori/Accessori per audio e video/Microfoni per PC
+460189031	Informatica/Accessori/Accessori per audio e video/Webcam e periferiche VoIP
+7124972031	Informatica/Accessori/Accessori per schede di memoria
+7124973031	Informatica/Accessori/Accessori per schede di memoria/Adattatori per schede di memoria
+7124974031	Informatica/Accessori/Accessori per schede di memoria/Custodie per schede di memoria
+460131031	Informatica/Accessori/Accessori per schede di memoria/Lettori schede di memoria esterni
+460070031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser
+6095089031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Cartucce a inchiostro solido
+460073031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Cartucce d'inchiostro
+460071031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Cassetti per stampante
+6095087031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit di fusione
+6095088031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit di manutenzione
+6095090031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit di trasferimento
+6095086031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Kit tamburo
+460074031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Moduli per stampanti
+8490863031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Ricariche e kit di ricarica cartucce
+5517816031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Testine di stampa
+460075031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Toner
+6095085031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Unità developer
+460072031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Unità duplex
+6095091031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Vaschette di recupero toner
+460076031	Informatica/Accessori/Accessori per stampanti a inchiostro e laser/Vassoi per stampante
+460046031	Informatica/Accessori/Accessori per tastiere e Mouse
+460047031	Informatica/Accessori/Accessori per tastiere e Mouse/Coperture antipolvere
+4290152031	Informatica/Accessori/Accessori per tastiere e Mouse/Poggiapolsi
+460048031	Informatica/Accessori/Accessori per tastiere e Mouse/Tappetini per il Mouse
+16112222031	Informatica/Accessori/Accessori videogiochi per PC
+13900034031	Informatica/Accessori/Accessori videogiochi per PC/Cuffie
+13900027031	Informatica/Accessori/Accessori videogiochi per PC/Gamepads
+13900035031	Informatica/Accessori/Accessori videogiochi per PC/Joysticks
+13900032031	Informatica/Accessori/Accessori videogiochi per PC/Mouse da gioco
+13900031031	Informatica/Accessori/Accessori videogiochi per PC/Tastiere da gioco
+460003031	Informatica/Accessori/Adattatori
+16194124031	Informatica/Accessori/Adattatori/Adattatori DP-HDMI
+460004031	Informatica/Accessori/Adattatori/Adattatori DVI-HDMI
+460005031	Informatica/Accessori/Adattatori/Adattatori FireWire
+5176951031	Informatica/Accessori/Adattatori/Adattatori Lightning
+460007031	Informatica/Accessori/Adattatori/Adattatori PS/2
+460009031	Informatica/Accessori/Adattatori/Adattatori SCSI
+5176952031	Informatica/Accessori/Adattatori/Adattatori Thunderbolt
+460011031	Informatica/Accessori/Adattatori/Adattatori USB a USB
+6911866031	Informatica/Accessori/Adattatori/Adattatori USB-VGA
+460006031	Informatica/Accessori/Adattatori/Adattatori maschio/femmina
+460008031	Informatica/Accessori/Adattatori/Adattatori porta parallela
+460010031	Informatica/Accessori/Adattatori/Adattatori seriali
+16060549031	Informatica/Accessori/Borse organizer per cavi
+460026031	Informatica/Accessori/Cavi
+460027031	Informatica/Accessori/Cavi/Cavi DVI
+2559681031	Informatica/Accessori/Cavi/Cavi DisplayPort
+460028031	Informatica/Accessori/Cavi/Cavi Ethernet
+598203031	Informatica/Accessori/Cavi/Cavi FDD
+460029031	Informatica/Accessori/Cavi/Cavi FireWire
+473317031	Informatica/Accessori/Cavi/Cavi HDMI
+598204031	Informatica/Accessori/Cavi/Cavi IDE
+5145198031	Informatica/Accessori/Cavi/Cavi KVM
+5176953031	Informatica/Accessori/Cavi/Cavi Lightning
+460030031	Informatica/Accessori/Cavi/Cavi PS/2
+460033031	Informatica/Accessori/Cavi/Cavi RGB
+460034031	Informatica/Accessori/Cavi/Cavi SAS
+460035031	Informatica/Accessori/Cavi/Cavi SATA
+460036031	Informatica/Accessori/Cavi/Cavi SCSI
+5176954031	Informatica/Accessori/Cavi/Cavi Thunderbolt
+460038031	Informatica/Accessori/Cavi/Cavi USB
+460039031	Informatica/Accessori/Cavi/Cavi VGA
+5520739031	Informatica/Accessori/Cavi/Cavi a fibre ottiche
+460032031	Informatica/Accessori/Cavi/Cavi di alimentazione
+460031031	Informatica/Accessori/Cavi/Cavi porta parallela
+460037031	Informatica/Accessori/Cavi/Cavi seriali
+460040031	Informatica/Accessori/Computer e server racks
+460012031	Informatica/Accessori/Custodie supporti vergini
+9638542031	Informatica/Accessori/Gadget USB
+5348982031	Informatica/Accessori/Gadget USB/Lampade USB
+9638548031	Informatica/Accessori/Gadget USB/Scalda bevande USB
+9638545031	Informatica/Accessori/Gadget USB/Ventilatori USB
+14330075031	Informatica/Accessori/Gruppi di continuità UPS e accessori
+14330076031	Informatica/Accessori/Gruppi di continuità UPS e accessori/Batterie di ricambio per UPS
+460079031	Informatica/Accessori/Gruppi di continuità UPS e accessori/Gruppi di continuità UPS
+460045031	Informatica/Accessori/KVM switch
+6572053031	Informatica/Accessori/Materiali per la stampa 3D
+6572426031	Informatica/Accessori/Materiali per la stampa 3D/Filamenti per stampanti 3D
+6572427031	Informatica/Accessori/Materiali per la stampa 3D/Granuli per stampanti 3D
+6572428031	Informatica/Accessori/Materiali per la stampa 3D/Liquidi per stampanti 3D
+4290098031	Informatica/Accessori/Pulizia per computer
+4290222031	Informatica/Accessori/Pulizia per computer/Aspirapolvere per computer
+4290223031	Informatica/Accessori/Pulizia per computer/Aspiratori ad aria compressa
+4290224031	Informatica/Accessori/Pulizia per computer/Salviette e tamponi detergenti
+6572055031	Informatica/Accessori/Ricambi e accessori per stampanti 3D
+6572429031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Accessori per stampanti 3D
+8641301031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Cinghie di distribuzione per stampanti 3D
+6572430031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Controller per stampanti 3D
+6572431031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Estrusori per stampanti 3D
+6572432031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Interfacce e moduli driver stampanti 3D
+6572433031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Motori per stampanti 3D
+8641300031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Parti per estrusore per stampanti 3D
+6572434031	Informatica/Accessori/Ricambi e accessori per stampanti 3D/Piattaforme per stampanti 3D
+460013031	Informatica/Accessori/Supporti vergini
+460014031	Informatica/Accessori/Supporti vergini/BD-R
+460015031	Informatica/Accessori/Supporti vergini/BD-RW
+460016031	Informatica/Accessori/Supporti vergini/CD-R
+460017031	Informatica/Accessori/Supporti vergini/CD-RW
+460018031	Informatica/Accessori/Supporti vergini/DVD+R
+460019031	Informatica/Accessori/Supporti vergini/DVD+RW
+460020031	Informatica/Accessori/Supporti vergini/DVD-R
+460021031	Informatica/Accessori/Supporti vergini/DVD-RAM
+460022031	Informatica/Accessori/Supporti vergini/DVD-RW
+460023031	Informatica/Accessori/Supporti vergini/Floppy disk
+460024031	Informatica/Accessori/Supporti vergini/Nastri
+460025031	Informatica/Accessori/Supporti vergini/Zip media
+460078031	Informatica/Accessori/USB Hub
+460041031	Informatica/Accessori/Viti per computer
+460080031	Informatica/Componenti
+460125031	Informatica/Componenti/Alimentatori
+460081031	Informatica/Componenti/Barebone
+460082031	Informatica/Componenti/Case
+14076167031	Informatica/Componenti/Dispositivi archiviazione dati interni
+14076168031	Informatica/Componenti/Dispositivi archiviazione dati interni/Disk ibridi
+460102031	Informatica/Componenti/Dispositivi archiviazione dati interni/Hard-Disk
+460114031	Informatica/Componenti/Dispositivi archiviazione dati interni/Unità a stato solido interne
+460106031	Informatica/Componenti/Lettori di schede di memoria interni
+460119031	Informatica/Componenti/Memorie
+460126031	Informatica/Componenti/Processori
+460094031	Informatica/Componenti/Schede I/O
+460097031	Informatica/Componenti/Schede I/O/Controller RAID
+460100031	Informatica/Componenti/Schede I/O/Scheda porta USB
+460095031	Informatica/Componenti/Schede I/O/Schede porta FireWire
+460098031	Informatica/Componenti/Schede I/O/Schede porta SCSI
+460096031	Informatica/Componenti/Schede I/O/Schede porta parallela
+460099031	Informatica/Componenti/Schede I/O/Schede porta seriale
+460116031	Informatica/Componenti/Schede TV interne e schede per video editing
+460115031	Informatica/Componenti/Schede audio interne
+460121031	Informatica/Componenti/Schede di rete
+460090031	Informatica/Componenti/Schede grafiche
+460091031	Informatica/Componenti/Schede grafiche/Schede grafiche AGP
+460093031	Informatica/Componenti/Schede grafiche/Schede grafiche PCI
+460092031	Informatica/Componenti/Schede grafiche/Schede grafiche PCI Express
+460120031	Informatica/Componenti/Schede madri
+460118031	Informatica/Componenti/Unità ZIP interne
+460101031	Informatica/Componenti/Unità floppy disk interne
+460117031	Informatica/Componenti/Unità nastri interne
+460107031	Informatica/Componenti/Unità ottiche interne
+460109031	Informatica/Componenti/Unità ottiche interne/Unità Blu-ray
+460113031	Informatica/Componenti/Unità ottiche interne/Unità CD/DVD
+460083031	Informatica/Componenti/Ventole e sistemi di raffreddamento
+8434401031	Informatica/Componenti/Ventole e sistemi di raffreddamento/Controller per ventole
+460088031	Informatica/Componenti/Ventole e sistemi di raffreddamento/Dissipatori di calore
+460087031	Informatica/Componenti/Ventole e sistemi di raffreddamento/Prese d'aria
+460089031	Informatica/Componenti/Ventole e sistemi di raffreddamento/Sistemi di raffreddamento ad acqua
+460084031	Informatica/Componenti/Ventole e sistemi di raffreddamento/Ventole per CPU
+460085031	Informatica/Componenti/Ventole e sistemi di raffreddamento/Ventole per case
+460086031	Informatica/Componenti/Ventole e sistemi di raffreddamento/Ventole per schede grafiche
+5145049031	Informatica/Componenti e pezzi di ricambio per portatili
+7173369031	Informatica/Componenti e pezzi di ricambio per portatili/Altoparlanti interni
+14311463031	Informatica/Componenti e pezzi di ricambio per portatili/Batterie CMOS di ricambio
+5145050031	Informatica/Componenti e pezzi di ricambio per portatili/Connettori DC
+7173368031	Informatica/Componenti e pezzi di ricambio per portatili/Cornici e cerniere Hinge
+7173370031	Informatica/Componenti e pezzi di ricambio per portatili/Interruttori
+5145051031	Informatica/Componenti e pezzi di ricambio per portatili/Invertitori dello schermo
+2626707031	Informatica/Componenti e pezzi di ricambio per portatili/Schermo di ricambio
+4730580031	Informatica/Componenti e pezzi di ricambio per portatili/Tastiere di ricambio
+7173367031	Informatica/Componenti e pezzi di ricambio per portatili/Ventole
+460127031	Informatica/Desktop
+13829952031	Informatica/Desktop/All-in-One
+13829953031	Informatica/Desktop/Mini PC
+13829954031	Informatica/Desktop/Tower PC
+460128031	Informatica/Dispositivi archiviazione dati esterni
+460130031	Informatica/Dispositivi archiviazione dati esterni/Hard-Disk esterni
+460145031	Informatica/Dispositivi archiviazione dati esterni/Network attached storage
+460146031	Informatica/Dispositivi archiviazione dati esterni/PenDrive
+460141031	Informatica/Dispositivi archiviazione dati esterni/Schede TV esterne
+460140031	Informatica/Dispositivi archiviazione dati esterni/Schede audio esterne
+473574031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria
+473575031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Compact Flash
+473576031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Memory Stick
+473577031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Micro SD
+473578031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede Multimedia
+473579031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede PC e PCMCIA
+473580031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede SecureDigital
+473581031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede SmartMedia
+473582031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede miniSD
+473583031	Informatica/Dispositivi archiviazione dati esterni/Schede di memoria/Schede xD-Picture
+460143031	Informatica/Dispositivi archiviazione dati esterni/Unità ZIP esterne
+460139031	Informatica/Dispositivi archiviazione dati esterni/Unità a stato solido esterne
+460129031	Informatica/Dispositivi archiviazione dati esterni/Unità floppy disk esterne
+460142031	Informatica/Dispositivi archiviazione dati esterni/Unità nastri esterne
+460132031	Informatica/Dispositivi archiviazione dati esterni/Unità ottiche esterne
+460134031	Informatica/Dispositivi archiviazione dati esterni/Unità ottiche esterne/Unità Blu-ray
+460138031	Informatica/Dispositivi archiviazione dati esterni/Unità ottiche esterne/Unità CD/DVD
+460159031	Informatica/Monitor
+460161031	Informatica/Periferiche di rete
+460174031	Informatica/Periferiche di rete/Access point wireless
+460163031	Informatica/Periferiche di rete/Adattatori Bluetooth
+460170031	Informatica/Periferiche di rete/Adattatori PowerLAN
+460175031	Informatica/Periferiche di rete/Adattatori USB wireless
+460162031	Informatica/Periferiche di rete/Antenne e amplificatori
+460169031	Informatica/Periferiche di rete/Hub di rete e switch
+460164031	Informatica/Periferiche di rete/Internet Key
+460165031	Informatica/Periferiche di rete/Modem
+460167031	Informatica/Periferiche di rete/Modem/Modem DSL
+460168031	Informatica/Periferiche di rete/Modem/Modem ISDN
+460166031	Informatica/Periferiche di rete/Modem/Modem analogici
+460172031	Informatica/Periferiche di rete/Ripetitori
+460173031	Informatica/Periferiche di rete/Router
+460121031	Informatica/Periferiche di rete/Scheda di rete
+460171031	Informatica/Periferiche di rete/Server di stampa
+15671984031	Informatica/Periferiche di rete/Sistemi WiFi Mesh
+460158031	Informatica/Portatili
+460184031	Informatica/Scanner
+460185031	Informatica/Scanner/Film scanner
+598773031	Informatica/Scanner/Scanner per biglietti da visita
+598772031	Informatica/Scanner/Scanner per documenti
+460186031	Informatica/Scanner/Scanner piani
+460187031	Informatica/Server
+6572059031	Informatica/Stampanti 3D
+460177031	Informatica/Stampanti a getto d’inchiostro e laser
+460183031	Informatica/Stampanti a getto d’inchiostro e laser/Plotter
+460178031	Informatica/Stampanti a getto d’inchiostro e laser/Stampanti All-In-One
+598755031	Informatica/Stampanti a getto d’inchiostro e laser/Stampanti All-In-One/Inkjet
+598756031	Informatica/Stampanti a getto d’inchiostro e laser/Stampanti All-In-One/Laser
+460179031	Informatica/Stampanti a getto d’inchiostro e laser/Stampanti a getto d'inchiostro
+460181031	Informatica/Stampanti a getto d’inchiostro e laser/Stampanti a matrice
+473552031	Informatica/Stampanti a getto d’inchiostro e laser/Stampanti fotografiche
+460180031	Informatica/Stampanti a getto d’inchiostro e laser/Stampanti laser
+460188031	Informatica/Tablet PC
+2867238031	Informatica/Tablet educativi
+460147031	"Informatica/Tastiere, Mouse e periferiche di input"
+460155031	"Informatica/Tastiere, Mouse e periferiche di input/Mouse"
+13900032031	"Informatica/Tastiere, Mouse e periferiche di input/Mouse da gioco"
+599066031	"Informatica/Tastiere, Mouse e periferiche di input/Penne tavoletta grafica"
+460153031	"Informatica/Tastiere, Mouse e periferiche di input/Set tastiera e Mouse"
+460154031	"Informatica/Tastiere, Mouse e periferiche di input/Tastiere"
+460156031	"Informatica/Tastiere, Mouse e periferiche di input/Tastiere numeriche"
+1500053031	"Informatica/Tastiere, Mouse e periferiche di input/Tastiere per Tablet PC"
+460151031	"Informatica/Tastiere, Mouse e periferiche di input/Tavolette grafiche"
+460157031	"Informatica/Tastiere, Mouse e periferiche di input/Trackball"
+15424896031	Informatica/Tavolette per scrittura LCD ed eWriters

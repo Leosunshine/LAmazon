@@ -166,7 +166,103 @@
 		public function test2Action(){
 			$this->view->disable();
 			echo "<pre/>";
-			AmazonController::getResult();
+			$logs = Uploadlog::find("status = 1");
+
+			foreach ($logs as $index => $log) {
+				$submission_id = $log->submission_id;
+				if(0 === $submission_id) continue;
+
+				$uploadLog = $log->detail_url;
+				$uploadLog = file_get_contents($uploadLog);
+				$uploadLog = json_decode($uploadLog,true);
+				//验证上传结果
+				$result = AmazonResult::initializeFromSubmissionId($submission_id);
+
+				if(is_array($result) || !$result->isSuccess()) continue;
+				$product_list = $uploadLog["products"];
+				$variation_list = $uploadLog["variations"];
+				$type = $log->type;
+				foreach ($product_list as $SKU => $message) {
+					$product = Products::findFirst($message["id"]);
+					AmazonStatus::setUpdated($product, $type);
+					$product->save();
+				}
+
+				foreach ($variation_list as $SKU => $message) {
+					$variation = Variation::findFirst($message["id"]);
+					$type = "Product" === $type? "Variation":$type;
+					AmazonStatus::setUpdated($variation, $type);
+					$variation->save();
+				}
+
+				$log->status = 2;
+				$log->save();
+			}
+			
+			return;
+			
+			$submissionLog = file_get_contents("./temp/updateLogs/uploadLog.dat");
+			$submissionLog = json_decode($submissionLog,true);
+			if($submissionLog["status"] === "done"){
+				echo $submissionLog["submission_id"]." has already done!";
+				return;
+			}
+
+			$result = AmazonResult::initializeFromSubmissionId($submissionLog);
+			if(is_array($result) || !$result->isSuccess()) {
+				echo "error";
+				return;
+			}
+
+			$product_list = $submissionLog["products"];
+			foreach ($product_list as $product_SKU => $message) {
+				$product_instance = Products::findFirst($message["id"]);
+				$operation = $message["operation"];
+				if($operation === "delete"){
+					$product_instance->status = 8;
+					$product_instance->amazon_status = Tools::replaceCharAt($product_instance->amazon_status, 0, "8");
+				}
+
+				if($operation === "update"){
+					$product_instance->status = $product_instance->status + 1;
+					$product_instance->amazon_status = Tools::replaceCharAt($product_instance->amazon_status, 0, $product_instance->status."");
+				}
+
+				if($operation === "update_price"){
+					AmazonStatus::setPriceUpdated($product_instance);
+				}
+
+				if($operation === "update_inventory"){
+					AmazonStatus::setInventoryUpdated($product_instance);
+				}
+				$product_instance->save();
+			}
+
+			$variation_list = $submissionLog["variations"];
+			foreach ($variation_list as $variation_SKU => $message) {
+				$variation_instance = Variation::findFirst($message["id"]);
+				$operation = $message["operation"];
+				if($operation === "delete"){
+					$variation_instance->amazon_status = Tools::replaceCharAt($variation_instance->amazon_status, 0, "8");
+					$variation_instance->product_id = 0; //消除与商品的链接
+				}
+
+				if($operation === "update"){
+					$va_status = substr($variation_instance->amazon_status, 0, 1) * 1 + 1;
+					$variation_instance->amazon_status = Tools::replaceCharAt($variation_instance->amazon_status, 0, $va_status."");
+				}
+
+				if($operation === "update_price"){
+					AmazonStatus::setPriceUpdated($variation_instance);
+				}
+
+				if($operation === "update_inventory"){
+					AmazonStatus::setInventoryUpdated($variation_instance);
+				}
+				$variation_instance->save();
+			}
+			$submissionLog["status"] = "done";
+			file_put_contents("./temp/updateLogs/uploadLog.dat", json_encode($submissionLog, JSON_PRETTY_PRINT));
 		}
 
 		public function synRelationshipAction(){
@@ -174,7 +270,9 @@
 		}
 		public function testScriptAction(){
 			$this->view->disable();
-			Tools::removeDir("./img/8/");
+			$products = Products::find();
+			$c = Tools::countOfPreparedRelation($products);
+			echo $c;
 		}
 
 		public function handleCat($fileName){

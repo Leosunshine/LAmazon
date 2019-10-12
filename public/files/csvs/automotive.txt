@@ -1,0 +1,1401 @@
+﻿1571281031	Auto e Moto
+2420687031	Auto e Moto/Accessori per auto
+2420688031	Auto e Moto/Accessori per auto/Accessori di emergenza
+15722132031	Auto e Moto/Accessori per auto/Accessori di emergenza/Avviatori di emergenza
+2420689031	Auto e Moto/Accessori per auto/Accessori di emergenza/Barre da traino
+2420690031	Auto e Moto/Accessori per auto/Accessori di emergenza/Funi di traino
+2420691031	Auto e Moto/Accessori per auto/Accessori di emergenza/Giacche e gilet alta visibilità
+2525978031	Auto e Moto/Accessori per auto/Accessori di emergenza/Kit attrezzi di emergenza
+2420692031	Auto e Moto/Accessori per auto/Accessori di emergenza/Martelli di emergenza
+2420693031	Auto e Moto/Accessori per auto/Accessori di emergenza/Triangoli di segnalazione
+2420694031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili
+2420695031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili/Aste per Softtop
+2420696031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili/Hardtop
+2420697031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili/Motori Softtop
+2420698031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili/Paravento per decappottabili
+2420699031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili/Sistemi completi per auto decappottabile
+2420701031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili/Softtop
+2420700031	Auto e Moto/Accessori per auto/Accessori per auto decappottabili/Softtop meccanici
+2420702031	Auto e Moto/Accessori per auto/Bandierine
+2420709031	Auto e Moto/Accessori per auto/Ciondoli per specchietto
+2420703031	Auto e Moto/Accessori per auto/Copriauto
+2420704031	Auto e Moto/Accessori per auto/Coprisedili e accessori comfort
+2420705031	Auto e Moto/Accessori per auto/Coprisedili e accessori comfort/Coprisedili singoli
+2420706031	Auto e Moto/Accessori per auto/Coprisedili e accessori comfort/Protezioni per sedili
+2420707031	Auto e Moto/Accessori per auto/Coprisedili e accessori comfort/Riscaldamenti per sedili
+2420708031	Auto e Moto/Accessori per auto/Coprisedili e accessori comfort/Set coprisedili
+2421194031	Auto e Moto/Accessori per auto/Coprivolanti
+2420710031	Auto e Moto/Accessori per auto/Deflettori aria
+2420711031	Auto e Moto/Accessori per auto/Deodoranti per auto
+2420712031	Auto e Moto/Accessori per auto/Dischi orari
+2420713031	Auto e Moto/Accessori per auto/Dispositivi antifurto di bloccaggio
+2420714031	Auto e Moto/Accessori per auto/Estintori
+2420715031	Auto e Moto/Accessori per auto/Etilometri
+2420727031	Auto e Moto/Accessori per auto/Foglie e tinte per finestrini
+2420716031	Auto e Moto/Accessori per auto/Frigoriferi
+2420717031	Auto e Moto/Accessori per auto/Inverter di potenza
+2420718031	Auto e Moto/Accessori per auto/Kit di pronto soccorso
+2420719031	Auto e Moto/Accessori per auto/Manovelle e alzacristalli per finestrini
+2420723031	Auto e Moto/Accessori per auto/Parasole
+2420724031	Auto e Moto/Accessori per auto/Parasole/Finestrini laterali
+2420725031	Auto e Moto/Accessori per auto/Parasole/Lunotto
+2420726031	Auto e Moto/Accessori per auto/Parasole/Parabrezza
+2420728031	Auto e Moto/Accessori per auto/Pompe
+2420729031	Auto e Moto/Accessori per auto/Portabollo per auto
+2420730031	Auto e Moto/Accessori per auto/Prodotti per l'inverno
+2420732031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Antighiaccio per serrature portiere
+5062877031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Calze da neve
+2420733031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Catene da neve
+2420734031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Kit invernali per auto
+2420735031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Pellicole protettive antighiaccio
+2420736031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Raschietti per il ghiaccio
+2420731031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Sbrinatori per parabrezza
+2420737031	Auto e Moto/Accessori per auto/Prodotti per l'inverno/Spazzole e scope da neve
+2420739031	Auto e Moto/Accessori per auto/Repellenti anti-martore
+2420740031	Auto e Moto/Accessori per auto/Taniche carburante
+2420741031	Auto e Moto/Accessori per auto/Tappetini per auto
+2420744031	Auto e Moto/Accessori per auto/Tappetini per auto/Tappetini abitacolo
+2420742031	Auto e Moto/Accessori per auto/Tappetini per auto/Tappetini antiscivolo
+2420743031	Auto e Moto/Accessori per auto/Tappetini per auto/Tappetini per bagagliaio
+2420746031	Auto e Moto/Accessori per auto/Targhe
+2421175031	Auto e Moto/Accessori per auto/Tendine parasole
+2420747031	Auto e Moto/Accessori per auto/Termometri
+2420748031	Auto e Moto/Accessori per auto/Vani e contenitori
+2420749031	Auto e Moto/Accessori per auto/Vani e contenitori/Borse per bagagliaio
+2420750031	Auto e Moto/Accessori per auto/Vani e contenitori/Custodie occhiali
+2420753031	Auto e Moto/Accessori per auto/Vani e contenitori/Organizer
+2420751031	Auto e Moto/Accessori per auto/Vani e contenitori/Portabevande
+2420752031	Auto e Moto/Accessori per auto/Vani e contenitori/Reti
+2420754031	Auto e Moto/Accessori per caravan e Touring
+2420755031	Auto e Moto/Accessori per caravan e Touring/Alimentazione ed elettricità
+2420756031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio
+2420757031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Accessori per mobili
+2420758031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Bande
+2420759031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Finestre
+2420760031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Griglie di ventilazione
+2420761031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature
+2420762031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Armadietti
+2420763031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Bagno e biancheria
+2420764031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Biancheria da letto
+2420765031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Cucine
+2420766031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Divani letto
+2420767031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Elettrodomestici per la cucina
+2420768031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Fornitura gas
+2420769031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Sedie
+2420770031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Mobili e apparecchiature/Tavoli
+2420771031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Serrature e meccanismi di chiusura
+2420772031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Sicurezza del veicolo
+2420773031	Auto e Moto/Accessori per caravan e Touring/Componenti di montaggio/Sportelli di servizio
+2420774031	"Auto e Moto/Accessori per caravan e Touring/Coperture per camper, roulotte e rimorchi"
+2420775031	Auto e Moto/Accessori per caravan e Touring/Elettronica
+2420776031	Auto e Moto/Accessori per caravan e Touring/Gradini e scale per camper
+2420777031	Auto e Moto/Accessori per caravan e Touring/Gradini e scale per camper/Gradini
+2420778031	Auto e Moto/Accessori per caravan e Touring/Gradini e scale per camper/Scale
+2420779031	Auto e Moto/Accessori per caravan e Touring/Illuminazione
+2420780031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici
+2420781031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Impianti di acqua dolce
+2420782031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Impianti di acqua dolce/Caldaie
+2420783031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Impianti di acqua dolce/Docce
+2420784031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Impianti di acqua dolce/Pompe dell'acqua e accessori
+2420785031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Impianti di acqua dolce/Rubinetti
+2420786031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Sanitari e acque nere
+2420787031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Sanitari e acque nere/Gabinetti
+2420788031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Sanitari e acque nere/Gabinetti/Accessori di ricambio per gabinetti
+2420789031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Sanitari e acque nere/Gabinetti/Additivi per gabinetti
+2420790031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Sanitari e acque nere/Gabinetti/Gabinetti a incasso
+2420791031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Sanitari e acque nere/Gabinetti/Scarichi per gabinetti
+2420792031	Auto e Moto/Accessori per caravan e Touring/Impianti idraulici/Sanitari e acque nere/Tubazioni e raccordi per scarico acque nere
+2420793031	Auto e Moto/Accessori per caravan e Touring/Martinetti e livellatrici
+2420794031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio
+2420795031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio/Assistenza per parcheggio e manovre
+2420796031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio/Blocchi di supporto
+2420797031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio/Cunei di compensazione
+2420798031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio/Guide per tettuccio
+2420799031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio/Luci tettuccio
+2420800031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio/Specchietti esterni
+2420801031	Auto e Moto/Accessori per caravan e Touring/Motore e componenti telaio/Verricelli
+2420802031	"Auto e Moto/Accessori per caravan e Touring/Pulizia, rimessaggio e manutenzione"
+2420803031	"Auto e Moto/Accessori per caravan e Touring/Pulizia, rimessaggio e manutenzione/Detergenti"
+2420804031	"Auto e Moto/Accessori per caravan e Touring/Pulizia, rimessaggio e manutenzione/Kit riparazione teli"
+2420805031	"Auto e Moto/Accessori per caravan e Touring/Pulizia, rimessaggio e manutenzione/Soluzioni salvaspazio"
+2420806031	"Auto e Moto/Accessori per caravan e Touring/Riscaldamento, ventilazione e aria condizionata"
+2420807031	"Auto e Moto/Accessori per caravan e Touring/Riscaldamento, ventilazione e aria condizionata/Climatizzatori"
+2420808031	"Auto e Moto/Accessori per caravan e Touring/Riscaldamento, ventilazione e aria condizionata/Riscaldamento"
+2420809031	"Auto e Moto/Accessori per caravan e Touring/Riscaldamento, ventilazione e aria condizionata/Ventilazione"
+2420810031	"Auto e Moto/Accessori per caravan e Touring/Tendoni, divisori e accessori"
+2420811031	"Auto e Moto/Accessori per caravan e Touring/Tendoni, divisori e accessori/Accessori"
+2420812031	"Auto e Moto/Accessori per caravan e Touring/Tendoni, divisori e accessori/Divisori"
+2420813031	"Auto e Moto/Accessori per caravan e Touring/Tendoni, divisori e accessori/Tendoni"
+2420814031	Auto e Moto/Accessori per viaggio e trasporto
+13370197031	Auto e Moto/Accessori per viaggio e trasporto/Accessori da viaggio per cani
+13370436031	Auto e Moto/Accessori per viaggio e trasporto/Accessori da viaggio per cani/Barriere
+13370414031	Auto e Moto/Accessori per viaggio e trasporto/Accessori da viaggio per cani/Cablaggi
+13370437031	Auto e Moto/Accessori per viaggio e trasporto/Accessori da viaggio per cani/Cuscini rialzati per cani
+13370438031	Auto e Moto/Accessori per viaggio e trasporto/Accessori da viaggio per cani/Fodere per sedili
+13370439031	Auto e Moto/Accessori per viaggio e trasporto/Accessori da viaggio per cani/Gabbiette per auto
+13370440031	Auto e Moto/Accessori per viaggio e trasporto/Accessori da viaggio per cani/Rampe
+2420815031	Auto e Moto/Accessori per viaggio e trasporto/Bandierine di segnalazione
+2420816031	Auto e Moto/Accessori per viaggio e trasporto/Cavi e adattatori
+2420817031	Auto e Moto/Accessori per viaggio e trasporto/Cinghie di tensionamento
+2420818031	Auto e Moto/Accessori per viaggio e trasporto/Giunti e accessori per rimorchi
+2420819031	Auto e Moto/Accessori per viaggio e trasporto/Giunti e accessori per rimorchi/Accessori universali
+2420820031	Auto e Moto/Accessori per viaggio e trasporto/Giunti e accessori per rimorchi/Coperture per rimorchi
+2420821031	Auto e Moto/Accessori per viaggio e trasporto/Giunti e accessori per rimorchi/Giunti di accoppiamento per rimorchi
+2420822031	Auto e Moto/Accessori per viaggio e trasporto/Giunti e accessori per rimorchi/Giunti di collegamento a sfera
+2420823031	Auto e Moto/Accessori per viaggio e trasporto/Giunti e accessori per rimorchi/Giunti per rimorchi
+2420824031	Auto e Moto/Accessori per viaggio e trasporto/Giunti e accessori per rimorchi/Set parti elettriche
+2420825031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi e box da tetto
+2420826031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi e box da tetto/Accessori per box da tetto
+2420827031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi e box da tetto/Box da tetto
+2420828031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi e box da tetto/Portapacchi
+2420829031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi e box da tetto/Supporti per biciclette
+2420830031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi e box da tetto/Supporti per sci e portasci
+2420831031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi posteriori e accessori
+2420832031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi posteriori e accessori/Accessori
+2420833031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi posteriori e accessori/Cremagliere di accoppiamento
+2420834031	Auto e Moto/Accessori per viaggio e trasporto/Portapacchi posteriori e accessori/Portapacchi posteriori
+2420835031	Auto e Moto/Accessori per viaggio e trasporto/Rampe di carico
+2420836031	Auto e Moto/Accessori per viaggio e trasporto/Rimorchi
+2420919031	Auto e Moto/Articoli regalo e merchandising
+2420920031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento
+5077502031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Abbigliamento neonati
+5077514031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Abbigliamento notte
+5077518031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Biancheria intima
+5077515031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Calzini
+2420924031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Cappelli e cappellini
+5077503031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Cinture
+5077516031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Cravatte
+5077509031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Felpe e maglioni
+5077508031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Giacche
+5077504031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Gilet
+5077506031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Guanti
+5077505031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Occhiali
+5077513031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Pantaloni e pantaloncini
+5077510031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Polo
+5077512031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Scarpe
+5077511031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/Sciarpe e foulard
+5077517031	Auto e Moto/Articoli regalo e merchandising/Abbigliamento/T-shirt e top
+2420921031	Auto e Moto/Articoli regalo e merchandising/Accendini
+4203685031	Auto e Moto/Articoli regalo e merchandising/Adesivi baby per macchina
+2420923031	Auto e Moto/Articoli regalo e merchandising/Borse e zaini
+2420922031	Auto e Moto/Articoli regalo e merchandising/Decalcomanie e adesivi
+2420925031	Auto e Moto/Articoli regalo e merchandising/Insegne
+2420926031	Auto e Moto/Articoli regalo e merchandising/Miniature
+2420927031	Auto e Moto/Articoli regalo e merchandising/Portachiavi
+5077519031	Auto e Moto/Articoli regalo e merchandising/Set regalo
+2420928031	Auto e Moto/Articoli regalo e merchandising/Spille
+2420929031	Auto e Moto/Articoli regalo e merchandising/Stemmi ed emblemi
+5077520031	Auto e Moto/Articoli regalo e merchandising/Trasferibili
+2420850031	Auto e Moto/Attrezzi per veicoli
+2420837031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli
+2421390031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Aerografi e accessori
+5226729031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Aspiratori e recuperatori olio esausto
+5226723031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Cunei ruote
+5226710031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Imbuti
+5226726031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Kit staccatubi
+5226722031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Lavaparti
+5226712031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti"
+2420845031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Cric e martinetti"
+5226717031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Cric e martinetti/Cric a cremagliera"
+5226718031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Cric e martinetti/Cric a parallelogramma"
+5226720031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Cric e martinetti/Cric idraulici"
+5226719031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Cric e martinetti/Martinetti"
+2420844031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Cric e martinetti/Martinetti per cambi"
+5226714031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Gru sollevamento motori"
+5226716031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Kit alzamotore"
+5226713031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Pedane di sollevamento a due posti"
+5226721031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Pedane sollevamento moto"
+2420846031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Sollevatori idraulici"
+5226715031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Supporti alzamotore"
+2420848031	"Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pedane, gru, cric e martinetti/Supporti per assale"
+5226711031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Pistole per grasso
+5226709031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Sgabelli da officina
+2420740031	Auto e Moto/Attrezzi per veicoli/Attrezzatura d'officina per veicoli/Taniche carburante
+5226683031	Auto e Moto/Attrezzi per veicoli/Attrezzi boccole
+5226677031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per aria condizionata
+5226726031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per aria condizionata/Kit staccatubi
+5226678031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per aria condizionata/Manometri collettore
+5226679031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per aria condizionata/Pompe a vuoto
+5226699031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore
+5226706031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Attrezzi cinghia dentata
+2420851031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Attrezzi per albero a camme
+5226707031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Attrezzi per molla valvola compressore
+5226701031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Attrezzi per pompa acqua e raffreddamento
+5226702031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Attrezzi per scarico
+5226703031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Attrezzi per volano
+5226705031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Attrezzi pulegge
+2848830031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Chiavi candelette
+5226714031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Gru sollevamento motori
+5226716031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Kit alzamotore
+5226726031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Kit staccatubi
+5226700031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Manometri compressione
+2420847031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Strumenti diagnostici per motore OBD-II
+5226715031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Supporti alzamotore
+5226692031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Tester iniezione
+5226704031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Tester pressione carburante
+2420849031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per motore/Tester pressione dell'olio
+5226728031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per sistema olio
+5226729031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per sistema olio/Aspiratori e recuperatori olio esausto
+5226730031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per sistema olio/Chiavi per il filtro olio
+2420839031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per sistema olio/Contenitori per scarico olio motore
+5226725031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per sistema olio/Estrattori di liquidi
+2420849031	Auto e Moto/Attrezzi per veicoli/Attrezzi e attrezzatura per sistema olio/Tester pressione dell'olio
+5226684031	Auto e Moto/Attrezzi per veicoli/Attrezzi frizione
+5226685031	Auto e Moto/Attrezzi per veicoli/Attrezzi frizione/Attrezzi allineamento frizione
+5226686031	Auto e Moto/Attrezzi per veicoli/Attrezzi frizione/Chiavi per frizione
+5226732031	Auto e Moto/Attrezzi per veicoli/Attrezzi frizione/Estrattori per frizione
+5226724031	Auto e Moto/Attrezzi per veicoli/Attrezzi manuali
+5226727031	Auto e Moto/Attrezzi per veicoli/Attrezzi manuali/Attrezzi per cerchione
+2420855031	Auto e Moto/Attrezzi per veicoli/Attrezzi manuali/Chiavi a pipa e a croce
+2420856031	Auto e Moto/Attrezzi per veicoli/Attrezzi manuali/Chiavi dinamometriche
+5226725031	Auto e Moto/Attrezzi per veicoli/Attrezzi manuali/Estrattori di liquidi
+5226726031	Auto e Moto/Attrezzi per veicoli/Attrezzi manuali/Kit staccatubi
+5226680031	Auto e Moto/Attrezzi per veicoli/Attrezzi manutenzione scocca e parafanghi
+5229826031	Auto e Moto/Attrezzi per veicoli/Attrezzi per batteria
+2421201031	Auto e Moto/Attrezzi per veicoli/Attrezzi per batteria/Caricabatterie
+2421202031	Auto e Moto/Attrezzi per veicoli/Attrezzi per batteria/Cavi avviamento
+2421203031	Auto e Moto/Attrezzi per veicoli/Attrezzi per batteria/Indicatori di stato della batteria
+5226744031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici
+7108313031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Attrezzatura per sistemi di monitoraggio della pressione degli pneumatici
+5226746031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Attrezzi e kit per riparazione pneumatici
+5226749031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Attrezzi per allineamento e convergenza ruote
+5226748031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Attrezzi per valvole pneumatici
+5226745031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Attrezzi smontapneumatici
+2420855031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Chiavi a pipa e a croce
+2420856031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Chiavi dinamometriche
+3120270031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Compressori fissi
+2420865031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Compressori portatili
+2420845031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Cric e martinetti
+5226717031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Cric a cremagliera
+5226718031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Cric a parallelogramma
+5226720031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Cric idraulici
+5226719031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Martinetti
+2420844031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Martinetti per cambi
+2420841031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Equilibratrici pneumatici
+2420843031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Livellatrici pneumatici
+2420858031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Manometri per pneumatici
+5226747031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Misuratori spessore battistrada
+2420848031	Auto e Moto/Attrezzi per veicoli/Attrezzi per cerchioni e pneumatici/Supporti per assale
+5226687031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione"
+5226688031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Attrezzi scansione Air Bag"
+6574727031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Indicatori a quadrante"
+2421203031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Indicatori di stato della batteria"
+5226695031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Lampade di ispezione"
+5226689031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Manometri freni"
+6572500031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Micrometri e accessori"
+6574734031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Micrometri e accessori/Accessori"
+6574736031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Micrometri e accessori/Micrometri esterni"
+6572501031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Micrometri e accessori/Micrometri interni"
+10743497031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Micrometri e accessori/Micrometro di profondità"
+6572515031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Micrometri e accessori/Teste per micrometri"
+5226690031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Misuratori angolo campanatura"
+5226747031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Misuratori spessore battistrada"
+1904624031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Multimetri elettrici"
+5226698031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Pistola stroboscopica per regolazione accensione"
+5226696031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Specchi di ispezione"
+2420847031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Strumenti diagnostici per motore OBD-II"
+5226694031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Telecamere di ispezione"
+6574783031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Termometri a infrarossi"
+1904629031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Tester circuiti elettrici"
+5226692031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Tester iniezione"
+5226704031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Tester pressione carburante"
+2420849031	"Auto e Moto/Attrezzi per veicoli/Attrezzi per diagnostica, test e misurazione/Tester pressione dell'olio"
+5226681031	Auto e Moto/Attrezzi per veicoli/Attrezzi per freni
+2420838031	Auto e Moto/Attrezzi per veicoli/Attrezzi per freni/Apparecchiatura per spurgo freni
+5226682031	Auto e Moto/Attrezzi per veicoli/Attrezzi per freni/Attrezzi svasatura tubi freno
+5226726031	Auto e Moto/Attrezzi per veicoli/Attrezzi per freni/Kit staccatubi
+5226689031	Auto e Moto/Attrezzi per veicoli/Attrezzi per freni/Manometri freni
+2420859031	Auto e Moto/Attrezzi per veicoli/Attrezzi per freni/Set di attrezzi per pinze freni
+5226750031	Auto e Moto/Attrezzi per veicoli/Attrezzi per parabrezza
+5226708031	Auto e Moto/Attrezzi per veicoli/Attrezzi per sistema carburante
+5226751031	Auto e Moto/Attrezzi per veicoli/Attrezzi per tergricristalli
+5226738031	Auto e Moto/Attrezzi per veicoli/Attrezzi per trasmissione e sospensione
+5226739031	Auto e Moto/Attrezzi per veicoli/Attrezzi per trasmissione e sospensione/Attrezzi per asse
+5226740031	Auto e Moto/Attrezzi per veicoli/Attrezzi per trasmissione e sospensione/Attrezzi per barra e testine di trasmissione
+2420852031	Auto e Moto/Attrezzi per veicoli/Attrezzi per trasmissione e sospensione/Attrezzi per cuscinetto ruota
+5226741031	Auto e Moto/Attrezzi per veicoli/Attrezzi per trasmissione e sospensione/Attrezzi per giunti omocinetici
+2420855031	Auto e Moto/Attrezzi per veicoli/Attrezzi per trasmissione e sospensione/Chiavi a pipa e a croce
+5226742031	Auto e Moto/Attrezzi per veicoli/Attrezzi per trasmissione e sospensione/Compressori a molla
+3120267031	Auto e Moto/Attrezzi per veicoli/Avvitatrici pneumatiche
+5226731031	Auto e Moto/Attrezzi per veicoli/Estrattori e separatori
+5226734031	Auto e Moto/Attrezzi per veicoli/Estrattori e separatori/Estrattori mozzo ruota
+5226732031	Auto e Moto/Attrezzi per veicoli/Estrattori e separatori/Estrattori per frizione
+5226737031	Auto e Moto/Attrezzi per veicoli/Estrattori e separatori/Estrattori volante
+5226735031	Auto e Moto/Attrezzi per veicoli/Estrattori e separatori/Kit
+5226733031	Auto e Moto/Attrezzi per veicoli/Estrattori e separatori/Separatori cuscinetti
+5226736031	Auto e Moto/Attrezzi per veicoli/Estrattori e separatori/Set
+5226743031	Auto e Moto/Attrezzi per veicoli/Kit riparazione filetti
+3120898031	Auto e Moto/Attrezzi per veicoli/Rivettatrici
+2420860031	Auto e Moto/Cerchioni e pneumatici
+2420861031	Auto e Moto/Cerchioni e pneumatici/Accessori
+5226648031	Auto e Moto/Cerchioni e pneumatici/Accessori/Anelli di centraggio
+2420863031	Auto e Moto/Cerchioni e pneumatici/Accessori/Borse portapneumatici
+2420864031	Auto e Moto/Cerchioni e pneumatici/Accessori/Cappucci delle valvole
+2420733031	Auto e Moto/Cerchioni e pneumatici/Accessori/Catene da neve
+5226650031	Auto e Moto/Cerchioni e pneumatici/Accessori/Copricerchi singoli
+5226646031	Auto e Moto/Cerchioni e pneumatici/Accessori/Copridadi e copribulloni
+5226647031	Auto e Moto/Cerchioni e pneumatici/Accessori/Coprimozzi
+5226652031	"Auto e Moto/Cerchioni e pneumatici/Accessori/Dadi, perni e bulloni per ruote"
+5226653031	"Auto e Moto/Cerchioni e pneumatici/Accessori/Dadi, perni e bulloni per ruote/Bulloni"
+5226654031	"Auto e Moto/Cerchioni e pneumatici/Accessori/Dadi, perni e bulloni per ruote/Bulloni antifurto"
+5226656031	"Auto e Moto/Cerchioni e pneumatici/Accessori/Dadi, perni e bulloni per ruote/Dadi"
+5226655031	"Auto e Moto/Cerchioni e pneumatici/Accessori/Dadi, perni e bulloni per ruote/Dadi antifurto"
+5226657031	"Auto e Moto/Cerchioni e pneumatici/Accessori/Dadi, perni e bulloni per ruote/Perni"
+5226651031	Auto e Moto/Cerchioni e pneumatici/Accessori/Estensioni valvola
+5226649031	Auto e Moto/Cerchioni e pneumatici/Accessori/Fascette copriruota
+14228302031	Auto e Moto/Cerchioni e pneumatici/Accessori/Mozzi e cuscinetti
+2420867031	Auto e Moto/Cerchioni e pneumatici/Accessori/Sigillanti per pneumatici
+7108314031	Auto e Moto/Cerchioni e pneumatici/Accessori/Sistema di monitoraggio della pressione degli pneumatici
+7108313031	Auto e Moto/Cerchioni e pneumatici/Accessori/Sistema di monitoraggio della pressione degli pneumatici/Attrezzatura
+7108316031	Auto e Moto/Cerchioni e pneumatici/Accessori/Sistema di monitoraggio della pressione degli pneumatici/Sensori di ricambio
+7108315031	Auto e Moto/Cerchioni e pneumatici/Accessori/Sistema di monitoraggio della pressione degli pneumatici/Sistemi Aftermarket
+2420868031	Auto e Moto/Cerchioni e pneumatici/Accessori/Supporti per pneumatici e cerchioni
+5226744031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici
+7108313031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Attrezzatura per sistemi di monitoraggio della pressione degli pneumatici
+5226746031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Attrezzi e kit per riparazione pneumatici
+5226749031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Attrezzi per allineamento e convergenza ruote
+5226748031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Attrezzi per valvole pneumatici
+5226745031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Attrezzi smontapneumatici
+2420855031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Chiavi a pipa e a croce
+2420856031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Chiavi dinamometriche
+3120270031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Compressori fissi
+2420865031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Compressori portatili
+2420845031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Cric e martinetti
+5226717031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Cric a cremagliera
+5226718031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Cric a parallelogramma
+5226720031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Cric idraulici
+5226719031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Martinetti
+2420844031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Cric e martinetti/Martinetti per cambi
+2420841031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Equilibratrici pneumatici
+2420843031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Livellatrici pneumatici
+2420858031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Manometri per pneumatici
+5226747031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Misuratori spessore battistrada
+2420848031	Auto e Moto/Cerchioni e pneumatici/Attrezzi per cerchioni e pneumatici/Supporti per assale
+2420869031	Auto e Moto/Cerchioni e pneumatici/Cerchioni
+2420866031	Auto e Moto/Cerchioni e pneumatici/Copricerchi
+2420874031	Auto e Moto/Cerchioni e pneumatici/Cura cerchioni
+5226644031	Auto e Moto/Cerchioni e pneumatici/Cura cerchioni/Detergenti cerchioni
+2420875031	Auto e Moto/Cerchioni e pneumatici/Cura cerchioni/Panni per la pulizia dei cerchioni
+2420876031	Auto e Moto/Cerchioni e pneumatici/Cura cerchioni/Sigillanti per cerchioni
+5226643031	Auto e Moto/Cerchioni e pneumatici/Cura cerchioni/Spazzole cerchioni
+2420905031	Auto e Moto/Cerchioni e pneumatici/Cura pneumatici
+5226645031	Auto e Moto/Cerchioni e pneumatici/Cura pneumatici/Detergenti per pneumatici
+2420906031	Auto e Moto/Cerchioni e pneumatici/Cura pneumatici/Lucidi per pneumatici
+2420907031	Auto e Moto/Cerchioni e pneumatici/Cura pneumatici/Pennarelli per pneumatici
+2420870031	Auto e Moto/Cerchioni e pneumatici/Pneumatici
+13149145031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Autovetture
+13149146031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Corsa
+13149147031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Go-Kart
+13149148031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Golf Cart
+2421076031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Moto
+13149149031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Motor Home & Camper
+13149150031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Rimorchi
+13149151031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/SUV e fuoristrada
+13149152031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Veicoli commerciali
+13149153031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Veicoli commerciali leggeri
+13149154031	Auto e Moto/Cerchioni e pneumatici/Pneumatici/Veicoli per l'agricoltura
+2420871031	Auto e Moto/Cerchioni e pneumatici/Ruote
+2420872031	Auto e Moto/Cura auto e moto
+2420873031	Auto e Moto/Cura auto e moto/Convertitori di ruggine e mangiaruggine
+2420874031	Auto e Moto/Cura auto e moto/Cura cerchioni
+5226644031	Auto e Moto/Cura auto e moto/Cura cerchioni/Detergenti cerchioni
+2420875031	Auto e Moto/Cura auto e moto/Cura cerchioni/Panni per la pulizia dei cerchioni
+2420876031	Auto e Moto/Cura auto e moto/Cura cerchioni/Sigillanti per cerchioni
+5226643031	Auto e Moto/Cura auto e moto/Cura cerchioni/Spazzole cerchioni
+2420877031	Auto e Moto/Cura auto e moto/Cura freni
+2420878031	Auto e Moto/Cura auto e moto/Cura interni
+2420879031	Auto e Moto/Cura auto e moto/Cura interni/Aspirapolvere
+2420880031	Auto e Moto/Cura auto e moto/Cura interni/Cura cruscotto
+2420881031	Auto e Moto/Cura auto e moto/Cura interni/Cura parti in plastica e in gomma
+2420882031	Auto e Moto/Cura auto e moto/Cura interni/Detergenti per pelle e rivestimenti interni
+2420883031	Auto e Moto/Cura auto e moto/Cura motore
+2420884031	Auto e Moto/Cura auto e moto/Cura motore/Detergenti carburatore
+2420885031	Auto e Moto/Cura auto e moto/Cura motore/Detergenti per sensori di ventilazione
+2420886031	Auto e Moto/Cura auto e moto/Cura motore/Fluidi protettivi vano motore
+2420887031	Auto e Moto/Cura auto e moto/Cura motore/Schiume detergenti motore
+2420888031	Auto e Moto/Cura auto e moto/Cura motore/Sgrassatori
+2420889031	Auto e Moto/Cura auto e moto/Cura motore/Sigillanti lucidi
+2420890031	Auto e Moto/Cura auto e moto/Cura motore/Spray detergenti motore
+2420891031	Auto e Moto/Cura auto e moto/Cura parti verniciate
+2420892031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Cere liquide
+2420893031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Cere solide
+2420895031	"Auto e Moto/Cura auto e moto/Cura parti verniciate/Detergenti per insetti, ruggine e catrame"
+2420896031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Detergenti per vernici
+9203127031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Kit lucidi e cere
+3514216031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Levigatrici e lucidatrici
+2420897031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Liquidi e paste abrasive lucidanti
+2420898031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Lucidanti
+2420899031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Lucidi per vernici
+2420900031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Pasta modellabile per pulire
+2420901031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Pellicole protettive per vernici
+2420902031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Set per levigatura e lucidatura
+2420903031	Auto e Moto/Cura auto e moto/Cura parti verniciate/Shampoo
+2420904031	Auto e Moto/Cura auto e moto/Detergenti per tettuccio apribile
+9203126031	Auto e Moto/Cura auto e moto/Kit pulizia
+5062876031	Auto e Moto/Cura auto e moto/Kit riparazione fari
+2420905031	Auto e Moto/Cura auto e moto/Manutenzione pneumatici
+5226645031	Auto e Moto/Cura auto e moto/Manutenzione pneumatici/Detergenti per pneumatici
+2420906031	Auto e Moto/Cura auto e moto/Manutenzione pneumatici/Lucidi per pneumatici
+2420907031	Auto e Moto/Cura auto e moto/Manutenzione pneumatici/Pennarelli per pneumatici
+2420908031	Auto e Moto/Cura auto e moto/Prevenzione ruggine
+2420909031	Auto e Moto/Cura auto e moto/Pulizia finestrini
+2420910031	Auto e Moto/Cura auto e moto/Pulizia finestrini/Detergenti lavavetri
+2420911031	Auto e Moto/Cura auto e moto/Pulizia finestrini/Detergenti per lunotto di decapottabile
+2420912031	Auto e Moto/Cura auto e moto/Pulizia finestrini/Guarnizioni per finestrini
+2420913031	Auto e Moto/Cura auto e moto/Pulizia finestrini/Lucidanti per pulizia finestrini
+2420914031	"Auto e Moto/Cura auto e moto/Spugne, panni e spazzole"
+2420915031	"Auto e Moto/Cura auto e moto/Spugne, panni e spazzole/Panni"
+2420916031	"Auto e Moto/Cura auto e moto/Spugne, panni e spazzole/Spazzole"
+2420917031	"Auto e Moto/Cura auto e moto/Spugne, panni e spazzole/Spugne"
+2420918031	"Auto e Moto/Cura auto e moto/Stucchi, adesivi e sigillanti"
+3013890031	Auto e Moto/Elettronica per veicoli
+1467952031	Auto e Moto/Elettronica per veicoli/Accessori
+473213031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video
+1467954031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video
+1467968031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Adattatori cavi Patch
+1467956031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Bass Blocker
+1467961031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Blocchi di distribuzione elettrica
+1467965031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Cavi di giunzione
+1467969031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Cavi massa e di potenza
+1467975031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Cavi per casse acustiche
+1467971031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Componenti per distributori di potenza
+1467958031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Condensatori
+1467976031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fasci di cablaggio
+1467967031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Filtri antidisturbo
+2421226031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili
+2421227031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili/Fusibili in vetro
+2421228031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili/Fusibili mini
+2421229031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Fusibili/Fusibili piatti
+1467964031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Guaine termorestringenti
+1467966031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Impianti Kick-Panel
+1467955031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Kit cavi per amplificatori
+1467972031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Kit per distributori di potenza
+473215031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Mascherine telaio
+1467957031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Morsetti e cablaggi per batterie
+1467970031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Morsetti per cavi di potenza
+1467962031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Portafusibili
+473220031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Scatole per Subwoofer
+473221031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Scatole per altoparlanti
+1467974031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Spine per casse acustiche
+473218031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Supporti per casse acustiche
+1467959031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Tappetini
+1467973031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Tessuti per lo smorzamento acustico
+1467960031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Accessori per installazioni audio-video/Ventole di raffreddamento
+1467977031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Adattatori per ingressi audio-video
+473214031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Antenne
+1467953031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Bluetooth Kit
+473216031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Crossover
+1467978031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Invertitori di corrente
+1467980031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Supporti poggiatesta per Tablet
+1467979031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Telecomandi
+473222031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori audio e video/Trasmettitori FM
+1467982031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per GPS
+473227031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per GPS/Caricabatterie
+473229031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per GPS/Ricevitori traffico TMC
+473230031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per GPS/Supporti
+473261031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per cellulari
+16225883031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per cellulari/Caricabatterie Wireless
+473272031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per cellulari/Caricabatterie per auto con cavo
+473263031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per cellulari/Set per auto
+473262031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per cellulari/Supporti per auto
+1467981031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per sistemi multimediali digitali
+1486841031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per sistemi multimediali digitali/Caricabatterie per auto
+1486840031	Auto e Moto/Elettronica per veicoli/Accessori/Accessori per sistemi multimediali digitali/Supporti per auto
+1467983031	Auto e Moto/Elettronica per veicoli/Accessori/Ricevitori d'allerta radar RWR
+1467996031	Auto e Moto/Elettronica per veicoli/Accessori/Telecamere per retromarcia
+473194031	Auto e Moto/Elettronica per veicoli/Elettronica per auto
+2453984031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Park Assist
+2453985031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sensori di parcheggio
+1467985031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio
+473201031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti
+1467989031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti canali centrali
+1467990031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti coassiali
+473202031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti non integrati
+1467991031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Altoparlanti per frequenze alte
+473206031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Componenti Subwoofer
+473204031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Set Altoparlanti
+473207031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Altoparlanti/Sistemi Subwoofer integrati
+473196031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori
+473197031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori/Amplificatori mono
+473198031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori/Amplificatori multicanale
+473199031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Amplificatori/Amplificatori stereo
+473195031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Autoradio
+1467986031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Caricatori CD
+473200031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Equalizzatori
+1467988031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Radio satellitari
+1467987031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi audio/Sistemi multimediali
+2453982031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi di allarme e di sicurezza
+2453983031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi di ingresso remoto
+473209031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video
+1467995031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Impianti surround
+473212031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD da poggiatesta
+1467997031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD da visiera
+1467993031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD integrati nel cruscotto
+1467994031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Lettori DVD per specchietto retrovisore
+473223031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Ricevitori TV
+473211031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Schermo flip down
+473210031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Sistemi video/Videocamera da cruscotto
+2453987031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Telecamera posteriore
+2453986031	Auto e Moto/Elettronica per veicoli/Elettronica per auto/Telecomandi
+1468004031	Auto e Moto/Elettronica per veicoli/Elettronica per moto
+1468008031	Auto e Moto/Elettronica per veicoli/Elettronica per moto/Casse acustiche
+1468006031	Auto e Moto/Elettronica per veicoli/Elettronica per moto/Cuffie bluetooth
+1463464031	Auto e Moto/Elettronica per veicoli/Elettronica per moto/GPS per moto
+1468005031	Auto e Moto/Elettronica per veicoli/Elettronica per moto/Sistemi d'allarme
+1468007031	Auto e Moto/Elettronica per veicoli/Elettronica per moto/Supporti audio-video
+2420930031	"Auto e Moto/Moto, accessori e componenti"
+2420931031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo"
+5226658031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Abbigliamento funzionale"
+5226660031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Abbigliamento funzionale/Abbigliamento antipioggia"
+5226661031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Abbigliamento funzionale/Magliette"
+5226659031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Abbigliamento funzionale/Primo strato"
+2420932031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Accessori stivali per moto"
+2420933031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Caschi"
+2420934031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Caschi/Apribili e modulari"
+5226670031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Caschi/Caschi Cromwell"
+2420935031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Caschi/Cross e Off-road"
+2420936031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Caschi/Integrali"
+2420937031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Caschi/Jet e Demi-Jet"
+2420938031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Completi"
+5226672031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Completi/Set abbigliamento 2 pezzi"
+5226671031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Completi/Tute"
+2420939031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi"
+2893497031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Bandane"
+5226667031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Maschere viso"
+5226663031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Occhiali"
+5226665031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Occhiali/Lenti di ricambio"
+5226666031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Occhiali/Occhiali da sole"
+5226664031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Occhiali/Occhialoni"
+5226662031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Passamontagna"
+5226668031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Scaldacollo"
+5226669031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Copricapi/Sciarpe"
+2420940031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Fasce lombari"
+2420941031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Giacche"
+5226673031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Gilet"
+2420942031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Guanti"
+2420943031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Pantaloni"
+2420944031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Protezioni"
+2420945031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Protezioni/Collari cervicali"
+2420946031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Protezioni/Protettori dorsali"
+2420947031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Protezioni/Protettori per ginocchia"
+2420948031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Protezioni/Protettori per gomiti"
+2420949031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Protezioni/Protettori per torace"
+2420950031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Protezioni/Supporti cervicali"
+2420951031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Stivali da moto"
+2420952031	"Auto e Moto/Moto, accessori e componenti/Abbigliamento protettivo/Visiere casco"
+2420953031	"Auto e Moto/Moto, accessori e componenti/Accessori"
+2420954031	"Auto e Moto/Moto, accessori e componenti/Accessori/Accessori sicurezza e guasti"
+2420956031	"Auto e Moto/Moto, accessori e componenti/Accessori/Cremagliere di montaggio"
+2420957031	"Auto e Moto/Moto, accessori e componenti/Accessori/Decalcomanie, adesivi e magneti"
+2420958031	"Auto e Moto/Moto, accessori e componenti/Accessori/Fogli protettivi e teloni"
+2420959031	"Auto e Moto/Moto, accessori e componenti/Accessori/Lubrificanti"
+2420960031	"Auto e Moto/Moto, accessori e componenti/Accessori/Pellicole per parabrezza"
+2420961031	"Auto e Moto/Moto, accessori e componenti/Accessori/Portabevande"
+2420962031	"Auto e Moto/Moto, accessori e componenti/Accessori/Portabollo per moto"
+2420963031	"Auto e Moto/Moto, accessori e componenti/Accessori/Protezione antifurto"
+2420964031	"Auto e Moto/Moto, accessori e componenti/Accessori/Rimorchi e giunti di collegamento rimorchi"
+2420965031	"Auto e Moto/Moto, accessori e componenti/Accessori/Seggiolini per bambini"
+2420966031	"Auto e Moto/Moto, accessori e componenti/Accessori/Stemmi e decorazioni per moto"
+2420967031	"Auto e Moto/Moto, accessori e componenti/Accessori/Teli per moto"
+2420968031	"Auto e Moto/Moto, accessori e componenti/Accessori/Vernici e spray"
+2420969031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante"
+2420970031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Carburatori"
+2420971031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Dadi e bulloni"
+2420972031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Dispositivi di avviamento a freddo"
+2420973031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Montaggio iniezione e accessori"
+2420974031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Pompe"
+2420975031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Serbatoi"
+14856983031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Tappi serbatoio carburante"
+2420976031	"Auto e Moto/Moto, accessori e componenti/Alimentazione carburante/Tubazioni e tubi flessibili"
+2420977031	"Auto e Moto/Moto, accessori e componenti/Bagagliai"
+2420978031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Bauletti"
+2420979031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Borse cilindriche"
+2420980031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Borse da sella e in pelle"
+2420981031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Borse per sedili"
+2420982031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Borse serbatoio"
+2420983031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Portapacchi posteriori"
+2420984031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Ripiani portapacchi e box"
+2420985031	"Auto e Moto/Moto, accessori e componenti/Bagagliai/Sistemi portapacchi"
+2420986031	"Auto e Moto/Moto, accessori e componenti/Batterie"
+9203138031	"Auto e Moto/Moto, accessori e componenti/Batterie, parti e accessori elettrici"
+9203142031	"Auto e Moto/Moto, accessori e componenti/Batterie, parti e accessori elettrici/Cablaggi"
+9203139031	"Auto e Moto/Moto, accessori e componenti/Batterie, parti e accessori elettrici/Clacson"
+9203140031	"Auto e Moto/Moto, accessori e componenti/Batterie, parti e accessori elettrici/Correttori e regolatori di tensione"
+9203141031	"Auto e Moto/Moto, accessori e componenti/Batterie, parti e accessori elettrici/Motorini di avviamento"
+8641081031	"Auto e Moto/Moto, accessori e componenti/Caricabatterie"
+2420987031	"Auto e Moto/Moto, accessori e componenti/Ciclomotori e quad"
+2420988031	"Auto e Moto/Moto, accessori e componenti/Ciclomotori e quad/Minimoto"
+5226675031	"Auto e Moto/Moto, accessori e componenti/Ciclomotori e quad/Minimoto/Minimoto da cross"
+5226676031	"Auto e Moto/Moto, accessori e componenti/Ciclomotori e quad/Minimoto/Minimoto sportive"
+5226674031	"Auto e Moto/Moto, accessori e componenti/Ciclomotori e quad/Moto"
+2420989031	"Auto e Moto/Moto, accessori e componenti/Ciclomotori e quad/Motorini"
+2420990031	"Auto e Moto/Moto, accessori e componenti/Ciclomotori e quad/Quad"
+2420991031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi"
+2420992031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Cavalletti"
+2420993031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Coperture e rifiniture decorative"
+8515310031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Coperture e rifiniture decorative/Paraserbatoio"
+8515311031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Coperture e rifiniture decorative/Protezioni copriserbatoio"
+2420994031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Cornici"
+2420995031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Griglie sottoparabrezza"
+2420996031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Maniglie di appiglio"
+2420997031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Manopole manubrio"
+2420998031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Manubri"
+2420999031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Parabrezza e deflettori"
+2421000031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Parafanghi"
+2421001031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Paraurti"
+2421002031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Poggiapiedi"
+2421003031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Protezioni anticaduta"
+2421004031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Rivestimenti laterali"
+2421005031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Schienali"
+2421006031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Schienalini Sissy Bar"
+2421007031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Selle bipartite e selle monolitiche"
+2421008031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Selle bipartite e selle monolitiche/Selle bipartite"
+2421009031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Selle bipartite e selle monolitiche/Selle monolitiche"
+2421010031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Serrature e meccanismi di chiusura"
+2421011031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Specchietti laterali e accessori"
+2421012031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Spoiler e alettoni"
+2421013031	"Auto e Moto/Moto, accessori e componenti/Cornici e raccordi/Supporti per targhe"
+2421014031	"Auto e Moto/Moto, accessori e componenti/Filtri"
+2421015031	"Auto e Moto/Moto, accessori e componenti/Filtri/Filtri aria"
+2421016031	"Auto e Moto/Moto, accessori e componenti/Filtri/Filtri carburante"
+2421017031	"Auto e Moto/Moto, accessori e componenti/Filtri/Filtri olio"
+2421018031	"Auto e Moto/Moto, accessori e componenti/Fodere per sedili"
+2421019031	"Auto e Moto/Moto, accessori e componenti/Freni"
+2421020031	"Auto e Moto/Moto, accessori e componenti/Freni/Cilindri freni"
+9203136031	"Auto e Moto/Moto, accessori e componenti/Freni/Cilindri principali del freno e leve"
+2421021031	"Auto e Moto/Moto, accessori e componenti/Freni/Cilindri ruota"
+2421022031	"Auto e Moto/Moto, accessori e componenti/Freni/Contenitori, cavi e tubi flessibili"
+2421023031	"Auto e Moto/Moto, accessori e componenti/Freni/Contenitori, cavi e tubi flessibili/Cavi"
+2421024031	"Auto e Moto/Moto, accessori e componenti/Freni/Contenitori, cavi e tubi flessibili/Contenitori"
+2421025031	"Auto e Moto/Moto, accessori e componenti/Freni/Contenitori, cavi e tubi flessibili/Tubi flessibili"
+2421026031	"Auto e Moto/Moto, accessori e componenti/Freni/Dischi freni"
+2421027031	"Auto e Moto/Moto, accessori e componenti/Freni/Leve e cavi"
+2421028031	"Auto e Moto/Moto, accessori e componenti/Freni/Leve e cavi/Cavi"
+2421029031	"Auto e Moto/Moto, accessori e componenti/Freni/Leve e cavi/Leve"
+2421030031	"Auto e Moto/Moto, accessori e componenti/Freni/Pastiglie freni"
+2421031031	"Auto e Moto/Moto, accessori e componenti/Freni/Pedali freni"
+2421032031	"Auto e Moto/Moto, accessori e componenti/Freni/Pinze freni e accessori"
+9203137031	"Auto e Moto/Moto, accessori e componenti/Freni/Serbatoi liquidi freni"
+2421033031	"Auto e Moto/Moto, accessori e componenti/Freni/Servofreno e attuatori"
+2421034031	"Auto e Moto/Moto, accessori e componenti/Freni/Set ganasce freni"
+2421035031	"Auto e Moto/Moto, accessori e componenti/Freni/Sistemi frenanti"
+2421036031	"Auto e Moto/Moto, accessori e componenti/Illuminazione"
+2421037031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Fari"
+2421038031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Fari/Fari allo xeno"
+2421039031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Fari/Fari anteriori"
+2421040031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Fari/Fari supplementari"
+2421041031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Lampadine a incandescenza"
+2421042031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Lampadine a incandescenza/Lampadine a incandescenza H1"
+2421043031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Lampadine a incandescenza/Lampadine a incandescenza H3"
+2421044031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Lampadine a incandescenza/Lampadine a incandescenza H4"
+2421045031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Lampadine a incandescenza/Lampadine a incandescenza H7"
+2421046031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Luci"
+2421047031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Luci/Indicatori"
+2421048031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Luci/Luci di stop"
+2421049031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Luci/Luci posteriori"
+2421050031	"Auto e Moto/Moto, accessori e componenti/Illuminazione/Luci/Luci targa"
+9203143031	"Auto e Moto/Moto, accessori e componenti/Leve"
+9203145031	"Auto e Moto/Moto, accessori e componenti/Leve/Leve acceleratore"
+9203144031	"Auto e Moto/Moto, accessori e componenti/Leve/Leve del cambio"
+2421029031	"Auto e Moto/Moto, accessori e componenti/Leve/Leve freni"
+2421108031	"Auto e Moto/Moto, accessori e componenti/Leve/Leve frizione"
+5312115031	"Auto e Moto/Moto, accessori e componenti/Leve/Set leve freno e frizione"
+9203174031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips"
+9203177031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Attacchi manubrio"
+9203179031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Attacchi manubrio e accessori"
+9203180031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Attacchi manubrio e accessori/Bulloni e dadi"
+9203181031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Attacchi manubrio e accessori/Cover per attacchi manubrio"
+9203182031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Attacchi manubrio e accessori/Supporti manubrio"
+9203187031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Cavi acceleratore"
+9203178031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Distanziali e Stoppers"
+9203184031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Kit manubrio"
+2420997031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Manopole manubrio"
+9203185031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Manopole riscaldate e pads"
+2420998031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Manubri"
+9203176031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Paramani"
+9203175031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Protezioni manubrio"
+9203186031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Stabilizzatori e ammortizzatori"
+9203183031	"Auto e Moto/Moto, accessori e componenti/Manubri, Controls & Grips/Stabilizzatori manubrio"
+2421051031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore"
+2421052031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Alberi a camme"
+2421053031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Alberi intermedi"
+2421054031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Alberi motore"
+2421055031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Basamenti"
+2421056031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Blocchi motore"
+2421057031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Canne cilindri"
+2421058031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Cinghie poli-V"
+2421059031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Cinghie trapezoidali"
+2421060031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Collettori"
+2421061031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Dispositivi di accensione"
+2421062031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Guarnizioni motore"
+2421063031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Kickstarter e componenti"
+2421065031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Motori"
+2421064031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Motori alleggeriti"
+2421066031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Pistoni e fasce elastiche"
+2421067031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Pompe olio"
+2421068031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Radiatori"
+2421069031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Sistemi di raffreddamento motore e accessori"
+2421070031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Tappi per bocchettoni di riempimento olio"
+2421071031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Testate"
+2421072031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Tubi di aspirazione"
+2421073031	"Auto e Moto/Moto, accessori e componenti/Motori e componenti motore/Turbo e componenti"
+2421074031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni"
+10859304031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni/Accessori e parti"
+10859305031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni/Accessori e parti/Adattatori"
+10167225031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni/Accessori e parti/Coprivalvole"
+10859306031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni/Accessori e parti/Valvole"
+2421075031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni/Cerchioni"
+2421076031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni/Pneumatici"
+2421077031	"Auto e Moto/Moto, accessori e componenti/Ruote e cerchioni/Ruote"
+2421078031	"Auto e Moto/Moto, accessori e componenti/Sedili posteriori"
+2421079031	"Auto e Moto/Moto, accessori e componenti/Strumentazione"
+2421080031	"Auto e Moto/Moto, accessori e componenti/Strumentazione/Contagiri"
+2421081031	"Auto e Moto/Moto, accessori e componenti/Strumentazione/Indicatori livello carburante"
+2421082031	"Auto e Moto/Moto, accessori e componenti/Strumentazione/Indicatori temperatura dell'acqua"
+2421083031	"Auto e Moto/Moto, accessori e componenti/Strumentazione/Indicatori temperatura olio"
+2421084031	"Auto e Moto/Moto, accessori e componenti/Strumentazione/Orologi"
+2421085031	"Auto e Moto/Moto, accessori e componenti/Strumentazione/Quadro strumenti"
+2421086031	"Auto e Moto/Moto, accessori e componenti/Strumentazione/Tachimetri"
+2421087031	"Auto e Moto/Moto, accessori e componenti/Telai"
+2421088031	"Auto e Moto/Moto, accessori e componenti/Telai/Ammortizzatori"
+2421089031	"Auto e Moto/Moto, accessori e componenti/Telai/Assali"
+2421090031	"Auto e Moto/Moto, accessori e componenti/Telai/Barre stabilizzatrici"
+2421091031	"Auto e Moto/Moto, accessori e componenti/Telai/Forcelle"
+2421092031	"Auto e Moto/Moto, accessori e componenti/Telai/Forcellone"
+2421093031	"Auto e Moto/Moto, accessori e componenti/Telai/Kit regolazione sospensioni inferiori"
+2421094031	"Auto e Moto/Moto, accessori e componenti/Telai/Kit regolazione sospensioni superiori"
+2421095031	"Auto e Moto/Moto, accessori e componenti/Telai/Minicomponenti"
+2421096031	"Auto e Moto/Moto, accessori e componenti/Telai/Molle"
+2421097031	"Auto e Moto/Moto, accessori e componenti/Telai/Sterzi"
+2421098031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio"
+2421099031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Assi albero motore"
+2421100031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Catene di trasmissione"
+2421101031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Cavi"
+2421102031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Cinghie di trasmissione"
+2421103031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Frizione e accessori"
+2421104031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Guarnizioni"
+2421106031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Ingranaggi"
+2421105031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Ingranaggi catene"
+2421111031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Kit catena e pignone"
+2421107031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Kit di trasmissione"
+2421109031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Parti catene trasmissione"
+2421110031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Pignoni"
+2421112031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Trasmissione"
+2421113031	"Auto e Moto/Moto, accessori e componenti/Trasmissione e cambio/Variomat e componenti"
+2421114031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico"
+2421115031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico/Catalizzatori"
+2421116031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico/Collettori di scarico"
+2421117031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico/Guarnizioni"
+2421118031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico/Parti di montaggio"
+2421119031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico/Set completi"
+2421120031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico/Silenziatori terminali"
+2421121031	"Auto e Moto/Moto, accessori e componenti/Tubi e sistemi di scarico/Terminali di scarico"
+2901657031	Auto e Moto/Navigatori Satellitari
+473236031	Auto e Moto/Navigatori Satellitari/GPS per auto
+1463466031	Auto e Moto/Navigatori Satellitari/GPS per camion
+1463464031	Auto e Moto/Navigatori Satellitari/GPS per moto
+2421122031	Auto e Moto/Oli e liquidi
+2421123031	Auto e Moto/Oli e liquidi/Additivi
+2421124031	Auto e Moto/Oli e liquidi/Additivi/Additivi per oli
+2421125031	Auto e Moto/Oli e liquidi/Additivi/Additivi per oli/Additivi per olio cambio
+2421126031	Auto e Moto/Oli e liquidi/Additivi/Additivi per oli/Additivi per olio motore
+2421127031	Auto e Moto/Oli e liquidi/Additivi/Additivi per sistemi di alimentazione
+2421128031	Auto e Moto/Oli e liquidi/Additivi/Additivi per sistemi di alimentazione/Additivi per carburante
+2421129031	Auto e Moto/Oli e liquidi/Additivi/Additivi per sistemi di alimentazione/Additivi per diesel
+2421130031	Auto e Moto/Oli e liquidi/Additivi/Additivi per sistemi di raffreddamento
+2421131031	Auto e Moto/Oli e liquidi/Antigelo
+2421132031	Auto e Moto/Oli e liquidi/Antigelo/Antigelo per freni
+2421133031	Auto e Moto/Oli e liquidi/Antigelo/Antigelo per sistemi di raffreddamento
+2421134031	Auto e Moto/Oli e liquidi/Antigelo/Antigelo per sistemi tergicristallo
+2421135031	Auto e Moto/Oli e liquidi/Grassi e lubrificanti
+2421136031	Auto e Moto/Oli e liquidi/Liquidi di servizio
+2421137031	Auto e Moto/Oli e liquidi/Liquidi di servizio/Acidità batterie ricaricabili
+2421138031	Auto e Moto/Oli e liquidi/Liquidi di servizio/Acqua distillata
+2421139031	Auto e Moto/Oli e liquidi/Liquidi di servizio/Liquidi freni
+2421140031	Auto e Moto/Oli e liquidi/Liquidi di servizio/Neutralizzanti per acidi batteria
+2421141031	Auto e Moto/Oli e liquidi/Liquidi di servizio/Petrolio
+2421142031	Auto e Moto/Oli e liquidi/Liquidi di servizio/Soda caustica per sbiancare
+2421143031	Auto e Moto/Oli e liquidi/Liquidi servosterzo
+2421144031	Auto e Moto/Oli e liquidi/Oli
+2421145031	Auto e Moto/Oli e liquidi/Oli/Oli idraulici
+2421146031	Auto e Moto/Oli e liquidi/Oli/Oli motore per auto
+2421147031	Auto e Moto/Oli e liquidi/Oli/Oli motore per moto
+2421148031	Auto e Moto/Oli e liquidi/Oli/Oli per cambio
+2421149031	Auto e Moto/Parti per auto
+2421155031	Auto e Moto/Parti per auto/Allestimenti interni
+2421156031	Auto e Moto/Parti per auto/Allestimenti interni/Accendisigari
+2421157031	Auto e Moto/Parti per auto/Allestimenti interni/Airbag
+5118705031	Auto e Moto/Parti per auto/Allestimenti interni/Alette parasole
+2421158031	Auto e Moto/Parti per auto/Allestimenti interni/Barre e gabbie di protezione
+2421159031	Auto e Moto/Parti per auto/Allestimenti interni/Braccioli
+2421160031	Auto e Moto/Parti per auto/Allestimenti interni/Cinture di sicurezza
+2421161031	Auto e Moto/Parti per auto/Allestimenti interni/Coperchi per tachimetri
+2421162031	Auto e Moto/Parti per auto/Allestimenti interni/Coperture cruscotto
+2421163031	Auto e Moto/Parti per auto/Allestimenti interni/Cruscotti
+2421164031	Auto e Moto/Parti per auto/Allestimenti interni/Dadi e bulloni
+2421165031	Auto e Moto/Parti per auto/Allestimenti interni/Elementi di funzionamento
+2421166031	Auto e Moto/Parti per auto/Allestimenti interni/Flange cambio
+2421167031	Auto e Moto/Parti per auto/Allestimenti interni/Freni a mano
+5118704031	Auto e Moto/Parti per auto/Allestimenti interni/Ganci fissaggio alette parasole
+2421168031	Auto e Moto/Parti per auto/Allestimenti interni/Guarnizioni
+2421169031	Auto e Moto/Parti per auto/Allestimenti interni/Imbottiture cinture di sicurezza
+2421170031	Auto e Moto/Parti per auto/Allestimenti interni/Impugnature freno a mano
+5077146031	Auto e Moto/Parti per auto/Allestimenti interni/Maniglie interne per portiere
+2421171031	Auto e Moto/Parti per auto/Allestimenti interni/Manovelle per finestrini
+2421176031	Auto e Moto/Parti per auto/Allestimenti interni/Pedali
+2421177031	Auto e Moto/Parti per auto/Allestimenti interni/Pomelli leva cambio
+2421178031	Auto e Moto/Parti per auto/Allestimenti interni/Posacenere
+2421179031	Auto e Moto/Parti per auto/Allestimenti interni/Rifiniture interne
+2421182031	Auto e Moto/Parti per auto/Allestimenti interni/Riscaldamento auto
+2421181031	Auto e Moto/Parti per auto/Allestimenti interni/Riscaldamento sedile
+2421184031	Auto e Moto/Parti per auto/Allestimenti interni/Sedili e accessori
+2421185031	Auto e Moto/Parti per auto/Allestimenti interni/Sedili e accessori/Accessori per sedili
+2421186031	Auto e Moto/Parti per auto/Allestimenti interni/Sedili e accessori/Panche posteriori
+2421187031	Auto e Moto/Parti per auto/Allestimenti interni/Sedili e accessori/Sedili
+2421188031	Auto e Moto/Parti per auto/Allestimenti interni/Sedili e accessori/Sedili/Sedili conducente
+2421189031	Auto e Moto/Parti per auto/Allestimenti interni/Sedili e accessori/Sedili/Sedili passeggero
+2421190031	Auto e Moto/Parti per auto/Allestimenti interni/Sedili e accessori/Sedili/Sedili posteriori
+2421191031	Auto e Moto/Parti per auto/Allestimenti interni/Specchietti interni
+2421192031	Auto e Moto/Parti per auto/Allestimenti interni/Supporti
+2421183031	Auto e Moto/Parti per auto/Allestimenti interni/Ventilatori auto
+2421193031	Auto e Moto/Parti per auto/Allestimenti interni/Volanti e mozzi per volante
+2421194031	Auto e Moto/Parti per auto/Allestimenti interni/Volanti e mozzi per volante/Coprivolanti
+2421195031	Auto e Moto/Parti per auto/Allestimenti interni/Volanti e mozzi per volante/Mozzi per volante
+2421197031	Auto e Moto/Parti per auto/Allestimenti interni/Volanti e mozzi per volante/Volanti
+2421196031	Auto e Moto/Parti per auto/Allestimenti interni/Volanti e mozzi per volante/Volanti sportivi
+2421198031	Auto e Moto/Parti per auto/Alternatori
+2421199031	Auto e Moto/Parti per auto/Batterie e accessori
+2421200031	Auto e Moto/Parti per auto/Batterie e accessori/Batterie per auto
+2421201031	Auto e Moto/Parti per auto/Batterie e accessori/Caricabatterie
+2421202031	Auto e Moto/Parti per auto/Batterie e accessori/Cavi avviamento
+2421203031	Auto e Moto/Parti per auto/Batterie e accessori/Indicatori di stato della batteria
+5062878031	Auto e Moto/Parti per auto/Batterie e accessori/Interruttori batteria
+5062879031	Auto e Moto/Parti per auto/Batterie e accessori/Terminali
+2421205031	Auto e Moto/Parti per auto/Cinghie
+2421206031	Auto e Moto/Parti per auto/Cinghie/Cinghie Poly-V
+14343401031	Auto e Moto/Parti per auto/Cinghie/Cinghie a serpentina
+2421207031	Auto e Moto/Parti per auto/Cinghie/Cinghie di distribuzione
+8490861031	Auto e Moto/Parti per auto/Cinghie/Kit di distribuzione
+5062880031	Auto e Moto/Parti per auto/Cinghie/Leve di tensione
+5062881031	Auto e Moto/Parti per auto/Cinghie/Pulegge di tensione
+8490862031	Auto e Moto/Parti per auto/Cinghie/Pulegge folle
+2421208031	Auto e Moto/Parti per auto/Filtri
+2421209031	Auto e Moto/Parti per auto/Filtri/Filtri aria
+5077140031	Auto e Moto/Parti per auto/Filtri/Filtri aria/Filtri aria abitacolo
+5077141031	Auto e Moto/Parti per auto/Filtri/Filtri aria/Filtri aria motore
+5077143031	Auto e Moto/Parti per auto/Filtri/Filtri carburante
+2421213031	Auto e Moto/Parti per auto/Filtri/Filtri olio
+5077145031	Auto e Moto/Parti per auto/Filtri/Filtri olio di trasmissione
+5077142031	Auto e Moto/Parti per auto/Filtri/Filtri per liquido di raffreddamento
+5077144031	Auto e Moto/Parti per auto/Filtri/Kit di servizio
+2421214031	Auto e Moto/Parti per auto/Freni
+5062907031	Auto e Moto/Parti per auto/Freni/Cilindretti freno
+5062902031	Auto e Moto/Parti per auto/Freni/Cilindro freni principali
+2421216031	Auto e Moto/Parti per auto/Freni/Componenti e accessori ABS e EBS
+5062894031	Auto e Moto/Parti per auto/Freni/Componenti freni a mano
+5062895031	Auto e Moto/Parti per auto/Freni/Componenti freni a mano/Cavi freni a mano
+5062898031	Auto e Moto/Parti per auto/Freni/Componenti freni a mano/Ganasce freno a mano
+5062897031	Auto e Moto/Parti per auto/Freni/Componenti freni a mano/Leve freno a mano
+5062896031	Auto e Moto/Parti per auto/Freni/Componenti freni a mano/Molle del pulsante freno a mano
+5062900031	Auto e Moto/Parti per auto/Freni/Componenti freni a mano/Perni di blocco
+5062899031	Auto e Moto/Parti per auto/Freni/Componenti freni a mano/Sistemi di freni a mano
+2421217031	Auto e Moto/Parti per auto/Freni/Ganasce e accessori freni
+5062885031	Auto e Moto/Parti per auto/Freni/Kit accessori pastiglia freno
+5062906031	Auto e Moto/Parti per auto/Freni/Kit riparazione cilindretto freno
+5062901031	Auto e Moto/Parti per auto/Freni/Kit riparazione cilindro freni principali
+2421218031	Auto e Moto/Parti per auto/Freni/Pastiglie freni
+2421219031	Auto e Moto/Parti per auto/Freni/Pinze e parti
+5062887031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Bulloni e perni pinza freni
+14439420031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Copri pastiglia freno
+5062890031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Pinze freno
+5062891031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Pinze freno/Coppie pinze freno
+5062892031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Pinze freno/Pinze freno con pastiglie
+5062893031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Pinze freno/Pinze freno senza pastiglie
+5062889031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Pistoncini pinze freno
+2420859031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Set di attrezzi per pinze freni
+5062888031	Auto e Moto/Parti per auto/Freni/Pinze e parti/Staffe pinze freno
+5062886031	Auto e Moto/Parti per auto/Freni/Ripartitore di frenata
+2421220031	Auto e Moto/Parti per auto/Freni/Rotori disco freno
+2421276031	Auto e Moto/Parti per auto/Freni/Sensori
+5062903031	Auto e Moto/Parti per auto/Freni/Sensori/Indicatori usura pastiglie freno
+5062904031	Auto e Moto/Parti per auto/Freni/Sensori/Posizioni pedale freno
+5062905031	Auto e Moto/Parti per auto/Freni/Sensori/Pressione freno
+2421284031	Auto e Moto/Parti per auto/Freni/Sensori/Velocità ruota
+2421221031	Auto e Moto/Parti per auto/Freni/Sistemi pneumatici e accessori
+2421222031	Auto e Moto/Parti per auto/Freni/Sistemi servofreno
+2421223031	Auto e Moto/Parti per auto/Freni/Tamburi freni
+2421224031	Auto e Moto/Parti per auto/Freni/Tubi flessibili e accessori freni
+5062882031	Auto e Moto/Parti per auto/Freni/Tubi flessibili e accessori freni/Accessori
+5062883031	Auto e Moto/Parti per auto/Freni/Tubi flessibili e accessori freni/Tubi flessibili
+5062884031	Auto e Moto/Parti per auto/Freni/Tubi flessibili e accessori freni/Tubi flessibili in treccia di acciaio
+2421225031	Auto e Moto/Parti per auto/Freni/Tubi freni
+2421226031	Auto e Moto/Parti per auto/Fusibili
+2421227031	Auto e Moto/Parti per auto/Fusibili/Fusibili in vetro
+2421228031	Auto e Moto/Parti per auto/Fusibili/Fusibili mini
+2421229031	Auto e Moto/Parti per auto/Fusibili/Fusibili piatti
+2421150031	Auto e Moto/Parti per auto/Iniezione e attrezzi
+6476875031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Bobine d’accensione
+2421151031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Candele di accensione
+2421152031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Candelette
+2421153031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Cavi d'accensione
+2848830031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Chiavi candelette
+9203131031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Condensatori
+2420857031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Connettori per candele
+6476871031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Distributori e parti
+6476872031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Distributori e parti/Calotte del distributore
+6476873031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Distributori e parti/Distributori
+6476874031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Distributori e parti/Spazzole del distributore
+9203132031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Kit installazione unità di controllo
+9203134031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Serrature a cilindro
+2421154031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Sistemi di riscaldamento e accensione
+9203133031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Unità di controllo
+9203135031	Auto e Moto/Parti per auto/Iniezione e attrezzi/Vacuum Advance
+2421230031	Auto e Moto/Parti per auto/Interruttori e relè
+2421231031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori
+5077478031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Aria condizionata
+5077498031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Bagagliaio
+5077486031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Candelette
+5077494031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Cinture di sicurezza
+5077497031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Deviatori
+5077487031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Freno a mano
+5077483031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Frizione
+5077491031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Interruttori a pulsante
+5077482031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Interruttori automatici
+5077488031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Interruttori di accensione
+5077481031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Interruttori luci freno
+5077493031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Interruttori luci retromarcia
+5077489031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Luci abitacolo
+5077485031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Luci di cortesia montante sportello
+5077484031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Montanti sportello
+5077479031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Pressione aria
+5077490031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Pressione olio
+5077495031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Temperatura
+5077499031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Temperatura acqua
+5077496031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Termostato
+5077492031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Ventilatori raffreddamento radiatore
+5077480031	Auto e Moto/Parti per auto/Interruttori e relè/Interruttori/Ventola
+2421232031	Auto e Moto/Parti per auto/Interruttori e relè/Relè
+2421233031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori"
+5077155031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti"
+2421235031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Blocchi fari anteriori"
+2421257031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Blocchi fari posteriori"
+2421238031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Blocchi luci antinebbia"
+5077156031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori"
+5077162031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Alloggiamenti fari"
+5077161031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Ciglia"
+5077160031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Cornici"
+5077164031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Cornici complete"
+5077165031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Kit cablaggi"
+5077163031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Lenti"
+5077157031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Modanature decorative fari"
+5077159031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Portalampadine"
+5077158031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti fari e accessori/Supporti"
+5077166031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti luci posteriori e accessori"
+5077168031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti luci posteriori e accessori/Alloggiamenti fari"
+5077170031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti luci posteriori e accessori/Cornici complete"
+5077169031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti luci posteriori e accessori/Lenti"
+5077167031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Componenti luci posteriori e accessori/Modanature fari"
+2421234031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Fari Angel Eyes"
+2421240031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Indicatori di direzione"
+2421251031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Luci abitacolo"
+2421253031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Luci di posizione"
+2421254031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Luci diurne"
+2421255031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Luci e barre al neon"
+2421256031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Luci laterali"
+2421260031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Luci targa"
+2421259031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Luci terzo stop"
+2421258031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Blocchi illuminazione e componenti/Strisce e kit luci sottoscocca"
+5077147031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Kit conversione Xeno"
+5077148031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine"
+5077154031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine/Kit lampadine universali"
+5077149031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine/Lampadine per esterno"
+5077150031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine/Lampadine per interno auto"
+5077151031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine/Lampadine per interno auto/Lampadine cofano"
+5077152031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine/Lampadine per interno auto/Lampadine cruscotto"
+5077153031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine/Lampadine per interno auto/Lampadine tettuccio"
+2421248031	"Auto e Moto/Parti per auto/Luci, lampadine e indicatori/Lampadine/Lampadine speciali"
+2421261031	Auto e Moto/Parti per auto/Motore e componenti motore
+2421262031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti
+5076223031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti
+5076224031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Calotte carburatori
+2421263031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Carburatori
+5076225031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Comandi a cavo
+5076227031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Comandi elettrici
+5076226031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Diaframmi
+5076228031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Guarnizioni
+5076231031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Kit riparazione
+5076230031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Spilli
+5076229031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Carburatori e parti/Ugelli
+5076222031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Cavi acceleratore
+2421264031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante
+5076235031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Accumulatori carburante
+5076238031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Guarnizioni
+5076237031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Kit revisione iniettori carburanti
+5076242031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Polverizzatori
+2421265031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Pompe carburante
+5076241031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Pompe di iniezione
+5076245031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Regolatori fase di riscaldamento
+5076243031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Sensori
+5076236031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Sistemi di distribuzione
+5076234031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Unità di controllo elettroniche
+5076244031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Valvole
+5076239031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Valvole di regolazione regime minimo
+5076240031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Iniezione carburante/Valvole regolazione minima aria
+5076232031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Kit montaggio
+5076246031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Pompe di alimentazione carburante
+5076233031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Separatori acqua e carburante
+2421339031	Auto e Moto/Parti per auto/Motore e componenti motore/Alimentazione carburante e trattamenti/Serbatoi carburante
+2421266031	Auto e Moto/Parti per auto/Motore e componenti motore/Blocchi motore
+2421267031	Auto e Moto/Parti per auto/Motore e componenti motore/Elementi di trasmissione
+5076168031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore
+5076169031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a camme e parti
+5076172031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a camme e parti/Alberi a camme
+5076174031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a camme e parti/Cinghie dentate
+5076170031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a camme e parti/Cuscinetti
+5076171031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a camme e parti/Kit albero a camme
+5076173031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a camme e parti/Paraoli
+5076182031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a gomiti e parti
+5076185031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a gomiti e parti/Alberi a gomito
+5076184031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a gomiti e parti/Bronzine di biella
+5076186031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a gomiti e parti/Cambi
+5076183031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a gomiti e parti/Cuscinetti
+5076188031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a gomiti e parti/Paraoli
+5076187031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Albero a gomiti e parti/Pulegge
+5076175031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Bielle e parti
+5076177031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Bielle e parti/Bielle
+5077624031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Bielle e parti/Bulloni
+5077625031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Bielle e parti/Dadi
+5076176031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Bielle e parti/Giunti
+5076208031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Blocchi molle
+5076193031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Bulloni
+8632129031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Coperchi delle valvole
+2665604031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Coppe dell'olio
+5076192031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Cuscinetti
+8632130031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Guarnizioni coperchio delle valvole
+5076189031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Guarnizioni per testate
+5076201031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Leve a bilanciere
+5076209031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Parti per catene di distribuzione
+5076178031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Parti per sfiato
+5076179031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Parti per sfiato/Set guarnizioni
+5076180031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Parti per sfiato/Tubi flessibile ventilazione
+5076181031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Parti per sfiato/Valvole di ventilazione
+5076195031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Pistoni e parti
+5076200031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Pistoni e parti/Anelli e set anelli
+5076196031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Pistoni e parti/Cavi di collegamento
+5076199031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Pistoni e parti/Kit riparazione
+5076197031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Pistoni e parti/Perni
+5076198031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Pistoni e parti/Pistoni
+5076194031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Pompe dell'olio
+5076202031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori
+2421275031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Detonazione
+5076206031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Livello olio
+2421277031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Massa aria
+2421278031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Posizione albero a camme
+2421279031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Posizione albero motore
+2421280031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Posizione valvola a farfalla
+5076203031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Pressione barometrica
+5076207031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Pressione turbo
+5076205031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Sensori MAP
+2421282031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Temperatura aria aspirata
+5076204031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Sensori/Temperatura motore
+5076190031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Set guarnizioni motore
+5076191031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Supporti motore
+2421269031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Testate
+2421271031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Turbocompressori
+5076210031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti
+5076211031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Dispositivi compensazione gioco
+5076215031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Guarnizioni
+5076213031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Guide
+5076217031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Listelli
+5076214031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Lucchetti
+5076218031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Molle
+5076216031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Sedi
+5076212031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Tappi filettati
+5076219031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Valvole
+5076221031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Valvole/Valvole d'aspirazione
+5076220031	Auto e Moto/Parti per auto/Motore e componenti motore/Parti motore/Valvole e parti/Valvole/Valvole di scarico
+5063159031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento
+5063160031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni
+5077623031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Accessori
+5063161031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Accumulatori
+9203130031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Compressori
+5063164031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Condensatori e radiatori secondari
+5063169031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Essiccatori ad accumulo
+5077140031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Filtri aria abitacolo
+5063170031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Kit riparazione e ricarica
+5063163031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Motorini ventole
+5063162031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Resistenze motorino ventole
+5063168031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Ricambi per riscaldamenti
+5063165031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Scambiatori di calore
+2421281031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Sensori temperatura ambiente
+5063167031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Tubi flessibili per riscaldamento
+5063166031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Valvole di controllo riscaldamento
+5118855031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Aria condizionata e riscaldamenti interni/Ventilatori per condensatore
+2421268031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore
+5063175031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Accessori
+5063185031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Accessori per pompe acqua
+5063171031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Compressori
+5077141031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Filtri aria per motore
+5077142031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Filtri di raffreddamento
+5063177031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Intercooler
+5077495031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Interruttori di temperatura
+5077490031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Interruttori pressione olio
+5077496031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Interruttori termostato
+5063176031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Nuclei di riscaldamento
+5063186031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Pompe acqua
+5063179031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi
+5063180031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi/Giunti collegamento per ventilatore radiatore
+5077492031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi/Interruttori per ventilatori radiatori
+5063183031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi/Radiatori
+14301214031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi/Supporti per radiatori
+11416516031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi/Tappi per radiatori
+5063182031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi/Tubi flessibili per radiatore
+5063181031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Radiatore e ricambi/Ventilatori radiatore
+5063172031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Sensori livello liquido di raffreddamento
+2421283031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Sensori raffreddante temperatura
+5063184031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Termostati
+5063178031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Tubi flessibili
+5063174031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Valvole di espansione
+5063173031	Auto e Moto/Parti per auto/Motore e componenti motore/Sistemi di raffreddamento e riscaldamento/Riscaldamento e raffreddamento motore/Ventole di raffreddamento
+2421270031	Auto e Moto/Parti per auto/Motore e componenti motore/Tuning centraline
+2421272031	Auto e Moto/Parti per auto/Motore e componenti motore/Vani motore
+2421273031	Auto e Moto/Parti per auto/Motorini di avviamento
+2421274031	Auto e Moto/Parti per auto/Sensori
+5077443031	Auto e Moto/Parti per auto/Sensori/Airbag
+2421275031	Auto e Moto/Parti per auto/Sensori/Detonazione
+2421276031	Auto e Moto/Parti per auto/Sensori/Freno
+5062903031	Auto e Moto/Parti per auto/Sensori/Freno/Indicatori usura pastiglie freno
+5062904031	Auto e Moto/Parti per auto/Sensori/Freno/Posizioni pedale freno
+5062905031	Auto e Moto/Parti per auto/Sensori/Freno/Pressione freno
+2421284031	Auto e Moto/Parti per auto/Sensori/Freno/Velocità ruota
+5076243031	Auto e Moto/Parti per auto/Sensori/Iniezione carburante
+5063172031	Auto e Moto/Parti per auto/Sensori/Livello liquido di raffreddamento
+5076206031	Auto e Moto/Parti per auto/Sensori/Livello olio
+2421277031	Auto e Moto/Parti per auto/Sensori/Massa aria
+2421278031	Auto e Moto/Parti per auto/Sensori/Posizione albero a camme
+2421279031	Auto e Moto/Parti per auto/Sensori/Posizione albero motore
+2421280031	Auto e Moto/Parti per auto/Sensori/Posizione valvola a farfalla
+5076203031	Auto e Moto/Parti per auto/Sensori/Pressione barometrica
+5076207031	Auto e Moto/Parti per auto/Sensori/Pressione turbo
+5076205031	Auto e Moto/Parti per auto/Sensori/Sensori MAP
+2421375031	Auto e Moto/Parti per auto/Sensori/Sensori di ossigeno
+5063155031	Auto e Moto/Parti per auto/Sensori/Sensori scatola cambio
+2421281031	Auto e Moto/Parti per auto/Sensori/Temperatura ambiente
+2421282031	Auto e Moto/Parti per auto/Sensori/Temperatura aria aspirata
+2421283031	Auto e Moto/Parti per auto/Sensori/Temperatura liquido di raffreddamento
+5076204031	Auto e Moto/Parti per auto/Sensori/Temperatura motore
+2421285031	Auto e Moto/Parti per auto/Sterzo e sospensioni
+5077468031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Alberi sterzo e parti
+5077472031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Alberi sterzo e parti/Alberi dello sterzo
+5077470031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Alberi sterzo e parti/Dadi
+5077469031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Alberi sterzo e parti/Giunti
+5077471031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Alberi sterzo e parti/Kit riparazione albero dello sterzo
+5077461031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Ammortizzatori e accessori
+2421287031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Ammortizzatori e accessori/Ammortizzatori
+2421286031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Ammortizzatori e accessori/Ammortizzatori sportivi
+5077462031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Ammortizzatori e accessori/Boccole
+5077463031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Ammortizzatori e accessori/Kit parapolvere
+15408003031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Ammortizzatori e accessori/Kit sospensioni
+5077473031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Aste e puntoni stabilizzatori
+5077476031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Barre di accoppiamento e parti
+2421288031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Barre di accoppiamento e parti/Barre di accoppiamento
+5077477031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Barre di accoppiamento e parti/Giunti assiale barra di accoppiamento
+2421301031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Barre di accoppiamento e parti/Teste barre di accoppiamento
+2421289031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Barre di supporto
+2421290031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Barre stabilizzatrici
+5077453031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Bracci Pitman
+5077445031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Bracci di controllo e parti
+2421291031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Bracci di controllo e parti/Bracci delle sospensioni
+5077448031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Bracci di controllo e parti/Kit alberi
+5077446031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Bracci di controllo e parti/Kit boccole
+5077629031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Bracci di controllo e parti/Tamponi sospensioni in gomma
+5077454031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cremagliere
+5077456031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cremagliere/Boccole montaggio
+5077459031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cremagliere/Kit guarnizioni
+5077457031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cremagliere/Kit soffietti barra
+5077458031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cremagliere/Soffietti barra
+5077460031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cremagliere/Unità base
+5077455031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cremagliere/Unità complete
+5077464031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Cuscinetti
+2421292031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Distanziali ruote
+2421293031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Giunti sferici
+5077467031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Guarnizioni sterzo
+5077465031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Interruttori piantone sterzo
+5077451031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Kit ribassamento
+5077475031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Kit riparazioni puntone ammortizzatore
+5077450031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Leve rinvio sterzo
+2421294031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Limitatori di corsa molla
+2421295031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Molle
+14612158031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Molle Elicoidali
+5077452031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Montature e kit installazione
+5077449031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Pompe idrauliche
+2421296031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Pompe servosterzo
+5077444031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Sospensioni pneumatiche
+5077466031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Sterzi
+2421299031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Supporti molle
+2421300031	Auto e Moto/Parti per auto/Sterzo e sospensioni/Telai completi
+2421302031	Auto e Moto/Parti per auto/Strumentazione
+2421303031	Auto e Moto/Parti per auto/Strumentazione/Contagiri
+2421304031	Auto e Moto/Parti per auto/Strumentazione/Dadi e bulloni
+2421305031	Auto e Moto/Parti per auto/Strumentazione/Indicatori carburante
+2421306031	Auto e Moto/Parti per auto/Strumentazione/Indicatori temperatura dell'acqua
+2421307031	Auto e Moto/Parti per auto/Strumentazione/Indicatori temperatura dell'olio
+2421308031	Auto e Moto/Parti per auto/Strumentazione/Orologi
+2421309031	Auto e Moto/Parti per auto/Strumentazione/Quadri strumenti
+2421310031	Auto e Moto/Parti per auto/Strumentazione/Tachimetri
+2421311031	Auto e Moto/Parti per auto/Styling auto e carrozzeria
+2421315031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Alloggiamenti fari
+5063136031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Ammortizzatori cofano motore
+5063137031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Ammortizzatori cofano posteriore
+2421316031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Antenne
+2421317031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Battitacco
+5118702031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Bra
+2421319031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Cofani motore
+2421320031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Coperchi serbatoi
+2421322031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Fasce decorative e protettive
+2421323031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Fasce decorative e protettive/Fasce decorative
+2421324031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Fasce decorative e protettive/Fasce protettive
+2421325031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Fasce decorative e protettive/Protezione paraurti
+2421326031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Fasce decorative e protettive/Protezione porte
+2421337031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Fasce decorative e protettive/Rifiniture estetiche
+2421327031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Griglie anteriori e griglie radiatori
+2421328031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Griglie sportive
+5063138031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Maniglie esterne porte
+5063140031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Minigonne
+2421312031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Minigonne/Alettoni anteriori
+2421313031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Minigonne/Alettoni laterali
+2421314031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Minigonne/Alettoni posteriori
+2421333031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Pannelli porte auto
+2421330031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Parafanghi
+2421331031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Paraspruzzi
+2421332031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Paraurti
+2421334031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Prese d'aria
+2421335031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Prolunghe cofano
+5063141031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Specchietti laterali e parti di cambio
+2421318031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Specchietti laterali e parti di cambio/Calotte specchietti
+5063143031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Specchietti laterali e parti di cambio/Specchi di ricambio per specchietti
+2421340031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Specchietti laterali e parti di cambio/Specchietti esterni completi
+5063142031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Specchietti laterali e parti di cambio/Specchietti per angolo morto
+2421341031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Spoiler
+2421342031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Spoiler/Griglie frontali
+2421343031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Spoiler/Spoiler frontali
+2421344031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Spoiler/Spoiler posteriori
+2421345031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Stemmi e decorazioni per auto
+2421346031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Supporti per targhe
+2421347031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Supporti per vano portabagagli
+5063139031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Tappi serbatoio carburante
+2421348031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Telai di protezione
+2421349031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Tettucci apribili
+2421338031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Trombe auto
+2421350031	Auto e Moto/Parti per auto/Styling auto e carrozzeria/Tuning acceleratore
+2421351031	Auto e Moto/Parti per auto/Tergicristalli e parti
+5077501031	Auto e Moto/Parti per auto/Tergicristalli e parti/Bracci tergicristallo
+2421352031	Auto e Moto/Parti per auto/Tergicristalli e parti/Motorini tergicristalli
+5077500031	Auto e Moto/Parti per auto/Tergicristalli e parti/Pompe lavavetri
+2421353031	Auto e Moto/Parti per auto/Tergicristalli e parti/Spazzole di ricambio
+2421354031	Auto e Moto/Parti per auto/Tergicristalli e parti/Tergicristalli parabrezza
+2421355031	Auto e Moto/Parti per auto/Trazione e trasmissione
+2421356031	Auto e Moto/Parti per auto/Trazione e trasmissione/Alberi di trasmissione e accessori
+5063153031	Auto e Moto/Parti per auto/Trazione e trasmissione/Alberi di trasmissione e accessori/Alberi di trasmissione
+5063157031	Auto e Moto/Parti per auto/Trazione e trasmissione/Alberi di trasmissione e accessori/Giunti
+5063156031	Auto e Moto/Parti per auto/Trazione e trasmissione/Alberi di trasmissione e accessori/Kit giunti
+5063154031	Auto e Moto/Parti per auto/Trazione e trasmissione/Alberi di trasmissione e accessori/Montatura scatola cambio
+5063155031	Auto e Moto/Parti per auto/Trazione e trasmissione/Alberi di trasmissione e accessori/Sensori scatola cambio
+5063152031	Auto e Moto/Parti per auto/Trazione e trasmissione/Alberi di trasmissione e accessori/Set inferiori
+2421357031	Auto e Moto/Parti per auto/Trazione e trasmissione/Cuscinetti e kit cuscinetti
+2421358031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni
+2421359031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Aste frizioni
+5063145031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Cavi frizione
+5063151031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Cilindri operativi
+5063149031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Cilindri principali
+9203128031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Dischi frizione
+2421360031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Forcelle frizioni
+2421361031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Frizioni idrauliche
+5063150031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Kit cilindri operativi
+5063148031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Kit cilindri principali
+2421362031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Leve frizioni
+2421363031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Set frizione
+5063146031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Spingidisco frizione
+5063147031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Tubi flessibili
+9203129031	Auto e Moto/Parti per auto/Trazione e trasmissione/Frizioni/Volani
+2421364031	Auto e Moto/Parti per auto/Trazione e trasmissione/Guarnizioni
+5077622031	Auto e Moto/Parti per auto/Trazione e trasmissione/Scatole cambio
+5063144031	Auto e Moto/Parti per auto/Trazione e trasmissione/Scatole cambio/Cambi automatici
+5063158031	Auto e Moto/Parti per auto/Trazione e trasmissione/Scatole cambio/Scatole cambio manuale
+2421365031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico
+2421367031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Collettori di aspirazione
+2421368031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Collettori di scarico e parti
+5077135031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Collettori di scarico e parti/Collettori gas di scarico
+5077626031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Collettori di scarico e parti/Dadi e bulloni
+5105757031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Collettori di scarico e parti/Guarnizioni collettori
+5077627031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Collettori di scarico e parti/Kit molle
+5077126031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Convertitori catalitici
+5077124031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Convertitori catalitici e parti
+2421372031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Detergenti e parti per sistemi gas di ricircolo
+5077132031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Detergenti e parti per sistemi gas di ricircolo/Detergenti
+5077134031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Detergenti e parti per sistemi gas di ricircolo/Guarnizioni valvole
+5077133031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Detergenti e parti per sistemi gas di ricircolo/Raffreddanti valvole
+2421387031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Detergenti e parti per sistemi gas di ricircolo/Valvole EGR
+2421373031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Guarnizioni
+5077139031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Kit installazione silenziatore
+5077125031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Kit montaggio convertitori catalitici
+5077127031	"Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Morsetti, flange e ganci"
+5077129031	"Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Morsetti, flange e ganci/Flange"
+5077131031	"Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Morsetti, flange e ganci/Ganci"
+5077128031	"Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Morsetti, flange e ganci/Morsetti"
+5077130031	"Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Morsetti, flange e ganci/Parti per ganci"
+2421375031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Sensori di ossigeno
+2421376031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Set completi
+2421377031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Silenziatori
+2421378031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Silenziatori/Anteriori
+2421379031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Silenziatori/Centrali
+2421380031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Silenziatori/Posteriori
+2421381031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Sistemi di scarico
+5118703031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Terminali di scarico e parti
+2421370031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Terminali di scarico e parti/Deflettori di calore
+2421371031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Terminali di scarico e parti/Deflettori di scarico
+2421374031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Terminali di scarico e parti/Parti fittizie
+2421384031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Terminali di scarico e parti/Terminali di scarico
+2421385031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Testate e parti
+5077628031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Testate e parti/Dadi e bulloni
+5077137031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Testate e parti/Guarnizioni testate
+5077138031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Testate e parti/Testate
+2421386031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Tubi
+5077136031	Auto e Moto/Parti per auto/Tubi e sistemi di scarico/Tubi di estensione
+1739199031	Auto e Moto/Seggiolini auto e accessori prima infanzia
+1806541031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori
+5124708031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Accessori di ricambio
+4203686031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Adattatori per sedili della macchina
+4203685031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Adesivi baby per macchina
+1806542031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Basi
+1897937031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Guaine per cintura di sicurezza
+4203687031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Inserti per sedili della macchina
+1897935031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Organizer bambino per sedile auto
+1898701031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Parapioggia per ovetto
+1806544031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Poggiapiedi
+1897936031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Protettori per sedile
+1806545031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Protezioni copriseggiolino
+1806543031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Sacchi termici
+1897934031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Specchietti retrovisori controllo bimbo
+1806733031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Supporti per la testa
+5124700031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Tavolini
+1806546031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Tendine parasole per auto
+1898702031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Accessori/Zanzariere per ovetto
+1806547031	Auto e Moto/Seggiolini auto e accessori prima infanzia/Seggiolini auto
+2421388031	Auto e Moto/Verniciatura
+2421389031	Auto e Moto/Verniciatura/Additivi
+2421390031	Auto e Moto/Verniciatura/Aerografi e accessori
+2421391031	Auto e Moto/Verniciatura/Attrezzature per verniciatura
+2421392031	Auto e Moto/Verniciatura/Bombolette spray
+2421393031	Auto e Moto/Verniciatura/Detergenti
+2421394031	Auto e Moto/Verniciatura/Finiture e vernici trasparenti
+2421395031	Auto e Moto/Verniciatura/Materiali di copertura
+2421396031	Auto e Moto/Verniciatura/Materiali per smerigliatura
+2421397031	Auto e Moto/Verniciatura/Nastri adesivi
+2421398031	Auto e Moto/Verniciatura/Pennelli per verniciatura
+2421399031	Auto e Moto/Verniciatura/Primer
+2421400031	Auto e Moto/Verniciatura/Protezioni per verniciatura
+2421401031	Auto e Moto/Verniciatura/Resine di poliestere e stucchi
+2421402031	Auto e Moto/Verniciatura/Ritocchi alla verniciatura
+2421403031	Auto e Moto/Verniciatura/Utensili per verniciatura
+2421404031	Auto e Moto/Verniciatura/Vernici per pinze freni

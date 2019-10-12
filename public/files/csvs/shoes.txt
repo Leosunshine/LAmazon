@@ -1,0 +1,379 @@
+﻿524007031	Scarpe e borse
+700516031	Scarpe e borse/Borse
+11967745031	Scarpe e borse/Borse/Bambine e ragazze
+11967744031	Scarpe e borse/Borse/Bambini e ragazzi
+700528031	Scarpe e borse/Borse/Donna
+700540031	Scarpe e borse/Borse/Donna/Borse Tote
+700539031	Scarpe e borse/Borse/Donna/Borse a mano
+700535031	Scarpe e borse/Borse/Donna/Borse a spalla
+700532031	Scarpe e borse/Borse/Donna/Borse a tracolla
+2004757031	Scarpe e borse/Borse/Donna/Borse a zainetto
+700533031	Scarpe e borse/Borse/Donna/Pochette e Clutch
+700523031	Scarpe e borse/Borse/Uomo
+700527031	Scarpe e borse/Borse/Uomo/Borse a mano
+700526031	Scarpe e borse/Borse/Uomo/Borse a spalla
+700525031	Scarpe e borse/Borse/Uomo/Borse organizer portatutto
+11967746031	Scarpe e borse/Borse/Uomo/Zaino monospalla
+11967723031	Scarpe e borse/Portafogli e porta documenti
+11967724031	Scarpe e borse/Portafogli e porta documenti/Bambini
+2691430031	Scarpe e borse/Portafogli e porta documenti/Bambini/Portafogli
+11967725031	Scarpe e borse/Portafogli e porta documenti/Bambini/Portamonete
+11967734031	Scarpe e borse/Portafogli e porta documenti/Donna
+15335987031	Scarpe e borse/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità
+11967739031	Scarpe e borse/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Custodie per tessere da viaggio
+11967741031	Scarpe e borse/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta badge
+11967735031	Scarpe e borse/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta biglietti da visita
+11967740031	Scarpe e borse/Portafogli e porta documenti/Donna/Porta carte di credito e carte di identità/Porta carte di credito
+11967736031	Scarpe e borse/Portafogli e porta documenti/Donna/Porta libretto degli assegni
+700876031	Scarpe e borse/Portafogli e porta documenti/Donna/Portafogli
+11967738031	Scarpe e borse/Portafogli e porta documenti/Donna/Portamonete
+11967737031	Scarpe e borse/Portafogli e porta documenti/Donna/Portasigarette
+11967726031	Scarpe e borse/Portafogli e porta documenti/Uomo
+2691428031	Scarpe e borse/Portafogli e porta documenti/Uomo/Fermasoldi
+15335989031	Scarpe e borse/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità
+11967731031	Scarpe e borse/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Custodie per tessere da viaggio
+11967733031	Scarpe e borse/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta badge
+11967727031	Scarpe e borse/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta biglietti da visita
+11967732031	Scarpe e borse/Portafogli e porta documenti/Uomo/Porta carte di credito e carte di identità/Porta carte di credito
+11967728031	Scarpe e borse/Portafogli e porta documenti/Uomo/Porta libretto degli assegni
+700858031	Scarpe e borse/Portafogli e porta documenti/Uomo/Portafogli
+11967730031	Scarpe e borse/Portafogli e porta documenti/Uomo/Portamonete
+11967729031	Scarpe e borse/Portafogli e porta documenti/Uomo/Portasigarette
+700501031	Scarpe e borse/Prodotti per la pulizia e accessori
+700512031	Scarpe e borse/Prodotti per la pulizia e accessori/Calzascarpe
+700502031	Scarpe e borse/Prodotti per la pulizia e accessori/Calzastivali
+700511031	Scarpe e borse/Prodotti per la pulizia e accessori/Charm decorativi
+700504031	Scarpe e borse/Prodotti per la pulizia e accessori/Colori e tinture
+700506031	Scarpe e borse/Prodotti per la pulizia e accessori/Copriscarpe
+4327251031	Scarpe e borse/Prodotti per la pulizia e accessori/Cuscinetti in gel per scarpe
+4327250031	Scarpe e borse/Prodotti per la pulizia e accessori/Deodoranti per scarpe
+2004770031	Scarpe e borse/Prodotti per la pulizia e accessori/Dispositivi per la misurazione del piede
+700509031	Scarpe e borse/Prodotti per la pulizia e accessori/Kit di manutenzione e pulizia
+700513031	Scarpe e borse/Prodotti per la pulizia e accessori/Lacci per scarpe
+700507031	Scarpe e borse/Prodotti per la pulizia e accessori/Para tomaia
+700577031	Scarpe e borse/Prodotti per la pulizia e accessori/Sacchetti per calzature
+700505031	Scarpe e borse/Prodotti per la pulizia e accessori/Solette
+2004771031	Scarpe e borse/Prodotti per la pulizia e accessori/Solette/Comfort
+2004772031	Scarpe e borse/Prodotti per la pulizia e accessori/Solette/Ortopediche
+2004773031	Scarpe e borse/Prodotti per la pulizia e accessori/Solette/Per lo sport
+700508031	Scarpe e borse/Prodotti per la pulizia e accessori/Spazzole per scarpe
+3102173031	Scarpe e borse/Prodotti per la pulizia e accessori/Suole antiscivolo
+700515031	Scarpe e borse/Prodotti per la pulizia e accessori/Tendiscarpe
+700503031	Scarpe e borse/Prodotti per la pulizia e accessori/Tendistivali
+700514031	Scarpe e borse/Prodotti per la pulizia e accessori/Trattamenti e lucidi per scarpe
+700578031	Scarpe e borse/Scarpe
+700766031	Scarpe e borse/Scarpe/Scarpe da donna
+700813031	Scarpe e borse/Scarpe/Scarpe da donna/Ballerine
+2004774031	Scarpe e borse/Scarpe/Scarpe da donna/Espadrillas basse
+700833031	Scarpe e borse/Scarpe/Scarpe da donna/Infradito
+700825031	Scarpe e borse/Scarpe/Scarpe da donna/Mary Jane basse
+700822031	Scarpe e borse/Scarpe/Scarpe da donna/Mocassini
+700831031	Scarpe e borse/Scarpe/Scarpe da donna/Pantofole
+700817031	Scarpe e borse/Scarpe/Scarpe da donna/Sandali
+700826031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe col tacco
+700814031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da barca
+700830031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro
+9685455031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Industria e Edilizia
+9685457031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Industria e Edilizia/Scarpe
+9685458031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Industria e Edilizia/Sneaker
+9685456031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Industria e Edilizia/Stivali
+9685459031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Industria e Edilizia/Wellington
+9685460031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Militare
+9685452031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Sanità e Ristorazione
+9685454031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Sanità e Ristorazione/Scarpe
+9685453031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Sanità e Ristorazione/Zoccoli
+9685461031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe da lavoro/Scarpe per uniforme
+700767031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive
+700806031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Calzature da escursionismo
+700808031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Calzature da escursionismo/Scarpe da escursionismo
+700807031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Calzature da escursionismo/Stivali da escursionismo
+700774031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Infradito e ciabatte da spiaggia
+700770031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Sandali sportivi
+700771031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Badminton
+700772031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Baseball
+700773031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Basket
+700778031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Cheerleader
+700780031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Cricket
+700768031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Football americano
+700790031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Lacrosse
+700801031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Ping Pong
+700792031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Racquetball
+700793031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Rugby
+700795031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Skateboard
+700798031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Soft Tennis
+700799031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Softball
+700800031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Squash
+700812031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da Wrestling
+700779031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da arrampicata
+2004775031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da arti marziali
+700782031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da ballo
+700776031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da bowling
+700785031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da calcetto
+700797031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da calcio
+700810031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da camminata
+700781031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da ciclismo
+7477829031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da corsa
+700805031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da corsa/Scarpe da Trail Running
+700804031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da corsa/Scarpe da atletica leggera
+700794031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da corsa/Scarpe da corsa su strada
+700787031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da ginnastica
+700786031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da golf
+2004776031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da hockey su prato
+700811031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da immersione
+700802031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da pallamano
+700769031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da pallamano americana
+700809031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da pallavolo
+700784031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da pesca
+700777031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da pugilato
+700775031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da regata
+700803031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da tennis
+2004777031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da triathlon
+3592216031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da triathlon/Scarpe da ciclismo
+3592217031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe da triathlon/Scarpe da corsa
+700789031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe indoor multisport
+700791031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Scarpe outdoor multisport
+700788031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Stivali da caccia
+700783031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Stivali da equitazione
+15664388031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Stivali da equitazione/Stivaletti Jodhpur e da paddock
+15664387031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Stivali da equitazione/Stivali alti da equitazione
+15664390031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Stivali da equitazione/Stivali country
+15664389031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe sportive/Stivali da equitazione/Stivali da scuderia
+700819031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe stringate basse
+8632555031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe tradizionali
+8632556031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe tradizionali/Cinesi
+8632558031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe tradizionali/Giapponesi
+8632557031	Scarpe e borse/Scarpe/Scarpe da donna/Scarpe tradizionali/Indiane
+700832031	Scarpe e borse/Scarpe/Scarpe da donna/Sneaker
+700815031	Scarpe e borse/Scarpe/Scarpe da donna/Stivali
+700816031	Scarpe e borse/Scarpe/Scarpe da donna/Zoccoli e sabot
+700703031	Scarpe e borse/Scarpe/Scarpe da uomo
+2004778031	Scarpe e borse/Scarpe/Scarpe da uomo/Espadrillas basse
+700765031	Scarpe e borse/Scarpe/Scarpe da uomo/Infradito
+700758031	Scarpe e borse/Scarpe/Scarpe da uomo/Mocassini
+700763031	Scarpe e borse/Scarpe/Scarpe da uomo/Pantofole
+700753031	Scarpe e borse/Scarpe/Scarpe da uomo/Sandali
+700750031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da barca
+700762031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro
+9685465031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Industria e Edilizia
+9685467031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Industria e Edilizia/Scarpe
+9685468031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Industria e Edilizia/Sneaker
+9685466031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Industria e Edilizia/Stivali
+9685469031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Industria e Edilizia/Wellington
+9685470031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Militare
+9685462031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Sanità e Ristorazione
+9685464031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Sanità e Ristorazione/Scarpe
+9685463031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Sanità e Ristorazione/Zoccoli
+9685471031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe da lavoro/Scarpe per uniforme
+700704031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive
+700743031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Calzature da escursionismo
+700745031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Calzature da escursionismo/Scarpe da escursionismo
+700744031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Calzature da escursionismo/Stivali da escursionismo
+700711031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Infradito e ciabatte da spiaggia
+700707031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Sandali sportivi
+700708031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Badminton
+700709031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Baseball
+700710031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Basket
+700715031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Cheerleader
+700717031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Cricket
+700705031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Football americano
+700727031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Lacrosse
+700738031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Ping Pong
+700729031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Racquetball
+700730031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Rugby
+700732031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Skateboard
+700735031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Soft Tennis
+700736031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Softball
+700737031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Squash
+700749031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da Wrestling
+700716031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da arrampicata
+2004779031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da arti marziali
+700719031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da ballo
+700713031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da bowling
+700722031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da calcetto
+700734031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da calcio
+700747031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da camminata
+700718031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da ciclismo
+7477828031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da corsa
+700742031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da corsa/Scarpe da Trail Running
+700741031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da corsa/Scarpe da atletica leggera
+700731031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da corsa/Scarpe da corsa su strada
+700724031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da ginnastica
+700723031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da golf
+2004780031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da hockey su prato
+700748031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da immersione
+700739031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da pallamano
+700706031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da pallamano americana
+700746031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da pallavolo
+700721031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da pesca
+700714031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da pugilato
+700712031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da regata
+700740031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da tennis
+2004781031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da triathlon
+3592202031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da triathlon/Scarpe da ciclismo
+3592203031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe da triathlon/Scarpe da corsa
+700726031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe indoor multisport
+700728031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Scarpe outdoor multisport
+700725031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Stivali da caccia
+700720031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Stivali da equitazione
+15664384031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Stivali da equitazione/Stivaletti Jodhpur e da paddock
+15664383031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Stivali da equitazione/Stivali alti da equitazione
+15664386031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Stivali da equitazione/Stivali country
+15664385031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe sportive/Stivali da equitazione/Stivali da scuderia
+700755031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe stringate basse
+8632551031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe tradizionali
+8632552031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe tradizionali/Cinesi
+8632554031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe tradizionali/Giapponesi
+8632553031	Scarpe e borse/Scarpe/Scarpe da uomo/Scarpe tradizionali/Indiane
+700764031	Scarpe e borse/Scarpe/Scarpe da uomo/Sneaker
+700751031	Scarpe e borse/Scarpe/Scarpe da uomo/Stivali
+700752031	Scarpe e borse/Scarpe/Scarpe da uomo/Zoccoli e sabot
+700641031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze
+700688031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Ballerine
+2004782031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Espadrillas basse
+700701031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Infradito
+700696031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Mary Jane basse
+700695031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Mocassini
+700699031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Pantofole
+700692031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Sandali
+700697031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe col tacco
+700689031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe da barca
+700642031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive
+700681031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Calzature da escursionismo
+700683031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Calzature da escursionismo/Scarpe da escursionismo
+700682031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Calzature da escursionismo/Stivali da escursionismo
+700649031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Infradito e ciabatte da spiaggia
+700645031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Sandali sportivi
+700646031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Badminton
+700647031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Baseball
+700648031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Basket
+700653031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Cheerleader
+700655031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Cricket
+700643031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Football americano
+700665031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Lacrosse
+700676031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Ping Pong
+700667031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Racquetball
+700668031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Rugby
+700670031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Skateboard
+700673031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Soft Tennis
+700674031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Softball
+700675031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Squash
+700687031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da Wrestling
+700654031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da arrampicata
+2004783031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da arti marziali
+700657031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da ballo
+700651031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da bowling
+700660031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da calcetto
+700672031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da calcio
+700685031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da camminata
+700656031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da ciclismo
+7477827031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da corsa
+700680031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da corsa/Scarpe da Trail Running
+700679031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da corsa/Scarpe da atletica leggera
+700669031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da corsa/Scarpe da corsa su strada
+700662031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da ginnastica
+700661031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da golf
+2004784031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da hockey su prato
+700686031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da immersione
+700677031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da pallamano
+700644031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da pallamano americana
+700684031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da pallavolo
+700659031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da pesca
+700652031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da pugilato
+700650031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da regata
+700678031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da tennis
+2004785031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da triathlon
+3592184031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da triathlon/Scarpe da ciclismo
+3592185031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe da triathlon/Scarpe da corsa
+700664031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe indoor multisport
+700666031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Scarpe outdoor multisport
+700663031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Stivali da caccia
+700658031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe sportive/Stivali da equitazione
+700694031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe stringate basse
+8632547031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe tradizionali
+8632548031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe tradizionali/Cinesi
+8632550031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe tradizionali/Giapponesi
+8632549031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Scarpe tradizionali/Indiane
+700700031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Sneaker
+700690031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Stivali
+700691031	Scarpe e borse/Scarpe/Scarpe per bambine e ragazze/Zoccoli e sabot
+700582031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi
+2004786031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Espadrillas basse
+700639031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Infradito
+700635031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Mocassini
+700637031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Pantofole
+700632031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Sandali
+700629031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe da barca
+700583031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive
+700622031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Calzature da escursionismo
+700624031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Calzature da escursionismo/Scarpe da escursionismo
+700623031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Calzature da escursionismo/Stivali da escursionismo
+700590031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Infradito e ciabatte da spiaggia
+700586031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Sandali sportivi
+700587031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Badminton
+700588031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Baseball
+700589031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Basket
+700594031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Cheerleader
+700596031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Cricket
+700584031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Football americano
+700606031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Lacrosse
+700617031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Ping Pong
+700608031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Racquetball
+700609031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Rugby
+700611031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Skateboard
+700614031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Soft Tennis
+700615031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Softball
+700616031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Squash
+700628031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da Wrestling
+700595031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da arrampicata
+2004787031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da arti marziali
+700598031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da ballo
+700592031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da bowling
+700601031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da calcetto
+700613031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da calcio
+700626031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da camminata
+700597031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da ciclismo
+7477826031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da corsa
+700621031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da corsa/Scarpe da Trail Running
+700620031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da corsa/Scarpe da atletica leggera
+700610031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da corsa/Scarpe da corsa su strada
+700603031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da ginnastica
+700602031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da golf
+2004788031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da hockey su prato
+700627031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da immersione
+700618031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da pallamano
+700585031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da pallamano americana
+700625031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da pallavolo
+700600031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da pesca
+700593031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da pugilato
+700591031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da regata
+700619031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da tennis
+2004789031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da triathlon
+3592182031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da triathlon/Scarpe da ciclismo
+3592183031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe da triathlon/Scarpe da corsa
+700605031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe indoor multisport
+700607031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Scarpe outdoor multisport
+700604031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Stivali da caccia
+700599031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe sportive/Stivali da equitazione
+700634031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe stringate basse
+8632543031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe tradizionali
+8632544031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe tradizionali/Cinesi
+8632546031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe tradizionali/Giapponesi
+8632545031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Scarpe tradizionali/Indiane
+700638031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Sneaker
+700630031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Stivali
+700631031	Scarpe e borse/Scarpe/Scarpe per bambini e ragazzi/Zoccoli e sabot
+700579031	Scarpe e borse/Scarpe/Scarpine prima infanzia
+2004790031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Femmina
+15558421031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Femmina/Pantofole
+15558420031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Femmina/Sandali
+15558423031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Femmina/Scarpette impermeabili
+2004792031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Femmina/Scarpine primi passi
+15558422031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Femmina/Sneaker
+2004791031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Femmina/Stivaletti
+2004793031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Maschio
+15558425031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Maschio/Pantofole
+15558424031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Maschio/Sandali
+15558427031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Maschio/Scarpette impermeabili
+2004795031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Maschio/Scarpine primi passi
+15558426031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Maschio/Sneaker
+2004794031	Scarpe e borse/Scarpe/Scarpine prima infanzia/Maschio/Stivaletti

@@ -1,0 +1,34 @@
+﻿524010031	Orologi
+600072031	Orologi/Accessori
+601905031	Orologi/Accessori/Batterie
+601906031	Orologi/Accessori/Catenelle
+601910031	Orologi/Accessori/Cinturini
+10112465031	Orologi/Accessori/Cinturini/Bambine e ragazze
+10112469031	Orologi/Accessori/Cinturini/Bambini e ragazzi
+10112457031	Orologi/Accessori/Cinturini/Donna
+10112461031	Orologi/Accessori/Cinturini/Uomo
+601908031	Orologi/Accessori/Cofanetti
+10112473031	Orologi/Accessori/Pellicola protettiva per display
+601909031	Orologi/Accessori/Scatole carica orologi
+601907031	Orologi/Accessori/Strumenti e kit di riparazione
+10112474031	Orologi/Accessori/Supporti per orologio
+10112462031	Orologi/Bambine e ragazze
+10112465031	Orologi/Bambine e ragazze/Cinturini
+10112463031	Orologi/Bambine e ragazze/Orologi da polso
+10112464031	Orologi/Bambine e ragazze/Orologi da tasca
+16043146031	Orologi/Bambine e ragazze/Smartwatch Fashion
+10112466031	Orologi/Bambini e ragazzi
+10112469031	Orologi/Bambini e ragazzi/Cinturini
+10112467031	Orologi/Bambini e ragazzi/Orologi da polso
+10112468031	Orologi/Bambini e ragazzi/Orologi da tasca
+16043143031	Orologi/Bambini e ragazzi/Smartwatch Fashion
+10112454031	Orologi/Donna
+10112457031	Orologi/Donna/Cinturini
+10112455031	Orologi/Donna/Orologi da polso
+10112456031	Orologi/Donna/Orologi da tasca
+14363111031	Orologi/Donna/Smartwatches fashion
+10112458031	Orologi/Uomo
+10112461031	Orologi/Uomo/Cinturini
+10112459031	Orologi/Uomo/Orologi da polso
+10112460031	Orologi/Uomo/Orologi da tasca
+14363108031	Orologi/Uomo/Smartwatches fashion

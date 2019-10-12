@@ -1,0 +1,191 @@
+﻿2454164031	Gioielli
+3061175031	Gioielli/Accessori
+3061200031	Gioielli/Accessori/Anelliere
+3061201031	Gioielli/Accessori/Cofanetti e scatole
+3061213031	Gioielli/Accessori/Cofanetti e scatole/Armadietti
+10435340031	Gioielli/Accessori/Cofanetti e scatole/Borsette
+3061212031	Gioielli/Accessori/Cofanetti e scatole/Cofanetti
+16251411031	Gioielli/Accessori/Cofanetti e scatole/Portagioie per bambini
+3061214031	Gioielli/Accessori/Cofanetti e scatole/Rotoli
+3061215031	Gioielli/Accessori/Cofanetti e scatole/Scatole
+3061217031	Gioielli/Accessori/Cofanetti e scatole/Torri
+3061216031	Gioielli/Accessori/Cofanetti e scatole/Vassoi per gioielli
+3061202031	Gioielli/Accessori/Cuscini portafedi
+3061188031	Gioielli/Accessori/Garanzie
+3061190031	Gioielli/Accessori/Gemme
+10435341031	Gioielli/Accessori/Parti di ricambio
+10435342031	Gioielli/Accessori/Parti di ricambio/Ferma orecchini
+10435343031	Gioielli/Accessori/Parti di ricambio/Fermagli
+10435344031	Gioielli/Accessori/Parti di ricambio/Rinnovo per catene
+3061203031	Gioielli/Accessori/Pulizia e cura
+10435257031	Gioielli/Bambine e ragazze
+10435258031	Gioielli/Bambine e ragazze/Anelli
+10435259031	Gioielli/Bambine e ragazze/Bracciali
+10435260031	Gioielli/Bambine e ragazze/Cavigliere
+10435261031	Gioielli/Bambine e ragazze/Charm e ciondoli per bracciali
+10435262031	Gioielli/Bambine e ragazze/Charm e ciondoli per bracciali/Bead Charm
+10435263031	Gioielli/Bambine e ragazze/Charm e ciondoli per bracciali/Bracciali per charm e bead
+10435264031	Gioielli/Bambine e ragazze/Charm e ciondoli per bracciali/Charm di stilo italiano
+10435265031	Gioielli/Bambine e ragazze/Charm e ciondoli per bracciali/Chunks & Snaps
+10435266031	Gioielli/Bambine e ragazze/Charm e ciondoli per bracciali/Distanziatori per bead e charm
+10435267031	Gioielli/Bambine e ragazze/Charm e ciondoli per bracciali/Fermaglio charm
+10435268031	Gioielli/Bambine e ragazze/Collane
+10435269031	Gioielli/Bambine e ragazze/Gioielli per capelli
+10435270031	Gioielli/Bambine e ragazze/Gioielli per capelli/Fasce per capelli
+10435271031	Gioielli/Bambine e ragazze/Gioielli per capelli/Forcine
+10435272031	Gioielli/Bambine e ragazze/Gioielli per capelli/Mollette
+10435273031	Gioielli/Bambine e ragazze/Gioielli per capelli/Pettinini per capelli
+10435274031	Gioielli/Bambine e ragazze/Gioielli per capelli/Tiare
+10435275031	Gioielli/Bambine e ragazze/Orecchini
+10435276031	Gioielli/Bambine e ragazze/Parure di gioielli
+10435277031	Gioielli/Bambine e ragazze/Pendenti e monete
+10435278031	Gioielli/Bambine e ragazze/Pendenti e monete/Ciondoli
+10435280031	Gioielli/Bambine e ragazze/Pendenti e monete/Medaglioni
+10435281031	Gioielli/Bambine e ragazze/Pendenti e monete/Monete
+10435282031	Gioielli/Bambine e ragazze/Pendenti e monete/Telai monete
+10435283031	Gioielli/Bambine e ragazze/Spille e fermagli gioiello
+10435284031	Gioielli/Bambini e ragazzi
+10435285031	Gioielli/Bambini e ragazzi/Anelli
+10435286031	Gioielli/Bambini e ragazzi/Bracciali
+10435287031	Gioielli/Bambini e ragazzi/Ciondoli
+10435288031	Gioielli/Bambini e ragazzi/Collane
+10435289031	Gioielli/Bambini e ragazzi/Gemelli ed accessori per camicie
+10435290031	Gioielli/Bambini e ragazzi/Gemelli ed accessori per camicie/Bottoni eleganti per camicie
+10435291031	Gioielli/Bambini e ragazzi/Gemelli ed accessori per camicie/Fermacravatte
+10435292031	Gioielli/Bambini e ragazzi/Gemelli ed accessori per camicie/Gemelli
+10435293031	Gioielli/Bambini e ragazzi/Gemelli ed accessori per camicie/Spilli per cravatta
+10435294031	Gioielli/Bambini e ragazzi/Orecchini
+5874482031	Gioielli/Bijoux a piccoli prezzi
+5874546031	Gioielli/Bijoux a piccoli prezzi/Anelli
+5874547031	Gioielli/Bijoux a piccoli prezzi/Anelli/Anelli a fascia
+5874551031	Gioielli/Bijoux a piccoli prezzi/Anelli/Anelli componibili
+5874553031	Gioielli/Bijoux a piccoli prezzi/Anelli/Anelli con orologio
+5874549031	Gioielli/Bijoux a piccoli prezzi/Anelli/Anelli per stemma
+5874552031	Gioielli/Bijoux a piccoli prezzi/Anelli/Anelli statement
+5874554031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio
+5874555031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Anniversario
+5874561031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Esaltatori per anelli
+5874558031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Eternità
+5874559031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Fedine
+5874557031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Fidanzamento
+5874562031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Matrimonio
+5874560031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Promessa
+5874556031	Gioielli/Bijoux a piccoli prezzi/Anelli/Fidanzamento e matrimonio/Set nunziali
+5874548031	Gioielli/Bijoux a piccoli prezzi/Anelli/Midi
+5874550031	Gioielli/Bijoux a piccoli prezzi/Anelli/Solitario
+5874484031	Gioielli/Bijoux a piccoli prezzi/Bracciali
+5874485031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bangles
+5874492031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bracciali con targhetta
+5874493031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bracciali link
+5874486031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bracciali per charm
+5874488031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bracciali per charm/Bracciali link con charm
+5874489031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bracciali per charm/Snodati
+5874487031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bracciali per charm/Stile italiano
+5874494031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Bracciali statement
+5874490031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Cuff
+5874495031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Intrecciati
+5874491031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Link ad anello
+5874496031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Stretch
+5874497031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Tennis
+5874498031	Gioielli/Bijoux a piccoli prezzi/Bracciali/Wrap
+5874483031	Gioielli/Bijoux a piccoli prezzi/Cavigliere
+5874499031	Gioielli/Bijoux a piccoli prezzi/Charm e ciondoli
+5874500031	Gioielli/Bijoux a piccoli prezzi/Charm e ciondoli/Bead
+5874503031	Gioielli/Bijoux a piccoli prezzi/Charm e ciondoli/Bottoni
+5874505031	Gioielli/Bijoux a piccoli prezzi/Charm e ciondoli/Charm con stile italiano
+5874504031	Gioielli/Bijoux a piccoli prezzi/Charm e ciondoli/Clip
+5874502031	Gioielli/Bijoux a piccoli prezzi/Charm e ciondoli/Distanziatori
+5874501031	Gioielli/Bijoux a piccoli prezzi/Charm e ciondoli/Supporto per pendente
+5874528031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli
+5874529031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Catenine con ciondolo
+5874532031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane
+5874534031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane con ciondolo
+5874538031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane con ciondolo/Collane componibili
+5874536031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane con ciondolo/Collane con moneta incastonata
+5874537031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane con ciondolo/Collane con monete
+5874539031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane con ciondolo/Esaltatori per collane
+5874535031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane con ciondolo/Medaglioni
+5874540031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane con ciondolo/Solo pendenti
+5874533031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane di perle
+5874542031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane statement
+5874545031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collane-Y
+5874531031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Collari
+5874530031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Girocolli
+5874543031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Multifili
+5874541031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Sautoirs
+5874544031	Gioielli/Bijoux a piccoli prezzi/Collane e ciondoli/Torchon
+5874507031	Gioielli/Bijoux a piccoli prezzi/Gemelli e accessori per camicia
+5874509031	Gioielli/Bijoux a piccoli prezzi/Gemelli e accessori per camicia/Copri bottoni
+5874510031	Gioielli/Bijoux a piccoli prezzi/Gemelli e accessori per camicia/Fermacravatte
+5874508031	Gioielli/Bijoux a piccoli prezzi/Gemelli e accessori per camicia/Gemelli
+5874511031	Gioielli/Bijoux a piccoli prezzi/Gemelli e accessori per camicia/Spilla da cravatta
+5874521031	Gioielli/Bijoux a piccoli prezzi/Gioielli per capelli
+5874526031	Gioielli/Bijoux a piccoli prezzi/Gioielli per capelli/Diademi
+5874522031	Gioielli/Bijoux a piccoli prezzi/Gioielli per capelli/Fasce
+5874523031	Gioielli/Bijoux a piccoli prezzi/Gioielli per capelli/Fermagli
+5874524031	Gioielli/Bijoux a piccoli prezzi/Gioielli per capelli/Pettinini
+5874525031	Gioielli/Bijoux a piccoli prezzi/Gioielli per capelli/Spille
+3061192031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo
+3061209031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Anelli per piedi
+3061210031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Catene da pancia
+3061211031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing
+5874563031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Gioielleria microdermale
+3061218031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing a banana
+3061219031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing a barretta
+3061220031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing a bottone
+3061221031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing a cono
+3061223031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing a tappo
+3061222031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing a tunnel
+3061224031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing a uncino
+3061225031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing ad anello
+3061226031	Gioielli/Bijoux a piccoli prezzi/Gioielli per il corpo/Piercing/Piercing mantenitori
+5874512031	Gioielli/Bijoux a piccoli prezzi/Orecchini
+5874518031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Cerchi
+5874513031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Clip-on
+5874514031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Cuff e wrap
+5874515031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Gocce e pendenti
+5874516031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Jacket
+5874520031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Orecchini a lobo
+5874517031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Orecchini doppi
+5874519031	Gioielli/Bijoux a piccoli prezzi/Orecchini/Orecchini statement
+5874527031	Gioielli/Bijoux a piccoli prezzi/Parure
+5874506031	Gioielli/Bijoux a piccoli prezzi/Spille e fermagli
+10435296031	Gioielli/Donna
+10435297031	Gioielli/Donna/Anelli
+10435299031	Gioielli/Donna/Bracciali
+10435300031	Gioielli/Donna/Cavigliere
+10435301031	Gioielli/Donna/Charm e ciondoli per bracciali
+10435302031	Gioielli/Donna/Charm e ciondoli per bracciali/Bead Charm
+10435303031	Gioielli/Donna/Charm e ciondoli per bracciali/Bracciali per charm e bead
+10435304031	Gioielli/Donna/Charm e ciondoli per bracciali/Charm stile italiano
+10435305031	Gioielli/Donna/Charm e ciondoli per bracciali/Chunks & Snaps
+10435306031	Gioielli/Donna/Charm e ciondoli per bracciali/Distanziatori per bead e charm
+10435307031	Gioielli/Donna/Charm e ciondoli per bracciali/Fermagli Charm
+10435308031	Gioielli/Donna/Collane
+10435309031	Gioielli/Donna/Gioielli per capelli
+10435310031	Gioielli/Donna/Gioielli per capelli/Fasce per capelli
+10435311031	Gioielli/Donna/Gioielli per capelli/Forcine
+10435312031	Gioielli/Donna/Gioielli per capelli/Mollette
+10435313031	Gioielli/Donna/Gioielli per capelli/Pettinini per capelli
+10435314031	Gioielli/Donna/Gioielli per capelli/Tiare
+10435315031	Gioielli/Donna/Orecchini
+10435316031	Gioielli/Donna/Parure di gioielli
+10435317031	Gioielli/Donna/Pendenti e monete
+10435318031	Gioielli/Donna/Pendenti e monete/Ciondoli
+10435320031	Gioielli/Donna/Pendenti e monete/Medaglioni
+10435321031	Gioielli/Donna/Pendenti e monete/Monete
+10435322031	Gioielli/Donna/Pendenti e monete/Telai monete
+10435323031	Gioielli/Donna/Ring Enhancers
+10435324031	Gioielli/Donna/Spille e fermagli gioiello
+10435325031	Gioielli/Uomo
+10435326031	Gioielli/Uomo/Anelli
+10435327031	Gioielli/Uomo/Bracciali
+10435328031	Gioielli/Uomo/Ciondoli
+10435329031	Gioielli/Uomo/Collane
+10435330031	Gioielli/Uomo/Gemelli ed accessori per camicie
+10435331031	Gioielli/Uomo/Gemelli ed accessori per camicie/Bottoni eleganti per camicie
+10435332031	Gioielli/Uomo/Gemelli ed accessori per camicie/Fermacravatte
+10435333031	Gioielli/Uomo/Gemelli ed accessori per camicie/Gemelli
+10435334031	Gioielli/Uomo/Gemelli ed accessori per camicie/Spilli per cravatta
+10435335031	Gioielli/Uomo/Orecchini
+10435336031	Gioielli/Uomo/Parure di gioielli

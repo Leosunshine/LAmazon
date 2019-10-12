@@ -1,0 +1,41 @@
+﻿412613031	Software
+486461031	Software/Antivirus e Software di sicurezza
+486516031	Software/Casa e Hobby
+14639567031	Software/Contabilità e finanza
+486422031	Software/Contabilità e finanza/Contabilità
+486545031	Software/Contabilità e finanza/Finanze personali
+486548031	Software/Contabilità e finanza/Gestione fiscale
+486424031	Software/Contabilità e finanza/Gestione inventario
+486425031	Software/Contabilità e finanza/Gestione libro paga
+14639573031	Software/Corsi di lingue e viaggi
+486493031	Software/Corsi di lingue e viaggi/Lingue
+486583031	Software/Corsi di lingue e viaggi/Viaggi e navigazione
+14639572031	Software/Fotografia e disegno grafico
+486550031	Software/Fotografia e disegno grafico/3D & CAD
+14639576031	Software/Fotografia e disegno grafico/Fotografia
+486554031	Software/Fotografia e disegno grafico/Grafica e design suites
+486555031	Software/Fotografia e disegno grafico/Illustrazione
+486473031	Software/Fotografia e disegno grafico/Training e Tutorial
+486548031	Software/Gestione fiscale
+486469031	Software/Istruzione e consultazione
+14639574031	Software/Musica
+14639577031	Software/Produzione video
+486560031	Software/Programmazione e sviluppo siti internet
+14639575031	Software/Reti e Server
+486541031	Software/Sistemi operativi
+486588031	Software/Software di base
+486450031	Software/Software per bambini
+435515031	Software/Ufficio
+486429031	Software/Ufficio/Comunicazione
+14639571031	Software/Ufficio/Curriculum vitae
+486444031	Software/Ufficio/Elenchi e rubriche
+486471031	Software/Ufficio/Formazione Tool aziendali
+486441031	Software/Ufficio/Gestione degli immobili
+14639569031	Software/Ufficio/Gestione delle relazioni con i clienti
+14639570031	Software/Ufficio/Gestione documenti
+486436031	Software/Ufficio/Gestione legale
+14639568031	Software/Ufficio/Piani aziendali e di marketing
+486439031	Software/Ufficio/Pianificazione e Project Management
+486448031	Software/Ufficio/Riconoscimento vocale
+486437031	Software/Ufficio/Suite per ufficio
+486447031	Software/Ufficio/Traduzione
