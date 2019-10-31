@@ -11,18 +11,16 @@ class AmazonAPI
 		$message = array();
 		$messageIndex = 1;
 
-		$uploadLog = array("submission_id"=>"","products"=>array(), "variation"=>array());
+		$uploadLog = array("submission_id"=>"","products"=>array(), "variations"=>array());
 
 		foreach ($products as $index => $product) {
 			$SKU = $product->SKU;
 			$product->setTransaction($transaction);
-
 			if(AmazonStatus::isNeedDelete($product)){
 				//处理完全删除产品的操作，暂时不允许删除主产品来释放变体的操作
 				$message[] = AmazonAPI::constructDeleteProductMessage($messageIndex++,$SKU);
-
 				//修改删除状态为7
-				AmazonStatus::setProductStatus($product, LAMAZON_DATA_DELETING);
+				AmazonStatus::setUpdating($product,"Product");
 				$uploadLog["products"][$product->SKU] = array("id"=>$product->id,"SKU"=>$product->SKU,"operation"=>"delete");
 				$product->save();
 
@@ -36,7 +34,7 @@ class AmazonAPI
 					if(AmazonStatus::isAmazonExist($variation)){
 						//若变体已存在amazon中
 						$message[] = AmazonAPI::constructDeleteProductMessage($messageIndex++, $va_SKU);
-						$uploadLog["variation"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"delete");
+						$uploadLog["variations"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"delete");
 						AmazonStatus::setProductStatus($variation, LAMAZON_DATA_DELETING, true);
 					}else{
 						$variation->product_id = 0; //将该变体直接置无效
@@ -46,12 +44,11 @@ class AmazonAPI
 				continue;
 			}
 
-			
 			$EAN = $product->ASIN;
 			if(AmazonStatus::isNeedUpdate($product,"Product")){
 				//需要更新product数据
 				$message[] = AmazonAPI::constructUpdateProductMessage($messageIndex++, $SKU, $EAN, $product, false);
-				AmazonStatus::setProductUpdating($product); //设置上传中状态
+				AmazonStatus::setUpdating($product,"Product"); //设置上传中状态
 				$uploadLog["products"][$SKU] = array("id"=>$product->id,"SKU"=>$SKU,"operation"=>"update");
 				$product->save();
 			}
@@ -72,35 +69,22 @@ class AmazonAPI
 				if(AmazonStatus::isNeedDelete($variation)){
 					//若该变体期望从amazon删除
 					$message[] = AmazonAPI::constructDeleteProductMessage($messageIndex++, $va_SKU);
-					$uploadLog["variation"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"delete");
+					$uploadLog["variations"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"delete");
 				}
 				else if(AmazonStatus::isNeedUpdate($variation,"Product")){
 					$message[] = AmazonAPI::constructUpdateProductMessage($messageIndex++, $va_SKU, $va_ASIN, $product, true, $va_name);
-					$uploadLog["variation"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"update");
+					$uploadLog["variations"][$va_SKU] = array("id"=>$variation->id, "SKU"=>$va_SKU, "operation"=>"update");
 				}
-				AmazonStatus::setProductUpdating($variation, true);
+				AmazonStatus::setUpdating($variation, "Variation");
 				$variation->save();
 			}
 		}
 
-		$feed_json = AmazonAPI::constructFeedJson($message, $amazon_config, "Product");
-		if(!$feed_json) return 0;
-		$feed = XMLTools::Json2Xml($feed_json);
-		file_put_contents("./temp/temp.dat", $feed);
-		$submission_id = AmazonAPI::submitFeed($feed,$amazon_config);
-		if(isset($submission_id["submission_id"])){
-			return $submission_id;
-		}
-		try{
-			$transaction->commit();
-		}catch(Exception $e){
-			$transaction->rollback();
-		}
-		
-		$uploadLog["submission_id"] = $submission_id;
-		$uploadLog["status"] = "submitted";
-		file_put_contents("./temp/updateLogs/uploadLog.dat", json_encode($uploadLog,JSON_PRETTY_PRINT));
-		return $submission_id;
+		$transaction->commit();
+		return AmazonAPI::submitMessages($message, $amazon_config, "Product", array(
+			"xml"=>"./temp/temp.dat",
+			"uploadLog"=>$uploadLog
+		));
 	}
 
 	public static function updatePrice($products){
@@ -168,7 +152,7 @@ class AmazonAPI
 		$messageIndex = 1;
 		$uploadLog = array("products"=>array(), "variations"=>array());
 		foreach ($products as $index => $product) {
-			if(!AmazonStatus::isNeedUpdate_Relation($product)){
+			if(!AmazonStatus::isNeedUpdate($product,"Relation")){
 				continue;
 			}
 
@@ -205,6 +189,10 @@ class AmazonAPI
 			$product->save();
 		}
 
+		return AmazonAPI::submitMessages($message,$amazon_config,"Relation",array(
+			"xml"=>"./temp/temp.dat",
+			"uploadLog"=>$uploadLog
+		));
 		$feed_json = AmazonAPI::constructFeedJson($message, $amazon_config, "Relationship");
 		if(!$feed_json) return 0;
 
@@ -237,7 +225,7 @@ class AmazonAPI
 				$variations = explode("|", $variations);
 				foreach ($variations as $key => $value) {
 					$variation_instance = Variation::findFirst($value);
-					if(!(AmazonStatus::isValid($variation_instance, true) && AmazonStatus::isNeedUpdate_Inventory($variation_instance)))	continue;
+					if(!(AmazonStatus::isValid($variation_instance, true) && AmazonStatus::isNeedUpdate($variation_instance,"Inventory")))	continue;
 					$va_SKU = $variation_instance->SKU;
 					$va_count = $variation_instance->inventory_count;
 					$message[] = AmazonAPI::constructUpdateInventoryMessage($messageIndex++, $va_SKU, $va_count);
@@ -246,7 +234,7 @@ class AmazonAPI
 					$variation_instance->save();
 				}
 			}else{
-				if(!AmazonStatus::isNeedUpdate_Inventory($product)) continue;
+				if(!AmazonStatus::isNeedUpdate($product,"Inventory")) continue;
 				$quantity = $product->product_count;
 				$message[] = AmazonAPI::constructUpdateInventoryMessage($messageIndex++, $SKU, $quantity);
 				AmazonStatus::setInventoryUpdating($product);
@@ -254,18 +242,11 @@ class AmazonAPI
 				$product->save();
 			}
 		}
-		$feed_json = AmazonAPI::constructFeedJson($message, $amazon_config, "Inventory");
-		if(!$feed_json) return 0;
-		$feed = XMLTools::Json2Xml($feed_json);
-		file_put_contents("./temp/temp.dat", $feed);
-		$submission_id = AmazonAPI::submitFeed($feed,$amazon_config,"_POST_INVENTORY_AVAILABILITY_DATA_");
-		if(isset($submission_id["submission_id"])){
-			return $submission_id;
-		}
-		$uploadLog["submission_id"] = $submission_id;
-		$uploadLog["status"] = "submitted";
-		file_put_contents("./temp/updateLogs/uploadLog.dat", json_encode($uploadLog,JSON_PRETTY_PRINT));
-		return $submission_id;
+
+		return AmazonAPI::submitMessages($message, $amazon_config, "Inventory", array(
+			"xml"=>"./temp/temp.dat",
+			"uploadLog"=>$uploadLog
+		));
 	}
 
 	public static function updateShipping($products){
@@ -569,6 +550,8 @@ class AmazonAPI
 
 	private static function constructFeedJson($message, $amazon_config, $submitType = 'Product'){
 		if(!count($message)) return false;
+		if($submitType === "Relation")
+			$submitType = "Relationship";
 		return array(
 			"AmazonEnvelope"=>array(
 				"Header"=>array(

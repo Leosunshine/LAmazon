@@ -400,4 +400,46 @@ class CommandController extends ControllerBase
 			print_r($e);
 		}
 	}
+
+	public function clear_success_uploadlogsAction(){
+		$this->view->disable();
+		$logs = UploadLog::find("status = 2");
+		foreach ($logs as $index => $log) {
+			$url = $log->detail_url;
+			if(file_exists($url)){
+				unlink($url);
+			}
+			$log->delete();
+		}
+	}
+
+	public function exportProductsAction(){
+		$products = Products::find();
+		$filename = "./temp/product_back.json";
+		$contents = array();
+		foreach ($products as $id => $product) {
+			$content = $product->toArray();
+			$content["variations"] = array();
+			$content["images"] = array();
+
+			$variations = $product->variation_node;
+			if($variations != ""){
+				$variations = explode("|", $variations);
+				foreach ($variations as $key => $va_id) {
+					$variation = Variation::findFirst($va_id);
+					$content["variations"][$va_id] = $variation->toArray();
+				}
+			}
+			$images = $product->images;
+			if($images != ""){
+				$images = explode("|", $images);
+				foreach ($images as $key => $img_id) {
+					$image = ImageUrls::findFirst($img_id);
+					$content["images"][$img_id] = $image->toArray();
+				}
+			}
+			$contents[] = $content;
+		}
+		file_put_contents($filename, json_encode($contents, JSON_PRETTY_PRINT));
+	}
 }

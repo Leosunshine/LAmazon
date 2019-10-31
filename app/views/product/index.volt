@@ -496,8 +496,8 @@
 			<hr/>
 
 			<div style="width:100%;height:8%;">
-				内部SKU: <input class="product_field product_panel_text_selector" type="text" name="SKU">
-				产品EAN码: <input class="product_field product_panel_text_selector" type="text" name="ASIN"><br/>
+				内部SKU: <input class="product_field product_panel_text_selector amazon_field" type="text" name="SKU">
+				产品EAN码: <input class="product_field product_panel_text_selector amazon_field" type="text" name="ASIN"><br/>
 				库存数量: <input class="product_field product_panel_text_selector" type="text" name="product_count">
 				每包: <input class="product_field product_panel_text_selector" type="text" name="perpackage_count">
 			</div>
@@ -631,6 +631,21 @@
 					}
 					addAVariation(variations[i]);
 				}
+			}
+
+			if(product['status'] * 1 > 1){
+				//已上传过的商品禁止更改 SKU, EAN, 品牌/厂家,分类等信息
+				$('#category_local_button').unbind("click");
+				$('#category_local_button').click(function(){
+					alert("已上传过的商品禁止修改分类!请新建产品");
+				});
+
+
+			}else{
+				$('#category_local_button').unbind("click");
+				$('#category_local_button').click(function(){
+					$("#local_category_panel").show();
+				});
 			}
 
 			

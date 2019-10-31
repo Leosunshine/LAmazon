@@ -19,42 +19,26 @@
 <br/><br/>
 <div style="height:5%;"></div>
 <div style="height:35%;text-align: center;">
-	1231
+	<img style="max-width:80%;max-height:80%;" src="/resources/logo.png"><br/>
+	LAMAZON
 </div>
 <div style="color:white;width:40%;height:35%;background-color:rgba(202,133,106,0.85);margin: 0 auto;text-align: center;font-size: 20px;border-radius: 5px;">
 	<div style="height:30%;"></div>
 	用户: <input  style="font-size: 20px;" id="username" type="text"><br/><br/>
 	密码: <input style="font-size: 20px;" type="password" id = "pwd"><br/><br/>
 	<button style="font-size: 20px;" id="submit">进入</button>
+	<!--button style="font-size: 20px;" id="signup">注册</button-->
 </div>
-
-<div style="display:none;">
-卖家编号:<input hidden="true" id="sellerid" type="text" name="sellerID"><br/><br/>
-Amazon通行领牌:<input hidden="true" id="token" type="password" name="token"><br/><br/>
-</div>
-
-
 
 <script type="text/javascript">
 	$(function(){
 		$("#submit").click(function(){
 			var sellerId = $("#sellerid").val();
 			var token = $("#token").val();
-
-			// $.post("/login/setSeller",{sellerId:sellerId,token:token},function(data){
-			// 	if(data.error){
-			// 		alert(data.error);
-			// 	}else{
-			// 		if(data.success){
-			// 			window.location.href = data.success;
-			// 		}
-			// 	}
-			// });
 			var pwd = $("#pwd").val();
 			pwd = hex_sha1(pwd);
 			$.post("/login/verifyUser",{username:$("#username").val(),password:pwd,id:Math.random()},function(data){
 				if(data.success){
-					//alert("登录成功");
 					window.location.href = "/product/index";
 				}else{
 					alert("用户名或密码错误");

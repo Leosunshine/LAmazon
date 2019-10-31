@@ -15,11 +15,11 @@ class AmazonStatus
 
 	private static function getStatus($product, $type = "Product"){
 		$index = AmazonStatus::$type_index[$type];
-		return substr($product->amazon_status, $index, 1);
+		return substr($product->amazon_status, $index, 1) * 1;
 	}
 
 	private static function setStatus($product, $status, $type = "Product"){
-		if("Product" === $type){
+		if("Product" === $type && isset($product->status)){
 			$product->status = $status;
 		}
 		$index = AmazonStatus::$type_index[$type];
@@ -47,6 +47,11 @@ class AmazonStatus
 		return !($status === LAMAZON_NEVER_UPLOADED || $status === LAMAZON_INVALID_STATUS || $status === LAMAZON_DATA_DELETED);
 	}
 
+	public static function isAmazonTargetExist($product){
+		$status = AmazonStatus::getStatus($product,"Product");
+		return $status === LAMAZON_READY_TO_UPDATE || $status === LAMAZON_DATA_UPDATING || $status === LAMAZON_UP_TO_DATE;
+	}
+
 
 	public static function isUpdating($product, $type = "Product"){
 		$status = AmazonStatus::getStatus($product, $type);
@@ -56,12 +61,38 @@ class AmazonStatus
 	public static function isNeedUpdate($product, $type = "Product"){
 		$status = AmazonStatus::getStatus($product, $type);
 		if("Product" === $type){
-			 return $status === LAMAZON_NEVER_UPLOADED || $status === LAMAZON_READY_TO_UPDATE || $status === LAMAZON_READY_TO_DELETE;
+			return $status === LAMAZON_NEVER_UPLOADED || $status === LAMAZON_READY_TO_UPDATE || $status === LAMAZON_READY_TO_DELETE;
 		}else{
-			if(AmazonStatus::isNeedUpdate($product, "Product")) return false;
+			// 
+			if(!AmazonStatus::isAmazonTargetExist($product)) return false;
 			$status_product = AmazonStatus::getStatus($product,"Product");
 			if($status_product === LAMAZON_DATA_DELETING || $status_product === LAMAZON_DATA_DELETED) return false;
 			return $status === LAMAZON_NEVER_UPLOADED || $status === LAMAZON_READY_TO_UPDATE;
+		}
+	}
+
+	public static function isDeleted($product,$type){
+		$status = AmazonStatus::getStatus($product,$type);
+		return $status === LAMAZON_DATA_DELETED;
+	}
+
+	public static function isUpdated($product){
+		$status = AmazonStatus::getStatus($product,"Product");
+		return $status === LAMAZON_UP_TO_DATE;
+	}
+
+	//将相应状态位设置为需要上传状态
+	public static function setNeedUpdate($product,$type){
+		$status = AmazonStatus::getStatus($product,$type);
+		switch ($status) {
+			case LAMAZON_NEVER_UPLOADED: 
+			case LAMAZON_READY_TO_UPDATE:
+			case LAMAZON_READY_TO_DELETE:
+				break; 
+			case LAMAZON_INVALID_STATUS:
+			case LAMAZON_UP_TO_DATE:
+				AmazonStatus::setStatus($product, LAMAZON_READY_TO_UPDATE, $type); break;
+			default:break;
 		}
 	}
 
@@ -92,15 +123,15 @@ class AmazonStatus
 		}
 	}
 
+	//将相应的状态位设置为无效
+	public static function setInvalid($product, $type){
+		AmazonStatus::setStatus($product, LAMAZON_INVALID_STATUS, $type);
+	}
 
 	public static function setProductStatus($product_instance,$status, $isVariation = false){
 		AmazonStatus::setStatus($product_instance, $status, $isVariation?"Variation":"Product");
 	}
 
-
-	public static function setProductUpdating($product_instance, $isVariation = false){
-		AmazonStatus::setUpdating($product_instance, $isVariation?"Variation":"Product");
-	}
 
 
 	public static function setRelationStatus($product_instance,$status){
@@ -179,5 +210,4 @@ class AmazonStatus
 
 		return $ret;
 	}
-
 }

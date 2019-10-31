@@ -60,8 +60,6 @@
 				data[name] = $(this).val();
 			});
 
-			console.log(data);
-
 			$.post("/user/updateshop",{data: JSON.stringify(data), id: Math.random()},function(data){
 				if(!data.success){
 					console.log(data.error);
@@ -112,8 +110,8 @@
 			<div class="editPanel" id="shopInfoEditPanel">
 				<input class="shopInfoInputSelector" hidden="true" type="text" name="id">
 				店铺名称:     <input style="width:400px;" class="shopInfoInputSelector" type="text" name="name"><br/>
-				亚马逊商户ID: <input style="width:400px;" class="shopInfoInputSelector" type="text" name="amazon_merchant_id"><br/>
-				亚马逊MWS授权令牌: <input style="width:400px;" class="shopInfoInputSelector" type="text" name="amazon_token"><br/>
+				亚马逊商户ID: <input style="width:400px;" readonly="true" class="shopInfoInputSelector" type="text" name="amazon_merchant_id"><br/>
+				亚马逊MWS授权令牌: <input style="width:400px;" readonly="true" class="shopInfoInputSelector" type="text" name="amazon_token"><br/>
 				<button id="submitModifies">提交</button>
 				<button id="resetForm" onclick="loadShopInfo();">重置</button>
 			</div>

@@ -162,25 +162,24 @@ class Tools
 
 			//只处理产生变体关系的子,与进行升级与删除操作的逻辑不同
 			$variations = $product->variation_node;
-			$variations = explode("|", $variations);
-			if(count($variations)){
-				foreach ($variations as $key => $va_id) {
-					$variation_instance = Variation::findFirst($va_id);
-					if(AmazonStatus::isNeedUpdate($variation_instance,"Price")){
-						$price++;
-					}
-
-					if(AmazonStatus::isNeedUpdate($variation_instance,"Inventory")){
-						$inventory++;
-					}
-				}
+			if($variations == ""){
+				//如果商品不包含变体,则处理商品本身的信息处理逻辑
+				if(AmazonStatus::isNeedUpdate($product,"Price")) $price++;
+				if(AmazonStatus::isNeedUpdate($product,"Inventory")) $inventory++;
+				continue;
 			}else{
-				if(AmazonStatus::isNeedUpdate($product,"Price")){
-					$price++;
-				}
+				$variations = explode("|", $variations);
+				if(count($variations)){
+					foreach ($variations as $key => $va_id) {
+						$variation_instance = Variation::findFirst($va_id);
+						if(AmazonStatus::isNeedUpdate($variation_instance,"Price")){
+							$price++;
+						}
 
-				if(AmazonStatus::isNeedUpdate($product,"Inventory")){
-					$inventory++;
+						if(AmazonStatus::isNeedUpdate($variation_instance,"Inventory")){
+							$inventory++;
+						}
+					}
 				}
 			}
 		}
@@ -191,5 +190,27 @@ class Tools
 		$chars = str_split($string);
 		$chars[$pos] = $char;
 		return implode("", $chars);
+	}
+
+	public static function isProductInfoEdit($product,$product_instance){
+		$amazon_field = array(
+			"title",
+			"keywords",
+			"keypoints",
+			"description",
+			"ASIN",
+			"SKU",
+			"perpackage_count",
+			"brand",
+			"manufacturer",
+			"amazon_nodeId",
+			"variation_theme"
+		);
+
+		foreach ($amazon_field as $index => $field) {
+			if($product[$field] != $product_instance->$field){
+				return true;
+			}
+		}
 	}
 }

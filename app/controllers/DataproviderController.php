@@ -34,7 +34,6 @@ class DataproviderController extends ControllerBase
 
 
 		
-
 		$total = Products::count(array(
 			"status < 6 and (SKU like :con: or title like :con: or keywords like :con:)",
 			"bind"=>array("con"=>"%$condition%")
@@ -47,6 +46,7 @@ class DataproviderController extends ControllerBase
 					'Products.fixed_shipping as fixed_shipping',
 					'Products.price as price',
 					'Products.currency as currency',
+					"Products.status as status",
 					'Products.images as images'
 				))
 				->from("Products")
@@ -78,6 +78,11 @@ class DataproviderController extends ControllerBase
 				case "雷加尔": $result[$index]["currency"] = "R$"; break;
 				default:
 					break;
+			}
+
+			$status = $value["status"] * 1;
+			if($status > 1){
+				$result[$index]["uploaded"] = "true";
 			}
 		}
 		$this->dataReturn(array("success"=>$result,"total"=>$total));

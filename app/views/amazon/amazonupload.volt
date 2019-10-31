@@ -103,7 +103,7 @@
 		$("#updateRelationship").bind("click",function(){
 			$.post("/amazon/updateRelationship",{id:Math.random()},function(data){
 				if(data.success){
-					$("#uploadRelationshipInfo").html(data.success);
+					$("#uploadRelationInfo").html(data.success);
 					$("#SubmissionId").val(data.success);
 				}
 			});

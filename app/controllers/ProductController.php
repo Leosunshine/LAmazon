@@ -281,62 +281,34 @@ class ProductController extends ControllerBase
 		//关于清空图像文件，暂时不做处理，需要手动删除，不删除也不会影响系统运行，但是浪费系统空间
 		$this->dataReturn(array("success"=>"success"));
 	}
+
 	public function updateProduct($product,$product_id){
 		$manager = new TxManager();
 		$transaction = $manager->get();
-		$product_instance = Products::findFirst(($product_id*1));
-		if(!$product_instance) {
-			$product_instance = new Products();
-			$product_instance->status = 1;
-			if(count($product['variations'])){
-				$product_instance->amazon_status = "11111";
-			}else{
-				$product_instance->amazon_status = "10111";
-			}
+		$isNewProduct = $product_id === "0";
+
+		$isProductInfoEdit = true;
+		$isPriceEdited = true;
+		$isInventoryEdited = true;
+
+		if(!$isNewProduct){
+			$product_instance = Products::findFirst(($product_id*1));
+			$isProductInfoEdit = Tools::isProductInfoEdit($product,$product_instance);
 		}else{
-			$amazon_status = $product_instance->amazon_status;
-			if("2" === substr($amazon_status, 0,1) || "5" === substr($amazon_status, 0, 1)){ //如果尚未初始化,则进行状态切换
-				$product_instance->amazon_status = Tools::replaceCharAt($product_instance->amazon_status, 0, "3");
-				$product_instance->status = 3;
-			}			
+			$product_instance = new Products();
+			$product_instance->amazon_status = "10111";
+			$product_instance->status = 1;
+			try{
+				$product_instance->save();
+				$product_instance = Products::findFirst($product_instance->id);
+				$product_id = $product_instance->id;
+
+			}catch(TxFailed $e){
+				$transaction->rollback();
+			}
 		}
-		$isProductUpdated = false;
 		$product_instance->setTransaction($transaction);
 
-		foreach ($product as $key => $value) {
-			switch ($key) {
-				case 'variations':break;
-				case 'images':break;
-				case 'price':
-				case 'currency':
-				case 'product_count':
-					if($product_instance->$key != $value){
-						$product_instance->$key = $value;
-					}
-					break;
-				default:
-					if($product_instance->$key != $value){
-						$product_instance->$key = $value;
-						$isProductUpdated = true;
-					}
-					break;
-			}
-		}
-
-		$SKU = $product["SKU"];
-		$EAN = $product["ASIN"];
-
-		$product_instance->SKU = $SKU?$SKU:AmazonAPI::composeSKU();
-		$product_instance->ASIN = $EAN?$EAN:AmazonAPI::composeEAN();
-
-		try{
-			$product_instance->save();
-			$product_instance = Products::findFirst($product_instance->id);
-			$product_id = $product_instance->id;
-
-		}catch(TxFailed $e){
-			$transaction->rollback();
-		}
 		//首先确保文件夹存在
 		$image_fold = "./img/".$product_instance->id;
 		if(!is_dir($image_fold)){
@@ -381,6 +353,7 @@ class ProductController extends ControllerBase
 		$main_image_id = explode("|",trim($images_field, "|"))[0] * 1;
 		$product_instance->main_image_id = $main_image_id;
 
+		//为了得到上传的标识位，应该先处理变体
 		//处理变体. 变体要用SKU控制, 一旦修改SKU，等效于重新添加变体
 
 		//取出原有变体集合
@@ -389,9 +362,8 @@ class ProductController extends ControllerBase
 			"bind"=>array("product_id"=>$product_id)
 		));
 
-		//建立原有SKU与变体的映射,并将状态置为无效
+		//建立原有SKU与变体的映射
 		$variation_map = array();
-		
 		foreach($variations as $key => $variation){
 			$variation_map[$variation->SKU] = $variation;
 			$variation->setTransaction($transaction);
@@ -401,7 +373,7 @@ class ProductController extends ControllerBase
 		$variation_field = "";
 
 		foreach ($variations as $index => $variation) {
-			$variation_instance = $this->createVariation($variation,$image_map,$variation_map);
+			$variation_instance = $this->createVariation($variation,$image_map,$variation_map, $isProductInfoEdit);
 			$key = array_search($variation_instance, $variation_map);
 			if($key){
 				unset($variation_map[$key]);
@@ -417,20 +389,71 @@ class ProductController extends ControllerBase
 		}
 
 		foreach ($variation_map as $key => $value) {
+			//余下各变体删除
 			try{
-				if(substr($value->amazon_status, 0,1) === "1"){
-					$value->product_id = 0;
+				if(!AmazonStatus::isAmazonExist($value)){
+					$value->product_id = 0;//原先服务器中就不存在的,直接置无效
 				}else{
 					//待删除变体置位为6
-					$value->amazon_status = Tools::replaceCharAt($value->amazon_status,0,"6");
+					AmazonStatus::setStatus($product, LAMAZON_READY_TO_DELETE, "Variation");
 				}
-				
 				$value->save();
 			} catch(Exception $e){
 				$transaction->rollback();
 			}
 		}
+
 		$product_instance->variation_node = trim($variation_field,"|");
+
+		//再根据新的商品中有无变体,处理其标识位
+		if($product_instance->variation_node == ""){
+			if($product_instance->price != $product["Price"]){
+				AmazonStatus::setNeedUpdate($product_instance,"Price");
+				$product_instance->price = $product["Price"];
+			}
+
+			if($product_instance->product_count != $product["product_count"]){
+				AmazonStatus::setNeedUpdate($product_instance,"Inventory");
+				$product_instance->product_count = $product["product_count"];
+			}
+			AmazonStatus::setInvalid($product_instance,"Price");
+			AmazonStatus::setInvalid($product_instance,"Inventory");
+		}else{
+			//有变体,价格库存位置无效
+			AmazonStatus::setInvalid($product_instance,"Price");
+			AmazonStatus::setInvalid($product_instance,"Inventory");
+			//只要商品有变体，则需要更新变体关系
+			AmazonStatus::setNeedUpdate($product_instance,"Relation");
+		}
+
+		//设定商品上传标识位
+		if($isProductInfoEdit){
+			AmazonStatus::setNeedUpdate($product_instance,"Product");
+		}
+
+		//同步各字段
+		foreach ($product as $key => $value) {
+			switch ($key) {
+				case 'variations':
+				case 'images':
+				case 'price':
+				case 'currency':
+				case 'product_count':break;
+				default:
+					if($product_instance->$key != $value){
+						$product_instance->$key = $value;
+					}
+					break;
+			}
+		}
+
+
+		$SKU = $product["SKU"];
+		$EAN = $product["ASIN"];
+
+		$product_instance->SKU = $SKU?$SKU:AmazonAPI::composeSKU();
+		$product_instance->ASIN = $EAN?$EAN:AmazonAPI::composeEAN();
+
 		try {
 			$product_instance->save();
 		} catch (Exception $e) {
@@ -516,17 +539,15 @@ class ProductController extends ControllerBase
 		$transaction->commit();		
 		$this->dataReturn(array("success"=>$images[count($images) - 1]));
 	}
-	private function createVariation($variation,$image_map,$variation_map){
+	private function createVariation($variation,$image_map,$variation_map,$isProductInfoEdit = true){
 		$SKU = $variation['SKU'];
 		$amazon_pro_status = "0";
 
 		if($SKU && $variation_map[$SKU]){
 			//已存在变体,正在修改
 			$variation_instance = $variation_map[$SKU];
-			$amazon_status = $variation_instance->amazon_status;
-			if("2" === substr($amazon_status, 0, 1) || "5" === substr($amazon_status, 0, 1)){
-				$variation_instance->amazon_status = Tools::replaceCharAt($variation_instance->amazon_status, 0, "3");
-			}
+			//根据本体是否修改，定义变体是否修改
+			if($isProductInfoEdit){	AmazonStatus::setNeedUpdate($variation_instance,"Variation");}
 		}else{
 			//变体不存在,需要新建
 			$variation_instance = Variation::findFirst(array(
@@ -535,13 +556,29 @@ class ProductController extends ControllerBase
 			if(!$variation_instance) $variation_instance = new Variation();
 			$variation_instance->amazon_status = "10111";
 		}
-		
-		$variation_instance->name = $variation['name'];
+
+		//更新库存
+		if($variation["inventory_count"] * 1 != $variation_instance->inventory_count){
+			$variation_instance->inventory_count = $variation["inventory_count"] * 1;
+			AmazonStatus::setNeedUpdate($variation_instance,"Inventory");
+		}
+
+		//更新价格(此处应该保存加价还是价格有待商榷)
+		if($variation["price_bonus"] * 1 != $variation_instance->price_bonus){
+			$variation_instance->price_bonus = $variation["price_bonus"] * 1;
+			AmazonStatus::setNeedUpdate($variation_instance,"Price");
+		}
+		//更新名称
+		if($variation["name"] != $variation_instance->name){
+			$variation_instance->name = $variation["name"];
+			AmazonStatus::setNeedUpdate($variation_instance,"Variation");
+		}
+
+		//主要针对没有初始化的商品,故不需要进行修改判断
 		$variation_instance->SKU = $variation['SKU']?$variation['SKU']:AmazonAPI::composeSKU();
 		$variation_instance->EAN = $variation['EAN']?$variation['EAN']:AmazonAPI::composeEAN();
-		$variation_instance->inventory_count = ($variation['inventory_count'] * 1);
-		$variation_instance->price_bonus = $variation['price_bonus'];
 		
+
 		$variation_instance->images = "";
 		$images = $variation['images'];
 		foreach ($images as $index => $image) {

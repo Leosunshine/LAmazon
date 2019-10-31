@@ -44,7 +44,6 @@ class AmazonController extends ControllerBase
 		}else{
 			$this->dataReturn(array("error"=>$product_submission_id));
 		}
-		
 	}
 
 	public function updateRelationshipAction(){

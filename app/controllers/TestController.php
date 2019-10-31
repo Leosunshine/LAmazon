@@ -192,6 +192,7 @@
 					$variation = Variation::findFirst($message["id"]);
 					$type = "Product" === $type? "Variation":$type;
 					AmazonStatus::setUpdated($variation, $type);
+					if(AmazonStatus::isDeleted($variation,$type))	$variation->product_id = 0;
 					$variation->save();
 				}
 
