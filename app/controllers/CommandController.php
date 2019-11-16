@@ -440,6 +440,8 @@ class CommandController extends ControllerBase
 			}
 			$contents[] = $content;
 		}
-		file_put_contents($filename, json_encode($contents, JSON_PRETTY_PRINT));
+
+
+		file_put_contents($filename, json_encode($contents, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE));
 	}
 }
