@@ -413,6 +413,9 @@ class CommandController extends ControllerBase
 		}
 	}
 
+	/**
+	输出产品数据，包括变体数据和图片数据，但是不包括图片本身,输出位于temp文件夹下，不参与同步
+	*/
 	public function exportProductsAction(){
 		$products = Products::find();
 		$filename = "./temp/product_back.json";
@@ -445,9 +448,12 @@ class CommandController extends ControllerBase
 		file_put_contents($filename, json_encode($contents, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE));
 	}
 
+	/**
+		导入产品数据，文件位于files文件夹下，文件参数同步
+	*/
 	public function importProductsAction(){
 		echo "<pre/>";
-		$product_content = file_get_contents("./temp/product_back_online.json");
+		$product_content = file_get_contents("./files/product_back.json");
 		$product_content = json_decode($product_content,true);
 
 		$skip_fields = array("images","variations","id","variation_node");
