@@ -407,9 +407,9 @@ class ProductController extends ControllerBase
 
 		//再根据新的商品中有无变体,处理其标识位
 		if($product_instance->variation_node == ""){
-			if($product_instance->price != $product["Price"]){
+			if($product_instance->price != $product["price"]){
 				AmazonStatus::setNeedUpdate($product_instance,"Price");
-				$product_instance->price = $product["Price"];
+				$product_instance->price = $product["price"];
 			}
 
 			if($product_instance->product_count != $product["product_count"]){
