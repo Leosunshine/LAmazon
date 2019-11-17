@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 2019-11-17 13:20:46
+-- Generation Time: 2019-07-30 08:43:31
 -- 服务器版本： 5.6.17
 -- PHP Version: 5.5.12
 
@@ -43,8 +43,7 @@ CREATE TABLE IF NOT EXISTS `products` (
   `perpackage_count` int(10) DEFAULT NULL COMMENT '每包数量',
   `review_status` int(4) DEFAULT '2' COMMENT '1-通过; 2-待审核;3-过滤;4-侵权;5-屏蔽',
   `appear_status` int(4) DEFAULT '2' COMMENT '1-上架; 2-下架; 3-失效',
-  `amazon_status` varchar(200) CHARACTER SET utf8 DEFAULT '10111' COMMENT '参考开发日志',
-  `status` int(1) NOT NULL DEFAULT '0' COMMENT '商品状态: 6 - 待删除',
+  `amazon_status` int(4) DEFAULT '1' COMMENT '1-待上传; 2-已上传; 3-待删除; 4-已删除',
   `security_status` int(4) DEFAULT '1' COMMENT '1-未分级; 2-没图案设计; 3-有图案设计; 4-国内品牌; 5-高风险',
   `product_level` int(4) DEFAULT '2' COMMENT '1-重点; 2-原创; 3-海外; 4-抓取; 5-导入',
   `brand` varchar(100) CHARACTER SET utf8 DEFAULT NULL COMMENT '品牌',
@@ -98,7 +97,14 @@ CREATE TABLE IF NOT EXISTS `products` (
   `variation_theme` varchar(100) CHARACTER SET utf8 DEFAULT NULL COMMENT '变体主题',
   `variation_node` varchar(100) CHARACTER SET utf8 DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=7 ;
+
+--
+-- 转存表中的数据 `products`
+--
+
+INSERT INTO `products` (`id`, `title`, `keywords`, `keypoints`, `description`, `abbr_en`, `abbr_cn`, `ASIN`, `SKU`, `images`, `main_image_id`, `product_count`, `perpackage_count`, `review_status`, `appear_status`, `amazon_status`, `security_status`, `product_level`, `brand`, `label`, `developer`, `artist`, `manufacturer`, `manufacturer_id`, `origin_place`, `catalog_number`, `amazon_category_id`, `category_local`, `amazon_node_path`, `amazon_nodeId`, `customs_hscode`, `customs_price`, `package_weight`, `package_length`, `package_width`, `package_height`, `package_remark`, `supplier_id`, `item_serial_number`, `resource_url`, `supply_remark`, `design_for_id`, `matel_type_id`, `package_material_type`, `jewel_type_id`, `ringsize`, `number_of_items`, `package_quantity`, `part_number`, `product_group`, `product_type_name`, `publisher`, `studio`, `color`, `binding`, `is_adult_product`, `is_memorabilia`, `material_type`, `weight`, `small_image`, `price`, `currency`, `distribution_price`, `is_distribution`, `fixed_shipping`, `international_shipping_id`, `variation_theme`, `variation_node`) VALUES
+(6, 'title', 'product', '', '', '', '', '6090810260903', 'LAMAZON-8F7B714F', '23|22|25|24', 0, 0, 2, 1, 1, 1, 1, 1, 'lightlamp', NULL, '0', '0', 'lightlamp', 'lightlam', 'lightlamp', '', 230, '家/床浴', '厨房和家庭/浴室/浴室配件/浴帘及配件', '3273900031', '10020010', 0.000, 0.000, 0.000, 0.000, 0.000, NULL, 0, '', '', '', 0, 0, '', 0, '', 1, 1, NULL, 'unknown', 'unknown', NULL, NULL, NULL, NULL, 'false', 'false', '', NULL, NULL, 44444.000, '人民币', 0.000, 0, 55.00, 0, 'Size', '');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
