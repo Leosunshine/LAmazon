@@ -444,4 +444,96 @@ class CommandController extends ControllerBase
 
 		file_put_contents($filename, json_encode($contents, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE));
 	}
+
+	public function importProductsAction(){
+		echo "<pre/>";
+		$product_content = file_get_contents("./temp/product_back_online.json");
+		$product_content = json_decode($product_content,true);
+
+		$skip_fields = array("images","variations","id","variation_node");
+
+		foreach ($product_content as $pid => $product) {
+			$SKU = $product["SKU"];
+			$product_instance = Products::findFirst(array(
+				"SKU = :Product_sku:",
+				"bind"=>array("Product_sku"=>$SKU)
+			));
+
+			if(!$product_instance){
+				$product_instance = new Products();
+			}
+
+			foreach ($product as $field => $value) {
+				if(in_array($field, $skip_fields)) continue;
+				
+				if(array_key_exists($field, $product_instance)){
+					$product_instance->$field = $value;
+				}
+			}
+
+			$product_instance->save();
+			$product_id = $product_instance->id;
+			echo $product_instance->id."<br/>";
+
+			//处理图象
+			$images = $product["images"];
+			$images_id_map = array();
+			$image_field = array();
+			foreach ($images as $id => $image) {
+				$guid = $image["guid"];
+				$imageUrl = ImageUrls::findFirst(array(
+					"guid = :guid:",
+					"bind"=>array("guid"=>$guid)
+				));
+				if(!$imageUrl)	$imageUrl = new ImageUrls();
+
+				$imageUrl->guid = $guid;
+				$imageUrl->file_name = $image["file_name"];
+				$imageUrl->url = $image["url"];
+				$imageUrl->state = $image["state"];
+
+				$imageUrl->save();
+				$image_field[] = $imageUrl->id;
+				$images_id_map[$image["id"]] = $imageUrl->id;
+			}
+
+			$image_field = implode("|", $image_field);
+
+			$variations = $product["variations"];
+			$variation_field = array();
+			foreach ($variations as $id => $variation) {
+				$va_SKU = $variation["SKU"];
+				$variation_instance = Variation::findFirst(array(
+					"SKU = :va_sku:",
+					"bind"=>array("va_sku"=>$va_SKU)
+				));
+
+				if(!$variation_instance) $variation_instance = new Variation();
+
+				foreach ($variation as $va_field => $value) {
+					if($va_field === "id") continue;
+					if($va_field === "product_id") continue;
+					if($va_field === "images") continue;
+					if(array_key_exists($va_field, $variation_instance)){
+						$variation_instance->$va_field = $value;
+					}
+					$variation_instance->product_id = $product_id;
+				}
+
+				$va_images = $variation["images"];
+				$va_images = explode("|", $va_images);
+				foreach ($va_images as $key => $va_image) {
+					$va_images[$key] = $images_id_map[$va_images];
+				}
+				$va_images = implode("|", $va_images);
+				$variation_instance->images = $va_images;
+				$variation_instance->save();
+				$variation_field[] = $variation_instance->id;
+			}
+			$variation_field = implode("|", $variation_field);
+			$product_instance->images = $image_field;
+			$product_instance->variation_node = $variation_field;
+			$product_instance->save();
+		}
+	}
 }
